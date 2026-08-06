@@ -1,0 +1,34 @@
+# ───────────────────────────────────────────────
+#  .gitignore del vault de Obsidian — Pilar / Pilita
+# ───────────────────────────────────────────────
+
+# --- Obsidian: estado volátil por dispositivo (da conflictos, no aporta) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# --- SEGURIDAD: nunca subir secretos ni credenciales ---
+*config*.json
+*.env
+.env
+.env.*
+*secret*
+*credential*
+*password*
+*token*
+*.key
+*.pem
+*.pfx
+
+# --- Carpetas para material sensible (si las creas, quedan fuera del repo) ---
+/Privado/
+/_secretos/
+/Datos personales/
