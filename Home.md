@@ -9,7 +9,7 @@
 - **00 Bandeja** — captura rápida, sin clasificar. Vacíala en el repaso semanal.
 - **01 Diario** — notas diarias (hoy: [[2026-07-20]]).
 - **02 Proyectos** — cosas con fecha de fin.
-- **03 Áreas** — responsabilidades continuas: Equipo · Producto · Docencia · DWH.
+- **03 Áreas** — responsabilidades continuas: [[Equipo (Área)]] · [[Producto (Área)]] · [[Docencia (Área)]] · [[DWH-Vertica (Área)]].
 - **04 Recursos** — conocimiento por interés: Ing. de Requisitos · Scrum · técnicas…
 - **05 Archivo** — cerrado / inactivo.
 - **99 Plantillas** — plantillas reutilizables.
