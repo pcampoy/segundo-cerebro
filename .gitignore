@@ -20,13 +20,22 @@ ehthumbs.db
 *.env
 .env
 .env.*
-*secret*
 *credential*
 *password*
 *token*
 *.key
 *.pem
 *.pfx
+
+# OJO con "secret": en Windows core.ignorecase=true, así que un patrón *secret*
+# se traga cualquier nota que mencione "Secretaría" y deja de respaldarla en
+# silencio. Por eso aquí sólo se excluyen ficheros de secretos de verdad.
+*.secret
+*.secrets
+secret.*
+secrets.*
+*.secret.*
+*.secrets.*
 
 # --- Carpetas para material sensible (si las creas, quedan fuera del repo) ---
 /Privado/
