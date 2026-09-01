@@ -38,6 +38,7 @@ tags:
 - Seguir con el módulo de Sustituciones de la aplicación de Gestión de la propuesta docente
 - Una vez que se reasignen tareas Pablo estará de apoyo con el equipo.
 - Queda pendiente también hasta diciembre dentro de la gestión de la docencia la integración con Jira para las solicitudes docentes
+- Seguramente echará una mano a Jesús con las aplicación de Mis notas y con Alfresco
 
 **🔗 Enlaces**
 - 📌 Tablero del sprint (Jira): [[https://ucam.atlassian.net/jira/software/c/projects/ED/boards/3]]
@@ -62,7 +63,11 @@ tags:
 - 
 
 ## 📌 Mis pendientes (no del equipo)
-- [ ] 
+- [ ] Mandar correo a Isaac
+- [ ] Mandar correo a Educación
+- [ ] Nuevo DPO para equipo
+- [ ] Cronogramas de proyectos a corto plazo
+
 
 ## 🔗 A Jira (si sale trabajo nuevo)
 - 
