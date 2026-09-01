@@ -31,9 +31,13 @@ tags:
 - Modificar bot de Learning agreement. Juanma lo hizo en verano. Parece que ya funciona.
 - Una vez que mandemos mail a la Facultad de Educación ver cronograma de trabajo.
 - Ver incidencias de Recos en el chat de zoom
+- Pendiente por parte de Profesorado los ámbitos de conocimiento. Se habló con María Mendoza. Hay que ordenar estos ámbitos. Seguramente no de tiempo 
 
-## - Juanma:
-- 
+## - Pablo:
+- Ver problema de pérdida de horas asignadas a docentes en la aplicación de Gestión de la Docencia. Este verano desaparecieron unas 10.000 horas de docencia de la propuesta docente del curso 26/27
+- Seguir con el módulo de Sustituciones de la aplicación de Gestión de la propuesta docente
+- Una vez que se reasignen tareas Pablo estará de apoyo con el equipo.
+- Queda pendiente también hasta diciembre dentro de la gestión de la docencia la integración con Jira para las solicitudes docentes
 
 **🔗 Enlaces**
 - 📌 Tablero del sprint (Jira): [[https://ucam.atlassian.net/jira/software/c/projects/ED/boards/3]]
