@@ -25,22 +25,28 @@ tags:
 - Incorporar comités a Exención (ya lo ha hecho Paco y ha mandado correo)
 - Proyecto de Asistencia y migración de base de datos de Datio: Se migró de versión 5 a 8. Adrián puesto tarea en Jira para estar al tanto por si hay problemas.
 
-## - Paco:
+## - Juanma:
+- Carga campus Juan Pablo II : para ello Isaac nos tendrá que dar acceso como admin a Alejandro, Juanma y a mí. Se le ha comunicado a Isaac (Isaac es el Director del campus virtual).
+- Modificar Acceso de los alumnos de proctoring
+- Modificar bot de Learning agreement. Juanma lo hizo en verano. Parece que ya funciona.
+- Una vez que mandemos mail a la Facultad de Educación ver cronograma de trabajo.
+- Ver incidencias de Recos en el chat de zoom
+
+## - Juanma:
+- 
 
 **🔗 Enlaces**
-- 📄 Notas (Google Doc): https://docs.google.com/document/d/13tmwcoISoVv-fUAKeHPUp4PwhGK6ui5rek0Ho_x99hg/edit
-- 📌 Tablero del sprint (Jira): *(pegar enlace)*
+- 📌 Tablero del sprint (Jira): [[https://ucam.atlassian.net/jira/software/c/projects/ED/boards/3]]
 - Área: [[Equipo (Área)]]
-- Día: [[2026-09-01
+- Día: [[2026-09-01]]
 
 ## 🎯 Agenda / Objetivo
-- Estado del sprint actual: ¿llegamos al objetivo?
-- Avances desde el último seguimiento
-- Bloqueos y riesgos
+- Reunión inicial tras período de verano
+- Ordenar proyectos, ver fechas acordadas de entrega
 - Ajustes de alcance / reprioridad
 
 ## 📊 Estado del sprint
-- 
+- Inicio de Sprint
 
 ## 🚧 Bloqueos / riesgos
 - 
