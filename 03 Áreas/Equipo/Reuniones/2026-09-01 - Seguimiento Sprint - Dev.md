@@ -18,8 +18,14 @@ tags:
 
 ## - Paco:
 - Comprobar volcados a Laurea, caso de los erasmus: en julio no estaban matriculados pero ahora puede que si. Lanzar de nuevo el bot cada día para ver si se vuelcan a Laurea. Al final de cada semana mandar correo a Ana indicando los Erasmus pendientes
-- Gestión de la docencia- Módulo de investigadores: 
+- Gestión de la docencia- Módulo de investigadores: subir prototipos, completando información que ya tengamos accesible como por ejemplo planes de estudio, curso, tipo de contrato, nombre y apellido del investigador..., y tras reunión con Investigación. La documentación se encuentra en Confluence:
+ [[https://ucam.atlassian.net/wiki/spaces/GD/pages/1014693889/Prototipos]]
+ [[https://ucam.atlassian.net/wiki/spaces/GD/pages/1054015491/Requisitos+de+usuario+M+dulo+Gesti+n+de+Investigadores]]
+ 
+- Incorporar comités a Exención (ya lo ha hecho Paco y ha mandado correo)
+- Proyecto de Asistencia y migración de base de datos de Datio: Se migró de versión 5 a 8. Adrián puesto tarea en Jira para estar al tanto por si hay problemas.
 
+## - Paco:
 
 **🔗 Enlaces**
 - 📄 Notas (Google Doc): https://docs.google.com/document/d/13tmwcoISoVv-fUAKeHPUp4PwhGK6ui5rek0Ho_x99hg/edit
