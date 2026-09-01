@@ -14,6 +14,13 @@ tags:
 **👥 Asistentes:** Pilar + Equipo de desarrollo (Dev)
 
 
+## 🎯 Tareas para sprint
+
+## - Paco:
+- Comprobar volcados a Laurea, caso de los erasmus: en julio no estaban matriculados pero ahora puede que si. Lanzar de nuevo el bot cada día para ver si se vuelcan a Laurea. Al final de cada semana mandar correo a Ana indicando los Erasmus pendientes
+- Gestión de la docencia- Módulo de investigadores: 
+
+
 **🔗 Enlaces**
 - 📄 Notas (Google Doc): https://docs.google.com/document/d/13tmwcoISoVv-fUAKeHPUp4PwhGK6ui5rek0Ho_x99hg/edit
 - 📌 Tablero del sprint (Jira): *(pegar enlace)*
