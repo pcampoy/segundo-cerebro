@@ -1,12 +1,16 @@
 ---
 tipo: reunión
-fecha: 2026-09-02
-hora: 09:30–11:00
-tags: [reunión, sprint, equipo, dev]
+fecha: 2026-09-01
+hora: 10:00–11:15
+tags:
+  - reunión
+  - sprint
+  - equipo
+  - dev
 ---
 # 🔁 Seguimiento Sprint - Dev (02/09/2026)
 
-**📅 Fecha:** miércoles 2 sept 2026 · 09:30–11:00 (Europe/Madrid)
+**📅 Fecha:** miércoles 1 sept 2026 · 09:30–11:00 (Europe/Madrid)
 **👥 Asistentes:** Pilar + Equipo de desarrollo (Dev)
 **📍 Meet:** https://meet.google.com/ueg-mjbb-oet
 
