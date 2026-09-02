@@ -5,7 +5,7 @@ tags: [MOC, panel]
 
 > Vista transversal de lo que tienes en marcha. Montado con Pilita a partir de tu Diario (2026-09-01).
 
-## 🔥 Para hoy — extraído y ordenado de [[2026-09-01]]
+## 🔥 Para hoy — extraído y ordenado de [[01-09-2026]]
 
 ### ✉️ Correos a enviar
 - [ ] **Adrián** — permisos de Jira de nueva alta de Secretaría
@@ -32,13 +32,13 @@ tags: [MOC, panel]
 - [ ] Tener en cuenta migraciones de **Alfresco**
 
 ## 🧵 Hilos que cruzan varios días
-- 🔒 **Protocolo / Seguridad** — captura del [[2026-08-31]] · [[Seguridad (Proyecto)]] · [[Revisión de seguridad - Protocolo]] · pendiente con Alejandro
+- 🔒 **Protocolo / Seguridad** — captura del [[31-08-2026]] · [[Seguridad (Proyecto)]] · [[Revisión de seguridad - Protocolo]] · pendiente con Alejandro
 - 👤 **Con Alejandro** — securización Protocolo + integración usuarios biblioteca *(agrupar para la próxima charla)*
 - 🎫 **Incidencias Sigma** — 305384 ↔ 296861
 
 ## ✅ Cerrado recientemente
-- Enfermería → Laurea: sin pendientes salvo erasmus sin matricular (Paco, bot diario) — [[2026-09-01]]
-- Volcadas comisiones de exención 25-26 → 26-27 — [[2026-09-01]]
+- Enfermería → Laurea: sin pendientes salvo erasmus sin matricular (Paco, bot diario) — [[01-09-2026]]
+- Volcadas comisiones de exención 25-26 → 26-27 — [[01-09-2026]]
 
 ## 🗂️ Áreas y proyectos vivos
 - **Áreas:** [[Equipo (Área)]] · [[Producto (Área)]] · [[Docencia (Área)]] · [[DWH-Vertica (Área)]]

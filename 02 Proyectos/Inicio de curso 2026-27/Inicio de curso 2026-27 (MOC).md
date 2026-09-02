@@ -23,4 +23,4 @@ tags: [proyecto, inicio-curso]
 - [ ] Completar [[Listado Secretaría adaptaciones]].
 
 ## 💡 Kaizen / aprendizajes
-- [[2026-07-20]]
+- [[20-07-2026]]

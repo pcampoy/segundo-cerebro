@@ -5,5 +5,5 @@ SI SE ACTUALIZAN PROFESORES.
 [[Inicio de curso Campus Virtual]]
 
 ## Ejemplos Kaizen
-[[2026-07-20]]
+[[20-07-2026]]
 [[Inicio de curso Campus Virtual]]

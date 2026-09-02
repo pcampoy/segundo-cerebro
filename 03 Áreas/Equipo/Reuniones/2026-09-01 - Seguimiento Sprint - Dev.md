@@ -43,7 +43,7 @@ tags:
 **🔗 Enlaces**
 - 📌 Tablero del sprint (Jira): [[https://ucam.atlassian.net/jira/software/c/projects/ED/boards/3]]
 - Área: [[Equipo (Área)]]
-- Día: [[2026-09-01]]
+- Día: [[01-09-2026]]
 
 ## 🎯 Agenda / Objetivo
 - Reunión inicial tras período de verano

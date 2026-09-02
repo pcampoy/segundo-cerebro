@@ -7,7 +7,7 @@
 
 ## 🗂️ Estructura (método PARA)
 - **00 Bandeja** — captura rápida, sin clasificar. Vacíala en el repaso semanal.
-- **01 Diario** — notas diarias (hoy: [[2026-07-20]]).
+- **01 Diario** — notas diarias (hoy: [[20-07-2026]]).
 - **02 Proyectos** — cosas con fecha de fin.
 - **03 Áreas** — responsabilidades continuas: [[Equipo (Área)]] · [[Producto (Área)]] · [[Docencia (Área)]] · [[DWH-Vertica (Área)]].
 - **04 Recursos** — conocimiento por interés: Ing. de Requisitos · Scrum · técnicas…
