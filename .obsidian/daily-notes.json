@@ -1,5 +1,5 @@
 {
   "folder": "01 Diario",
   "template": "99 Plantillas/Plantilla - Nota diaria",
-  "format": "YYYY-MM-DD"
+  "format": "DD-MM-YYYY"
 }
