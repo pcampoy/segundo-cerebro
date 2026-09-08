@@ -3,13 +3,19 @@ tipo: entregable
 fecha: 2026-09-08
 destinatario: María Mendoza García
 proyecto: Gestión de la Docencia (GD)
-estado: borrador — pendiente de revisión de Pilar
+estado: BLOQUEADO — a rehacer tras ajustar y etiquetar Jira (decidido 08/09)
 tags: [producto, gestion-docencia, summary]
 ---
 # Summary para María Mendoza — Gestión de la Docencia
 
 > **Registro:** ejecutivo. Sin claves de Jira, sin nombres de tecnologías, sin carga de trabajo
 > del equipo. Una página. Ver `_privado\Gerencia UCAM - quien es quien.md`.
+>
+> 🛑 **NO ENVIAR TODAVÍA.** El 08/09 se decidió rehacerlo **después** de repasar las tareas de
+> Jira y mejorar el etiquetado. Motivo: la revisión del proyecto destapó que el bloque de Ámbitos
+> de conocimiento de este borrador es **incompleto** — dice que espera criterio de Profesorado, y
+> además falta que el módulo entre en un sprint (no tiene ni epic). Ver
+> [[2026-09-08 - Revisión del proyecto Gestión de la Docencia]].
 >
 > ⚠️ **Borrador.** Lo que sale de Jira y Confluence es fiable; **la descripción funcional la he
 > reconstruido de la documentación y de tus notas**, así que revisa sobre todo el bloque

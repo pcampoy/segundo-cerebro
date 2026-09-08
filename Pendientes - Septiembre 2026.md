@@ -52,6 +52,29 @@ tags: [panel, pendientes, septiembre]
 - [x] **Educación** — retomar reuniones *(María Dolores ya convocó: Prácticas 26-27, jue 10 a las 9:30)*
 - [x] **Tramita** y **Laurea** *(enviado 03/09)*
 
+## 🗂️ Gestión de la Docencia — antes del summary para María Mendoza
+
+> Orden decidido el 08/09: **primero Jira, luego etiquetas, luego el summary.** Sin el tablero
+> ajustado, el summary se apoyaría en datos que no son.
+> Base ya hecha: [[2026-09-08 - Revisión del proyecto Gestión de la Docencia]].
+
+- [ ] **1. Repasar las tareas de `GD` en Jira** y ajustar lo hecho y lo no hecho
+- [ ] **2. Ver con Pilita la convención de etiquetado** — proyectos, módulos y documentación de
+      Confluence, para poder cruzar Jira ↔ Confluence sin adivinar. **Decidirla antes de empezar
+      a etiquetar**: sale más barato acordarla una vez que renombrar doscientas tareas dos veces.
+      Contexto de por qué hace falta: hoy hubo que deducir que `GD-572`…`GD-592` son de
+      Investigadores por el prefijo del título, y que Ámbitos no existe en Jira a base de
+      búsquedas de texto
+- [ ] **2b. Aplicar el etiquetado** a epics y tareas de `GD` una vez acordado
+- [ ] **3. Decidir Ámbitos de conocimiento y Conferenciantes:** ¿se retoman o se aparcan
+      formalmente? Ámbitos tenía lanzamiento previsto el **31/05/2026** y sigue sin epic. Su
+      cliente es **RRHH**, el área de María Mendoza
+- [ ] **4. Rehacer el summary para María Mendoza** → [[2026-09-08 - Summary Gestión de la Docencia (María Mendoza)]]
+      *(el borrador actual dice que Ámbitos "espera criterio de Profesorado", y eso es incompleto:
+      también falta que entre en un sprint)*
+- [ ] **5. Actualizar el Cronograma en Confluence** y poner un índice en el Home del espacio
+      *(hoy es la plantilla por defecto de abril de 2024)*
+
 ## 📌 Gestión de equipo (tú)
 - [ ] Reasignación de tareas del sprint
 - [ ] Rehacer **DPO** del equipo
