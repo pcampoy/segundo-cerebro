@@ -10,6 +10,9 @@ tags: [panel, pendientes, septiembre]
 > **Última revisión:** 2026-09-08
 
 ## 🔴 Prioritario / vigilar
+
+- [ ] **Fichero de estudios de los padres para el Ranking — esta semana (viernes 11).** Lo pide
+      Tomás Campoy, con correo y ticket de soporte. Detalle abajo, en *Datos, sistemas & licencias*
 - [ ] **~10.000 horas de docencia desaparecidas** del curso 26/27 — investiga **Pablo** *(riesgo alto)*
 - [ ] 🚨 **Seguridad Protocolo** (H-1…H-4) — certificado caducado el 04/09; *visto con Sistemas el 07/09*, pero **H-1 sigue abierto** hasta que el certificado esté renovado y confirmado por Protocolo → [[Seguridad (Proyecto)]] · [[Revisión de seguridad - Protocolo]]
 - [ ] ⚠️ **Viernes 11 = último día hábil del sprint** (el 14 no es lectivo y el 15 es festivo). Decidir antes del viernes qué **no** va a llegar; el cierre se hará el **miércoles 16**, junto con la planificación → [[2026-09-08 - Seguimiento Sprint - Dev]]
@@ -108,7 +111,13 @@ tags: [panel, pendientes, septiembre]
 ## 🗄️ Datos, sistemas & licencias
 - [ ] **Datio** (Asistencia): migración BD v5→v8, vigilar por si hay problemas (tarea Jira de Adrián) — Paco
 - [ ] Migraciones de **Alfresco** (tenerlo en cuenta)
-- [ ] **Ranking**: datos de nivel de estudios de los padres (DWH/Vertica)
+- [ ] 🔴 **Ranking — fichero de datos de nivel de estudios de los padres** · **para esta semana
+      (viernes 11)**
+      - Lo pide **Tomás Campoy**: mandó correo y **hay un ticket de soporte abierto**
+      - Sale del **DWH / Vertica** → [[DWH-Vertica (Área)]]
+      - ⚠️ **Falta localizar la clave del ticket.** No aparece buscando por "ranking", "nivel de
+        estudios" ni entre los tickets creados por Tomás este mes. Buscarlo en el correo suyo o
+        preguntárselo
 - [ ] **Licencias iText** — revisar versiones `com.itextpdf` por repo: actualizar `certificadosws` (7.1.1→8.x), **borrar** `tfg-tfm`, revisar `tfgtfm`/`documentacion-secretaria` (5.5.8), `cuadernodoctorado` (5.0.6)
 - [ ] **Multisede**: adaptar aplicaciones a Madrid, Málaga y futuras sedes
 
