@@ -17,6 +17,10 @@ tags: [reunión, requisitos, laurea, planes-de-estudio]
 > **Título en Zoom:** *Criterios de Implantación de Modificaciones en Titulaciones Académicas*
 > Presencial en Dirección de Calidad + Meet · convocada esa misma mañana con 2 h 30 de aviso.
 >
+> 🔄 **Actualización del 08/09:** el **Máster en Innovación y Marketing Turístico se retira** —
+> la responsable pospone la implantación al curso 27/28. Queda **solo el Máster en Marketing y
+> Comunicación**, así que el volumen baja de ~77 expedientes a ~51.
+>
 > ⚠️ Zoom anonimiza a los hablantes ("Speaker N"), así que **la atribución de intervenciones
 > concretas a personas no es fiable** más allá de quien convoca. Lo que sigue va por **roles**.
 
@@ -49,15 +53,15 @@ pueden absorber los servicios. Había dos titulaciones esperando la decisión.
 | **CAFD / ETAP** (cambian menciones, créditos, denominaciones y semestres) | ❌ **No se implanta** este curso. Debe tramitar modificación para prorrogar la implantación |
 | **Educación Infantil** (llega en septiembre) | ❌ **No** — el 1 de julio ya pasó |
 | **Máster en Marketing y Comunicación** (prácticas de obligatorias a optativas) | ✅ **Sí, condicionado** |
-| **Máster en Innovación y Marketing Turístico** | ✅ **Sí, condicionado** |
+| **Máster en Innovación y Marketing Turístico** | 🔄 **Retirado (08/09)** — la responsable del título ha decidido **posponer la implantación al curso 27/28** (lo comunicó Antonia por correo) |
 
 **Las condiciones para los dos másteres:**
 - La **docencia no empieza hasta el 1 de noviembre**.
 - **Matrícula parada del 10 al 30 de octubre** para hacer anulación → adaptación → nueva matrícula
   (después del 10 para que las cuotas ya estén cobradas).
 - El título debe **aceptar por escrito**; si no acepta, se cancela y tramita prórroga.
-- Volumen a rehacer: **51 matrículas** (Marketing y Comunicación, castellano + inglés) **+ 26**
-  (Innovación) ≈ **77 expedientes** a mano.
+- Volumen a rehacer: **~51 matrículas** (Marketing y Comunicación, castellano + inglés).
+  *Actualizado el 08/09: eran ~77 contando los 26 de Innovación, pero ese título se ha retirado.*
 - El **código nuevo cuanto antes**, para que los de nuevo ingreso entren ya apuntando al plan
   nuevo desde el portal de admisión. **La oferta del plan viejo se mantiene** hasta que se muevan
   los expedientes.
