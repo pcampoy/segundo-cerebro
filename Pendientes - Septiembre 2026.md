@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[08-09-2026]].
-> **Última revisión:** 2026-09-08
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[09-09-2026]].
+> **Última revisión:** 2026-09-09
 
 ## 🔴 Prioritario / vigilar
 
@@ -17,17 +17,39 @@ tags: [panel, pendientes, septiembre]
 - [ ] 🚨 **Seguridad Protocolo** (H-1…H-4) — certificado caducado el 04/09; *visto con Sistemas el 07/09*, pero **H-1 sigue abierto** hasta que el certificado esté renovado y confirmado por Protocolo → [[Seguridad (Proyecto)]] · [[Revisión de seguridad - Protocolo]]
 - [ ] ⚠️ **Viernes 11 = último día hábil del sprint** (el 14 no es lectivo y el 15 es festivo). Decidir antes del viernes qué **no** va a llegar; el cierre se hará el **miércoles 16**, junto con la planificación → [[2026-09-08 - Seguimiento Sprint - Dev]]
 
+## 🆕 Novedades del 09/09 (del correo)
+- [ ] 📝 **Exámenes parciales de 3º · 1er cuatrimestre presencial** — Baldomero Imbernón (09/09,
+      Coordinador de Ordenación Académica de la EPS) ha abierto la hoja compartida: hay que fijar la
+      **fecha del parcial de Ingeniería de Requisitos y la entrega de prácticas**. Ventana
+      **22/10 → 17/11**, **máximo dos exámenes por semana** en el mismo curso, y pide coordinar las
+      asignaturas de 3º entre sí → quien antes lo pone, elige hueco → [[Docencia (Área)]]
+- [ ] 🎓 **Líderes Digitales Universitarios 2026** — Beatriz Ayuso reenvía (08/09) la convocatoria
+      para animar a alumnos con perfil adecuado. Sin fecha límite en el correo; buen momento para
+      proponerlo en clase esta semana, con 3º recién empezado
+- [ ] 🔴 **Accesos de personal de Madrid y Málaga — bloqueo de gobernanza, no técnico.** Paco de
+      Pascual confirma (08/09) que **RRHH no tiene instrucciones** para volcar a Laurea al PDI ni al
+      PAS de esas sedes: solo lo hacen con el PAS de la fundación. Le preguntaste **quién debe dar
+      la instrucción** y sigue sin respuesta → **escalar a Miguel Ángel**, porque bloquea
+      **Multisede** y la solución no está en nuestras manos
+- [ ] **Ester Illas · sincronizaciones pendientes** — le dijiste que el **punto 1** lo verías con
+      Alejandro **para el día 9** *(hoy)*; el punto 2 te lo amplió a final de semana para poder
+      probar entre lunes y miércoles de la semana que viene. Reenviado a Alejandro Sánchez el 08/09
+- [x] 📄 **RD 905/2025 · modalidad de impartición** — **contestado a Alicia Cano** *(08/09, 18:04:
+      hay que estudiarlo con Adrián y, si es viable, no es a corto plazo — primer cuatrimestre de
+      2027 como pronto)*. Queda pendiente **abrir el ticket** para que entre en planificación
+
 ## 🆕 Novedades del 07–08/09 (del correo)
 - [ ] 🎥 **Videoconferencias GII Online** — Andrés Bueno ha mandado (08/09) la hoja para mecanizar el **primer semestre**: hay que meter tus 12 sesiones de miércoles 16:00–17:00 desde el 23/09. La última semana de diciembre solo tiene **lun 21 y mar 22**
-- [ ] 📄 **RD 905/2025 · modalidad de impartición en los títulos** — Alicia Cano (07/09, sin respuesta): obligatorio desde 26/27, SIGMA ya tiene el campo en la cabecera del plan, y piden **mecanizarlo con el Bot** a partir de un Excel (todos los planes, vigentes y no vigentes). Es normativo → entra con ticket, no de palabra
+- [x] 📄 **RD 905/2025 · modalidad de impartición en los títulos** — Alicia Cano (07/09): obligatorio desde 26/27, SIGMA ya tiene el campo en la cabecera del plan, y piden **mecanizarlo con el Bot** a partir de un Excel (todos los planes, vigentes y no vigentes) *(contestado el 08/09; sigue faltando el ticket)*
 - [ ] **Prado JS · mapa docente** — Ana Mª Lorente (07/09, sin respuesta): ¿se descarga ella el mapa desde la app? ¿puede bajar el de la oferta privada con las plazas ocupadas restadas?
 - [ ] 🧾 **iText / Apryse** — reunión **mar 22/09 12:00–12:30 (Teams)**, la convoca Adrián, y pregunta quién va y si acude legal. A **Sigma se le ha dado esta semana** para manifestarse sobre la Ref. 306886; si no, el coste va para ellos. Tangram ya tiene ticket abierto (lo lleva Jesús) → [[Licencias iText]]
 - [ ] ⚠️ **Fathom** — un bot de IA se metió en la *Reunión de responsables* del lunes antes de que llegara Pilar y ha enviado recap por correo. Con los notetakers externos vetados, **quitarle acceso al calendario y a Zoom**
 - [ ] **TICAM-12692** — cambio de conexión de BD de asistenciaDatio: 4 comentarios el 07/09 (Paco Torrecillas). Engancha con la migración **Datio v5→v8**
 - [ ] **TICAM-13293** — mención de Jose Giménez: permisos del esquema de reconocimiento
-- [ ] 📮 **Correo rebotado** (08/09, 10:40) — dirección de destino inexistente: comprobar a quién había que escribir
+- [ ] 📮 **Correo rebotado** (08/09, 10:40) — iba a **`jsanz9@…`**, que no existe (error 550). Ya se
+      sabe el destinatario fallido; queda comprobar a quién querías escribir de verdad
 - [ ] 📌 **Qualtrics/IZO** — invitación actualizada (08/09) con agenda: **mié 30/09, 09:00–14:00**, presencial. Mañana completa bloqueada
-- [ ] 🕓 **Reunión a medio procesar** — [[2026-09-04 - Criterios de implantación de modificaciones de planes]] en `estado: acta` desde hace 4 días: o salen requisitos (`/reunion-requisitos`) o se cierra
+- [ ] 🕓 **Reunión a medio procesar** — [[2026-09-04 - Criterios de implantación de modificaciones de planes]] en `estado: acta` desde hace **5 días**: o salen requisitos (`/reunion-requisitos`) o se cierra
 - [x] 🎓 **Horario de docencia 26-27 confirmado por Secretaría** *(08/09: presencial L 11:00–12:30 y V 8:30–10:30; online mié 16:00–17:00 desde el 23/09)* → ⚠️ la serie de los lunes **no está en el calendario**, crearla desde el **lun 21**
 - [x] 🚨 **Certificado caducado en Protocolo** *(visto con Sistemas el 07/09)*
 - [x] **Valoración Profesorado 25-26** *(contestado a Salvador el 07/09)*
@@ -45,8 +67,8 @@ tags: [panel, pendientes, septiembre]
 - 📌 **Peregrinación al Cristo de Monteagudo**: lun 14, 8:15–14:00 (inscripción hecha) → mañana bloqueada
 
 ## ✉️ Correos a enviar (tú)
-- [ ] **Alicia Cano** — modalidad de impartición (RD 905/2025): pedir el Excel de planes y confirmar viabilidad del Bot *(borrador en [[08-09-2026]])*
-- [ ] **Ana Mª Lorente** — Prado JS: descarga del mapa docente y oferta privada con plazas restadas *(borrador en [[08-09-2026]])*
+- [x] **Alicia Cano** — modalidad de impartición (RD 905/2025) *(contestado el 08/09 a las 18:04)*
+- [ ] **Ana Mª Lorente** — Prado JS: descarga del mapa docente y oferta privada con plazas restadas *(borrador en [[09-09-2026]]; tercer día sin respuesta)*
 - [ ] **Adrián** — Apryse/iText del 22/09: quién va, si acude legal y qué se les comunica
 - [ ] **Isaac** — acceso admin para carga de JPII (Alejandro, Juanma y tú)
 - [ ] **Alejandro** — reunión Seguridad Protocolo + usuarios biblioteca + conflicto del viernes 11 *(agrupar todo)*
@@ -90,6 +112,8 @@ tags: [panel, pendientes, septiembre]
 - [ ] Fijar fecha de reunión con **Protocolo** para definir procesos
 
 ## 🎓 Docencia & inicio de curso
+- [ ] 📝 **Fijar el parcial de Ingeniería de Requisitos (presencial) y la entrega de prácticas** en la
+      hoja de coordinación de 3º: ventana **22/10 → 17/11**, máx. 2 exámenes por semana en el curso
 - [ ] 🎥 **Mecanizar tus videoconferencias del 1er semestre** en la hoja del claustro online (12 sesiones, mié 16:00–17:00 desde el 23/09; última semana de diciembre solo lun 21 y mar 22)
 - [ ] 📅 **Crear la serie de clase presencial de los lunes 11:00–12:30** en el calendario, **desde el lunes 21** (el 14 es no lectivo) → [[Festivos y no lectivos 26-27]]
 - [ ] **Inicio de curso 26-27**: reunión (Alejandro+Juanma+tú) para revisar logs de la carga del 17/08 · completar [[Listado Secretaría adaptaciones]] → [[Inicio de curso 2026-27 (MOC)]]
@@ -120,6 +144,8 @@ tags: [panel, pendientes, septiembre]
         preguntárselo
 - [ ] **Licencias iText** — revisar versiones `com.itextpdf` por repo: actualizar `certificadosws` (7.1.1→8.x), **borrar** `tfg-tfm`, revisar `tfgtfm`/`documentacion-secretaria` (5.5.8), `cuadernodoctorado` (5.0.6)
 - [ ] **Multisede**: adaptar aplicaciones a Madrid, Málaga y futuras sedes
+      - ⚠️ **Bloqueado por RRHH, no por desarrollo:** sin instrucción para volcar el PDI y el PAS de
+        esas sedes a Laurea, cada acceso se sigue dando a mano. Escalar a Miguel Ángel (ver arriba)
 
 ## 🎫 Incidencias & soporte
 - [ ] **Sigma** Ref. 305384 (↔ 296861)
@@ -132,7 +158,7 @@ tags: [panel, pendientes, septiembre]
 - [ ] `GES-192` Reunión para arquitectura de prácticas *(en curso)*
 - [ ] `MIG-29` Reunión equipo de migraciones Sigma
 - [ ] `ED-1814` Estudio Previo — Planificador de horarios y espacios
-- Los de service desk (TICAM/SUCAM), en [[JSM - Mis tickets]] — **sin cambios desde el 03/09** (revisado en Jira el 08/09: nada nuevo asignado a ti)
+- Los de service desk (TICAM/SUCAM), en [[JSM - Mis tickets]] — **sin cambios desde el 03/09** (revisado en Jira el 09/09: nada nuevo asignado a ti)
 
 ## 👥 Reparto del sprint → [[2026-09-01 - Seguimiento Sprint - Dev]]
 - **Paco:** Laurea/erasmus (bot diario + correo semanal a Ana) · Investigadores · Datio
@@ -140,10 +166,22 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 08/09)
-1. **Decide hoy si la reunión de mañana va en Zoom.** La convocas tú a las 10:00, es una propuesta de automatización con Educación y Enfermería delante, y en Meet **no hay forma de sacar acta**. Es la única de esta lista que caduca esta tarde: mañana ya no se puede montar.
-2. **Tempo, y ya vas con un día de retraso.** Tu planilla (37,5 h) y tres aprobaciones — Alejandro Aix, Paco y Pablo. Diez minutos que están frenando a tres personas del equipo.
-3. **Cierra el conflicto del viernes con Alejandro.** La clase de 8:30 no se mueve, así que sigues contando como "quizás" en una reunión a la que no vas a ir. Cuanto antes lo digas, mejor le cuadra a él la convocatoria.
-4. **Los dos correos que bloquean a otros departamentos:** Alicia (modalidad de impartición — es RD, no un favor) y Ana Mª Lorente (Prado JS, que hoy está abierto). Los dos llevan desde ayer y los dos se contestan en cinco minutos; borradores hechos en [[08-09-2026]].
-5. **Antes del viernes 11, di qué no llega.** Es el último día hábil del sprint aunque el calendario diga 15, y con `ED-2018` sin cerrar el reparto sigue torcido. Lo que no vaya a entrar, se mueve al sprint que se planifica el **miércoles 16**.
-6. **Las videoconferencias online del semestre** — la hoja llegó hoy y en cuanto se llene con los de todo el claustro, colocar tus 12 miércoles será pelear por huecos.
+## 💡 Sugerencia de foco (Pilita · 09/09)
+1. **La reunión de las 10:00 sigue en Meet.** Es tuya, es una captura de requisitos con Educación y
+   Enfermería delante, y el margen para moverla a Zoom se acaba a las 10:00. Es lo único de esta
+   lista que no admite "mañana": o la mueves, o asumes que hoy no hay acta y vas con la libreta.
+2. **Tempo, y ya van dos días.** Tu planilla (37,5 h) y tres aprobaciones — Alejandro Aix, Paco y
+   Pablo. Ayer eran diez minutos; hoy siguen siendo diez minutos, pero llevan 48 horas frenando a
+   tres personas del equipo. Hazlo antes de las 10:00, que después el día se te va.
+3. **Cierra el conflicto del viernes con Alejandro.** Confirmado en el calendario: sigues en
+   "quizás" en una reunión (09:30–10:30) a la que no vas a ir, porque tienes clase de 08:30 a 10:30.
+   Es viernes: si se lo dices hoy, todavía puede reorganizar; el jueves ya no.
+4. **Ana Mª Lorente lleva tres días esperando** una respuesta de cinco minutos, y Prado JS está
+   abierto justo ahora. Borrador hecho en [[09-09-2026]]; solo falta que Juanma o Alejandro Aix te
+   confirmen lo de las plazas restadas — y eso lo tienes a las 10:00 con Alejandro delante.
+5. **Las dos hojas compartidas, de una sentada.** Videoconferencias del 1er semestre y exámenes
+   parciales de 3º: las dos reparten huecos por orden de llegada y las dos son de tu docencia. Media
+   hora hoy vale más que dos horas de negociación en octubre.
+6. **Antes del viernes, di qué no llega.** Es el último día hábil del sprint aunque el calendario
+   marque el 15, y `ED-2018` sigue sin cerrarse. Lo que no vaya a entrar, se mueve al sprint que se
+   planifica el **miércoles 16** — pero se dice ahora, no el viernes a última hora.
