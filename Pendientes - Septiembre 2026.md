@@ -105,6 +105,13 @@ tags: [panel, pendientes, septiembre]
 - [ ] Rehacer **DPO** del equipo
 - [ ] **Cronograma** de proyectos (corto plazo / hasta diciembre) → [[Cronograma de proyectos (hasta dic 2026)]]
 - [ ] Seguir montando el segundo cerebro — Pilita
+- [ ] 🎙️ **Recuperar las transcripciones de Zoom del 09/09 y cerrar las dos actas.** Pilar lo pidió
+      para la próxima sesión. Las dos notas están en `estado: registro`, con el contenido en blanco:
+      - [[2026-09-09 - Ranking - dato de alumno de nuevo ingreso]] — Lola (Calidad/Ranking) y Tomás, 1 h
+      - [[2026-09-09 - SOIL - reunión con Dolo Saravia]] — 11:30–12:30
+      - Y sigue a medias, sexto día: [[2026-09-04 - Criterios de implantación de modificaciones de planes]]
+      - Con `/reunion-acta`. **Ojo:** solo se recupera lo de **reuniones de Zoom convocadas por
+        Pilar** — de estas dos no consta convocatoria, así que puede que no haya grabación
 
 ## 🔐 Seguridad Protocolo → [[Revisión de seguridad - Protocolo]]
 - [ ] H-1 Certificado TLS · H-2 Secreto de sesión · H-3 Contraseñas BD · H-4 Autologin
