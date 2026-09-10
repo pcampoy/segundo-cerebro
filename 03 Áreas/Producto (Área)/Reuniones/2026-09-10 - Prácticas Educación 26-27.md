@@ -38,8 +38,11 @@ las **restricciones de funcionamiento** para Grado y Máster antes de abrirla a 
 
 Se hará **un acto/evento para confirmar las fechas definitivas**.
 
-> ⚠️ **Ojo, aquí hay un desajuste sin resolver:** se habló del **25** como fecha de conexión con
-> los alumnos y del **28** como apertura. Habría que fijar cuál es la buena.
+> ⚠️ **Todas las fechas son de octubre** (confirmado por Pilar). Queda un desajuste por resolver:
+> se habló del **25** como día en que quiere poder conectar con los alumnos (*"el 10 todos
+> probando, para saber si el 25 me puedo conectar con los alumnos"*) y del **28** como fecha de
+> alumnos, después de bajar Prado el 27. Hay que fijar si el 25 es una conexión de prueba y el 28
+> la apertura real, o si una de las dos sustituye a la otra.
 
 Al margen: **Prado cierra el 29 de septiembre para grados y el 6 de octubre para el Máster de
 Profesorado** (hasta esa fecha los tutores aún pueden darse de alta para ofertarse).
@@ -229,15 +232,17 @@ Os paso mis notas de la reunión de esta mañana, sobre todo para que
 validemos las restricciones antes de que empecemos a configurar. Si me he
 dejado algo o he entendido mal alguna cosa, decídmelo y lo corrijo.
 
-Calendario que apunté:
+Calendario que apunté, todo en octubre:
 
 - 10 de octubre: la parte básica tiene que estar terminada, y ese día
   probamos todos.
+- 25 de octubre: fecha en la que quiero poder conectar ya con los alumnos.
 - 27 de octubre: descarga de Prado.
-- 28 de octubre: apertura para los alumnos.
+- 28 de octubre: fecha de alumnos.
 
-Una duda: hablamos también del 25 como fecha para conectar con los
-alumnos. ¿Nos quedamos con el 25 o con el 28?
+Una duda que me quedó: el 25 lo entendí como el día en que tenemos que
+poder conectar con los alumnos, y el 28 como la apertura después de bajar
+Prado el 27. ¿Es así, o una de las dos fechas sustituye a la otra?
 
 Restricciones y criterios que entendí, y que es lo que necesito que me
 confirméis por escrito:

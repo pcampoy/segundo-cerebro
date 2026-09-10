@@ -163,14 +163,14 @@ tags: [panel, pendientes, septiembre]
 - [ ] Rehacer **DPO** del equipo
 - [ ] **Cronograma** de proyectos (corto plazo / hasta diciembre) → [[Cronograma de proyectos (hasta dic 2026)]]
 - [ ] Seguir montando el segundo cerebro — Pilita
-- [ ] 🎙️ **Cerrar las actas pendientes.** Situación al 10/09 — hay **tres grabaciones de Zoom
-      listas y ninguna nota escrita**, más tres notas a medias:
-      - 🟢 **Con transcripción disponible** (`/reunion-acta` las saca):
+- [ ] 🎙️ **Cerrar las actas pendientes.** Situación al cierre del 10/09:
+      - ✅ **Hechas hoy**, en `estado: acta` y con borrador de correo dentro (falta revisarlos y
+        enviarlos, que eso lo decides tú):
+        [[2026-09-10 - Prácticas Educación 26-27]] · [[2026-09-10 - Revisión sustituciones - Propuesta docente]]
+      - 🟢 **Con transcripción disponible y sin procesar** (`/reunion-acta` la saca):
         - *Automatización prácticas · Fisioterapia* — 09/09 10:00, captura de requisitos con
           Educación y Enfermería (`GES-192`). **Ni siquiera tiene nota en el vault.** Es la que
           más pide encadenar con `/reunion-requisitos`
-        - *Reunión Prácticas Educación* — 10/09 09:30, la presencial del Monasterio
-        - *Sustituciones · Propuesta Docente* — 10/09 11:30
       - 🟡 **Notas en `estado: registro`, contenido en blanco y sin convocatoria de Zoom** (puede
         que no haya grabación):
         - [[2026-09-09 - Ranking - dato de alumno de nuevo ingreso]] — Lola (Calidad/Ranking) y Tomás, 1 h
