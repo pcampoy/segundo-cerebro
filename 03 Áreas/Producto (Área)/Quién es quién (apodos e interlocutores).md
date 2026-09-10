@@ -21,6 +21,25 @@ El 09/09/2026 hubo que corregirlo en caliente al apuntar dos reuniones del mismo
 | **Lola** | *apellidos sin confirmar* | **Calidad** | Lleva el **Ranking**. También abrió `TICAM-13371` (Vercel Pro para los cuadros de Qualtrics) |
 | **Dolo** | María Dolores Saravia Alarcón · `mdsaravia@ucam.edu` | **SOIL** | **Automatización de prácticas** (`GES-192`) |
 
+## 🧩 Prado JS — quién lleva qué
+
+**Prado JS** es la aplicación, no una persona. La usan **dos ámbitos distintos**, y cada uno tiene
+su interlocutora:
+
+| Ámbito | Quién lo lleva |
+|---|---|
+| **Enfermería** | **Ana Mª Lorente** |
+| **Educación** (Máster y Grado) | *pendiente de concretar el nombre* |
+
+Y por encima de los dos:
+
+- **Dolo** (María Dolores Saravia, SOIL) es **transversal a todo**: entra en cualquiera de los
+  ámbitos, no solo en el suyo.
+
+> ⚠️ **No agrupes correos de Prado JS por ser "del mismo sistema".** Enfermería y Educación son
+> interlocutores distintos. El 10/09/2026 se sugirió juntar una pregunta sobre la oferta de
+> Educación con el correo pendiente de Ana Mª Lorente, y era un error: Ana es Enfermería.
+
 ## Otros nombres cortos
 
 | Apodo / nombre corto | Nombre | Servicio | En qué aparece |

@@ -69,13 +69,14 @@ tags: [panel, pendientes, septiembre]
 ## ✉️ Correos a enviar (tú)
 - [x] **Alicia Cano** — modalidad de impartición (RD 905/2025) *(contestado el 08/09 a las 18:04)*
 - [ ] **Ana Mª Lorente** — Prado JS: descarga del mapa docente y oferta privada con plazas restadas *(borrador en [[09-09-2026]]; **cuarto día** sin respuesta)*
-- [ ] **Prado** — preguntar **si podemos descargar la oferta del año pasado de Educación**
+- [ ] **Prado JS · Educación** — preguntar **si podemos descargar la oferta del año pasado**
       *(apuntado el 10/09)*
-      - Mismo terreno que el correo de Ana Mª Lorente de arriba: **plantéate si va en el mismo
-        correo** en vez de mandar dos
-      - ⚠️ Sin confirmar **a quién se escribe**: en el vault *Prado JS* es la aplicación, y la
-        interlocutora de ese hilo es Ana Mª Lorente. Si "Prado" es otra persona o el proveedor,
-        aclararlo
+      - **Va aparte del correo de Ana Mª Lorente**: ella lleva **Enfermería**, y esto es de
+        **Educación** (Máster y Grado). Mismo sistema, interlocutores distintos
+      - Falta concretar **a quién de Educación** se escribe. **Dolo** (SOIL) es transversal a
+        todo, así que también vale como vía → [[Quién es quién (apodos e interlocutores)]]
+      - 🕘 Hoy jueves 10 a las 9:30 hay **reunión de Prácticas 26-27 con Educación**: se puede
+        preguntar ahí en vez de por correo
 - [ ] **Adrián** — Apryse/iText del 22/09: quién va, si acude legal y qué se les comunica
 - [ ] **Isaac** — acceso admin para carga de JPII (Alejandro, Juanma y tú)
 - [ ] **Alejandro** — reunión Seguridad Protocolo + usuarios biblioteca + conflicto del viernes 11 *(agrupar todo)*
