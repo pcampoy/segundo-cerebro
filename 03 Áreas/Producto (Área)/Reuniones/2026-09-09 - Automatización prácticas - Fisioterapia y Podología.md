@@ -5,10 +5,10 @@ hora: 10:07–11:37
 proyecto: "[[Producto (Área)]]"
 convoca: Pilar Campoy
 asistentes: [Pilar Campoy, coordinación de Fisioterapia y Podología, equipo de Desarrollo]
-estado: acta
+estado: publicado
 transcripcion: "_secretos/Transcripciones/2026-09-09 - Automatizacion practicas - Fisioterapia.md"
-confluence:
-jira: GES-192
+confluence: "https://ucam.atlassian.net/wiki/spaces/GDP/pages/1196392450"
+jira: "sin desglosar todavía — objetivo curso 27-28, se planifica en diciembre de 2026"
 tags: [reunión, requisitos, practicas, fisioterapia, podologia]
 ---
 # Automatización de prácticas — Fisioterapia y Podología
