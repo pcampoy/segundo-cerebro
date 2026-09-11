@@ -5,7 +5,7 @@ hora: 09:48–10:48
 proyecto: "[[Producto (Área)]]"
 convoca: María Dolores "Dolo" Saravia Alarcón (SOIL)
 asistentes: [Dolo Saravia, Esther Puerto, Elena Cuevas, Cristina Hernández, Pilar Campoy, Alejandro Sánchez, Alex Aix, Juanma Mascarell, Paco Torrecillas]
-estado: planificado
+estado: publicado
 transcripcion: "_secretos/Transcripciones/2026-09-10 - Reunion Practicas Educacion.md"
 confluence: "https://ucam.atlassian.net/wiki/spaces/GDP/pages/1195933701"
 jira: "GES-222 a GES-240 (4 epics + 15 historias) · sprint Desarrollo 2026/15 · epic previa GES-192"
