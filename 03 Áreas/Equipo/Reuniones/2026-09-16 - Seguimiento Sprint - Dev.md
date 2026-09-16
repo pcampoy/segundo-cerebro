@@ -107,6 +107,39 @@ devuelva el inventario de la vista, nadie sabe qué campos faltan ni se puede pi
 | **Juanma** | `GES-232` · `GES-233` · `GES-234` · `GES-239` | `GES-250` **épica** de adaptación Enfermería→Educación · `GES-251` supervisar el algoritmo con Paco · `GES-252` supervisar pantallas (impacto en BD) |
 | **Paco** | `GES-227` · `GES-230` · `GES-236` | `GES-248` comprobar el algoritmo con el Excel del año pasado · `GES-249` listado de especialidades del Máster |
 
+### 🏗️ La aplicación, dividida en dos módulos
+
+Decisión de Pilar del 16/09: el proyecto se estructura en **dos módulos que avanzan en paralelo**,
+y así queda montado en Jira (filtrable por las etiquetas `modulo-gestion` y `modulo-alumno`).
+
+**Módulo 1 · Gestión de secretaría de la titulación** — *Alex, supervisado por Juanma*
+Define periodos · descarga el mapa docente de Prado · carga centros privados · asigna manualmente.
+
+| Épica | Historias |
+|---|---|
+| `GES-223` Estructura académica y configuración | `GES-230` `GES-231` `GES-232` `GES-233` `GES-234` `GES-249` |
+| `GES-224` Ofertas privadas y asignaciones manuales | `GES-235` `GES-236` `GES-237` |
+| 🆕 `GES-254` **Descarga del mapa docente de Prado** | `GES-253` |
+
+**Módulo 2 · Alumno**
+Selecciona oferta del mapa docente descargado · el algoritmo asigna al acabar los plazos fijados
+por la titulación · consulta su asignación después.
+
+| Épica | Historias | Quién |
+|---|---|---|
+| `GES-222` Restricciones de elegibilidad | `GES-226` `GES-227` `GES-228` `GES-229` | |
+| `GES-225` Vista del alumno y notificaciones | `GES-238` `GES-239` `GES-240` | |
+| 🆕 `GES-255` **Algoritmo de asignación** | `GES-248` `GES-251` | **Paco**, por su experiencia previa |
+
+**Transversal** — `GES-250` Adaptación Enfermería→Educación (`GES-247`, `GES-252`), **bloqueada
+por `GES-246`**.
+
+**El criterio de reparto no es por módulo, es por tipo de trabajo:** Alex la **capa visual de los
+dos módulos**, Juanma **lo difícil y la arquitectura de datos**, Paco **el algoritmo**.
+
+> ℹ️ `GES-246` queda **fuera de toda épica** a propósito: es el estudio del que sale el alcance de
+> las demás, y colgarlo de `GES-250` sería circular, porque es quien la bloquea.
+
 **Fuera de Educación, del mismo reparto:**
 
 | Quién | Tareas |
