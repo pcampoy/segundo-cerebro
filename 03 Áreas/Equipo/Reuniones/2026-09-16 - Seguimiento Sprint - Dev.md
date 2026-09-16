@@ -101,11 +101,19 @@ Esto se arregla solo: el **lunes 21** las fechas ya serán reales otra vez. Pero
 **El orden importa:** `GES-246` (el repaso visual de Alex) **bloquea al resto**. Hasta que no
 devuelva el inventario de la vista, nadie sabe qué campos faltan ni se puede pintar la oferta.
 
-| Quién | Historias reasignadas | Tareas nuevas |
-|---|---|---|
-| **Alex** | `GES-228` · `GES-231` · `GES-238` · `GES-240` | **`GES-246` repaso visual** (primero de todo) · `GES-247` módulo de gestión del título · `GES-253` poblar plazas de prueba |
-| **Juanma** | `GES-232` · `GES-233` · `GES-234` · `GES-239` | `GES-250` **épica** de adaptación Enfermería→Educación · `GES-251` supervisar el algoritmo con Paco · `GES-252` supervisar pantallas (impacto en BD) |
-| **Paco** | `GES-227` · `GES-230` · `GES-236` | `GES-248` comprobar el algoritmo con el Excel del año pasado · `GES-249` listado de especialidades del Máster |
+**Este sprint (`Desarrollo 2026/15`) es de gestión.** El módulo del alumno se va casi entero al
+`2026/16`: primero se construye lo que alimenta la oferta, después lo que el alumno ve.
+
+| Quién | En el sprint 2026/15 |
+|---|---|
+| **Alex** | `GES-231` filtrado por código de título · **`GES-246` repaso visual** (primero de todo) · `GES-247` módulo de gestión del título · `GES-254` **épica** descarga del mapa de Prado |
+| **Juanma** | `GES-226` · `GES-232` · `GES-233` · `GES-234` · `GES-253` plazas de prueba · `GES-250` **épica** de adaptación · `GES-251` supervisar el algoritmo · `GES-252` supervisar pantallas (impacto en BD) |
+| **Paco** | `GES-227` · `GES-230` · `GES-236` · `GES-248` comprobar el algoritmo · `GES-249` listado de especialidades · `GES-255` **épica** del algoritmo |
+
+| Quién | Pasadas al sprint 2026/16 |
+|---|---|
+| **Alex** | `GES-228` · `GES-229` · `GES-235` · `GES-237` · `GES-238` · `GES-240` |
+| **Juanma** | `GES-239` correo automático al alumno |
 
 ### 🏗️ La aplicación, dividida en dos módulos
 
@@ -211,8 +219,8 @@ Cartagena). Quien la coja creará dos asignaturas que nadie va a usar
 ## 📌 Acciones (quién / cuándo)
 
 - [x] **Pilar — hoy:** **repartir las historias de Educación.** ✅ Hecho la misma tarde
-- [ ] **Pilar:** dar dueño a las **4 que quedaron sin asignar** — `GES-226` (**P0**), `GES-229`,
-      `GES-235`, `GES-237`
+- [x] **Pilar:** dar dueño a las 4 sin asignar. ✅ `GES-226` a Juanma (módulo alumno); `GES-229`,
+      `GES-235` y `GES-237` a Alex, **en el sprint `2026/16`** por ser gestión de titulaciones
 - [ ] **Pilar:** decir qué es el **«regalo envenenado» de Pablo**, para poder crear la tarea
 - [ ] **Pilar:** decidir qué sale al **backlog** (las candidatas están en *Riesgos*, punto 4)
 - [ ] **Pilar — hoy:** corregir `GES-230` — **17 especialidades, no 18**, y tres de sede Cartagena
