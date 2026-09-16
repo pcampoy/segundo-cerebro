@@ -44,9 +44,11 @@ Esto se arregla solo: el **lunes 21** las fechas ya serán reales otra vez. Pero
 
 ## 👥 Reparto por persona
 
-### Pilar — 22 abiertas · *no es reparto del equipo, es lo que hay que repartir*
-- 🔴 **Las 19 historias de Prácticas Educación siguen todas a su nombre** (`GES-222`…`GES-240`),
-  seis días después de crearlas. **El cierre de hoy no las ha repartido.**
+### Pilar — *ya no es lo que hay que repartir: está repartido*
+- ✅ **Las 19 historias de Prácticas Educación estaban todas a su nombre** (`GES-222`…`GES-240`).
+  **Repartidas la tarde del 16/09**, tras la reunión: 10 a Alex, Juanma y Paco (ver *Reparto de
+  Educación* abajo); los 4 epics `GES-222`…`GES-225` se quedan con ella, y 5 historias siguen
+  **sin dueño** — entre ellas `GES-226`, que es **P0**.
 - `GES-192` (arquitectura de prácticas) y `ED-2018` **Reorganización Planificación Septiembre**,
   las dos *en curso*. `ED-2018` es literalmente la tarea de reasignar, y ha sobrevivido un sprint
   entero.
@@ -93,6 +95,34 @@ Esto se arregla solo: el **lunes 21** las fechas ya serán reales otra vez. Pero
 ### Alex — 2 abiertas · *y las dos vencidas*
 - `ED-2034` — desplegar appcron en Kubernetes (ArgoCD) · en curso · **venció el 10**.
 - `ED-2027` — migrar el login de appcron a Microsoft · TESTING · **venció el 4**.
+
+## 🧩 Reparto de Educación — ejecutado el 16/09 por la tarde
+
+**El orden importa:** `GES-246` (el repaso visual de Alex) **bloquea al resto**. Hasta que no
+devuelva el inventario de la vista, nadie sabe qué campos faltan ni se puede pintar la oferta.
+
+| Quién | Historias reasignadas | Tareas nuevas |
+|---|---|---|
+| **Alex** | `GES-228` · `GES-238` · `GES-240` | **`GES-246` repaso visual** (primero de todo) · `GES-247` módulo de gestión del título · `GES-253` poblar plazas de prueba |
+| **Juanma** | `GES-232` · `GES-233` · `GES-234` · `GES-239` | `GES-250` **épica** de adaptación Enfermería→Educación · `GES-251` supervisar el algoritmo con Paco · `GES-252` supervisar pantallas (impacto en BD) |
+| **Paco** | `GES-227` · `GES-230` · `GES-236` | `GES-248` comprobar el algoritmo con el Excel del año pasado · `GES-249` listado de especialidades del Máster |
+
+**Fuera de Educación, del mismo reparto:**
+
+| Quién | Tareas |
+|---|---|
+| **Juanma** | `ED-2035` Alsa: desbloquear el registro · `ED-2036` Alsa a cron *(después de Educación)* |
+| **Paco** | `ED-2037` widget Gobierno del Dato ↔ API de Datio · `ED-2038` conferenciantes con contrato posterior a 2027 |
+| **Alejandro** | `ED-2039` IMarina → datos de Pedro Postigo → fecha de carga de **Alma y Primo** |
+| **Jesús** | `MIG-45` paquetes de tipos de estudios · `MIG-46` cronograma de cargas en Sigma |
+| **Pablo** | *el «regalo envenenado», sin crear: falta saber qué es* |
+
+⚠️ **Jesús no estaba en la reunión** (baja). Sus dos tareas llevan el aviso escrito, pero **hay que
+decírselo**.
+
+**Antes de empezar Educación, tres desbloqueos:** Juanma el servicio de **Facturas** · Paco las
+**asignaciones de Fisioterapia** (`GES-245`, `GES-221`) · Alex el **cron de appcron**
+(`ED-2034`, `ED-2027`). El de Alex es el crítico: es quien bloquea a los demás.
 
 ## ⚖️ Riesgos y equilibrado
 
@@ -147,8 +177,11 @@ Cartagena). Quien la coja creará dos asignaturas que nadie va a usar
 
 ## 📌 Acciones (quién / cuándo)
 
-- [ ] **Pilar — hoy:** **repartir las 19 historias de Educación.** Es lo único que caduca de
-      verdad: los 9 P0 tienen que estar probándose el 10/10 y el sprint acaba el 1
+- [x] **Pilar — hoy:** **repartir las historias de Educación.** ✅ Hecho la misma tarde
+- [ ] **Pilar:** dar dueño a las **5 que quedaron sin asignar** — `GES-226` (**P0**), `GES-229`,
+      `GES-231`, `GES-235`, `GES-237`
+- [ ] **Pilar:** decir qué es el **«regalo envenenado» de Pablo**, para poder crear la tarea
+- [ ] **Pilar:** decidir qué sale al **backlog** (las candidatas están en *Riesgos*, punto 4)
 - [ ] **Pilar — hoy:** corregir `GES-230` — **17 especialidades, no 18**, y tres de sede Cartagena
 - [ ] **Pilar — hoy:** aceptar la reunión del **lunes 21** (sigues en `declined` en tu propia
       reunión) y contestar a la convocatoria del **viernes 18**, que lleva a todo el equipo
