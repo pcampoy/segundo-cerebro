@@ -151,17 +151,33 @@ Profesorado** (hasta esa fecha los tutores aún pueden darse de alta para oferta
 
 ### Educación / SOIL
 
-- [ ] **Mandar por escrito todas las restricciones y criterios** acordados: criterios de Grado y
-      Máster, delitos sexuales, reglas de bloqueo del Máster Bilingüe. *Es la petición expresa de
-      Pilar al cerrar: "sobre todo me interesa que estemos todos en consonancia con las
-      restricciones".*
+- [x] ✅ **Restricciones confirmadas por escrito** *(José Javier Díaz Lázaro, Facultad de Educación —
+      14/09/2026, 08:19, respondiendo al correo que Pilar envió el 11/09 a las 16:04)*. Confirma
+      **todas** las restricciones tal y como las escribió Pilar, y matiza una:
+      - **Oferta privada:** la asignación privada es **nominativa y manual**; entra en la aplicación
+        para gestión y consulta, pero **no es "seleccionable" por el alumno** — al entrar ya están
+        casadas. El indicador *con convenio / sin convenio* es **relativo a SOIL**, para dar el OK
+        a su gestión.
+      **Esto era el punto crítico del proyecto: ya no bloquea nada.**
 - [ ] **Bloquear nominativamente las plazas de Bilingüe** antes de que se saque la oferta de Prado
 - [ ] **Adaptar sus ficheros** de carga de alumnos y de centros externos al formato CSV requerido
 - [ ] **Pasar el fichero de certificados** de delitos sexuales (DNI/NIA + cumple sí/no)
 - [ ] **Definir cada práctico**: fechas, grupos de Murcia y Cartagena, y descripción de asignatura
-- [ ] Confirmar el **listado de especialidades** (18 de Máster + 4 de Grado) y las dobles
-- [ ] Facilitar el **primer listado de orden de alumnos** (nota media y fecha de preinscripción por
-      especialidad) para cruzarlo con el que saque TIC
+- [x] ✅ **Listado de especialidades confirmado** *(14/09)* — **no son 18: son 17**, porque el
+      director del Máster ha decidido **no activar Electrónica ni Hostelería y Turismo**. Las que sí
+      se activan: Biología y Geología · Educación Física y Animación · Expresión Artística y Dibujo ·
+      Filosofía · Física y Química · Formación y Orientación Laboral · Geografía e Historia ·
+      Idiomas · Intervención Sociocomunitaria · Lengua y Literatura española · Matemáticas e
+      Informática · Música · Orientación Educativa · Tecnología · **Administración y Gestión,
+      Comercio y Marketing (Cartagena)** · **Economía y Empresa (Cartagena)** · **Intervención
+      Sociosanitaria (Cartagena)**.
+      ⚠️ *Tres son de sede **Cartagena**: tenerlo en cuenta al crear las asignaturas y los grupos.*
+- [x] ✅ **Listado de orden de alumnos 25/26 facilitado** *(14/09, adjunto `Orden alumnos 25_26.xlsx`)*
+- [x] ✅ **Fases de la Consejería explicadas** *(14/09)*: en cada apertura de periodo los centros
+      añaden ofertas de todas las etapas, y las universidades asignan después (primero públicas,
+      luego públicas y privadas, luego todas). Excepción: los centros pueden añadir **cualquier**
+      tipo de oferta en la 1ª fase, del **01/07 al 29/09**, y hasta el **06/10** para el Máster del
+      Profesorado
 
 ### TIC (nuestro equipo)
 
@@ -169,8 +185,11 @@ Profesorado** (hasta esa fecha los tutores aún pueden darse de alta para oferta
 - [ ] **Descargar la oferta de Prado del año pasado de Educación** para adelantarse al problema de
       las especialidades dobles → enlaza con el pendiente ya abierto en
       [[Pendientes - Septiembre 2026]]
-- [ ] **Crear las asignaturas prácticas**: 18 especialidades de Máster + 4 de Grado, con grupos,
-      descripciones y horas
+- [ ] **Pasar las plantillas de Excel a Educación** — 🔴 *Pilar se comprometió por escrito el 11/09:
+      "las tendréis durante la semana próxima". **Esa semana es la del 16 al 18.*** `GES-227`
+- [ ] **Crear las asignaturas prácticas**: ⚠️ **17** especialidades de Máster *(no 18: caen
+      Electrónica y Hostelería y Turismo)* + 4 de Grado, con grupos, descripciones y horas.
+      → actualizar `GES-230`, que sigue diciendo 18
 - [ ] **Configurar periodos y rotatorios** adaptados a los dos periodos de Educación
 - [ ] **Configurar selección mínima y máxima** por práctico
 - [ ] **Ampliar el límite de 5 registros** en la carga por Excel de asignaciones manuales
@@ -184,8 +203,12 @@ Profesorado** (hasta esa fecha los tutores aún pueden darse de alta para oferta
 ## 🖥️ Lo que nos toca a nosotros, en una línea
 
 El **10 de octubre** es la fecha que manda: ese día la parte básica tiene que estar en pie para
-poder probar. Y de todo lo hablado, **lo único que bloquea de verdad es que Educación mande las
-restricciones por escrito**: sin eso, cualquier configuración que hagamos es una interpretación.
+poder probar. Y de todo lo hablado, **lo único que bloqueaba de verdad era que Educación mandara las
+restricciones por escrito**.
+
+> ✅ **Ya están** (14/09/2026). A partir de aquí no hay excusa de interpretación: lo que falta es
+> **repartir las 19 historias** (`GES-222`…`GES-240`), que siguen todas asignadas a Pilar, y
+> **mandarles las plantillas de Excel**, comprometidas para esta semana.
 
 ## 🕓 Para tener en cuenta más adelante
 
@@ -206,10 +229,14 @@ restricciones por escrito**: sin eso, cualquier configuración que hagamos es un
 
 ## ❓ Puntos abiertos
 
-- **Las restricciones por escrito** siguen sin llegar. Es el punto crítico.
+- ~~**Las restricciones por escrito** siguen sin llegar.~~ ✅ **Cerrado el 14/09** (ver arriba).
 - **¿25 o 28 de octubre** para abrir a los alumnos? Se dijeron las dos.
-- **Biología-Geología / Historia** como especialidad doble: la transcripción es confusa ahí, hay
-  que confirmarlo.
+- ✅ **Biología-Geología / Historia**: el listado del 14/09 las da como **especialidades separadas**
+  (*Biología y Geología* por un lado, *Geografía e Historia* por otro). La duda de la transcripción
+  queda resuelta.
+- ❓ **Falta todavía**: qué grados o másteres entran en cada periodo de cada fase. Pilar lo pidió el
+  11/09 y la respuesta del 14/09 explica el mecanismo de la Consejería, pero **no asigna estudios a
+  periodos**. Repreguntarlo antes de configurar los periodos (`GES-234`).
 - **Si Prado no cierra a tiempo** (29/09 grados, 06/10 máster), habrá que trabajar con la oferta
   del año pasado. Se aceptó explícitamente: *"con la del año pasado me vale"*.
 - **Riesgo reconocido:** que los datos de Prado no cuadren con los registros internos. De ahí las
