@@ -46,8 +46,8 @@ Esto se arregla solo: el **lunes 21** las fechas ya serán reales otra vez. Pero
 
 ### Pilar — *ya no es lo que hay que repartir: está repartido*
 - ✅ **Las 19 historias de Prácticas Educación estaban todas a su nombre** (`GES-222`…`GES-240`).
-  **Repartidas la tarde del 16/09**, tras la reunión: 10 a Alex, Juanma y Paco (ver *Reparto de
-  Educación* abajo); los 4 epics `GES-222`…`GES-225` se quedan con ella, y 5 historias siguen
+  **Repartidas la tarde del 16/09**, tras la reunión: 11 a Alex, Juanma y Paco (ver *Reparto de
+  Educación* abajo); los 4 epics `GES-222`…`GES-225` se quedan con ella, y 4 historias siguen
   **sin dueño** — entre ellas `GES-226`, que es **P0**.
 - `GES-192` (arquitectura de prácticas) y `ED-2018` **Reorganización Planificación Septiembre**,
   las dos *en curso*. `ED-2018` es literalmente la tarea de reasignar, y ha sobrevivido un sprint
@@ -103,7 +103,7 @@ devuelva el inventario de la vista, nadie sabe qué campos faltan ni se puede pi
 
 | Quién | Historias reasignadas | Tareas nuevas |
 |---|---|---|
-| **Alex** | `GES-228` · `GES-238` · `GES-240` | **`GES-246` repaso visual** (primero de todo) · `GES-247` módulo de gestión del título · `GES-253` poblar plazas de prueba |
+| **Alex** | `GES-228` · `GES-231` · `GES-238` · `GES-240` | **`GES-246` repaso visual** (primero de todo) · `GES-247` módulo de gestión del título · `GES-253` poblar plazas de prueba |
 | **Juanma** | `GES-232` · `GES-233` · `GES-234` · `GES-239` | `GES-250` **épica** de adaptación Enfermería→Educación · `GES-251` supervisar el algoritmo con Paco · `GES-252` supervisar pantallas (impacto en BD) |
 | **Paco** | `GES-227` · `GES-230` · `GES-236` | `GES-248` comprobar el algoritmo con el Excel del año pasado · `GES-249` listado de especialidades del Máster |
 
@@ -178,8 +178,8 @@ Cartagena). Quien la coja creará dos asignaturas que nadie va a usar
 ## 📌 Acciones (quién / cuándo)
 
 - [x] **Pilar — hoy:** **repartir las historias de Educación.** ✅ Hecho la misma tarde
-- [ ] **Pilar:** dar dueño a las **5 que quedaron sin asignar** — `GES-226` (**P0**), `GES-229`,
-      `GES-231`, `GES-235`, `GES-237`
+- [ ] **Pilar:** dar dueño a las **4 que quedaron sin asignar** — `GES-226` (**P0**), `GES-229`,
+      `GES-235`, `GES-237`
 - [ ] **Pilar:** decir qué es el **«regalo envenenado» de Pablo**, para poder crear la tarea
 - [ ] **Pilar:** decidir qué sale al **backlog** (las candidatas están en *Riesgos*, punto 4)
 - [ ] **Pilar — hoy:** corregir `GES-230` — **17 especialidades, no 18**, y tres de sede Cartagena
