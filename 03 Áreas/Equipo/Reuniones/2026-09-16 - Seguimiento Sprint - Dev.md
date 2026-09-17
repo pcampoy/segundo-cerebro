@@ -156,7 +156,7 @@ dos módulos**, Juanma **lo difícil y la arquitectura de datos**, Paco **el alg
 | **Paco** | `ED-2037` widget Gobierno del Dato ↔ API de Datio · `ED-2038` conferenciantes con contrato posterior a 2027 |
 | **Alejandro** | `ED-2039` IMarina → datos de Pedro Postigo → fecha de carga de **Alma y Primo** |
 | **Jesús** | `MIG-45` paquetes de tipos de estudios · `MIG-46` cronograma de cargas en Sigma |
-| **Pablo** | *el «regalo envenenado», sin crear: falta saber qué es* |
+| **Pablo** | `ED-2040` **Mis alumnos: tipo de adaptación curricular y acción del profesor** — el «regalo envenenado». **Fuera de sprint**, no es para ahora |
 
 ⚠️ **Jesús no estaba en la reunión** (baja). Sus dos tareas llevan el aviso escrito, pero **hay que
 decírselo**.
@@ -221,7 +221,7 @@ Cartagena). Quien la coja creará dos asignaturas que nadie va a usar
 - [x] **Pilar — hoy:** **repartir las historias de Educación.** ✅ Hecho la misma tarde
 - [x] **Pilar:** dar dueño a las 4 sin asignar. ✅ `GES-226` a Juanma (módulo alumno); `GES-229`,
       `GES-235` y `GES-237` a Alex, **en el sprint `2026/16`** por ser gestión de titulaciones
-- [ ] **Pilar:** decir qué es el **«regalo envenenado» de Pablo**, para poder crear la tarea
+- [x] **Pilar:** el «regalo envenenado» de Pablo → creado como `ED-2040`, fuera de sprint
 - [ ] **Pilar:** decidir qué sale al **backlog** (las candidatas están en *Riesgos*, punto 4)
 - [ ] **Pilar — hoy:** corregir `GES-230` — **17 especialidades, no 18**, y tres de sede Cartagena
 - [ ] **Pilar — hoy:** aceptar la reunión del **lunes 21** (sigues en `declined` en tu propia
