@@ -6,16 +6,15 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[16-09-2026]].
-> **Última revisión:** 2026-09-16
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[17-09-2026]].
+> **Última revisión:** 2026-09-17
 
 ## 🔴 Prioritario / vigilar
 
-- [ ] 🔴 **El sprint `Desarrollo 2026/14` venció el 15/09 a las 12:39 y sigue `active` en Jira, con
-      54 incidencias abiertas** (48 reales + 6 genéricas de imputación). **No hay ninguna reunión de
-      cierre ni de planificación puesta en el calendario**: la próxima *Seguimiento Sprint - Dev* es
-      el **lunes 21**, el mismo día del acto de acogida y de la clase. O se convoca algo el 16, o
-      todo se va al 21
+- [x] 🏆 ~~El sprint `Desarrollo 2026/14` venció el 15/09 y sigue `active`~~ *(**cerrado el 16/09 a
+      las 13:15 con 75 tareas completadas**. Pilar convocó el *Seguimiento DEV* esa misma mañana a
+      las 08:17 para las 12:30–13:30. `Desarrollo 2026/15` arrancó un minuto después: **16/09 →
+      01/10**, 12 días hábiles sin festivos)* → [[2026-09-16 - Seguimiento Sprint - Dev]]
 - [x] 🔴 ~~Miguel Ángel Guillén espera una estimación~~ *(contestado el 11/09 a las 09:05: se le
       mandó el cronograma original y el estado real — retraso por otras cargas, objetivo finales de
       año si Profesorado aclara las áreas de conocimiento)*
@@ -30,25 +29,104 @@ tags: [panel, pendientes, septiembre]
         después**, con el borrador que pide **confirmar las columnas del Excel**, sin enviar
       - ✅ **No queda ninguna transcripción sin procesar.** Las dos notas del 09/09 en `registro`
         (Ranking y SOIL) siguen en blanco, pero no tienen grabación
-- [ ] 🔴 **Repartir las 19 historias de Prácticas Educación en la planificación del 16.** Están
-      **todas asignadas a Pilar** y en el sprint que viene, con fechas de Educación encima:
-      **10/10 parte básica probándose · 25/10 pruebas terminadas · 27/10 descarga de Prado ·
-      28/10 apertura a alumnos**. Los **9 P0** (`GES-226`…`GES-234`) son el mínimo para el 10/10
+- [x] 🏆 ~~Repartir las 19 historias de Prácticas Educación~~ *(**repartidas la tarde del 16/09**:
+      **Alejandro Aix 11** (capa visual; `GES-246` va primero, bloquea al resto), **Juanma 9** (lo
+      difícil y la arquitectura de datos) y **Paco 8** (el algoritmo). Aix pasa de **2 tareas a 11**:
+      el desequilibrio que se arrastraba desde el 1/09 está corregido. Las 4 epics `GES-222`…`GES-225`
+      se quedan con Pilar. Decidida además la **arquitectura en dos módulos** —Gestión de secretaría
+      y Alumno—, etiquetados `modulo-gestion` / `modulo-alumno`, con el módulo del alumno casi entero
+      en el `2026/16`)* → [[2026-09-16 - Seguimiento Sprint - Dev]]
+- [ ] 🔴 **Lo que quedó abierto del arranque de sprint, y sigue abierto:**
+      - **Corregir `GES-230`: 17 especialidades, no 18** *(comprobado en Jira el 17/09: sigue mal)*.
+        Es **P0 con fecha 10/10** y ahora la lleva **Paco**
+      - **Decidir qué sale al backlog:** 22 tareas entran ya vencidas, cinco de 2025 o de marzo.
+        `CAN-350` *Muy Urgente* vencida desde el **20/03**; `CAN-337` y `CAN-340` desde **nov-2025**
+      - **Cerrar `ED-2018`**, que ha sobrevivido un sprint entero a su propio motivo de existir
+      - **Avisar a Jesús March** de `MIG-45` y `MIG-46`: estaba de baja el 16 y **no se lo ha dicho
+        nadie**
+      - Fechas externas de Educación sin mover: **10/10 parte básica probándose · 25/10 pruebas ·
+        27/10 descarga de Prado · 28/10 apertura a alumnos**
 - [ ] **~10.000 horas de docencia desaparecidas** del curso 26/27 — investiga **Pablo** *(riesgo alto)*
 - [ ] 🚨 **Seguridad Protocolo** (H-1…H-4) — certificado caducado el 04/09; *visto con Sistemas el 07/09*, pero **H-1 sigue abierto** hasta que el certificado esté renovado y confirmado por Protocolo → [[Seguridad (Proyecto)]] · [[Revisión de seguridad - Protocolo]]
 - [x] ⚠️ ~~Viernes 11 = último día hábil del sprint~~ *(pasó; el sprint venció el 15 sin reunión de
       cierre — ver el punto de arriba)*
-- [ ] 🔴 **Lunes 21 — Miguel Ángel ya ha movido ficha y hay que confirmarlo antes de que se
-      publique.** Escribió a **Luz Pérez el 14/09 a las 16:37**: *"He acordado con Pilar intercambiar
+- [ ] 🔴 **Lunes 21 — ya está publicado, y no coincide con lo que Pilar tiene en el calendario.**
+      Miguel Ángel escribió a **Luz Pérez el 14/09 a las 16:37**: *"He acordado con Pilar intercambiar
       su clase de Ingeniería de Requisitos por la mía. Dado que ella empieza a las 11:00, yo debería
-      comenzar a las 11:30"*. **En cuanto Luz lo confirme, lo publican en el Campus.** De ahí salen
-      dos cosas: que el **21 sí hay clase** (y la serie de los lunes **sigue sin crear**), y que el
-      *Seguimiento Sprint - Dev* de las 09:15 **sigue con Pilar en `declined`**, arrastre del 14
+      comenzar a las 11:30"*. **Luz contestó el 17/09 a las 08:26: *"tarea realizada!"*** — publicado
+      en el Campus. Pero el 16/09 **Pilar creó "Clase IR" el lunes 21 de 12:30 a 14:00**, no a las
+      11:00 (a esa hora es el **acto de acogida de la EPS** en el Templo). **Hay que cerrar cuál es
+      el horario bueno, que es información de alumnos.** Además:
+      - lo creado es un **evento suelto**, no la serie: **la serie de los lunes sigue sin existir**
+      - el *Seguimiento Sprint - Dev* del 21 (09:15) **no aparece en el calendario principal de
+        Pilar**: comprobar que no se haya perdido con el `declined` que arrastraba del día 14
 - [x] 🔴 ~~Cancelar el *Seguimiento Sprint - Dev* del lunes 14~~ *(el día pasó; la serie continúa el
       lunes 21, esta vez sí lectivo)*
-- [ ] 📌 **Poner en el calendario la reunión UCAM–Apryse/iText del mar 22, 12:00–12:30.** Es de
-      **Teams** y **no existe en ninguno de los tres calendarios de Google**: hoy no hay nada que
-      vaya a avisar de ella
+- [ ] 🔴 **SOLAPE · martes 22 a las 12:00: dos reuniones en el mismo hueco.** El 16/09 a las 16:15
+      entró en el calendario **[UCAMSEGRE2] Planificación UCAM x SIGMA** (Teams, Kalo, 12:00–12:30,
+      con 23 convocados). Ese hueco exacto es el de **UCAM–Apryse/iText** (Teams, Adrián,
+      12:00–12:30), que **sigue sin existir en ninguno de los tres calendarios de Google** — por eso
+      nada avisó del choque. **Decidir cuál se mueve**, y con margen: las dos tienen gente de fuera
+      → [[Licencias iText]]
+
+## 🆕 Novedades del 16–17/09 (del correo)
+
+- [x] 🏆 **Educación cierra la última pregunta abierta, y por partida doble.** José Javier Díaz
+      *(16/09, 13:46)* y **Dolo Saravia *(17/09, 09:48)***:
+      - **Grado y Máster seleccionan sus ofertas una sola vez y a la vez**, con la primera descarga
+        de PRADO: **27 y 28 de octubre**
+      - **Fase 1** es el periodo grande, para todos los títulos (Infantil, Primaria y Máster de
+        Profesorado) y centros de la Región de Murcia
+      - **Fase 2 (diciembre)** se abrirá casi con seguridad: no habrá plazas para todos
+      - **Fases 3, 4 y 5 no abren el aplicativo a los alumnos**: son de subsanación y cambios
+        internos, con **asignación manual** por parte de Educación
+      Es justo lo que faltaba para configurar `GES-234` → [[2026-09-10 - Prácticas Educación 26-27]]
+- [ ] 🔴 **Y con eso, el único cuello de botella que queda en Prácticas Educación es Pilar:** las
+      **plantillas de Excel** comprometidas *"durante la semana próxima"* en el correo del 11/09.
+      Quedan **el 17 y el 18**
+- [ ] 🖥️ 🔴 **Canvas · caso 15222624: Instructure ha dado el diagnóstico.** **Anthony, Soporte L2,
+      17/09 a las 05:10**: lo más probable es que al directorio de Microsoft de **IDUCAM** le falte
+      el atributo **`declared_user_type: Admin`**, o venga vacío, y por eso el usuario **cae a rol
+      de profesor por defecto** en el primer inicio de sesión. No lo puede confirmar sin depuración
+      y **no recomienda insistir por ahí**. Dos salidas: **horas de consultoría vía CSM** (su
+      recomendación) o **una llamada, avisando con 48 h**.
+      💡 **Explica también el aviso de Gosia del 11/09** (alumnos de matrícula nueva sin poder
+      entrar): no son dos incidencias, es la misma configuración. ⚠️ **El arreglo no es de Canvas:
+      es del directorio, o sea de Sistemas** → [[Inicio de curso Campus Virtual]]
+- [x] 🟢 **La integración UCAM–Canvas ha salido del error** — tras **cinco días** en `Estado: Error`,
+      el proceso del 16/09 terminó en **"Correcto con avisos"**. *El síntoma diario ha parado; el
+      fondo (los roles) sigue vivo*
+- [ ] 🧾 **iText · Sigma rompe el silencio, pero todavía no contesta.** **Albert Montserrat, 17/09
+      08:04**: *"Reclamo este tema, que está en la mesa de la dirección de SIGMA. En cuanto tenga la
+      respuesta os la proporciono."* Llega después de que **Alicia Cano lo reclamara formalmente el
+      16/09 a las 16:23** a Soporte Funcional. 🟢 Ha subido de nivel y ya no lo empuja Pilar sola.
+      🔴 Sigue sin posición de Sigma y **la reunión es el martes 22** → [[Licencias iText]]
+- [x] ✅ **Las 5 horas de vigilancias, resueltas** *(16/09: Paco de Pascual las resubió a las 17:42
+      —"te han caducado, te las subo de nuevo de manera excepcional"— y Pilar cerró a las 17:55)*.
+      Cinco días de reclamación
+- [x] ✅ **Invitación del viernes 18 aceptada** *(17/09, 09:46)*. Del equipo: Alejandro Sánchez, Paco
+      y Alejandro Aix aceptados, **Pablo declinó**, **Juanma sigue sin contestar**. Miguel Ángel
+      reservó además la **Sala de trabajo TIC** para ella *("Reunión desarrollo") — es la misma, no dos*
+- [x] ✅ **Acta de Fisioterapia validada por SOIL** *(Dolo Saravia, 16/09 18:19)*, con **cambio de
+      alcance**: de momento **solo el Grado en Fisioterapia**; **Podología va entera a las clínicas
+      podológicas propias** → [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]]
+- [x] ✅ **Estudio Espalda Sana** — el cambio de hora quedó resuelto con Martha Cecilia el 16/09
+- [ ] 🆕 📅 **Reunión de consultoría de SIGMA · jue 1 de octubre, 12:30, presencial** *(Blanca Gómez,
+      16/09 18:00)*. **Es el mismo día en que acaba el sprint `2026/15`**
+- [ ] ⛈️ **17/09 · alerta naranja por lluvias:** suspendida la actividad académica **en el Campus de
+      Cartagena**; en **Murcia no se suspende nada**, solo no se computa falta de asistencia a
+      teoría a quien se desplace desde Campo de Cartagena y Mazarrón → [[Festivos y no lectivos 26-27]]
+- [ ] 🆕 **Sigma · nueva referencia 307494** *(EXTFACUCAM, segregar expedientes)* — creada el 17/09 y
+      **planificada en el mismo minuto (06:20)**. Continuación de la **306953**, devuelta por cliente
+      el 16. Engancha con **UCAMSEGRE2** · 🆕 **Sigma 307368** *(EXPS, adaptación de expediente sin
+      tipología de asignatura)*, recibida el 17/09
+- [x] ✅ **TICAM-12692** *(conexión de BD de asistenciaDatio ↔ Datio v5→v8)* — **FINALIZADA/CERRADA
+      el 17/09 a las 09:04**. Y **TICAM-13044**, **TICAM-13293** y **TICAM-13457** han salido de la
+      lista de abiertas de Pilar *(confirmar que la 13044 se cerró de verdad: era el caso concreto
+      de **Multisede**)*
+- [ ] 📈 **IZO/Qualtrics** — Mª Dolores Gil reclama *(17/09, 09:45)* que **el 18 deben quedar
+      cerrados los Dashboards de las encuestas**. No es acción de Pilar, pero es la misma gente de
+      la formación inamovible del **30/09**
 
 ## 🆕 Novedades del 12–16/09 (del correo)
 
@@ -68,23 +146,17 @@ tags: [panel, pendientes, septiembre]
 - [ ] 🔴 **Compromiso propio con fecha: las plantillas de Excel para Educación.** En el correo del
       11/09 Pilar escribió *"las tendréis durante la semana próxima"* — **esa semana es la del 16 al
       18**
-- [ ] ❓ **Lo único que Educación no ha contestado:** qué grados o másteres entran en **cada periodo
-      de cada fase**. La respuesta del 14/09 explica el mecanismo de la Consejería pero no asigna
-      estudios. Hace falta para configurar `GES-234`
-- [ ] 🖥️ 🔴 **La integración UCAM–Canvas lleva cinco días en `Estado: Error`** (12, 13, 14 y 15,
-      todos a las 12:30). Y el **11/09 a las 15:35 Málgorzata Wos (Gosia) avisó de que "todos los
-      alumnos de matrícula nueva no pueden entrar al Campus Virtual"**. Se le indicó abrir incidencia
-      en soporte y ahí quedó. **Nadie ha cruzado los dos hechos, y es la primera semana de curso**
-- [ ] 🖥️ **Canvas · caso 15222624: Instructure dio el diagnóstico el 12/09 a las 21:42** — el nuevo
-      proveedor de autenticación tiene un **atributo federado que mapea `IDUCAM` al `admin_roles` de
-      Canvas**. Sin respuesta desde entonces
-- [ ] 🆕 📅 **Nueva reunión: vie 18, 12:30–14:00 · "UCAM: implantación red agentes programación"**,
-      convocada por **Miguel Ángel Guillén** el 15/09 **con todo el equipo de desarrollo dentro**
-      (Pablo, Alejandro Sánchez, Paco, Alejandro Aix, Juanma). Pilar en `needsAction`
-- [ ] ⏳ **Horas de vigilancias sin respuesta.** Pilar escribió a **Paco de Pascual el 11/09 a las
-      15:04** para cogerse las **5 horas** *"la tarde del jueves y la tarde del viernes"* — es decir,
-      **17 y 18 de septiembre**. Sin contestar, y el viernes 18 ya tiene clase, la reunión de
-      agentes y el **BLOQUE 3 de la tutoría del Programa Formativo de IA**
+- [x] ✅ ~~Lo único que Educación no ha contestado: qué estudios entran en cada periodo de cada
+      fase~~ *(**contestado el 16 y el 17** — ver el bloque de novedades de arriba)*
+- [x] ✅ ~~La integración UCAM–Canvas lleva cinco días en `Estado: Error`~~ *(**recuperada el 16/09**:
+      "Correcto con avisos")*. Lo que **sigue abierto** es el fondo: el aviso de **Gosia del 11/09**
+      —alumnos de matrícula nueva sin poder entrar— y los roles de administrador, que el diagnóstico
+      de Instructure del 17/09 une en una sola causa
+- [x] ✅ ~~Canvas · caso 15222624 sin respuesta desde el 12/09~~ *(**Instructure contestó el 17/09 a
+      las 05:10** con el diagnóstico — ver arriba)*
+- [x] ✅ ~~Nueva reunión vie 18 · "UCAM: implantación red agentes programación"~~ *(**aceptada el
+      17/09 a las 09:46**)*
+- [x] ✅ ~~Horas de vigilancias sin respuesta~~ *(**resueltas el 16/09 a las 17:42**)*
 - [ ] 🆕 **UCAMSEGRE2 · planificación detallada de Kalo** *(14/09, 08:42, a 18 personas)*:
       confirmada la segregación para el **26 de octubre**, con **actuaciones en el software a partir
       del 21 de octubre**. Se come la semana previa: tenerlo antes de planificar octubre
@@ -344,41 +416,38 @@ tags: [panel, pendientes, septiembre]
 
 ## 🗂️ Mis tareas propias en Jira (fuera de JSM)
 
-> Revisado el 16/09: **siguen 33 issues abiertas** asignadas a Pilar. **Ni una sola se ha movido
-> desde el 11/09** — normal, con tres días sin actividad por medio.
+> Revisado el 17/09: **han bajado de 33 a 18 issues abiertas**. El reparto del 16/09 se llevó 15 de
+> las de Educación y se cerraron cuatro de service desk.
 
-- [ ] 🔴 **`GES-222`…`GES-240` · Prácticas Educación 26-27** — *creadas por Pilar el 10/09 entre las
-      21:32 y las 21:37*, label `practicas-educacion-2627`, sprint **`Desarrollo 2026/15`**, todas
-      **asignadas a ella**:
-      - **Epics:** `GES-222` Restricciones de elegibilidad · `GES-223` Estructura académica y
-        configuración · `GES-224` Ofertas privadas y asignaciones manuales · `GES-225` Vista del
-        alumno y notificaciones
-      - **P0 (mínimo para el 10/10):** `GES-226` certificado de delitos sexuales · `GES-227` carga
-        masiva por CSV · `GES-228` ofertas dentro del rango de fechas · `GES-229` bloqueo nominativo
-        (Máster Bilingüe) · `GES-230` crear asignaturas prácticas (18 Máster + 4 Grado) ·
-        `GES-231` separar Grado y Máster · `GES-232` selección mín./máx. por práctico ·
-        `GES-233` desdoblar plaza por fechas y tutores · `GES-234` periodos de Educación
-      - **P1:** `GES-235` sello de convenio · `GES-236` límite de 5 registros · `GES-238` ocultar
-        turno · `GES-239` correo al alumno · **P2:** `GES-237` histórico de centros privados ·
-        `GES-240` pantalla de consulta del alumno
-      - ⚠️ **`GES-230` dice "18 especialidades de Máster" y son 17** (Educación descartó Electrónica
-        y Hostelería y Turismo el 14/09). Es P0 con fecha del 10/10: corregirlo **antes** de
-        repartirla, o alguien creará dos asignaturas que nadie usará
-      - → **repartirlas ya: el sprint 15 aún no ha arrancado** · [[2026-09-10 - Prácticas Educación 26-27]]
-- [ ] `ED-2018` **Reorganización Planificación Septiembre** *(en curso)* — la reasignación del
-      sprint. **16 días en curso, sin tocar desde el 31/08**: ha cerrado un sprint entero sin
-      cerrarse
-- [ ] `GES-192` Reunión para arquitectura de prácticas *(en curso)* — es la epic previa de lo anterior
-- [ ] `MIG-29` Reunión equipo de migraciones Sigma
+- [x] 🏆 ~~`GES-222`…`GES-240` · las 19 de Prácticas Educación, todas a nombre de Pilar~~
+      *(**repartidas el 16/09 por la tarde**. Le quedan solo las 4 epics — `GES-222` Restricciones de
+      elegibilidad, `GES-223` Estructura académica, `GES-224` Ofertas privadas, `GES-225` Vista del
+      alumno — más `GES-250`, la épica de adaptación Enfermería→Educación)*
+      → [[2026-09-16 - Seguimiento Sprint - Dev]]
+- [ ] 🔴 **`GES-230` sigue diciendo "18 especialidades de Máster" y son 17** *(comprobado en Jira el
+      17/09)*. Educación descartó **Electrónica** y **Hostelería y Turismo** el 14/09, y **tres de
+      las 17 son de sede Cartagena**. Es **P0 con fecha 10/10** y ahora la lleva **Paco**: corregirla
+      antes de que la coja → [[2026-09-10 - Prácticas Educación 26-27]]
+- [ ] `ED-2018` **Reorganización Planificación Septiembre** *(en curso)* — **17 días**. El reparto ya
+      está hecho: **cerrarla**
+- [ ] `GES-192` Reunión para arquitectura de prácticas *(en curso)* — debería marcar cómo se atacan
+      las 19 historias; cerrarla ahorraría retrabajo
+- [ ] `GES-250` Adaptación de la aplicación de prácticas de Enfermería a Educación *(épica
+      transversal, **bloqueada por `GES-246`**, el repaso visual de Alex)*
+- [ ] `MIG-29` Reunión equipo de migraciones Sigma — **vencida desde el 19 de junio**
 - [ ] `ED-1814` Estudio Previo — Planificador de horarios y espacios
-- [ ] ⚠️ **Dos de service desk con prioridad alta y mes y medio parados:** `TICAM-9597`
+- [ ] ⚠️ **Dos de service desk con prioridad alta y dos meses y medio parados:** `TICAM-9597`
       *(Muy Urgente — actualización de correos en Vértica, sin tocar desde el 22/07)* y
       `TICAM-7245` *(Urgente — datos no actualizados en Personas/Grupos UCAM, 01/07)*. O la
-      prioridad no era real, o se han perdido: revisarlo antes de la planificación del 16
+      prioridad no era real, o se han perdido
 - [ ] `TICAM-8356` Solicitud de modificaciones para la app de **Exención de Asistencia**
-      *(PLANIFICADO)* — es la misma app de **TICAM-13457**, donde hay una aprobación pendiente
-- El resto de service desk (TICAM/SUCAM), en [[JSM - Mis tickets]] — **sin cambios desde el 03/09**.
-  Aparte, **TICAM-13457** llega como *participante* con aprobación pendiente, no como asignada
+      *(PLANIFICADO desde marzo)* · `TICAM-2134` *(Reconocimientos, PLANIFICADO desde junio de 2025)*
+      · `TICAM-11333` *(automatización de proceso, en curso)* · `TICAM-11351` *(UCAM Facturas)* ·
+      `TICAM-9660` *(foto UCAM Personas)* · `TICAM-5545` *(Reconocimientos, teleco)*
+- [x] ✅ **Han salido de la lista de abiertas:** `TICAM-12692` *(cerrada el 17/09)*, `TICAM-13044`,
+      `TICAM-13293` y `TICAM-13457`
+- El resto de service desk (TICAM/SUCAM), en [[JSM - Mis tickets]] — **regenerar con `/tickets`**,
+  que la nota se quedó en el 03/09
 
 ## 👥 Reparto del sprint → [[2026-09-01 - Seguimiento Sprint - Dev]]
 - **Paco:** Laurea/erasmus (bot diario + correo semanal a Ana) · Investigadores · Datio
@@ -386,45 +455,47 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 16/09, 08:00)
+## 💡 Sugerencia de foco (Pilita · 17/09)
 
-> Vuelves de cinco días y la agenda de hoy engaña: **solo Tangram a las 11:00**. Pero hoy era, en
-> los tres diarios anteriores, "el día del cierre y la planificación del sprint" — **y no hay
-> ninguna reunión puesta para eso**. El sprint venció ayer y sigue abierto. En paralelo, el lunes
-> por la mañana llegó lo que llevabas una semana esperando: **Educación confirmó las restricciones
-> por escrito**. Tienes el día libre y el bloqueo levantado: es un día de avanzar, no de apagar.
+> **Ayer funcionó.** Con el día libre por delante cerraste el sprint, repartiste las 19 historias de
+> Educación, decidiste la arquitectura en dos módulos y escribiste el acta. Lo que tres diarios
+> seguidos marcaban en rojo está hecho, y el desequilibrio del equipo —Aix con 2 tareas— está
+> corregido de verdad. Hoy vuelve a estar **todo vacío**, y la lista es más corta pero más
+> decisoria: casi todo lo que queda son **decisiones de cinco minutos que caducan solas**.
 
-1. **Cierra el sprint por la mañana, aunque no haya reunión convocada.** `Desarrollo 2026/14`
-   venció **ayer a las 12:39** y sigue `active` con **48 tareas reales abiertas**. La siguiente
-   *Seguimiento Sprint - Dev* es el **lunes 21**, que ya lleva encima la acogida de la EPS y la
-   clase: si esperas, arrastras un sprint entero. Y `ED-2018` —que es *literalmente* la tarea de
-   reasignar— lleva **16 días en curso sin tocarse**. Con `/semanal` sale el tablero persona a
-   persona, y ahí se ve lo que ya se nota en los números: **Paco 13 y Alejandro Sánchez 11 frente a
-   Alejandro Aix 2 y Jesús 4**.
-2. **Reparte las 19 historias de Educación hoy, y corrige `GES-230` antes.** Ya no hay nada que
-   esperar: las restricciones están confirmadas. Pero **`GES-230` sigue diciendo 18 especialidades
-   y son 17** — es P0, con fecha del 10 de octubre, y quien la coja creará dos asignaturas que nadie
-   va a usar. Diez minutos ahora, o una corrección con Educación delante en noviembre.
-3. **Manda las plantillas de Excel a Educación: te comprometiste por escrito a esta semana.** Es lo
-   único que ahora mismo los bloquea a ellos, sale de ti y quedan tres días. Y en el mismo correo,
-   la única pregunta que quedó sin contestar: **qué estudios entran en cada periodo de cada fase**,
-   que es lo que hace falta para configurar los periodos (`GES-234`).
-4. **Mira lo de Canvas antes de que alguien lo suba como incidencia grave.** La integración lleva
-   **cinco días en `Estado: Error`** y el viernes Gosia avisó de que **los alumnos de matrícula
-   nueva no pueden entrar al Campus Virtual**. Nadie ha cruzado las dos cosas. Si están
-   relacionadas, llevas cinco días con el Campus roto para los nuevos en la primera semana de
-   curso — y eso no se explica después, se arregla antes.
-5. **Contesta a las dos invitaciones que llevan días en `needsAction`, empezando por la del viernes.**
-   Miguel Ángel ha convocado *"implantación red agentes programación"* el **vie 18, 12:30–14:00**,
-   **con todo tu equipo dentro**; y la *Reunión responsables* del **mar 22** sigue sin respuesta
-   desde el 03/09. En el mismo correo cabe confirmar el **intercambio de clase del lunes 21**, que
-   él ya ha dado por acordado contigo ante Luz Pérez y que **se publica en el Campus en cuanto ella
-   conteste**.
-6. **Dos cosas de calendario que solo dependen de ti y se arreglan en cinco minutos:** poner en el
-   calendario la **reunión de Apryse del martes 22** (es de Teams y no existe en Google — sexto
-   diario avisando) y **crear la serie de clase presencial de los lunes** desde el 21.
+1. **Manda las plantillas de Excel a Educación. Hoy, y ya no hay nada detrás.** Es el único punto
+   de la lista donde **tú eres el cuello de botella de otro departamento**: ellos han contestado
+   todo —las restricciones el 14, las fases el 16 y el 17— y lo que falta sale de ti. Te
+   comprometiste por escrito a "la semana próxima" y esa semana **se acaba mañana**. En el mismo
+   correo, deja por escrito el circuito de fases que te acaban de explicar: es lo que configura
+   `GES-234` y conviene tenerlo confirmado, no interpretado.
+2. **Corrige `GES-230` antes de que Paco la coja: son 17 especialidades, no 18.** Era acción tuya
+   de ayer y sigue mal. Es **P0 con fecha del 10 de octubre**, y quien la coja creará **Electrónica**
+   y **Hostelería y Turismo**, que Educación descartó — más tres que son de **sede Cartagena** y hay
+   que distinguir. Diez minutos hoy, o una corrección con Educación delante en noviembre.
+3. **Resuelve el solape del martes 22 a las 12:00, que te lo has creado tú misma.** Al meter el
+   Teams de Kalo en el calendario lo pusiste justo en el hueco donde llevas una semana intentando
+   meter el de Apryse — y como **la de Apryse no existe en ningún calendario**, nada avisó del
+   choque. Las dos tienen gente de fuera, así que mover una con tres días de margen es fácil; el
+   lunes ya no. Y de paso: **crea la de Apryse**, que es el séptimo diario diciéndolo.
+4. **Contesta hoy a Instructure: el reloj de las 48 horas lo arrancas tú.** Anthony ha dado el
+   diagnóstico esta madrugada —falta `declared_user_type: Admin` en el directorio de **IDUCAM**— y
+   ofrece consultoría por CSM o una llamada avisando con 48 h. **Si escribes hoy, la llamada puede
+   ser el lunes; si escribes el viernes, ya es la semana que viene.** Y hay un matiz que cambia a
+   quién le toca: **el arreglo no es de Canvas, es del directorio** — o sea, de Sistemas. Ese
+   diagnóstico explica además lo que avisó Gosia el 11, así que **deja de ser una incidencia de
+   soporte y pasa a ser un tema de inicio de curso**.
+5. **Cierra el horario de la clase del lunes 21, porque ya está publicado y no coincide.** Luz Pérez
+   dio el cambio por hecho esta mañana con lo que le contó Miguel Ángel (tú a las 11:00), pero tú
+   tienes puesto **12:30–14:00** — que es lo lógico, porque a las 11:00 es el acto de acogida. Es
+   información que ya están viendo los alumnos. Y al hilo: lo que creaste es **un evento suelto**,
+   así que **la serie de los lunes sigue sin existir** y el 28 no habrá nada que avise.
+6. **Si sobra tarde, saca al backlog la deuda vencida del sprint.** 22 tareas entran **ya vencidas**,
+   cinco de 2025 o de marzo; `CAN-350` lleva *Muy Urgente* y vencida **desde el 20 de marzo**. Es la
+   acción que quedó abierta ayer y la única que hace que el tablero vuelva a medir algo — porque el
+   **lunes 21 es la primera medición limpia** desde el cierre.
 
-> 🏆 **Lo que sí funcionó:** el viernes 11, con el día libre por delante, salieron cuatro cosas que
-> llevaban días atascadas — el acta de Fisioterapia, las notas de Prácticas Educación, la respuesta
-> a Adrián y el cronograma a Miguel Ángel. Y una de ellas volvió el lunes convertida en el
-> desbloqueo del proyecto más grande que tienes encima. **Hoy hay otro día libre igual.**
+> 🏆 **Lo que se ha cerrado en dos días:** el sprint (75 tareas), el reparto de Educación, las 5
+> horas de vigilancias, la invitación del viernes, el acta de Fisioterapia, la integración de
+> Canvas y cuatro TICAM. **Y Sigma ha roto el silencio de iText**, con Alicia Cano empujando: ese
+> ya no lo llevas sola.

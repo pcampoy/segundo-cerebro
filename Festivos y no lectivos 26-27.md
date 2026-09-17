@@ -23,6 +23,7 @@ actualizado: 2026-09-08
 |---|---|---|---|
 | **14/09/2026** | lunes | **No lectivo — actividad suspendida** | Peregrinación institucional al Cristo de Monteagudo (8:15–14:00). **Se suspende cualquier actividad** ese lunes |
 | **15/09/2026** | martes | **Festivo en Murcia** | Sin actividad laboral |
+| **17/09/2026** | jueves | **Suspensión parcial — solo Campus de Cartagena** | Alerta naranja por lluvias (AEMET). El Vicerrectorado de Calidad y Ordenación Académica suspende la actividad académica y las clases **en Cartagena**. **En Murcia no se suspende nada**: solo se acuerda no computar falta de asistencia a teoría a los alumnos que se desplacen desde **Campo de Cartagena y Mazarrón**. Día laborable normal para el equipo |
 
 ## Consecuencias registradas
 
