@@ -104,11 +104,11 @@ devuelva el inventario de la vista, nadie sabe qué campos faltan ni se puede pi
 **Este sprint (`Desarrollo 2026/15`) es de gestión.** El módulo del alumno se va casi entero al
 `2026/16`: primero se construye lo que alimenta la oferta, después lo que el alumno ve.
 
-| Quién | En el sprint 2026/15 |
-|---|---|
-| **Alex** | `GES-231` filtrado por código de título · **`GES-246` repaso visual** (primero de todo) · `GES-247` módulo de gestión del título · `GES-254` **épica** descarga del mapa de Prado |
+| Quién      | En el sprint 2026/15                                                                                                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alex**   | `GES-231` filtrado por código de título · **`GES-246` repaso visual** (primero de todo) · `GES-247` módulo de gestión del título · `GES-254` **épica** descarga del mapa de Prado                   |
 | **Juanma** | `GES-226` · `GES-232` · `GES-233` · `GES-234` · `GES-253` plazas de prueba · `GES-250` **épica** de adaptación · `GES-251` supervisar el algoritmo · `GES-252` supervisar pantallas (impacto en BD) |
-| **Paco** | `GES-227` · `GES-230` · `GES-236` · `GES-248` comprobar el algoritmo · `GES-249` listado de especialidades · `GES-255` **épica** del algoritmo |
+| **Paco**   | `GES-227` · `GES-230` · `GES-236` · `GES-248` comprobar el algoritmo · `GES-249` listado de especialidades · `GES-255` **épica** del algoritmo                                                      |
 
 | Quién | Pasadas al sprint 2026/16 |
 |---|---|
