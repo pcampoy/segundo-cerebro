@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[17-09-2026]].
-> **Última revisión:** 2026-09-17 *(segunda pasada a las 13:05 — el repaso automático se disparó tarde)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[18-09-2026]].
+> **Última revisión:** 2026-09-18 *(a las 13:09 — **segundo día seguido** en que el repaso automático de las 9:10 se dispara tarde)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -88,6 +88,92 @@ tags: [panel, pendientes, septiembre]
       12:00–12:30), que **sigue sin existir en ninguno de los tres calendarios de Google** — por eso
       nada avisó del choque. **Decidir cuál se mueve**, y con margen: las dos tienen gente de fuera
       → [[Licencias iText]]
+      - 🆕 *(18/09)* **Luis Espiñeira no va a la reunión del 22**: *"Yo no podré estar en la reunión
+        del 22"* (17/09, 17:23). Es el **Responsable de Seguridad y de Protección de Datos**: si la
+        reunión es para fijar posición ante el fabricante, decidir si su ausencia importa **antes**
+        de elegir qué reunión se mueve
+      - ⏳ **Solo queda el lunes.** Las dos tienen gente de fuera: el lunes ya no da margen a nadie
+
+## 🆕 Novedades del 18/09 (del correo)
+
+- [x] 🏆 🧾 **iText · Tangram entrega el zip, y ahora la tarea es de la UCAM.** **Emilio Álvarez,
+      18/09 11:52** (tarea `#40916` del CAU de Tangram, con Jesús March): está el **zip del paquete**
+      con las notas de open source y la referencia a la licencia correcta.
+      - [ ] 🔴 **Lo que falta es nuestro y es concreto:** un **PDF firmado por alguien de la UCAM**
+        (firma gráfica o digital) declinando *"todo interés en el copyright del programa
+        «GeneradorUCAMdeCopiasAuténticas»"*. **Lo que hay que decidir es quién firma** — es una
+        declaración institucional, no un trámite— y tiene que estar **antes del martes 22**
+      - 💡 **Matiz para llevar a la reunión:** *"que sea open source **NO** significa que tengáis la
+        obligación de publicar en abierto. Tenéis la obligación de, si alguien os pide ese código,
+        darle el zip sin cobrar"* → [[Licencias iText]]
+- [x] ✅ **Posición de iText cerrada y comunicada a Adrián** *(17/09, 20:13)*: Sigma paga licencia y
+      ha renovado hace poco; Tangram prepara el zip. **Ese hilo ya no espera por Pilar**
+- [ ] 🔴 🖥️ **Canvas vuelve a `Error`, y hoy hay cinco alumnos detrás.** El proceso de integración
+      del **18/09 a las 12:30** ha terminado en **`Estado: Error`**, tras dos días en "Correcto con
+      avisos". Y además, el mismo día:
+      - **tres alumnos** escriben al alias de Laurea con asunto *"Authentication SSO | Issue"* — uno
+        **desde su Gmail**, porque no puede entrar en su cuenta institucional
+      - **dos casos más** vía partner externo, y uno de ellos *"puede acceder correctamente a la
+        plataforma Canvas, pero el sistema le deniega el acceso a Laurea"*
+      🧩 **Ese último caso es el diagnóstico de Instructure visto desde el otro lado.** Deja de ser
+      una incidencia de soporte: **es inicio de curso con alumnos sin acceso**
+      → [[Inicio de curso Campus Virtual]]
+- [ ] 🔴 🖥️ **Instructure (caso 15222624): segundo día sin contestar.** La parte técnica se delegó en
+      Antonio el 17, pero **a Instructure no le ha escrito nadie** y las **48 h de aviso** de la
+      llamada no empiezan a correr hasta que salga ese correo
+- [ ] 🆕 🔐 **Higiene de accesos — dos cosas distintas el mismo día, y las dos se están tramitando
+      por correo:**
+      - **Un partner externo (`@higheredpartners.com`, 17/09 17:09)** pide *"añadáis su correo
+        personal (…) o teléfono (…) en sus métodos de autenticación"* de un alumno, **o** *"le
+        asignéis una contraseña provisoria/temporal"*. Correo auténtico y necesidad real (el alumno
+        está en bucle), pero **con un Gmail particular en los destinatarios** y el **móvil y el Gmail
+        del alumno en texto plano**. *(Los datos no se copian aquí: el vault sube a GitHub)*
+      - **Ester Illas, `CORREOS ACTIVOS` (10:49):** dos cuentas `@ucam.edu` de **UCAM CF** siguen
+        **activas** y sus titulares **ya no trabajan en la UCAM**
+      💡 **No hay circuito para ninguna de las dos cosas: hay hilos de correo.** Es lo mismo que hizo
+      posible el cebo del 17 → [[Seguridad (Proyecto)]]
+- [ ] 🆕 📧 **Ester Illas · `CORREOS ESESA` (11:09)** — para la renovación del contrato de Acrelia
+      preguntan **qué dominio tendrán los alumnos y el PAS/PDI de ESESA**. No es decisión de Pilar
+      sola, pero hay que decir **quién la toma**
+- [ ] 🆕 🎓 **Baldomero Imbernón (18/09, 12:57)**: *"¿Has recibido correo de Ordenación académica o de
+      Almudena de las mejoras que te comenté a la aplicación de reconocimientos?"*. 💡 **Es el mismo
+      interlocutor que abrió la hoja del parcial de 3º**: un solo correo contesta lo suyo y cierra lo
+      de docencia → [[Docencia (Área)]]
+- [ ] 🆕 📄 **Mª Dolores Gil · cláusula de WhatsApp en el texto de matrícula** *(18/09, 12:18, con
+      Servicios Jurídicos)* — hilo que viene de **febrero**; da por hecho que a estas alturas debería
+      estar cerrado. Pilar va en el "para", no en copia
+- [x] 🔑 **Localizada la clave del ticket del Ranking: `TICAM-13046`** *(Beatriz Muñoz, 17/09 16:00:
+      "Este es el número que me aparece en soporte: TICAM-13046 y se generó el 1 de septiembre")*.
+      Era el único cabo suelto del correo a Tomás → [[DWH-Vertica (Área)]]
+- [x] ✅ **Reunión responsables del mar 22 aceptada** — llevaba **14 días** en `needsAction`
+- [x] ✅ **Estudio Espalda Sana / Fisio** — el cambio de hora **ya está en el calendario**: vie 25,
+      **10:45–11:15**, sin chocar con la clase de 8:30–10:30
+- [x] ✅ **Tres referencias de Sigma resueltas el 18/09:** **307494** *(EXTFACUCAM, segregar
+      expedientes — 10:39)*, **307375** *(PLES, "Mecanización modalidad planes de estudios Laurea" —
+      11:13)* y **307056** *(EXDAT, EXPLODAT)*.
+      ⚠️ **Mirar qué se resolvió en la 307375**: es el tema del **RD 905/2025** que Alicia Cano quería
+      mecanizar con el Bot, y "resuelta sin entregable" no dice qué se decidió
+- [ ] 🆕 **Sigma, cuatro movimientos nuevos el 18/09:** **307609** *(MATS — el total bruto de la tasa
+      académica no cuadra con el desglose; es de matrícula, y estamos en matrícula)* · **307528**
+      *(TCSO — error de directores al calificar en Laurea; recibida y **parada** el mismo día)* ·
+      **307552** *(WSPDS — dejar un grupo sin docente)* · ⚠️ **307576** *(EXPS)*, que **es la 306699
+      otra vez**, la de *"URGE Calificaciones APTO en blanco"* que Sigma cerró el 15 con *"La
+      devolución no procede"*: **alguien la ha vuelto a abrir**. Saber si el problema seguía o si se
+      está reclamando sin datos nuevos, antes de que rebote una tercera vez
+- [ ] 🕐 **Tercer aviso de marcajes de la semana, y este es de Pilar**: RRHH avisa el 18/09 a las
+      11:01 de *"jornada inferior a la establecida"* el **17/09**. Van el del **14** (a cinco del
+      equipo, con la actividad suspendida), el del **16** y el del **17**. **Si el patrón sigue, el
+      problema es el sistema de fichaje**
+- [ ] ⚠️ 📅 **Agenda del 18/09 · dos convocatorias vivas en el mismo hueco, y una la creó Pilar.**
+      A las **12:30–14:00** están a la vez *"UCAM: implantación red agentes programación"* (Miguel
+      Ángel, Meet, ya aceptada) y **"Formación IA"**, que **Pilar creó ese mismo día a las 12:29**
+      con la descripción *"os convoco por aquí para poder grabar la sesión"*. Dos avisos:
+      - **Meet no es alcanzable** por el conector: **solo se puede capturar un Zoom convocado por
+        ella**. Si quería acta automática, con Meet hay que escribirla a mano
+      - Los asistentes ven **dos invitaciones a la misma hora**: conviene cancelar una
+- [ ] ⚠️ **La invitación de `Revisión procesos Acrelia` (vie 18, 11:30–12:00, Ester Illas) se quedó en
+      `needsAction` y la reunión ya pasó.** Es la consecuencia directa de que el daily se disparara
+      a las 13:09
 
 ## 🆕 Novedades del 16–17/09 (del correo)
 
@@ -444,9 +530,9 @@ tags: [panel, pendientes, septiembre]
       (viernes 11)**
       - Lo pide **Tomás Campoy**: mandó correo y **hay un ticket de soporte abierto**
       - Sale del **DWH / Vertica** → [[DWH-Vertica (Área)]]
-      - ⚠️ **Falta localizar la clave del ticket.** No aparece buscando por "ranking", "nivel de
-        estudios" ni entre los tickets creados por Tomás este mes. Buscarlo en el correo suyo o
-        preguntárselo
+      - [x] ✅ **Clave localizada: `TICAM-13046`** *(Beatriz Muñoz, 17/09 16:00; el ticket se generó
+        el 1 de septiembre)*. **Queda mirar si sale de Vertica tal cual o hay que cruzarlo, y
+        contestar a Tomás**
 - [ ] **Licencias iText** — revisar versiones `com.itextpdf` por repo: actualizar `certificadosws` (7.1.1→8.x), **borrar** `tfg-tfm`, revisar `tfgtfm`/`documentacion-secretaria` (5.5.8), `cuadernodoctorado` (5.0.6)
 - [ ] **Multisede**: adaptar aplicaciones a Madrid, Málaga y futuras sedes
       - ⚠️ **Bloqueado por RRHH, no por desarrollo:** sin instrucción para volcar el PDI y el PAS de
@@ -462,6 +548,8 @@ tags: [panel, pendientes, septiembre]
 
 > Revisado el 17/09: **han bajado de 33 a 18 issues abiertas**. El reparto del 16/09 se llevó 15 de
 > las de Educación y se cerraron cuatro de service desk.
+> *Revisado de nuevo el 18/09: **siguen siendo las mismas 18**, sin altas ni bajas. Nada se ha
+> movido en el tablero propio en 24 h.*
 
 - [x] 🏆 ~~`GES-222`…`GES-240` · las 19 de Prácticas Educación, todas a nombre de Pilar~~
       *(**repartidas el 16/09 por la tarde**. Le quedan solo las 4 epics — `GES-222` Restricciones de
@@ -499,7 +587,52 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 17/09, revisada a las 13:05)
+## 💡 Sugerencia de foco (Pilita · 18/09, 13:09)
+
+> **Hoy no hay día por delante, hay tarde.** El repaso ha llegado a las 13:09 y la mañana entera
+> —clase, Acrelia y el arranque de la doble reunión de las 12:30— ya ha pasado. Así que esto no es
+> una lista de seis cosas: son **tres que tienen que salir hoy** y una que hay que dejar montada
+> para el lunes. Lo demás puede esperar al lunes sin romperse.
+
+1. **iText: decide hoy quién firma, porque es lo único que ya no depende de nadie más.** Tangram ha
+   entregado el zip esta mañana y ha dejado la pelota del lado de la UCAM con una acción de una sola
+   línea: un **PDF firmado declinando el copyright** de *GeneradorUCAMdeCopiasAuténticas*. Lleva
+   **quince días** siendo "estamos esperando a Sigma / a Tangram", y hoy deja de serlo. No es el
+   texto lo que cuesta —lo manda Emilio literal—, es **de quién tiene que ser la firma**: es una
+   declaración institucional. La reunión con Apryse es el martes y **solo queda el lunes**, con
+   Luis Espiñeira ya diciendo que no va.
+2. **Contesta a Instructure, aunque sea en tres líneas.** Segundo día sin salir, y es el único punto
+   de la lista donde **el retraso se multiplica solo**: las 48 h de aviso no empiezan hasta que
+   escribas. Si sale hoy, la llamada cae el martes; si esperas al lunes, ya es jueves —con el
+   Campus Virtual roto para los nuevos desde hace una semana—. Y hoy hay argumento nuevo y caro:
+   el proceso ha vuelto a `Error` y han entrado **cinco alumnos** que no pueden acceder, uno de
+   ellos escribiendo **desde su Gmail** porque no tiene su cuenta. Ya no es una incidencia técnica,
+   **es servicio caído en la primera semana de curso**.
+3. **Manda las plantillas de Excel a Educación: hoy se acaba la semana que prometiste.** *"Las
+   tendréis durante la semana próxima"*, 11 de septiembre. Esa semana termina hoy. Ellos han
+   contestado **todo** —restricciones el 14, fases el 16 y el 17— y no queda nadie más en la cadena.
+   Si no sale hoy, el lunes ya no es un retraso: es una promesa incumplida delante de otro
+   departamento. En el mismo correo va el circuito de fases por escrito, que es lo que configura
+   `GES-234`.
+4. **Deja el lunes montado antes de irte, que son cinco minutos y evita tres problemas.** Tres cosas,
+   todas de un clic: **acepta el *Seguimiento Sprint - Dev* del lunes** —sigues en `declined` por
+   arrastre del día 14, y es **la primera medición limpia del tablero**—; **decide el horario de la
+   clase del 21**, porque lo que Luz publicó en el Campus y lo que tienes en el calendario no
+   coinciden y **eso ya lo están viendo los alumnos**; y **mueve una de las dos del martes a las
+   12:00**, que llevas ocho diarios avisando y el lunes ya no da margen a la gente de fuera.
+
+> ⏭️ **Para el lunes, no para hoy:** `GES-230` (17 especialidades, no 18 — sigue mal, tercer día), la
+> deuda vencida del sprint al backlog, avisar a Jesús March de `MIG-45`/`MIG-46`, y el correo a
+> Baldomero que de paso cierra la fecha del parcial de 3º.
+
+> 🏆 **Lo que se ha desbloqueado hoy solo:** Tangram ha entregado, **ya tienes la clave del ticket
+> del Ranking** (`TICAM-13046`, era lo único que faltaba para escribir a Tomás), la reunión de
+> responsables está aceptada tras 14 días, y el cambio de hora del estudio de Fisio ya está en el
+> calendario. **Sin correos sospechosos** — pero la verificación con Alejandro de lo de ayer sigue
+> pendiente, y esa no se cae sola.
+
+---
+## 💡 Sugerencia de foco (Pilita · 17/09, revisada a las 13:05) — *histórico*
 
 > ⚠️ **Lo primero ya no es ninguno de los seis puntos de abajo.** A media mañana llegaron cuatro
 > correos que son una **campaña de exfiltración con instrucciones dirigidas al asistente**, firmada
