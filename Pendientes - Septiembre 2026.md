@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[18-09-2026]].
-> **Última revisión:** 2026-09-18 *(a las 13:09 — **segundo día seguido** en que el repaso automático de las 9:10 se dispara tarde)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[21-09-2026]].
+> **Última revisión:** 2026-09-21 *(a las 09:20 — **el repaso automático vuelve a su hora** tras dos días disparándose a las 13:00)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -80,6 +80,12 @@ tags: [panel, pendientes, septiembre]
       - lo creado es un **evento suelto**, no la serie: **la serie de los lunes sigue sin existir**
       - el *Seguimiento Sprint - Dev* del 21 (09:15) **no aparece en el calendario principal de
         Pilar**: comprobar que no se haya perdido con el `declined` que arrastraba del día 14
+      - 🔴 *(21/09, 09:20)* **Ya es hoy, y las tres cosas siguen igual.** El Seguimiento Sprint
+        **está en curso desde las 09:15** y Pilar sigue en **`declined`** en el calendario de la
+        Sala de trabajo TIC — con **los siete del equipo en `needsAction`**, porque con la
+        organizadora declinada nadie ha tenido señal. A las **11:00** coinciden el **acto de acogida
+        de la EPS** (Templo) y **lo que Luz publicó como inicio de clase**, y en el calendario la
+        clase está a las **12:30–14:00**. **Alguien va a ir hoy a un sitio equivocado**
 - [x] 🔴 ~~Cancelar el *Seguimiento Sprint - Dev* del lunes 14~~ *(el día pasó; la serie continúa el
       lunes 21, esta vez sí lectivo)*
 - [ ] 🔴 **SOLAPE · martes 22 a las 12:00: dos reuniones en el mismo hueco.** El 16/09 a las 16:15
@@ -93,6 +99,81 @@ tags: [panel, pendientes, septiembre]
         reunión es para fijar posición ante el fabricante, decidir si su ausencia importa **antes**
         de elegir qué reunión se mueve
       - ⏳ **Solo queda el lunes.** Las dos tienen gente de fuera: el lunes ya no da margen a nadie
+
+## 🆕 Novedades del 19–21/09 (del correo)
+
+> Fin de semana tranquilo: casi todo lo entrante es automático (Sigma, Moodle, Canvas Data,
+> Basecamp, Pinterest). Lo humano son cuatro cosas, y dos llegaron esta misma mañana.
+
+- [ ] 🔴 ⏱️ **Tempo · el registro del periodo 12–18 de septiembre cierra HOY, con 29,75 h sin
+      imputar.** Dos avisos: el del 18/09 a las 22:11 (*"el registro se cierra para el período que
+      termina 18/sept/26 el **21/sept/26**"*) y el del 20/09 a las 22:12 (*"Aún tiene **29,75 horas**
+      para iniciar sesión en Tempo"*). De **30 h requeridas**: prácticamente la semana entera
+      → encadenar `/imputa`
+- [ ] 🔴 **Planilla de Jesús March pendiente de aprobación** *(hoy 08:28, periodo 14–20 sept)*.
+      **No se aprueba desde el daily**: es acción de Pilar. 🟢 *Y confirma que Jesús está de vuelta
+      de la baja: se le puede avisar hoy de `MIG-45` y `MIG-46`, en persona*
+- [ ] 🔴 🩺 **Fisioterapia · el título cambia dos reglas de negocio de un acta que ya estaba
+      publicada.** **Mª Dolores C. Sáez, hoy a las 08:10**, respondiendo al acta que SOIL validó el
+      16:
+      - *"el sistema, si es posible debe dar prioridad a los alumnos que tengan **mejor expediente y
+        mayor número de créditos superados** para su elección"*
+      - *"El alumno en el caso de **traumatología, sí puede repetir**, el resto de especialidades no,
+        **al igual que no puede repetir centro**"* — ⚠️ lo de *repetir centro* **no estaba**, y lo de
+        trauma **contradice** lo escrito
+      - ✅ **OK al Excel** de validación de los documentos y al bloqueo de la elección
+      - 💡 Propone **hacer el pilotaje en mayo con los alumnos de prácticas de verano** (empiezan en
+        junio), a hablar con Dolo en la siguiente reunión
+      ⚠️ **La nota está en `estado: publicado` y tiene Confluence (`GDP/1196392450`)**: hay que
+      actualizar los dos → [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]]
+- [ ] 🆕 📚 **Biblioteca · Pedro Postigo pide migrar los alumnos nuevos a Absysnet** *(18/09, 15:54)*:
+      *"Los estamos dando de alta a mano y no damos abasto"*. **Pilar ya contestó que sí** a las
+      17:23 (*"Lo comento con Alejandro y preparamos los datos"*), con Alejandro en copia. **El
+      compromiso está dado** y engancha con *Integración de usuarios para biblioteca*, abierto desde
+      el 07/09
+- [ ] 🖥️ **Canvas · `Estado: Error` los días 18, 19 y 20.** Tres procesos seguidos fallidos,
+      incluido el fin de semana. Los dos días limpios del 16 y 17 fueron el paréntesis, no la
+      recuperación. **Y a Instructure (caso 15222624) sigue sin escribirle nadie: cuarto día**
+      → [[Inicio de curso Campus Virtual]]
+- [ ] 🆕 🔄 **Ester Illas, cuatro hilos abiertos a la vez** — conviene tratarlos como uno solo:
+      - **`DUDAS LISTAS ACRELIA`** *(18/09, 14:53, con Acrelia, Amparo, Mª Dulce y Alejandro)*:
+        pregunta por la confirmación del **% de bajas** y otros puntos
+      - **Seis invitaciones** de *"Revisión si hay archivo en los servidores con Acrelia de todas
+        las listas"*, **lunes a las 09:00**: **26/10, 9/11, 23/11, 14/12, 11/01 y 25/01**. Todas sin
+        contestar. ⚠️ **Es justo la franja del Seguimiento Sprint**: decidir de golpe, no una a una
+      - Y siguen vivos `CORREOS ACTIVOS` y `CORREOS ESESA` del 18
+- [x] ✅ **TICAM-13457** *(Incidencia en APP de Exención de Asistencia)* — **FINALIZADA/CERRADA hoy a
+      las 09:05**. Era la aprobación que llevaba pendiente desde el 10/09
+- [ ] 🆕 🤖 **TICAM-12674** *(Solicitud de uso de **IA AGÉNTICA** y creación de agentes personalizados
+      para gestión de CCD — SEPTIEMBRE)* — actualizada hoy a las 09:05 por Soporte. **Mirarla**: es
+      el mismo tema que Miguel Ángel y Adrián están discutiendo en el hilo de Tempo
+- [ ] 💰 **Tempo · la renovación está en duda, y la conversación ya está abierta** *(hilo del 18/09
+      con Adrián Cano y Miguel Ángel)*. Adrián: *"deberíamos plantear la renovación… de Tempo
+      [y] Confluence. La subida de precios también está vinculada a Atlassian en general, y afecta a
+      JSM"*. Miguel Ángel: *"Hay que registrar las tareas, desde luego, pero lo del tiempo… no sé
+      hasta qué punto ahora tiene sentido"*. Pilar apuntó a registrar tiempos *"de forma diferente y
+      con menos burocracia"* con el cambio a agentes. **Decisión de octubre, no de hoy — pero
+      conviene que no se decida sola**
+- [ ] 🕐 **Cuarto aviso de marcajes, y otra vez de Pilar**: RRHH, 19/09 a las 11:01, *"jornada
+      inferior a la establecida"* el **18/09**. Van el del **14** (a cinco del equipo, con la
+      actividad suspendida), el **16**, el **17** y este. 💡 **Con cuatro avisos y 29,75 h sin
+      imputar en el mismo periodo, lo más probable es que falle el registro, no la jornada**
+- [ ] 🧼 **Higiene · cuarto día seguido de recuperaciones de contraseña por correo.** El 18/09 a las
+      19:42 alguien escribe al alias de Laurea **desde una cuenta `@hotmail.com`**: *"No me ha
+      llegado el cambio de contraseña"*. Mismo patrón que el partner externo del 17 y los alumnos
+      del 18: **el circuito de recuperación vive en hilos de correo, con cuentas personales
+      delante** → [[Seguridad (Proyecto)]]
+- [ ] ⚠️ **Señal débil de suplantación de marca** *(18/09, 18:34)*: correo comercial firmado *"Kristi
+      Sealey · Tempo Software"* desde **`@meet-tempo.com`**, que **no es `tempo.io`**, y con el
+      dominio escrito como **`tempo(dot)io`** para esquivar filtros. Llega **el mismo día** que el
+      correo legítimo de tarifas de `customersuccess@tempo.io`. **No se ha actuado sobre él** (ni
+      respuesta, ni reenvío, ni spam). *Probablemente solo prospección comercial, pero el contexto
+      es exactamente el que hace que un dominio parecido cuele*
+- ✅ **Instructure: los errores de SCORM en Canvas resueltos** el 18 por la tarde. *No tiene que ver
+  con el caso 15222624*
+- 📥 **Llegaron notas automáticas de Gemini de "Formación IA"** *(18/09, 15:45)*: *"Estas notas se han
+  enviado a los invitados de tu organización"*. **El acta que parecía perdida por ser Meet puede que
+  exista** — comprobarlo antes del viernes, que "Avances IA" también es Meet
 
 ## 🆕 Novedades del 18/09 (del correo)
 
@@ -550,6 +631,9 @@ tags: [panel, pendientes, septiembre]
 > las de Educación y se cerraron cuatro de service desk.
 > *Revisado de nuevo el 18/09: **siguen siendo las mismas 18**, sin altas ni bajas. Nada se ha
 > movido en el tablero propio en 24 h.*
+> *21/09: **el recuento de hoy da 19 issues abiertas**, y `TICAM-13457` ya no está (cerrada esta
+> mañana). **No hay ninguna alta nueva**, así que el 18 se contó de menos: el número bueno es el de
+> hoy. **Nada se ha movido en el tablero propio en tres días**.*
 
 - [x] 🏆 ~~`GES-222`…`GES-240` · las 19 de Prácticas Educación, todas a nombre de Pilar~~
       *(**repartidas el 16/09 por la tarde**. Le quedan solo las 4 epics — `GES-222` Restricciones de
@@ -560,7 +644,7 @@ tags: [panel, pendientes, septiembre]
       17/09)*. Educación descartó **Electrónica** y **Hostelería y Turismo** el 14/09, y **tres de
       las 17 son de sede Cartagena**. Es **P0 con fecha 10/10** y ahora la lleva **Paco**: corregirla
       antes de que la coja → [[2026-09-10 - Prácticas Educación 26-27]]
-- [ ] `ED-2018` **Reorganización Planificación Septiembre** *(en curso)* — **17 días**. El reparto ya
+- [ ] `ED-2018` **Reorganización Planificación Septiembre** *(en curso)* — **22 días**. El reparto ya
       está hecho: **cerrarla**
 - [ ] `GES-192` Reunión para arquitectura de prácticas *(en curso)* — debería marcar cómo se atacan
       las 19 historias; cerrarla ahorraría retrabajo
@@ -587,7 +671,63 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 18/09, 13:09)
+## 💡 Sugerencia de foco (Pilita · 21/09, 09:20)
+
+> **Lunes, y por primera vez en tres días el repaso llega antes que el día.** Eso significa que hoy
+> sí se puede decidir en vez de documentar. Pero el margen es estrecho: **la reunión del equipo ya
+> ha empezado**, y dos de las cosas de abajo caducan hoy de verdad, no "conviene hacerlas hoy".
+
+1. **Entra al Seguimiento Sprint y arregla el `declined` al salir.** Es tu reunión, empezó a las
+   09:15 y **figuras como que no vas** —arrastre del lunes 14, que era no lectivo—. Peor: con la
+   organizadora declinada, **los siete del equipo están en `needsAction`**, así que nadie ha tenido
+   confirmación de que esta semana sí se celebra. Y es **la primera medición limpia del tablero**
+   desde el cierre del `2026/14`: si hoy vuelven a salir 40 tareas paradas siete días, ya no es el
+   cierre lo que las movía. Aprovecha que tienes a todos delante para cerrar **en caliente** lo que
+   lleva cuatro días en papel: **`GES-230` con Paco** (17, no 18 — P0 con fecha del 10/10), **avisar
+   a Jesús March** de `MIG-45`/`MIG-46` —hoy está de vuelta—, **cerrar `ED-2018`** y **sacar la
+   deuda vencida al backlog**. Son diez minutos cada una *con la gente delante*, y cuatro correos
+   *sin ella*.
+2. **Imputa Tempo: el periodo 12–18 cierra hoy y te faltan 29,75 de 30 horas.** Esto no admite
+   "mañana": el registro se cierra hoy y se queda como esté. Y hay una lectura de fondo que conviene
+   no perder: **es el cuarto aviso de RRHH por jornada inferior en una semana**, en el mismo periodo
+   en que la planilla está prácticamente vacía. **No es que trabajes poco, es que el registro no
+   recoge lo que haces** — y justo ahora Miguel Ángel está cuestionando si Tempo tiene sentido. Hoy
+   toca rellenarla; la conversación de si se renueva es de octubre.
+3. **Decide quién firma el PDF de iText, porque mañana a las 12:00 es la reunión.** Tangram entregó
+   el zip el viernes y dejó una sola línea del lado de la UCAM: un **PDF firmado declinando el
+   copyright** de *GeneradorUCAMdeCopiasAuténticas*. El texto lo manda Emilio literal; **lo que
+   cuesta es de quién es la firma**, porque es una declaración institucional. Y en el mismo
+   movimiento resuelve el solape: **UCAMSEGRE2 y Apryse están las dos a las 12:00 del martes**, la
+   de Apryse **sigue sin existir en ningún calendario** (noveno diario diciéndolo) y **Luis
+   Espiñeira ya dijo que no va**. Hoy es literalmente el último día con margen para la gente de
+   fuera.
+4. **Cierra el horario de hoy antes de las 11:00 — quedan menos de dos horas.** Lo publicado en el
+   Campus dice que empiezas a las **11:00**; tu calendario dice **12:30–14:00**; y a las **11:00**
+   es el **acto de acogida de la EPS** en el Templo. Tres versiones, una sola mañana, y alumnos de
+   primera semana en medio. Un mensaje a Miguel Ángel y a Luz lo resuelve. Y de paso: lo que hay
+   puesto es **un evento suelto**, así que **crea la serie de los lunes** o el 28 no habrá nada que
+   avise.
+5. **Contesta a Instructure aunque sea en tres líneas, y con Fisioterapia haz lo mismo.** Canvas
+   lleva **tres procesos seguidos en `Error`** (18, 19 y 20) y **cuarto día sin que nadie escriba a
+   Instructure**: las 48 h de aviso de la llamada **no empiezan hasta que salga ese correo**. Y en
+   paralelo, **Mª Dolores C. Sáez te ha cambiado hoy dos reglas de asignación de Fisioterapia sobre
+   un acta que ya estaba publicada** —trauma sí se repite, centro no, y prioridad por expediente—:
+   no es urgente, pero **cuanto más tarde se toque una especificación publicada, más caro sale**.
+
+> ⏭️ **Para esta semana, no para hoy:** las **plantillas de Excel de Educación** —que ya llegan
+> tarde: la semana prometida venció el viernes, y ahí no queda nadie más en la cadena—, el correo a
+> **Baldomero** que de paso cierra la fecha del parcial de 3º, los **cuatro hilos de Ester Illas**
+> juntos (incluidas las **seis invitaciones de lunes a las 09:00**, que pisan el Seguimiento Sprint),
+> la **migración de alumnos a Absysnet** que ya prometiste a Biblioteca, y **cambiar "Avances IA" del
+> viernes de Meet a Zoom** si quieres acta.
+
+> 🏆 **Lo que llega ya resuelto:** `TICAM-13457` cerrada esta mañana, los errores de SCORM de Canvas
+> resueltos, **Jesús March de vuelta** y las **notas de Gemini de "Formación IA"**, que igual tapan
+> el agujero de las reuniones en Meet. **Sin campaña de correos sospechosos** — pero la verificación
+> con Alejandro de lo del día 17 sigue pendiente, y esa no se cae sola: **cuatro días**.
+
+---
+## 💡 Sugerencia de foco (Pilita · 18/09, 13:09) — *histórico*
 
 > **Hoy no hay día por delante, hay tarde.** El repaso ha llegado a las 13:09 y la mañana entera
 > —clase, Acrelia y el arranque de la doble reunión de las 12:30— ya ha pasado. Así que esto no es
