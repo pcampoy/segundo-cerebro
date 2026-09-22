@@ -12,7 +12,7 @@ tags: [MOC, panel]
 - [ ] **Educación** — retomar reuniones
 
 ### 🏃 Sprint / Equipo
-- [ ] Reasignación de tareas del sprint
+- [x] Reasignación de tareas del sprint
 - [ ] Reunión de seguimiento → [[2026-09-01 - Seguimiento Sprint - Dev]]
 - [ ] Rehacer DPO del equipo
 

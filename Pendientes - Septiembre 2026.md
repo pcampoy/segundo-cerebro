@@ -598,6 +598,7 @@ tags: [panel, pendientes, septiembre]
 - 📌 **Peregrinación al Cristo de Monteagudo**: lun 14, 8:15–14:00 (inscripción hecha) → mañana bloqueada
 
 ## ✉️ Correos a enviar (tú)
+- [ ] 🎬 **Pablo** — **enviar el vídeo** *(apuntado el 22/09; falta concretar **qué vídeo** y **por qué vía** — si no es correo, es Chat)*
 - [x] **Alicia Cano** — modalidad de impartición (RD 905/2025) *(contestado el 08/09 a las 18:04)*
 - [x] **Ana Mª Lorente** — Prado JS *(no hizo falta el correo: se resolvió el 10/09 en el hilo "ASIGNACIÓN SEP", con Alejandro Aix dando el diagnóstico y Ana confirmando a las 18:10)*
 - [ ] 🎓 **Antonio Llanes** — **5 ideas de TFG** para el curso 26-27 *(pedido el 10/09; hay listado del curso pasado para reutilizar)* → [[Docencia (Área)]]
@@ -693,6 +694,10 @@ tags: [panel, pendientes, septiembre]
 
 ## 📝 Gestión de Prácticas
 - [x] Realizar **manual del gestor de prácticas** *(lo hizo Alex, 03/09)*
+- [ ] 🗣️ **Hablar con Dolo** sobre la **disponibilidad del mapa docente** *(apuntado el 22/09)*
+      - Encaja con `GES-254` **Descarga del mapa docente de Prado**, dentro de la
+        **automatización de prácticas** (`GES-192`) que lleva ella → [[2026-09-16 - Seguimiento Sprint - Dev]]
+      - **Dolo** = María Dolores Saravia (SOIL). **No es Lola** → [[Quién es quién (apodos e interlocutores)]]
 
 ## 🔑 Accesos & usuarios
 - [ ] Administradores **JPII** (Isaac ya creó los usuarios; falta acceso admin) — Juanma
@@ -719,6 +724,8 @@ tags: [panel, pendientes, septiembre]
 - [ ] Repaso de incidencias **JSM**
 - [ ] Soporte **TICAM-11468**
 - [ ] Incidencias de **Recos** (chat de Zoom) — Juanma
+- [ ] 🚌 **Revisar el ticket de la eliminación de duplicado de tarjeta ALSA** *(apuntado el 22/09; falta la clave del ticket)*
+      - No es ninguno de los dos de Alsa que lleva **Juanma** en el sprint — `ED-2035` *desbloquear el registro* y `ED-2036` *Alsa a cron* → [[2026-09-16 - Seguimiento Sprint - Dev]]
 
 ## 🗂️ Mis tareas propias en Jira (fuera de JSM)
 
