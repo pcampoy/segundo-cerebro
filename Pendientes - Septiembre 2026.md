@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[21-09-2026]].
-> **Última revisión:** 2026-09-21 *(a las 09:20 — **el repaso automático vuelve a su hora** tras dos días disparándose a las 13:00)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[22-09-2026]].
+> **Última revisión:** 2026-09-22 *(a las 09:10 — **segundo día seguido a su hora**; el problema de los 13:00 se da por cerrado)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -86,19 +86,109 @@ tags: [panel, pendientes, septiembre]
         organizadora declinada nadie ha tenido señal. A las **11:00** coinciden el **acto de acogida
         de la EPS** (Templo) y **lo que Luz publicó como inicio de clase**, y en el calendario la
         clase está a las **12:30–14:00**. **Alguien va a ir hoy a un sitio equivocado**
+      - [x] ✅ *(22/09)* **La clase del 21 se dio y con lleno:** llegaron los resultados de Wooclap
+        de *"TEMA 2 - CLASIFICACIÓN SOMMERVILLE - PRESENCIAL 26-27"* con **38 participantes**. El lío
+        de horarios se resolvió sobre la marcha
+      - [ ] 🔴 *(22/09)* **Lo de fondo NO se resolvió: la serie de los lunes sigue sin crearse.** Lo
+        del 21 era **un evento suelto**. El **lunes 28 no habrá nada en el calendario que avise**, ni
+        a Pilar ni a la sala — y ya ha provocado el segundo choque *(la reunión de Apryse del 5/10)*
+      - [x] ✅ *(22/09)* **El Seguimiento Sprint del 21 se celebró.** 🔴 **Pero no ha dejado acta en
+        el vault**: la última nota de reunión sigue siendo la del **16/09**, y era **la primera
+        medición limpia del tablero**, el punto que se aplazó explícitamente a ese día
 - [x] 🔴 ~~Cancelar el *Seguimiento Sprint - Dev* del lunes 14~~ *(el día pasó; la serie continúa el
       lunes 21, esta vez sí lectivo)*
-- [ ] 🔴 **SOLAPE · martes 22 a las 12:00: dos reuniones en el mismo hueco.** El 16/09 a las 16:15
-      entró en el calendario **[UCAMSEGRE2] Planificación UCAM x SIGMA** (Teams, Kalo, 12:00–12:30,
-      con 23 convocados). Ese hueco exacto es el de **UCAM–Apryse/iText** (Teams, Adrián,
-      12:00–12:30), que **sigue sin existir en ninguno de los tres calendarios de Google** — por eso
-      nada avisó del choque. **Decidir cuál se mueve**, y con margen: las dos tienen gente de fuera
-      → [[Licencias iText]]
-      - 🆕 *(18/09)* **Luis Espiñeira no va a la reunión del 22**: *"Yo no podré estar en la reunión
-        del 22"* (17/09, 17:23). Es el **Responsable de Seguridad y de Protección de Datos**: si la
-        reunión es para fijar posición ante el fabricante, decidir si su ausencia importa **antes**
-        de elegir qué reunión se mueve
-      - ⏳ **Solo queda el lunes.** Las dos tienen gente de fuera: el lunes ya no da margen a nadie
+- [x] 🏆 ~~**SOLAPE · martes 22 a las 12:00: dos reuniones en el mismo hueco**~~ *(**disuelto el
+      21/09 a las 19:00**: Adrián pospuso la de Apryse —"He pospuesto la reunión para que podamos
+      comentar la situación internamente antes de trasladar una respuesta"— y la movió al **lunes 5
+      de octubre, 12:00–12:30**, esta vez **creada como invitación real** con Apryse delante. Nueve
+      diarios avisando; se cayó sola en una tarde)* → [[Licencias iText]]
+      - [ ] ⚠️ **Pero ha nacido con el mismo defecto: el 5/10 es lunes y hay clase de 11:00 a
+        12:30.** Pilar se lo dijo a Adrián el 21 a las 19:01 (*"Tengo clase hasta las 12:30. A partir
+        de las 12:45 sí podría"*) y **la invitación llegó igualmente a las 12:00**. 🟢 Hay **trece
+        días de margen**: decirlo ahora
+      - 💡 **Causa de fondo, y se repetirá:** la **serie de clases de los lunes 11:00–12:30 no existe
+        en el calendario**, así que quien busque hueco un lunes a esa hora la ve libre
+
+## 🆕 Novedades del 21–22/09 (del correo)
+
+> **Una tarde muy movida y dos rojos que se caen solos.** Lo de iText y el solape de las 12:00 los
+> resolvió gente de fuera en cuestión de horas. A cambio entran tres cosas nuevas y una agenda de hoy
+> que vuelve a chocar.
+
+- [x] 🏆 **Los dos grandes de iText, cerrados** — ver arriba: **reunión movida al lun 5/10** y
+      **firma decidida (la presidenta, vía Luis Espiñeira)**
+- [ ] 🔴 🆕 **SOLAPE de HOY · "Temas CV" (11:30–13:30) pisa UCAMSEGRE2 (12:00–12:30).** Isaac Serrano
+      convocó *"Temas CV"* el 21 a las 17:07, con Alejandro y Juanma, **dos horas y sin sala**.
+      Justo en medio cae **[UCAMSEGRE2] Planificación UCAM x SIGMA** (Teams, Kalo, 23 convocados),
+      donde Pilar figura en **`tentative`**.
+      💡 **Lo razonable es entrar 30 minutos a UCAMSEGRE2 y volver** —es la corta y la que tiene gente
+      de fuera—, **pero hay que decirlo**: desde `tentative` nadie sabe si cuentan con ella
+- [ ] 🔴 🆕 **SOLAPE de MAÑANA · miércoles 23 a las 11:00.** **Misa funeral por Elisa Castaño Ruiz**
+      (Templo; Pilar la puso en su calendario el 21 a las 15:59 tras el comunicado) contra el
+      **seguimiento semanal de Tangram** (Meet, Emilio y Rosa, ya aceptada). **Tangram es semanal y
+      Jesús March ya está convocado**: es la que se puede mover o delegar
+- [ ] 🟠 🆕 **Cientia · compromiso propio con fecha HOY.** El 21 a las 21:00 **Ginés Abellán** cerró la
+      prueba: *"Tras instalarme Cientia fuera del ámbito UCAM, indicar que **sigue siendo lento**… no
+      tanto como en UCAM, pero sigue lento"*. Pilar contestó a las 21:15: *"**Mañana vemos posibles
+      soluciones**"*. Van Treelogic delante y Miguel Ángel en copia.
+      💡 **La prueba descarta la red de la UCAM**: es un dato con el que empujar al proveedor
+- [ ] 🔴 ⏱️ **Tempo · el periodo 12–18 CERRÓ el 21 con 29,75 h sin imputar.** Ya no es "hoy caduca":
+      **caducó**. Lo que queda es decidir qué se hace con un periodo cerrado en falso, y va unido al
+      cuarto aviso de RRHH por jornada inferior
+- [ ] 🔴 **Cuatro planillas del equipo esperando aprobación:** Jesús March *(14–20)*, Paco Torrecillas
+      *(14–20)* y **Alejandro Aix dos veces**, *07–13* **y** *14–20*. La del 07–13 es de un periodo ya
+      cerrado. **No se aprueban desde el daily**: es acción de Pilar
+- [ ] 🆕 🚌 **Tarjeta unibono · `SUCAM-16132` vuelve por correo con una persona esperando desde
+      agosto.** Campus Cartagena escribió el 22 a las 08:42; Pilar redirigió a Juanma a las 08:46,
+      y a las 09:07 volvieron con el fondo: *"refiere no haber tenido respuesta al soporte que hizo
+      en **agosto**, y no puede recoger un duplicado de una tarjeta que ya recogió hace 5 años"*.
+      ⚠️ **El ticket es suyo y está EN CURSO desde el 20 de mayo.** Cuatro meses
+- [ ] 🆕 📋 **Datos personales en espera** *(22/09, 09:32 y 09:36)* — un compañero comparte un **filtro
+      de Jira** y una **hoja de cálculo con las solicitudes de cambio de datos personales** pendientes
+      de resolución, pidiendo que se miren. Petición legítima; **el problema es el vehículo**: datos
+      personales en una hoja compartida por correo, sin circuito → [[Seguridad (Proyecto)]]
+- [ ] 🆕 🔄 **Ester Illas · `SINCRONIZACIÓN LISTAS MADRID`** *(21/09, 16:19, con Amparo, Mª Dulce y
+      Alejandro)*. 🟢 **Alejandro contestó a las 16:32** — no es cuello de botella de Pilar. **Pero con
+      este ya son cinco hilos suyos abiertos** más las seis invitaciones de lunes a las 09:00:
+      **verlos todos de una vez**
+- [ ] 🆕 ⚙️ **Quodus · petición de ampliación de la API.** El 21 se cayó la API de planificación;
+      **Alejandro la levantó en menos de tres horas**. Aprovechando el hilo, Tomás L. Corlett pide
+      *"meter como parámetro adicional a las sesiones, la facultad/centro a la que pertenecen"*.
+      **Es alcance nuevo**: conviene que lo valide Pilar, no que entre por el hilo
+- [ ] 🆕 📄 **Vercel · `TICAM-13371`** — Mª Dolores Gil pregunta a Luis Espiñeira *(21/09, 09:29)* si
+      se autorizó la suscripción anual, **con urgencia por títulos que van a acreditación**. Pilar va
+      en copia oculta: no es suyo, pero le rebotará
+- [ ] 🆕 **Jesús March entrega el Excel de alumnos por plan para migrar** *(21/09, 15:33, con Alicia
+      Cano y Antonia Rosauro)*. 🟢 Está de vuelta y produciendo. 🔴 **Y sigue sin decírsele nada de
+      `MIG-45` y `MIG-46`**, que le cayeron el 16 estando de baja. *Quinto día*
+- [x] 🟢 **Canvas recuperado.** Dos procesos en `Error` el 21 por la mañana y el de **16:23–18:13 en
+      "Correcto con avisos"**. Se rompe la racha de tres días
+- [x] 🟢 **Instructure contestó el 21 a las 22:04** en el caso **15222624**, con la explicación del
+      atributo: *"si el atributo no está marcado exclusivamente para el aprovisionamiento, el usuario
+      también será eliminado de cualquier otro…"*. **El hilo ya no está parado esperando a la UCAM**
+      - [ ] ⚠️ Pero **el 22 a las 09:25 ha vuelto a llegar una "Notificación del administrador de la
+        cuenta"**: el síntoma exacto del caso, en vivo. Y la decisión **CSM-o-llamada sigue sin
+        tomarse** → [[Inicio de curso Campus Virtual]]
+- [ ] 🆕 ⚠️ **Sigma 305384** (↔ 296861, ID_RRHH) — **cerrada el 21 con *"La devolución no procede"***.
+      Es la que llevaba **sin leer desde el 04/09**: se cerró sola sin que nadie la mirara. **Segunda
+      vez este mes que Sigma usa esa fórmula** *(la otra, la 306699)*
+- [ ] 🆕 🟢 **Sigma 307712 `[EXTFACUCAM] Segregar expedientes`** — pasó el 21 a **Aceptada y pendiente
+      de planificación**. 📌 **Material directo para UCAMSEGRE2** · 🆕 **307685 `Copia de entornos`**
+      (NAUS), recibida el 21 · **307552** (WSPDS) con nota nueva el 22
+- [x] 🎓 **La clase presencial del 21 se dio**: 38 participantes en el Wooclap del Tema 2
+      *(Clasificación de Sommerville)*
+- [ ] 📌 **Instructure User Group del 6/10 en Madrid — recordatorio el 21** (*"Si no te has registrado
+      aún…"*). **Sigue sin inscripción**
+- [ ] ⚠️ **Señal débil `@meet-tempo.com` · novedad.** El remitente insistió el 21 a las 17:11
+      (*"worth a look, or should I cross this off your list?"*) y **Pilar respondió a las 17:20:
+      «no thanks,»**. **El daily no actuó en ningún momento**; la respuesta la mandó ella. *Lo único
+      que cambia es que ahora saben que la dirección está viva: con prospección legítima no pasa
+      nada, pero a un dominio sin verificar el silencio sale más barato que el "no thanks"*
+- [ ] 🔎 🆕 **Alta de Linear con el correo institucional, el 21 a las 17:59** (y primer login a las
+      18:02, IP `193.147.25.137`, geolocalizada en Móstoles). **HTML revisado y limpio**: remitente
+      real de Linear, enlaces a `linear.app`, sin texto oculto; y esa IP es del rango de la **red
+      académica española**, que geolocaliza mal. **Encaja con la conversación abierta de si se renueva
+      Tempo/Atlassian.** *Si el alta la hizo ella, ignorar; si no, mirarlo* → [[Seguridad (Proyecto)]]
 
 ## 🆕 Novedades del 19–21/09 (del correo)
 
@@ -180,10 +270,15 @@ tags: [panel, pendientes, septiembre]
 - [x] 🏆 🧾 **iText · Tangram entrega el zip, y ahora la tarea es de la UCAM.** **Emilio Álvarez,
       18/09 11:52** (tarea `#40916` del CAU de Tangram, con Jesús March): está el **zip del paquete**
       con las notas de open source y la referencia a la licencia correcta.
-      - [ ] 🔴 **Lo que falta es nuestro y es concreto:** un **PDF firmado por alguien de la UCAM**
-        (firma gráfica o digital) declinando *"todo interés en el copyright del programa
-        «GeneradorUCAMdeCopiasAuténticas»"*. **Lo que hay que decidir es quién firma** — es una
-        declaración institucional, no un trámite— y tiene que estar **antes del martes 22**
+      - [x] 🏆 ~~**Lo que falta es nuestro y es concreto:** un **PDF firmado por alguien de la
+        UCAM** declinando *"todo interés en el copyright del programa
+        «GeneradorUCAMdeCopiasAuténticas»"*. **Lo que hay que decidir es quién firma**~~
+        *(**contestado el 22/09 a las 09:00**. Pilar mandó el texto de la declaración a Adrián,
+        Miguel Ángel y Luis Espiñeira el 21 a las 21:21, y Miguel Ángel respondió: "Supongo que esto
+        lo tendrá que firmar **la presidenta**, ¿no? En ese caso, ¿puedes crear un documento que
+        incluya todos los datos identificativos de la Fundación y **pasarlo a firma**?", dirigido a
+        **Luis Espiñeira**. **La decisión institucional está tomada y la acción es de otro**; la
+        parte de Pilar terminó el 21 por la noche)* → [[Licencias iText]]
       - 💡 **Matiz para llevar a la reunión:** *"que sea open source **NO** significa que tengáis la
         obligación de publicar en abierto. Tenéis la obligación de, si alguien os pide ese código,
         darle el zip sin cobrar"* → [[Licencias iText]]
@@ -671,7 +766,62 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 21/09, 09:20)
+## 💡 Sugerencia de foco (Pilita · 22/09, 09:10)
+
+> **Hoy la lista roja es más corta de lo que era ayer, y no porque hayas hecho nada: porque dos
+> personas de fuera movieron ficha anoche.** El solape de las 12:00 lo disolvió Adrián posponiendo
+> Apryse al 5 de octubre; el "quién firma" lo cerró Miguel Ángel esta mañana diciendo que lo firma la
+> presidenta. Nueve diarios y cuatro diarios respectivamente, caídos en una tarde. **Merece la pena
+> quedarse con la lección: los dos llevaban semanas en "hoy sí o sí" y ninguno dependía de ti.**
+> Lo que queda hoy es más pequeño, pero sí es tuyo.
+
+1. **Sal del `tentative` de las 12:00 y di qué haces, porque hoy vuelves a estar en dos sitios.**
+   El choque de hoy ya no es iText: es que anoche a las 17:07 Isaac metió **"Temas CV" de 11:30 a
+   13:30**, justo encima de **UCAMSEGRE2** (12:00–12:30, Teams, Kalo, 23 convocados). Lo sensato es
+   **entrar media hora a UCAMSEGRE2 y volver** —es la corta y la que tiene gente de fuera—, y hoy
+   además llevas material nuevo: Sigma movió ayer la **307712 `[EXTFACUCAM] Segregar expedientes`** a
+   *aceptada y pendiente de planificación*, y la segregación arranca el **21 de octubre**. Pero desde
+   `tentative` **nadie sabe si cuentan contigo**: es un clic y un mensaje.
+2. **Contesta a Ginés lo de Cientia: es el único compromiso tuyo con fecha de hoy.** Anoche a las
+   21:15 escribiste *"mañana vemos posibles soluciones"*, y mañana es hoy. Ginés hizo el trabajo que
+   le pediste —probar Cientia fuera de la red de la UCAM— y el resultado **descarta que el problema
+   sea nuestro**: sigue lento fuera. Eso deja de ser una queja y pasa a ser un argumento ante
+   Treelogic, con Miguel Ángel mirando. **Si hoy no sale, mañana el que queda mal es quien hizo la
+   prueba.**
+3. **Rescata el acta del Seguimiento Sprint de ayer antes de que se evapore.** La reunión se celebró
+   (09:15–10:45) y **no ha dejado nota en el vault**: la última sigue siendo la del 16. Era **la
+   primera medición limpia del tablero** desde el cierre del `2026/14` —el punto que tres diarios
+   seguidos aplazaron a ayer— y en Jira **no ha cambiado nada**: `ED-2018` sigue *en curso* con
+   veintitrés días, `GES-192` igual, `MIG-29` vencida desde junio y `GES-230` sigue diciendo 18
+   especialidades. *Si aún lo tienes fresco, media hora hoy lo salva; el jueves ya no.*
+4. **Decide hoy lo de mañana a las 11:00, que son dos cosas que no se pueden delegar igual.** La
+   **misa funeral por Elisa Castaño** y el **seguimiento semanal de Tangram** están a la misma hora.
+   Tangram es semanal, va por Meet y **Jesús March ya está convocado**: es la que se mueve o se
+   delega. Y mientras estás en el calendario, mira lo otro: **el 5 de octubre Apryse ha caído encima
+   de tu clase** aunque dijiste por escrito "a partir de las 12:45". *La causa es siempre la misma:
+   **la serie de los lunes 11:00–12:30 no existe**, así que todo el mundo te ve libre a esa hora.*
+5. **Aprueba las cuatro planillas del equipo y mira qué haces con tu periodo cerrado en falso.**
+   Esperan Jesús March, Paco Torrecillas y **Alejandro Aix dos veces** —una de ellas del 07–13, de un
+   periodo que ya cerró—. Eso son cinco minutos. Lo tuyo no: **el 12–18 cerró ayer con 29,75 h sin
+   imputar de 30**, y con el cuarto aviso de RRHH por jornada inferior encima. *Sigue sin ser
+   creíble que trabajes cinco horas en una semana: lo que falla es el registro, y eso hay que
+   decirlo, no rellenarlo a posteriori.*
+
+> ⏭️ **Para esta semana, no para hoy:** las **plantillas de Excel de Educación** (vencidas desde el
+> viernes, cuarto día, y eres el único cuello de botella que le queda a ese proyecto), la respuesta a
+> **Fisioterapia** sobre las dos reglas que cambiaron un acta ya publicada, el correo a **Baldomero**
+> que de paso cierra la fecha del parcial de 3º, los **cinco hilos de Ester Illas** juntos con las
+> seis invitaciones, y **cambiar "Avances IA" del viernes de Meet a Zoom** si quieres acta.
+> 📅 **El jueves 24 está vacío y es el único hueco de la semana**: bloquéalo hoy o se llenará solo.
+
+> 🏆 **Lo que llega ya resuelto:** el solape de las 12:00 y el "quién firma" de iText *(los dos por
+> gente de fuera)*, **Canvas recuperado** anoche a las 18:13, **Instructure ha contestado** en el
+> caso 15222624, la reunión de IZO de las 16:00 aceptada tras cuatro días, y **la clase de ayer se
+> dio con 38 alumnos**. **Sin campaña de correos sospechosos** — pero la verificación con Alejandro
+> de lo del día 17 lleva **cinco días**, y hoy **lo tienes delante a las 11:30**: treinta segundos.
+
+---
+## 💡 Sugerencia de foco (Pilita · 21/09, 09:20) — *histórico*
 
 > **Lunes, y por primera vez en tres días el repaso llega antes que el día.** Eso significa que hoy
 > sí se puede decidir en vez de documentar. Pero el margen es estrecho: **la reunión del equipo ya
