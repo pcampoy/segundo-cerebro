@@ -12,7 +12,7 @@ actualizado: 2026-09-03
 > **Última actualización:** 2026-09-03
 
 ## 🔴 Urgentes
-- [ ] [TICAM-9597](https://ucam.atlassian.net/browse/TICAM-9597) — Actualización urgente de correos en Vértica · *Muy Urgente* · Esperando a terceros
+- [x] [TICAM-9597](https://ucam.atlassian.net/browse/TICAM-9597) — Actualización urgente de correos en Vértica · *Muy Urgente* · Esperando a terceros
 - [ ] [TICAM-7245](https://ucam.atlassian.net/browse/TICAM-7245) — Datos no actualizados en Personas.ucam.edu / Grupos · *Urgente* · Abierta
 - [ ] [TICAM-2134](https://ucam.atlassian.net/browse/TICAM-2134) — Aplicación de Reconocimientos · *Urgente* · Planificado
 
