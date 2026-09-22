@@ -16,4 +16,5 @@ tags: [área, producto]
 - 
 
 ## 🧩 Aplicaciones
-- 
+- **Gestión de permisos** — se accede por <https://gestionpermisos.ucam.edu/> *(apuntado el 22/09/2026)*
+ 
