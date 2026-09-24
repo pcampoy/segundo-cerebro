@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[22-09-2026]].
-> **Última revisión:** 2026-09-22 *(a las 09:10 — **segundo día seguido a su hora**; el problema de los 13:00 se da por cerrado)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[24-09-2026]].
+> **Última revisión:** 2026-09-24 *(a las 09:10 — tercer día seguido a su hora. **Sin diario el miércoles 23**: este repaso cubre dos días)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -109,6 +109,98 @@ tags: [panel, pendientes, septiembre]
       - 💡 **Causa de fondo, y se repetirá:** la **serie de clases de los lunes 11:00–12:30 no existe
         en el calendario**, así que quien busque hueco un lunes a esa hora la ve libre
 
+## 🆕 Novedades del 23–24/09 (del correo)
+
+> **Dos días tranquilos de correo y una noticia grande.** Casi todo lo entrante es automático; lo
+> humano son seis cosas. Y la gorda es que **Sigma ha movido la segregación de octubre a noviembre**,
+> que reordena la planificación del mes que viene entera.
+
+- [ ] 🔴 🆕 🗓️ **UCAMSEGRE2 · la segregación se va a NOVIEMBRE.** Kaloyan, **23/09 a las 09:54**,
+      tras la reunión del martes: *"la previsión sería durante las **primeras semanas de
+      noviembre/primera quincena**. Quedamos pendientes de la confirmación de **@Almudena Vicente
+      Buendía** para saber si estas fechas encajan con la planificación de vuestro departamento y
+      poder cerrar el día concreto de ejecución"*.
+      ⚠️ **La planificación vigente era 21/10 para las actuaciones en el software y 26/10 para la
+      segregación: eso ya no vale.** Tres consecuencias:
+      - **Se libera la semana del 21 de octubre**, que era justo la que se comía el mes
+      - **No es firme**: depende de que conteste Almudena. *Un mes en el aire planifica peor que un
+        mes ocupado*
+      - **El cronograma hasta diciembre hay que rehacerlo** → [[Cronograma de proyectos (hasta dic 2026)]]
+- [ ] 🔴 🆕 📝 **`GES-230` sigue mal Y ahora se está duplicando trabajo.** Comprobado en Jira el
+      24/09: el título sigue siendo *"RF-36 · Crear las asignaturas prácticas: **18 especialidades**
+      de Máster + 4 de Grado [P0]"*, actualizada el 23 a las 17:12 por **Paco**. *Sexto día.*
+      ⚠️ **Y Paco ha abierto `GES-249` *"Listado de especialidades ofertadas actualmente para el
+      Máster de Profesorado"***, EN CURSO desde el 23. **Ese listado está contestado por escrito
+      desde el 14/09** por José Javier Díaz: **17 especialidades**, sin Electrónica ni Hostelería y
+      Turismo, tres de sede Cartagena.
+      💡 **No es un fallo suyo: el dato se quedó en la bandeja de Pilar.** Un mensaje cierra las dos
+      tareas → [[2026-09-10 - Prácticas Educación 26-27]]
+- [ ] 🆕 📄 **Adrián Cano · *"Activación en PROD de reconocimientos"*** *(24/09, 08:00, a Pilar y a
+      Juanma)*. **El correo no tiene texto**: dos capturas de pantalla de anoche a las 22:55 y la
+      firma. *No se han abierto desde el daily.*
+      💡 **Engancha con Baldomero Imbernón**, que lleva desde el 18 preguntando por *"las mejoras a
+      la aplicación de **reconocimientos**"*: **puede que la respuesta esté ahí** → [[Docencia (Área)]]
+- [ ] 🆕 🎓 **Un alumno se ha quedado fuera de los grupos de trabajo** *(23/09, 20:18)*: *"he
+      revisado el documento de «GRUPOS PARA TRABAJO EN CLASE» … y **no aparezco**. Deduzco que se
+      debe a que el viernes no pude asistir a clase y me pregunto si **me podría poner con el grupo
+      7**"*. **Un minuto de respuesta**, y es la segunda semana de curso
+- [ ] 🆕 🔓 **`TICAM-13996` · acceso a EXPLODAT, con compromiso propio.** José Manuel Guardiola abrió
+      el ticket el 23 a las 13:49 *"tal y como le has comentado a Isaac"*, y **Pilar contestó a las
+      16:45: *"Lo hablo con Alicia para agilizarlo"***. Ese "lo hablo con Alicia" está pendiente
+- [ ] 🆕 🎫 **`TICAM-13349` · Solicitud de acceso a Asistencia** — **ticket propio, EN CURSO**, y
+      Miriam Franco comentó **tres veces el 22** (14:11, 14:29 y 17:46) sin respuesta
+- [ ] 🆕 💰 **Facturación de Atlassian errónea — Adrián abre frente con Sngular** *(23/09, 08:00)*:
+      *"estoy revisando las últimas facturas que nos estáis enviando para pagar el licenciamiento de
+      Atlassian y vemos una incoherencia"*. Paula (Sngular) propuso que lo cambie la UCAM; **Adrián
+      respondió a las 14:59 pidiendo que lo tramiten ellos y preguntando por el reembolso de la parte
+      proporcional**. Pilar en copia. 📌 **Misma conversación de fondo que la renovación de Tempo**
+- [ ] 🖥️ **Canvas · el fallo ha tomado una forma fija: falla de mañana, se recupera de tarde.**
+      23/09: **`Error` 12:30** (*"No se ha encontrado el fichero `datosLdap.csv` de la carga
+      actual"*), **`Error` 15:42** y **"Correcto con avisos" 16:37–17:24**. **Idéntico al 22/09.**
+      🧩 *Dos días clavados con el mismo patrón apuntan a que el fichero de LDAP no está disponible a
+      la hora del primer pase — eso no es un fallo de la integración*
+      → [[Inicio de curso Campus Virtual]]
+- [ ] 🆕 **Sigma 304441** *(PDS, "Géneros en grupos por estudio")*, nota añadida el 23. ⚠️ **Encaja
+      con los cuatro avisos automáticos de *"Campo género vacío - No se puede guardar"*** de esa
+      misma mañana: **puede ser el mismo problema por los dos lados** · **307549** *(TFEPE)* resuelta
+      sin entregable · **307576** *(EXPS)* modificada el 23
+- [x] 🟢 **El equipo está cerrando cosas:** **Alejandro Aix** dejó **FINALIZADAS** `GES-247`
+      *(Muy Urgente — módulo de gestión del título)* y `GES-231` *(RF-37, separar Grado y Máster)* el
+      22 por la tarde, y `GES-254` *(mapa docente de Prado)* en curso. **Paco** movió `GES-227`
+      *(carga masiva de certificados por CSV, P0)* el 23 a las 17:20
+- [x] 🟢 **Jesús March ha retomado las migraciones con Sigma** *(22/09, 13:45)*: ya está generando
+      datos de `SINC_EXPEDIENTES` del plan 196. Eloi responde que **lo retoman la semana que viene**
+      porque *"mañana tenemos la copia y **el jueves es fiesta en Barcelona**"*. 📌 *Sigma no trabaja
+      el 24: no esperar movimiento de referencias ese día*
+- [x] 🎓 **La clase online arrancó el 23 y quedó grabada.** Zoom mandó los recursos a las 17:13:
+      *"Presentación - Ing Requisitos-G Informática - Mu - ADis - Cast-Edición-0"*, **32 min 30 s**.
+      **La primera de las 12 sesiones, hecha**
+- [x] 🟢 **Gemini vuelve a generar notas automáticas de una reunión en Meet.** *"Notas: ED - Pilar
+      Campoy"* **(23/09, 18:16)**, de la reunión de las 17:30 con Miguel Ángel: *"Estas notas se han
+      enviado a los invitados de tu organización"*. **Segundo caso confirmado** tras "Formación IA"
+      del 18.
+      📌 **Decisión pendiente y con fecha:** o se da Gemini por bueno para reuniones internas en Meet
+      —y se deja de mover reuniones a Zoom—, o se comprueban esas notas **antes de "Avances IA" del
+      viernes 25 a las 13:00**
+- [ ] 🆕 📅 **Invitación nueva sin contestar: *"FP/Informática Gestión Prácticas y CRM Relación
+      empresas"*, mar 29 a las 12:00** *(Sergio López Palazón, 23/09 10:58, Meet)*
+- [ ] 🔄 **Ester Illas · `DUDAS LISTAS ACRELIA` avanzó sin Pilar** *(23/09, 11:26)*: Lidia dio los
+      umbrales — *empleados 25%, alumnos activos 55%, estudios simultáneos - simultáneos 85%*.
+      **Pero siguen los cinco hilos y las seis invitaciones de lunes a las 09:00**
+- [ ] 🧼 **Higiene · séptimo día, y ahora el emisor es una aplicación nuestra.** El 23 entre las
+      10:01 y las 10:04, **cuatro avisos de `noreply@ucam.edu`** (*"Incidencia Durante el
+      Procesamiento"*), **cada uno con un DNI y un correo en texto plano**. Más, por vía humana: una
+      alumna escribiendo con su DNI en el cuerpo *(22/09)*, una recodificación con NIA y NIP *(23/09)*
+      y un hilo de Gestión Económica cruzando el NIA de otra alumna. Y **un alta de cuenta `@ucam.edu`
+      tramitándose por correo** con dos aprobaciones encadenadas *(23/09, 11:51 y 12:01)*.
+      💡 **Cuando el propio sistema hace lo que se pide a la gente que deje de hacer, la norma no se
+      sostiene** → [[Seguridad (Proyecto)]]
+- ✅ **Sin correos sospechosos** en los dos días: ni campaña dirigida, ni continuación de la del
+  17/09, ni tokens, ni dominios parecidos. **Y el alta de Linear del 21 no ha tenido continuación**
+  *(ni más avisos ni actividad)*: si la hizo Pilar, se puede cerrar
+  - [ ] ⚠️ **La verificación con Alejandro de la campaña del 17/09 lleva una semana.** Por teléfono
+    o en persona, **nunca por correo**
+
 ## 🆕 Novedades del 21–22/09 (del correo)
 
 > **Una tarde muy movida y dos rojos que se caen solos.** Lo de iText y el solape de las 12:00 los
@@ -117,13 +209,18 @@ tags: [panel, pendientes, septiembre]
 
 - [x] 🏆 **Los dos grandes de iText, cerrados** — ver arriba: **reunión movida al lun 5/10** y
       **firma decidida (la presidenta, vía Luis Espiñeira)**
-- [ ] 🔴 🆕 **SOLAPE de HOY · "Temas CV" (11:30–13:30) pisa UCAMSEGRE2 (12:00–12:30).** Isaac Serrano
+- [x] 🔴 🆕 ~~**SOLAPE de HOY · "Temas CV" (11:30–13:30) pisa UCAMSEGRE2 (12:00–12:30).**~~ *(el día
+      pasó. **La reunión de UCAMSEGRE2 se celebró** —Kaloyan escribió al día siguiente sobre "la
+      reunión de ayer" y la fecha de noviembre—, así que la asistencia quedó resuelta sobre la
+      marcha. Queda el hábito: **salir del `tentative` antes, no durante**)* Isaac Serrano
       convocó *"Temas CV"* el 21 a las 17:07, con Alejandro y Juanma, **dos horas y sin sala**.
       Justo en medio cae **[UCAMSEGRE2] Planificación UCAM x SIGMA** (Teams, Kalo, 23 convocados),
       donde Pilar figura en **`tentative`**.
       💡 **Lo razonable es entrar 30 minutos a UCAMSEGRE2 y volver** —es la corta y la que tiene gente
       de fuera—, **pero hay que decirlo**: desde `tentative` nadie sabe si cuentan con ella
-- [ ] 🔴 🆕 **SOLAPE de MAÑANA · miércoles 23 a las 11:00.** **Misa funeral por Elisa Castaño Ruiz**
+- [x] 🔴 🆕 ~~**SOLAPE de MAÑANA · miércoles 23 a las 11:00.**~~ *(el día pasó y no hay rastro en el
+      correo de cómo se resolvió — **ni cancelación de Tangram ni acta de esa reunión**. Si hacía
+      falta mover algo, ya está hecho o ya está perdido)* **Misa funeral por Elisa Castaño Ruiz**
       (Templo; Pilar la puso en su calendario el 21 a las 15:59 tras el comunicado) contra el
       **seguimiento semanal de Tangram** (Meet, Emilio y Rosa, ya aceptada). **Tangram es semanal y
       Jesús March ya está convocado**: es la que se puede mover o delegar
@@ -773,7 +870,67 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 22/09, 09:10)
+## 💡 Sugerencia de foco (Pilita · 24/09, 09:10)
+
+> **Hoy no hay que elegir entre urgencias: hay que elegir qué hacer con un día entero.** Los tres
+> calendarios están vacíos —cero reuniones—, y eso no pasa desde hace semanas. Llevas tres diarios
+> diciendo que hay cosas que *"solo se cierran con hueco largo"*; el hueco ha llegado y es hoy.
+> **El riesgo de un día así no es quedarse corta: es repartirlo entre cinco cosas y no cerrar
+> ninguna.** Por eso esta lista va ordenada, no priorizada: es una jornada, de arriba abajo.
+
+1. **Manda las plantillas de Excel de Educación y el correo que las acompaña. Primero y con la cabeza
+   fresca.** Llevan **seis días vencidas**, el borrador está escrito entero en [[21-09-2026]] y
+   **eres el único cuello de botella que le queda a ese proyecto**. Y hoy tiene un motivo más:
+   confirmar por escrito que **son 17 especialidades** cierra de paso `GES-230` *(sexto día diciendo
+   18)* y **hace innecesaria `GES-249`**, la tarea que Paco abrió ayer para ir a buscar un listado
+   que tú ya tienes contestado desde el 14 de septiembre. *Un correo que cierra tres cosas.*
+2. **Crea la serie de clases de los lunes, de una vez.** Es lo más barato de la lista y lo que más
+   daño está haciendo: **el lunes 28 es dentro de cuatro días y sigue sin existir nada en el
+   calendario**, ni para ti ni para la sala. Ya ha provocado dos choques —la clase del 21 y **la
+   reunión de Apryse del 5 de octubre, que volvió a caer a las 12:00 después de que dijeras por
+   escrito "a partir de las 12:45"**—. *Mientras tu docencia no sea visible, quien busque hueco un
+   lunes a las 11:00 te va a seguir viendo libre.* Y de paso, **contesta al alumno del grupo 7**: un
+   minuto, segunda semana de curso.
+3. **Aprueba las cuatro planillas y decide qué haces con tu periodo cerrado en falso.** Esperan
+   **Jesús March, Paco y Alejandro Aix dos veces** —la del 07–13 es de un periodo ya cerrado y lleva
+   tres días—. Son cinco minutos y **desbloquea a cuatro personas**. Lo tuyo no es rellenar: el
+   12–18 cerró con **29,75 h de 30 sin imputar** y van cuatro avisos de RRHH. *Sigue sin ser creíble
+   que trabajes cinco horas en una semana: lo que falla es el registro, y eso se dice, no se
+   rellena a posteriori.*
+4. **Abre el correo de Adrián de esta mañana y, con lo que traiga, contesta a Baldomero.**
+   *"Activación en PROD de reconocimientos"* llegó a las 08:00 a ti y a Juanma, **sin texto, solo dos
+   capturas**. Baldomero lleva **catorce días** preguntando exactamente por las mejoras de la
+   aplicación de reconocimientos: **hay bastantes probabilidades de que la respuesta esté en esas dos
+   imágenes**. Y ese mismo correo cierra la hoja del parcial de 3º.
+5. **Por la tarde, rehaz el cronograma: ahora sí tienes el dato que faltaba.** Sigma movió ayer la
+   segregación **de octubre a la primera quincena de noviembre**, lo que **libera la semana del 21 de
+   octubre**, que era la que se comía el mes. ⚠️ **Pero depende de que conteste Almudena Vicente**:
+   empújalo hoy, porque *un octubre en el aire planifica peor que un octubre ocupado*.
+
+> ⏭️ **Lo que NO va hoy, y es deliberado:** el **DPO**. No cabe con lo anterior y llevas semanas
+> troceándolo sin cerrarlo — **merece su propio día, no las sobras de este**. Tampoco va el
+> **acta del Seguimiento Sprint del 21**: llevas tres días avisando y ya no queda memoria fresca;
+> o se reconstruye desde Jira en el semanal del lunes o se da por perdida, pero sin fingir que sigue
+> viva.
+>
+> 📌 **Esta semana, además:** **Fisioterapia** *(cuarto día; dos reglas de negocio cambiadas sobre un
+> acta ya publicada)*, los **cinco hilos de Ester Illas** con las seis invitaciones de lunes a las
+> 09:00, **`SUCAM-16132`** *(cuatro meses, con una persona esperando desde agosto)* y decidir de una
+> vez lo de **Meet/Zoom antes de "Avances IA" del viernes a las 13:00**.
+
+> 🏆 **Lo que llega resuelto o avanzando:** **sin correos sospechosos** en dos días · **el alta de
+> Linear no ha tenido continuación** · **la clase online arrancó y quedó grabada** *(primera de 12)*
+> · **Alejandro Aix cerró `GES-247` y `GES-231`**, Paco movió `GES-227` y **Jesús March ha retomado
+> las migraciones con Sigma** · y **Gemini volvió a sacar notas automáticas de una reunión en Meet**,
+> que es la segunda vez y probablemente cierre el debate.
+
+> 🧩 **El patrón de la semana, si merece la pena quedarse con uno:** *`GES-249` existe porque un
+> correo de Educación del 14 de septiembre se quedó en una bandeja.* Lo que el cliente interno
+> confirma por escrito debería aterrizar en Jira o Confluence el mismo día — si no, el equipo acaba
+> gastando tareas en averiguar lo que ya está contestado.
+
+---
+## 💡 Sugerencia de foco (Pilita · 22/09, 09:10) — *histórico*
 
 > **Hoy la lista roja es más corta de lo que era ayer, y no porque hayas hecho nada: porque dos
 > personas de fuera movieron ficha anoche.** El solape de las 12:00 lo disolvió Adrián posponiendo
