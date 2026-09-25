@@ -1,7 +1,7 @@
 ---
 tipo: referencia
 tags: [referencia, producto, personas, apodos]
-actualizado: 2026-09-09
+actualizado: 2026-09-25
 ---
 # 👥 Quién es quién — apodos e interlocutores
 
@@ -46,6 +46,10 @@ Y por encima de los dos:
 |---|---|---|---|
 | **Tomás** (en contexto de Ranking) | Tomás Campoy · *sin confirmar* | — | Pide el fichero de **nivel de estudios de los padres** para el Ranking |
 | **Tomás Pérez Rivas** | Tomás Pérez Rivas · `tprivas@ucam.edu` | — | Asistente de la reunión de **automatización de prácticas** del 09/09 |
+| **Alicia** | Alicia Cano | **Departamento UCAM Laurea** | **Lleva los proyectos SEGRE** *(confirmado por Pilar el 25/09)*. También el **RD 905/2025 / modalidad de impartición** y los planes de estudio para el Bot |
+| **Kalo** / **Kaloyan** | Kaloyan · *apellidos sin confirmar* | **Sigma** (proveedor) | **PM de Sigma** en `UCAMSEGRE2`: convoca las reuniones de planificación y comunica las fechas |
+
+> ℹ️ **SEGRE tiene dos figuras, y no se pisan:** **Alicia** lo lleva **por parte de la UCAM**, y **Kalo** es el **PM de Sigma**, que es quien convoca y mueve fechas. Que escriba Kalo no significa que la decisión sea suya.
 
 > ⚠️ **Los dos Tomás están sin aclarar.** No consta si el del Ranking y el de prácticas son la
 > misma persona. Preguntar antes de darlo por hecho.

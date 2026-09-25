@@ -161,7 +161,18 @@ tags: [panel, pendientes, septiembre]
       - **No es firme**: depende de que conteste Almudena. *Un mes en el aire planifica peor que un
         mes ocupado*
       - **El cronograma hasta diciembre hay que rehacerlo** → [[Cronograma de proyectos (hasta dic 2026)]]
-- [ ] 🔴 🆕 📝 **`GES-230` sigue mal Y ahora se está duplicando trabajo.** Comprobado en Jira el
+      > 🟢 **Criterio de Pilar, 25/09:** *"los proyectos SEGRE en principio están controlados. Yo si hay reuniones posteriores avísame como importante pero en principio lo lleva Alicia (Departamento UCAM Laurea)"*.
+      > **No es tuyo el seguimiento al detalle** — lo lleva Alicia. Lo que sí hay que levantar es **cualquier reunión nueva de SEGRE, que se marca como importante**.
+      > ⚠️ *Esto rebaja el 🔴 de arriba, pero no se ha quitado: el aviso de Kaloyan del 23/09 sigue sin confirmar por Almudena, y el cronograma sigue pendiente de rehacer. Si quieres que baje a 🟢 del todo, dilo.*
+      > ✅ **Pilar, 25/09: «no, déjalo en rojo».** El 🔴 se queda mientras sigan sin cerrar la confirmación de Almudena y el cronograma.
+- [ ] 🟠 📝 **`GES-230` ✅ CORREGIDA — queda `GES-249`, que es trabajo duplicado.**
+      ✅ **Pilar, 25/09: *"GES-230 corregida. Ya solo lleva 17 especialidades"*.** Comprobado en
+      Jira el **25/09 a las 18:05**: el título es ya *"RF-36 · Crear las asignaturas prácticas:
+      **17 especialidades** de Máster + 4 de Grado [P0]"*, actualizada hoy a las **17:59**.
+      **Eran nueve días diciendo 18.**
+      <br>
+      *Lo que sigue abajo es el estado anterior, del 24/09, que ya no aplica a `GES-230`:*
+      Comprobado en Jira el
       24/09: el título sigue siendo *"RF-36 · Crear las asignaturas prácticas: **18 especialidades**
       de Máster + 4 de Grado [P0]"*, actualizada el 23 a las 17:12 por **Paco**. *Sexto día.*
       ⚠️ **Y Paco ha abierto `GES-249` *"Listado de especialidades ofertadas actualmente para el
@@ -170,6 +181,14 @@ tags: [panel, pendientes, septiembre]
       Turismo, tres de sede Cartagena.
       💡 **No es un fallo suyo: el dato se quedó en la bandeja de Pilar.** Un mensaje cierra las dos
       tareas → [[2026-09-10 - Prácticas Educación 26-27]]
+      - [ ] 🟠 **`GES-249` SIGUE EN CURSO.** Comprobado en Jira el **25/09 a las 18:05**:
+            asignada a **Paco**, **sin tocar desde el 23/09 a las 17:12**. Corregir el título de
+            `GES-230` **no la cierra**: sigue buscando un listado que **ya está contestado por
+            escrito desde el 14/09** por José Javier Díaz. **Un mensaje a Paco y fuera.**
+            - [x] ✅ **Hecho el 25/09 a las 18:02:** comentario puesto en `GES-249` con el dato de
+                  José Javier (17, sin Electrónica ni Hostelería, tres de Cartagena) y ofrecimiento de
+                  reenviarle el correo del 14/09. **La tarea la cierra Paco**, no se ha transicionado
+                  desde fuera.
 - [ ] 🆕 📄 **Adrián Cano · *"Activación en PROD de reconocimientos"*** *(24/09, 08:00, a Pilar y a
       Juanma)*. **El correo no tiene texto**: dos capturas de pantalla de anoche a las 22:55 y la
       firma. *No se han abierto desde el daily.*
