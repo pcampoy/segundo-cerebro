@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[24-09-2026]].
-> **Última revisión:** 2026-09-24 *(a las 09:10 — tercer día seguido a su hora. **Sin diario el miércoles 23**: este repaso cubre dos días)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[25-09-2026]].
+> **Última revisión:** 2026-09-25 *(a las **12:30** — el daily se retrasó más de tres horas; revisar la tarea programada si se repite)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -108,6 +108,41 @@ tags: [panel, pendientes, septiembre]
         días de margen**: decirlo ahora
       - 💡 **Causa de fondo, y se repetirá:** la **serie de clases de los lunes 11:00–12:30 no existe
         en el calendario**, así que quien busque hueco un lunes a esa hora la ve libre
+
+## 🆕 Novedades del 24–25/09 (del correo)
+
+> **Día de cierres ajenos.** Lo que más pesaba en la lista lo han resuelto otros; lo nuevo es poco y
+> casi nada urgente.
+
+- [x] 🏆 **Plantillas de Educación enviadas por Paco** *(24/09, 17:09)* — Google Sheets de **alumnos**,
+      **oferta privada** y **oferta pública**, cabeceras fijas. El 25 a las 11:36, tras hablar con
+      José Javier y con Pilar: se quita la columna PERIODO, la oferta pública añade coordinador y
+      teléfono del tutor si están en PRADO, y la privada es sobre todo de Máster (una fila por oferta
+      y plaza) → [[2026-09-10 - Prácticas Educación 26-27]]
+      - [ ] ❓ **Sin contestar:** si un alumno con PR1 o PR2 se inscribe en una oferta PR1+PR2,
+        **¿resta una plaza o dos?** Afecta al algoritmo
+- [x] ✅ **Instructure 15222624 resuelto** *(24/09, 17:39)*. Queda saber qué se tocó y apuntarlo
+      → [[Inicio de curso Campus Virtual]]
+- [x] ✅ **`GES-246` FINALIZADA** *(Alejandro Aix, 25/09 11:16)* — desbloquea sus demás historias
+- [x] ✅ **iText cerrado por el lado de Pilar** — OK a Adrián el 24 a las 16:01; Luis Espiñeira: *"Por
+      mi sin problema"* → [[Licencias iText]]
+- [x] 🟢 **Canvas "Correcto con avisos" en el primer pase del 24** *(12:30–13:08)*: se rompe el patrón
+      de fallo de mañana
+- [ ] 🆕 🔐 **Alumni · consulta RGPD** *(Isidoro Bernal, 24/09 12:55)*: identificar alumni por DNI en
+      SIE/Call Center y usarlo para mandarles comunicaciones. **Es cambio de finalidad: DPD**
+      → [[Seguridad (Proyecto)]]
+- [ ] 🆕 🎓 **Ideas de TFG: deadline el 1/10** *(recordatorio de Antonio Llanes, 25/09)*
+- [ ] 🆕 📅 **Invitación "Nuevo proceso en sede", mar 29 09:00–09:30** *(24/09, 14:11)* — sin contestar
+- [ ] 🆕 **`TICAM-11468`** *(Exención de Asistencia, Urgente)* → Soporte crea **`AS-550`** *(25/09, 12:21)*
+- [ ] 🆕 ⚠️ **`GES-254` EN CURSO sin asignar** — se trabajó en la reunión del 24
+      → [[2026-09-24 - Definición de campos del mapa docente de prácticas]]
+- [ ] 🆕 🤖 **Bot de Automation Anywhere sin acceso a producción** *(24/09)* — Juanma abre soporte
+      (posible efecto de la migración de MySQL)
+- [ ] 🆕 **Nota interna de horas extra** de Miguel Ángel a RRHH *(25/09, 08:30)*, Pilar en copia
+- [ ] 🕐 **Quinto aviso de RRHH**: falta de marcaje de salida el 23/09
+- [ ] 🧼 **Higiene:** NIA de alumna en el **asunto** de un hilo de Gestión Económica · alumno con NIP
+      desde Gmail · hojas de Educación en Drive que **van a contener NIA** → decidir acceso y retención
+- ✅ **Sin correos sospechosos** del 23 al 25
 
 ## 🆕 Novedades del 23–24/09 (del correo)
 
@@ -263,7 +298,8 @@ tags: [panel, pendientes, septiembre]
 - [x] 🟢 **Instructure contestó el 21 a las 22:04** en el caso **15222624**, con la explicación del
       atributo: *"si el atributo no está marcado exclusivamente para el aprovisionamiento, el usuario
       también será eliminado de cualquier otro…"*. **El hilo ya no está parado esperando a la UCAM**
-      - [ ] ⚠️ Pero **el 22 a las 09:25 ha vuelto a llegar una "Notificación del administrador de la
+      - [x] *(resuelto: el 24/09 a las 17:39 el caso se actualizó con "hemos dado con la solución
+        al problema")* ⚠️ Pero **el 22 a las 09:25 ha vuelto a llegar una "Notificación del administrador de la
         cuenta"**: el síntoma exacto del caso, en vivo. Y la decisión **CSM-o-llamada sigue sin
         tomarse** → [[Inicio de curso Campus Virtual]]
 - [ ] 🆕 ⚠️ **Sigma 305384** (↔ 296861, ID_RRHH) — **cerrada el 21 con *"La devolución no procede"***.
@@ -546,9 +582,10 @@ tags: [panel, pendientes, septiembre]
       - **La oferta privada nominativa no es "seleccionable"**: entra ya casada con el alumno. El
         indicador *con/sin convenio* es para que **SOIL** dé el OK
       Adjunta además el **Excel de orden de alumnos 25/26** → [[2026-09-10 - Prácticas Educación 26-27]]
-- [ ] 🔴 **Compromiso propio con fecha: las plantillas de Excel para Educación.** En el correo del
+- [x] 🔴 **Compromiso propio con fecha: las plantillas de Excel para Educación.** En el correo del
       11/09 Pilar escribió *"las tendréis durante la semana próxima"* — **esa semana es la del 16 al
-      18**
+      18** *(**enviadas por Paco el 24/09 a las 17:09** como tres Google Sheets, y cerrados los
+      detalles con José Javier el 25/09 a las 11:36)*
 - [x] ✅ ~~Lo único que Educación no ha contestado: qué estudios entran en cada periodo de cada
       fase~~ *(**contestado el 16 y el 17** — ver el bloque de novedades de arriba)*
 - [x] ✅ ~~La integración UCAM–Canvas lleva cinco días en `Estado: Error`~~ *(**recuperada el 16/09**:
@@ -870,7 +907,42 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 24/09, 09:10)
+## 💡 Sugerencia de foco (Pilita · 25/09, 12:30)
+
+> **El daily llega tarde y el día ya está casi hecho**: clase y Fisio pasadas, y solo queda
+> **"Avances IA" a las 13:00**. Así que esto no es un plan para hoy: **es lo que conviene dejar
+> cerrado antes de que acabe la semana**, porque el sprint cierra el jueves 1 y el lunes es el
+> último Seguimiento antes.
+
+1. **En "Avances IA", dos cosas de treinta segundos con gente que vas a tener delante.** A
+   **Alejandro Sánchez**, si mandó él los cuatro correos del 17 *(ocho días sin verificar; en
+   persona es el canal bueno)*. A **Jesús March**, lo de `MIG-45` y `MIG-46` *(octavo día)*. Y al
+   acabar, **mira si llegan las notas de Gemini**: si llegan y valen, se cierra para siempre el
+   debate Meet/Zoom.
+2. **Tempo antes de irte.** Cuatro planillas del equipo esperando **cuatro días** y **el periodo
+   19–25 cierra el lunes**. No repitas el 12–18. *Es lo único de la lista que bloquea a otros.*
+3. **Crea la serie de clases de los lunes. El lunes 28 es el lunes que viene.** Cuarto diario. Y de
+   paso, **dile a Adrián que el 5/10 a las 12:00 no puedes**: diez días de margen todavía.
+4. **Un mensaje a Paco: "son 17, lo confirmó José Javier el 14/09".** Ahora que habla él
+   directamente con Educación, cierra `GES-230` y `GES-249` sin que tengas que escribir a nadie de
+   fuera. Y pregúntale si alguien ha contestado **lo de PR1+PR2: ¿una plaza o dos?**
+5. **El finde no, pero antes del 1/10: las 5 ideas de TFG.** Tiene fecha y la han recordado hoy.
+
+> ⏭️ **Lo que puede esperar al lunes:** la consulta de **Alumni** (es del DPD, no tuya — basta con
+> decirlo), el **cronograma** con la segregación en noviembre *(sigue pendiente de Almudena)* y el
+> **DPO**.
+
+> 🏆 **Lo que llega resuelto:** **las plantillas de Educación, enviadas por Paco** *(el rojo más
+> viejo de la semana)* · **Instructure 15222624 resuelto** *(adiós a la decisión CSM-o-llamada)* ·
+> **`GES-246` finalizada**, que desbloquea a Alejandro Aix · **iText cerrado por tu lado** ·
+> **Canvas limpio en el primer pase del 24** · **Cientia avanzando con Treelogic**.
+
+> 🧩 **El patrón de la semana, versión viernes:** *de los cinco rojos gordos del lunes, tres los han
+> cerrado otros* (Adrián, Miguel Ángel, Paco). Los que siguen abiertos —Tempo, la serie de clases,
+> `MIG-45/46`, la verificación del 17— **son los que solo puedes hacer tú**. Esa es la lista real.
+
+---
+## 💡 Sugerencia de foco (Pilita · 24/09, 09:10) — *histórico*
 
 > **Hoy no hay que elegir entre urgencias: hay que elegir qué hacer con un día entero.** Los tres
 > calendarios están vacíos —cero reuniones—, y eso no pasa desde hace semanas. Llevas tres diarios
