@@ -25,6 +25,12 @@ actualizado: 2026-09-08
 | **15/09/2026** | martes | **Festivo en Murcia** | Sin actividad laboral |
 | **17/09/2026** | jueves | **Suspensión parcial — solo Campus de Cartagena** | Alerta naranja por lluvias (AEMET). El Vicerrectorado de Calidad y Ordenación Académica suspende la actividad académica y las clases **en Cartagena**. **En Murcia no se suspende nada**: solo se acuerda no computar falta de asistencia a teoría a los alumnos que se desplacen desde **Campo de Cartagena y Mazarrón**. Día laborable normal para el equipo |
 
+## Octubre 2026
+
+| Fecha | Día | Tipo | Detalle |
+|---|---|---|---|
+| **05/10/2026** | lunes | **Suspensión parcial — actividad académica de 8:00 a 14:00, Campus de los Jerónimos** | Corte programado de suministro eléctrico (Iberdrola). La Dirección suspende la actividad académica planificada en esa franja; se retoma a las 14:00 *(VCOA, 25/09; reenviado por la EPS el 28/09)*. **Cae la clase presencial de 11:00–12:30.** No dice nada de la actividad laboral: sin luz, **el Seguimiento Sprint de las 09:15 en la sala y cualquier servicio que dependa del campus** quedan afectados |
+
 ## Consecuencias registradas
 
 - **Sprint `Desarrollo 2026/14` (31/08 → 15/09):** cierra el **martes 15, que es festivo**, y el

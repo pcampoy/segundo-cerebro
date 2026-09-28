@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[25-09-2026]].
-> **Última revisión:** 2026-09-25 *(a las **12:30** — el daily se retrasó más de tres horas; revisar la tarea programada si se repite)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[28-09-2026]].
+> **Última revisión:** 2026-09-28 *(a las **16:00** — segundo retraso en tres días; **se ha repetido**: revisar la tarea programada `daily-pilar-lunes`)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -89,7 +89,9 @@ tags: [panel, pendientes, septiembre]
       - [x] ✅ *(22/09)* **La clase del 21 se dio y con lleno:** llegaron los resultados de Wooclap
         de *"TEMA 2 - CLASIFICACIÓN SOMMERVILLE - PRESENCIAL 26-27"* con **38 participantes**. El lío
         de horarios se resolvió sobre la marcha
-      - [ ] 🔴 *(22/09)* **Lo de fondo NO se resolvió: la serie de los lunes sigue sin crearse.** Lo
+      - [x] ✅ *(28/09)* **La serie existe: "Clase IR", lunes 11:00–12:30, creada el 21/09 a las
+        14:05** — comprobado en el calendario el 28. *Se avisó cinco diarios de algo ya hecho.*
+        ~~*(22/09)* Lo de fondo NO se resolvió: la serie de los lunes sigue sin crearse.~~ Lo
         del 21 era **un evento suelto**. El **lunes 28 no habrá nada en el calendario que avise**, ni
         a Pilar ni a la sala — y ya ha provocado el segundo choque *(la reunión de Apryse del 5/10)*
       - [x] ✅ *(22/09)* **El Seguimiento Sprint del 21 se celebró.** 🔴 **Pero no ha dejado acta en
@@ -108,6 +110,51 @@ tags: [panel, pendientes, septiembre]
         días de margen**: decirlo ahora
       - 💡 **Causa de fondo, y se repetirá:** la **serie de clases de los lunes 11:00–12:30 no existe
         en el calendario**, así que quien busque hueco un lunes a esa hora la ve libre
+
+## 🆕 Novedades del 25–28/09 (del correo)
+
+> **Fin de semana tranquilo y un lunes que trae una fecha nueva:** el **5 de octubre no hay luz en
+> el campus** y se suspende la actividad académica de 8 a 14. Lo demás es poco y casi todo con
+> dueño claro.
+
+- [ ] 🔴 **Lun 5/10 · corte eléctrico en Jerónimos 8–14 h, actividad académica suspendida**
+      *(VCOA 25/09, EPS 28/09)*. Cae la **clase de 11:00** (poner anuncio en el CV al grupo), el
+      **Seguimiento Sprint de 09:15** en la sala se queda sin luz, y **Apryse a las 12:00** cae en
+      pleno corte. 💡 Confirmar con Sistemas el impacto en servicios → [[Festivos y no lectivos 26-27]]
+- [ ] 🔴 ⏱️ **Tempo · periodo 19–25 a 37,5 h sin imputar** *(la semana entera; aviso del 27 a las
+      22:10)* + **tres planillas nuevas 21–27** (Alejandro Aix, Jesús March, Paco) encima de las
+      cuatro anteriores → `/imputa`
+- [ ] 🗓️ **Reunión con Educación para enseñar la aplicación** — convocada por Pilar el 28 a las
+      09:28. Dolo propone mié 15:30–18:00 *(choca con la clase online)*; Educación, **mié o jue
+      10:45–11:30**. **Solo encaja el jue 1/10, 10:45–11:30.** En Zoom si se quiere acta
+      → [[2026-09-10 - Prácticas Educación 26-27]]
+- [ ] 🔴 **Mié 30 · Qualtrics (09:00–14:00) choca con Tangram "seguimiento semanal" (11:00–12:00)**,
+      las dos aceptadas → delegar Tangram en Jesús March
+- [ ] 🎓 **Baldomero Imbernón manda por fin las tres mejoras de reconocimientos** *(25/09, 16:43)*:
+      ver reconocimientos previos al valorar · reabrir en la misma modalidad en el mismo curso ·
+      mostrar el papel del evaluador. **Son requisitos: contestar con fecha** → [[Docencia (Área)]]
+- [ ] 🧾 **Sigma 306886 (iText) pide confirmación a Pilar para cerrar** *(28/09, 12:02)* → [[Licencias iText]]
+- [ ] ✅ **`TICAM-13349` — la usuaria confirma que funciona** *(28/09, 09:00)*: se puede cerrar
+- [ ] 👤 **Ausencia de Jesús March pendiente de validar en MENTOR** *(28/09)*
+- [ ] 💰 **Atlassian cobra la factura `IN-EU-003-592-454`** *(28/09)* con la reclamación de Adrián a
+      Sngular abierta: ¿era la buena?
+- [ ] 🔎 **Ex Libris ve una API key (sandbox, solo lectura) que la UCAM dice no haber creado**
+      *(28/09)* → verificar con Alejandro y revocar si nadie la reconoce → [[Seguridad (Proyecto)]]
+- [ ] 🧼 **Alma · se decide en Basecamp qué SFTP usar para los datos de alumnos** (propio o de Ex
+      Libris) → decisión de Alejandro, Pilar y Sistemas
+- [ ] 🆕 **Sigma 308013** y **306752** (MOVS, acuerdos OLA) · **307609** (MATS) — notas el 28
+- [ ] 📌 **Instructure User Group 6/10: la inscripción cierra el 2/10**
+- [ ] 📌 **Qualtrics Business Review, mié 7/10 10:00** *(Pilar reservó la Sala TIC el 25)*
+- [ ] 🧪 **IZO rellena la encuesta de PDI con "respuestas sintéticas"** para llegar al 10 % por título;
+      Rosa Fuentes ya ve datos incoherentes en Medicina. No es de Pilar, pero conviene saberlo
+- [x] ✅ **`GES-249` FINALIZADA** *(Paco, 28/09 08:21)* · **Paco lista en `GES-230` las 17
+      especialidades** y menciona a Pilar
+- [x] ✅ **La serie de clases de los lunes ya existía** *(21/09)*
+- [x] 🟢 **Canvas limpio al primer pase tres días seguidos** (26, 27 y 28)
+- [ ] 🎥 **"Avances IA" (25/09, Meet) no ha dejado notas de Gemini**: tercer caso, primero que falla
+- [ ] 🧩 **El plugin *Rollover Daily Todos* trunca y mueve pendientes entre diarios** — el 24/09 perdió
+      líneas (recuperables de git); el 28 se deshizo a mano. Proponer desactivar `rolloverOnFileCreate`
+- ✅ **Sin correos sospechosos** del 25 al 28
 
 ## 🆕 Novedades del 24–25/09 (del correo)
 
@@ -181,7 +228,7 @@ tags: [panel, pendientes, septiembre]
       Turismo, tres de sede Cartagena.
       💡 **No es un fallo suyo: el dato se quedó en la bandeja de Pilar.** Un mensaje cierra las dos
       tareas → [[2026-09-10 - Prácticas Educación 26-27]]
-      - [ ] 🟠 **`GES-249` SIGUE EN CURSO.** Comprobado en Jira el **25/09 a las 18:05**:
+      - [x] ✅ **`GES-249` FINALIZADA el 28/09 a las 08:21 por Paco** *(comprobado en Jira)*. ~~🟠 `GES-249` SIGUE EN CURSO.~~ Comprobado en Jira el **25/09 a las 18:05**:
             asignada a **Paco**, **sin tocar desde el 23/09 a las 17:12**. Corregir el título de
             `GES-230` **no la cierra**: sigue buscando un listado que **ya está contestado por
             escrito desde el 14/09** por José Javier Díaz. **Un mensaje a Paco y fuera.**
@@ -278,7 +325,7 @@ tags: [panel, pendientes, septiembre]
       (Templo; Pilar la puso en su calendario el 21 a las 15:59 tras el comunicado) contra el
       **seguimiento semanal de Tangram** (Meet, Emilio y Rosa, ya aceptada). **Tangram es semanal y
       Jesús March ya está convocado**: es la que se puede mover o delegar
-- [ ] 🟠 🆕 **Cientia · compromiso propio con fecha HOY.** El 21 a las 21:00 **Ginés Abellán** cerró la
+- [x] 🟠 🆕 **Cientia · compromiso propio con fecha HOY.** *(cerrado en el diario del 24/09)* El 21 a las 21:00 **Ginés Abellán** cerró la
       prueba: *"Tras instalarme Cientia fuera del ámbito UCAM, indicar que **sigue siendo lento**… no
       tanto como en UCAM, pero sigue lento"*. Pilar contestó a las 21:15: *"**Mañana vemos posibles
       soluciones**"*. Van Treelogic delante y Miguel Ángel en copia.
@@ -830,7 +877,7 @@ tags: [panel, pendientes, septiembre]
 - [ ] 📝 **Fijar el parcial de Ingeniería de Requisitos (presencial) y la entrega de prácticas** en la
       hoja de coordinación de 3º: ventana **22/10 → 17/11**, máx. 2 exámenes por semana en el curso
 - [ ] 🎥 **Mecanizar tus videoconferencias del 1er semestre** en la hoja del claustro online (12 sesiones, mié 16:00–17:00 desde el 23/09; última semana de diciembre solo lun 21 y mar 22)
-- [ ] 📅 **Crear la serie de clase presencial de los lunes 11:00–12:30** en el calendario, **desde el lunes 21** (el 14 es no lectivo) → [[Festivos y no lectivos 26-27]]
+- [x] ✅ *(existe desde el 21/09, comprobado el 28)* 📅 **Crear la serie de clase presencial de los lunes 11:00–12:30** en el calendario, **desde el lunes 21** (el 14 es no lectivo) → [[Festivos y no lectivos 26-27]]
       - 🔴 **Pero el lunes 21 a las 11:00 es el Acto de acogida de la EPS** (Templo, avisado el
         10/09 por Mª del Mar Cantabella). **Decidir primero**: o la clase del 21 se mueve, o la
         serie arranca el **lunes 28**
@@ -928,7 +975,31 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 25/09, 12:30)
+## 💡 Sugerencia de foco (Pilita · 28/09, 16:00)
+
+> **La mañana ya se fue** (Seguimiento, Acrelia y clase). Esto es para **lo que queda de hoy y los
+> tres días de sprint** que faltan, en una semana con Qualtrics el miércoles entero y SIGMA el jueves.
+
+1. **Tempo, hoy.** Tu 19–25 está a **37,5 h** y hay **siete planillas** del equipo esperando. Es lo
+   único de la lista que **bloquea a otros y además caduca**; el 12–18 ya se perdió así.
+2. **Cierra el hueco de Educación: jue 1/10, 10:45–11:30, en Zoom.** Es el único que te vale, y con
+   el DNI del tutor decidido antes. *Sin fecha esta semana, la demo se va a octubre y las fechas de
+   Educación (10/10 parte básica) no se mueven.*
+3. **Dos mensajes de un minuto que desatascan a otros:** a **Jesús March**, `MIG-45`/`MIG-46` y que
+   lleve él Tangram el miércoles; a **Alejandro**, la API key de Ex Libris.
+4. **El lunes 5 sin luz:** anuncio a tus alumnos en el CV y mover el Seguimiento de ese día a online.
+   Una semana de margen, pero es de las que se olvidan hasta que es tarde.
+5. **Antes del jueves: las 5 ideas de TFG.** Tienen fecha y nadie más las puede hacer.
+
+> ⏭️ **Puede esperar:** Alumni (es del DPD), el cronograma con la segregación en noviembre
+> (pendiente de Almudena) y el DPO. **Mañana en Reunión responsables** saca *Ediciones de plan en
+> Laurea*, que el acta del 04/09 pide llevar a la próxima conversación de prioridades.
+
+> 🏆 **Lo que llega resuelto:** `GES-249` cerrada por Paco · `TICAM-13349` confirmado por la usuaria ·
+> la serie de clases de los lunes (existía desde el 21) · Canvas limpio tres días seguidos.
+
+---
+## 💡 Sugerencia de foco (Pilita · 25/09, 12:30) — *histórico*
 
 > **El daily llega tarde y el día ya está casi hecho**: clase y Fisio pasadas, y solo queda
 > **"Avances IA" a las 13:00**. Así que esto no es un plan para hoy: **es lo que conviene dejar
