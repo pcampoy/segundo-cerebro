@@ -289,10 +289,10 @@ tags: [panel, pendientes, septiembre]
 - [ ] 🔴 **Cuatro planillas del equipo esperando aprobación:** Jesús March *(14–20)*, Paco Torrecillas
       *(14–20)* y **Alejandro Aix dos veces**, *07–13* **y** *14–20*. La del 07–13 es de un periodo ya
       cerrado. **No se aprueban desde el daily**: es acción de Pilar
-- [ ] 🆕 🚌 **Tarjeta unibono · `SUCAM-16132` vuelve por correo con una persona esperando desde
+- [x] 🆕 🚌 **Tarjeta unibono · `SUCAM-16132` vuelve por correo con una persona esperando desde
       agosto.** Campus Cartagena escribió el 22 a las 08:42; Pilar redirigió a Juanma a las 08:46,
       y a las 09:07 volvieron con el fondo: *"refiere no haber tenido respuesta al soporte que hizo
-      en **agosto**, y no puede recoger un duplicado de una tarjeta que ya recogió hace 5 años"*.
+      en **agosto**, y no puede recoger un duplicado de una tarjeta que ya recogió hace 5 años"*. *(cerrado en el diario del 25/09)*
       ⚠️ **El ticket es suyo y está EN CURSO desde el 20 de mayo.** Cuatro meses
 - [ ] 🆕 📋 **Datos personales en espera** *(22/09, 09:32 y 09:36)* — un compañero comparte un **filtro
       de Jira** y una **hoja de cálculo con las solicitudes de cambio de datos personales** pendientes
@@ -309,9 +309,11 @@ tags: [panel, pendientes, septiembre]
 - [ ] 🆕 📄 **Vercel · `TICAM-13371`** — Mª Dolores Gil pregunta a Luis Espiñeira *(21/09, 09:29)* si
       se autorizó la suscripción anual, **con urgencia por títulos que van a acreditación**. Pilar va
       en copia oculta: no es suyo, pero le rebotará
-- [ ] 🆕 **Jesús March entrega el Excel de alumnos por plan para migrar** *(21/09, 15:33, con Alicia
-      Cano y Antonia Rosauro)*. 🟢 Está de vuelta y produciendo. 🔴 **Y sigue sin decírsele nada de
-      `MIG-45` y `MIG-46`**, que le cayeron el 16 estando de baja. *Quinto día*
+- [x] 🆕 **Jesús March entrega el Excel de alumnos por plan para migrar** *(21/09, 15:33, con Alicia
+      Cano y Antonia Rosauro)*. 🟢 Está de vuelta y produciendo. *(cerrado en el diario del 25/09)*
+- [ ] 🔴 **A Jesús March sigue sin decírsele nada de `MIG-45` y `MIG-46`**, que le cayeron el 16
+      estando de baja. *Quinto día.* ⚠️ **Separado el 25/09 de la entrega del Excel**, que sí está
+      cerrada: iban en el mismo punto y esto se habría enterrado al tacharlo
 - [x] 🟢 **Canvas recuperado.** Dos procesos en `Error` el 21 por la mañana y el de **16:23–18:13 en
       "Correcto con avisos"**. Se rompe la racha de tres días
 - [x] 🟢 **Instructure contestó el 21 a las 22:04** en el caso **15222624**, con la explicación del
@@ -368,11 +370,11 @@ tags: [panel, pendientes, septiembre]
         junio), a hablar con Dolo en la siguiente reunión
       ⚠️ **La nota está en `estado: publicado` y tiene Confluence (`GDP/1196392450`)**: hay que
       actualizar los dos → [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]]
-- [ ] 🆕 📚 **Biblioteca · Pedro Postigo pide migrar los alumnos nuevos a Absysnet** *(18/09, 15:54)*:
+- [x] 🆕 📚 **Biblioteca · Pedro Postigo pide migrar los alumnos nuevos a Absysnet** *(18/09, 15:54)*:
       *"Los estamos dando de alta a mano y no damos abasto"*. **Pilar ya contestó que sí** a las
       17:23 (*"Lo comento con Alejandro y preparamos los datos"*), con Alejandro en copia. **El
       compromiso está dado** y engancha con *Integración de usuarios para biblioteca*, abierto desde
-      el 07/09
+      el 07/09 *(cerrado en el diario del 25/09)*
 - [ ] 🖥️ **Canvas · `Estado: Error` los días 18, 19 y 20.** Tres procesos seguidos fallidos,
       incluido el fin de semana. Los dos días limpios del 16 y 17 fueron el paréntesis, no la
       recuperación. **Y a Instructure (caso 15222624) sigue sin escribirle nadie: cuarto día**
@@ -755,7 +757,7 @@ tags: [panel, pendientes, septiembre]
 - [x] **Alicia Cano** — modalidad de impartición (RD 905/2025) *(contestado el 08/09 a las 18:04)*
 - [x] **Ana Mª Lorente** — Prado JS *(no hizo falta el correo: se resolvió el 10/09 en el hilo "ASIGNACIÓN SEP", con Alejandro Aix dando el diagnóstico y Ana confirmando a las 18:10)*
 - [ ] 🎓 **Antonio Llanes** — **5 ideas de TFG** para el curso 26-27 *(pedido el 10/09; hay listado del curso pasado para reutilizar)* → [[Docencia (Área)]]
-- [ ] **Tomás Campoy** — un solo correo con las dos cosas: **clave del ticket del fichero del Ranking** (vence el viernes 11) y respuesta a su mensaje de Chat del 10/09 sobre **incluirla en el planning**
+- [x] **Tomás Campoy** — un solo correo con las dos cosas: **clave del ticket del fichero del Ranking** (vence el viernes 11) y respuesta a su mensaje de Chat del 10/09 sobre **incluirla en el planning** *(cerrado en el diario del 25/09)*
 - [ ] **Prado JS · Educación** — preguntar **si podemos descargar la oferta del año pasado**
       *(apuntado el 10/09)*
       - **Va aparte del correo de Ana Mª Lorente**: ella lleva **Enfermería**, y esto es de
