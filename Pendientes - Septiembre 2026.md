@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[28-09-2026]].
-> **Última revisión:** 2026-09-28 *(a las **16:00** — segundo retraso en tres días; **se ha repetido**: revisar la tarea programada `daily-pilar-lunes`)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[29-09-2026]].
+> **Última revisión:** 2026-09-29 *(a las **09:00**, lanzado a mano por Pilar. La tarea programada del 28 se colgo dos veces y no termino hasta las 16:00 — sigue pendiente de revisar)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -111,6 +111,48 @@ tags: [panel, pendientes, septiembre]
       - 💡 **Causa de fondo, y se repetirá:** la **serie de clases de los lunes 11:00–12:30 no existe
         en el calendario**, así que quien busque hueco un lunes a esa hora la ve libre
 
+## 🆕 Novedades del 28–29/09 (del correo)
+
+> 50 hilos desde el 28, 14 de ellos ruido automático. **Sin correos sospechosos.** Lo que mueve el
+> día son tres cosas que esperan una respuesta tuya y una que se ha resuelto sola.
+
+- [ ] 🔴 🗓️ **La reunión con Educación era "el próximo miércoles" y el miércoles es MAÑANA, sin hueco
+      cerrado.** Tres respuestas incompatibles y nadie ha decidido desde ayer:
+      - **Dolo (SOIL)**: mañana por la mañana no *(Qualtrics + Feria de Empleo de Sefcarm)*; propone
+        **15:30–18:00**, que te pisa la clase online de 16:00
+      - **Esther Puerto (Educación)**: *"miércoles y jueves de 10:45 a 11:30h"*
+      - 📌 **Tu mañana tampoco puedes**: Qualtrics presencial 09:00–14:00. **Único hueco real:
+        jueves 1/10, 10:45–11:30.** Falta que Dolo confirme
+      - 💡 Es reunión de requisitos: **móntala en Zoom** si quieres acta. Y **decide antes lo del DNI
+        del tutor** → [[2026-09-24 - Definición de campos del mapa docente de prácticas]]
+- [ ] 🔴 🧾 **iText: la pelota vuelve a Pilar.** Luis Espiñeira, **28/09 a las 16:02**:
+      *"si lo de Tangram ya tienen un formato de documento, le puedes decir que nos lo pasen y lo
+      modificamos con nuestros datos?"*. El lunes se dio por cerrada su parte; **no lo estaba**.
+      Es un correo de dos lineas a Tangram → [[Licencias iText]]
+- [ ] 🔴 ✍️ **Sngular pide a Pilar una frase de autorización por correo sobre las licencias de
+      Atlassian** *(28/09, 14:30, en el hilo que abrió Adrián el 23)*:
+      *"necesitamos entonces que nos enviéis esta frase desde el mail pcampoy@ucam.edu: I, [name],
+      on behalf of [company], authorise Sngular and Atlassian to change from the site ucam…"*.
+      ⚠️ **El hilo es legítimo, pero la forma es la de un fraude del CEO**: confirmar con Adrián por
+      otra vía y saber **qué plan se cambia y con qué efecto económico** antes de mandarla.
+      Y **la factura `IN-EU-003-592-454` ya se pagó el 28** → [[Seguridad (Proyecto)]]
+- [ ] ⏱️ **Tres planillas mas del equipo esperando aprobacion** *(21–27: Alejandro Aix, Jesús March
+      y Paco)*. 🟢 **La planilla propia de Pilar del 21–27 ya se remitió** el 28 a las 16:01
+- [x] 🟢 🚌 **Tarjeta unibono de Cartagena: RESUELTA.** Juanma contestó el **29/09 a las 06:57**:
+      *"ya le debe permitir solicitarla de nuevo"*. Cierra el hilo que venía de agosto y el `SUCAM-16132`
+- [ ] 💬 **Dos menciones en Jira sin contestar, del 28 por la tarde**: `TICAM-14061`
+      *(Jesús March, 14:46 — proceso de firma de certificados por el Director de RRHH)* y
+      `TICAM-13908` *(Adrián, 14:39 — manager en soportes, viene de `TICAM-13810`)*
+- [ ] 📚 **Migraciones Sigma**: Diego Santamarta informó el 28 a las 14:13 de la inserción de las
+      nuevas asignaturas de `SINC_EXPEDIENTES` en expedientes ya migrados, **en Preproducción**.
+      Engancha con `MIG-50`, que Jesús March abrió ese mismo día
+- [ ] 🧪 **Qualtrics/IZO · las "respuestas sintéticas" dan problemas dos días seguidos.** Rosa
+      Fuentes reportó el 28 datos inconsistentes en Medicina (sedes duplicadas) y que *"ha vuelto a
+      deshabilitarse la opción de un curso académico"*; IZO contesta el 29 a las 08:02 que el filtro
+      de sede ya solo tiene Cartagena y Murcia. 💡 **El miércoles son cinco horas con ellos**
+- [ ] 🎓 **Instructure User Group del 6/10: la inscripción cierra el viernes 2** *(recordatorio del 28)*
+- 🟢 **Confirmada la asistencia** al Acto de Apertura de Curso y la investidura *(28/09, 15:27)*
+
 ## 🆕 Novedades del 25–28/09 (del correo)
 
 > **Fin de semana tranquilo y un lunes que trae una fecha nueva:** el **5 de octubre no hay luz en
@@ -133,9 +175,9 @@ tags: [panel, pendientes, septiembre]
 - [ ] 🎓 **Baldomero Imbernón manda por fin las tres mejoras de reconocimientos** *(25/09, 16:43)*:
       ver reconocimientos previos al valorar · reabrir en la misma modalidad en el mismo curso ·
       mostrar el papel del evaluador. **Son requisitos: contestar con fecha** → [[Docencia (Área)]]
-- [ ] 🧾 **Sigma 306886 (iText) pide confirmación a Pilar para cerrar** *(28/09, 12:02)* → [[Licencias iText]]
+- [x] 🧾 **Sigma 306886 (iText) pide confirmación a Pilar para cerrar** *(28/09, 12:02)* → [[Licencias iText]] *(cerrado en el diario del 28/09)*
 - [ ] ✅ **`TICAM-13349` — la usuaria confirma que funciona** *(28/09, 09:00)*: se puede cerrar
-- [ ] 👤 **Ausencia de Jesús March pendiente de validar en MENTOR** *(28/09)*
+- [x] 👤 **Ausencia de Jesús March pendiente de validar en MENTOR** *(28/09)* *(cerrado en el diario del 28/09)*
 - [ ] 💰 **Atlassian cobra la factura `IN-EU-003-592-454`** *(28/09)* con la reclamación de Adrián a
       Sngular abierta: ¿era la buena?
 - [ ] 🔎 **Ex Libris ve una API key (sandbox, solo lectura) que la UCAM dice no haber creado**
@@ -975,7 +1017,32 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 28/09, 16:00)
+## 💡 Sugerencia de foco (Pilita · 29/09, 09:00)
+
+> **Día con tres reuniones seguidas y ningún solape**, que es raro. El sprint cierra el **jueves 1**
+> y el **lunes 5 no hay luz**. Cuatro cosas, por orden de lo que desbloquea a otros.
+
+1. **El hueco de Educación, antes de las 10:00.** La reunión era "el próximo miércoles" y el
+   miércoles es mañana; hay **tres personas esperando** y el único hueco que existe es el **jueves
+   1/10 de 10:45 a 11:30**. Si no sale hoy, se cae de la semana — y después viene el puente del
+   corte de luz. **Es lo único que bloquea a gente de fuera de tu equipo.**
+2. **Las dos cosas de la Reunión responsables de las 10:00**, que se cierran de viva voz con Miguel
+   Ángel y Luis delante: **iText** (pedir a Tangram su formato de documento, que es lo que Luis te
+   pidió ayer) y **las ediciones de plan en Laurea**, que llevan **veinticinco días** esperando
+   exactamente esta conversación → [[2026-09-04 - Criterios de implantación de modificaciones de planes]]
+3. **Preguntar en la de las 12:30 si deberías estar en la de Salesforce del viernes.** Tres
+   reuniones en cinco días sobre un desarrollo que toca prácticas y CRM de empresas, y en la del
+   viernes **no estás convocada**. Es una pregunta de treinta segundos hoy, o un desarrollo que se
+   define sin ti.
+4. **Las tres planillas y el cierre del sprint.** Las planillas bloquean al equipo. Y del sprint hay
+   que decidir **hoy o mañana** qué pasa con `MIG-45` y `MIG-46` — **trece días sin tocar, no
+   llegan** — y con las **cinco tareas que entraron EN CURSO el 28**, a tres días del cierre.
+
+⚠️ **Y dos que no son urgentes hoy pero se pudren solos:** el **lunes 5** tienes en `declined` el
+Seguimiento Sprint y la reunión de Apryse, **las dos dentro del corte de luz**; y la **inscripción al
+User Group de Instructure cierra el viernes**.
+
+## 💡 Sugerencia de foco (Pilita · 28/09, 16:00) — *histórico*
 
 > **La mañana ya se fue** (Seguimiento, Acrelia y clase). Esto es para **lo que queda de hoy y los
 > tres días de sprint** que faltan, en una semana con Qualtrics el miércoles entero y SIGMA el jueves.
