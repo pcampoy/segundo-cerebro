@@ -176,7 +176,7 @@ tags: [panel, pendientes, septiembre]
       ver reconocimientos previos al valorar · reabrir en la misma modalidad en el mismo curso ·
       mostrar el papel del evaluador. **Son requisitos: contestar con fecha** → [[Docencia (Área)]]
 - [x] 🧾 **Sigma 306886 (iText) pide confirmación a Pilar para cerrar** *(28/09, 12:02)* → [[Licencias iText]] *(cerrado en el diario del 28/09)*
-- [ ] ✅ **`TICAM-13349` — la usuaria confirma que funciona** *(28/09, 09:00)*: se puede cerrar
+- [x] ✅ **`TICAM-13349` — la usuaria confirma que funciona** *(28/09, 09:00)*: se puede cerrar ✅ **CERRADA en Jira el 29/09** *(transición "Resolver" → FINALIZADA)*
 - [x] 👤 **Ausencia de Jesús March pendiente de validar en MENTOR** *(28/09)* *(cerrado en el diario del 28/09)*
 - [ ] 💰 **Atlassian cobra la factura `IN-EU-003-592-454`** *(28/09)* con la reclamación de Adrián a
       Sngular abierta: ¿era la buena?
@@ -290,7 +290,7 @@ tags: [panel, pendientes, septiembre]
 - [ ] 🆕 🔓 **`TICAM-13996` · acceso a EXPLODAT, con compromiso propio.** José Manuel Guardiola abrió
       el ticket el 23 a las 13:49 *"tal y como le has comentado a Isaac"*, y **Pilar contestó a las
       16:45: *"Lo hablo con Alicia para agilizarlo"***. Ese "lo hablo con Alicia" está pendiente
-- [ ] 🆕 🎫 **`TICAM-13349` · Solicitud de acceso a Asistencia** — **ticket propio, EN CURSO**, y
+- [x] 🆕 🎫 **`TICAM-13349` · Solicitud de acceso a Asistencia** — **ticket propio, EN CURSO**, y ✅ **CERRADA en Jira el 29/09** *(transición "Resolver" → FINALIZADA)*
       Miriam Franco comentó **tres veces el 22** (14:11, 14:29 y 17:46) sin respuesta
 - [ ] 🆕 💰 **Facturación de Atlassian errónea — Adrián abre frente con Sngular** *(23/09, 08:00)*:
       *"estoy revisando las últimas facturas que nos estáis enviando para pagar el licenciamiento de
