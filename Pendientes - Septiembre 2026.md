@@ -125,10 +125,11 @@ tags: [panel, pendientes, septiembre]
         jueves 1/10, 10:45–11:30.** Falta que Dolo confirme
       - 💡 Es reunión de requisitos: **móntala en Zoom** si quieres acta. Y **decide antes lo del DNI
         del tutor** → [[2026-09-24 - Definición de campos del mapa docente de prácticas]]
-- [ ] 🔴 🧾 **iText: la pelota vuelve a Pilar.** Luis Espiñeira, **28/09 a las 16:02**:
+- [x] 🟠 🧾 **iText: pedido el documento tipo a Tangram.** Luis Espiñeira, **28/09 a las 16:02**:
       *"si lo de Tangram ya tienen un formato de documento, le puedes decir que nos lo pasen y lo
       modificamos con nuestros datos?"*. El lunes se dio por cerrada su parte; **no lo estaba**.
       Es un correo de dos lineas a Tangram → [[Licencias iText]]
+      ✅ **Hecho el 29/09: pedido a Tangram en su ticket `Tarea #41293`.** Queda esperar que manden el documento tipo
 - [ ] 🔴 ✍️ **Sngular pide a Pilar una frase de autorización por correo sobre las licencias de
       Atlassian** *(28/09, 14:30, en el hilo que abrió Adrián el 23)*:
       *"necesitamos entonces que nos enviéis esta frase desde el mail pcampoy@ucam.edu: I, [name],
