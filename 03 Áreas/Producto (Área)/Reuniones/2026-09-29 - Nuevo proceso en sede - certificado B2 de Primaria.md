@@ -5,10 +5,10 @@ hora: 09:18–10:00
 convoca: Sección de Títulos
 proyecto:
 asistentes: [Pilar, "Sección de Títulos", "Desarrollo"]
-estado: publicado
+estado: planificado
 transcripcion: "_secretos/Transcripciones/2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria.md"
 confluence: "ESE/1239678978"
-jira:
+jira: "ET-549"
 tags: [reunión, sede-electrónica, títulos, certificados, laurea]
 ---
 # 2026-09-29 - Nuevo proceso en sede: certificado B2 de Primaria
@@ -189,10 +189,27 @@ Un saludo,
 Pilar
 ```
 
+## 🏃 Desglose en Jira — proyecto Tramita (`ET`)
+
+Creado el 29/09. **Todo asignado a Jesús March**, componente *REGPNP*, equipo *Desarrollo*.
+
+| Clave | Qué | Prioridad | Depende de |
+|---|---|---|---|
+| **`ET-549`** | 🧩 **Epic** · Certificado de nivel B2 en sede — Grado en Educación Primaria | Media | — |
+| `ET-550` | 1 · Modelado y carga de los bloques de asignaturas por idioma | **Urgente** | — *(espera dato de Títulos)* |
+| `ET-551` | 2 · Consulta de verificación de requisitos contra el expediente | Media | bloqueada por `ET-550` |
+| `ET-552` | 3 · Plantilla del certificado (escudo, CSV, firma) | Media | — *(en paralelo)* |
+| `ET-553` | 4 · Alta del procedimiento en sede y flujo del alumno | Media | bloqueada por `ET-551` y `ET-552` |
+| `ET-554` | 5 · Validación con muestra real antes de producción | Media | bloqueada por `ET-553` |
+
+**El camino crítico es 1 → 2 → 4 → 5.** La 3 va en paralelo. La 1 está en Urgente porque
+**bloquea todo y depende de que Títulos mande los bloques de asignaturas**.
+
 ## 🔗 Enlaces
 
 - Transcripción cruda: `_secretos/Transcripciones/2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria.md` *(no sube a GitHub)*
 - Nota en Zoom My Notes: https://us01docs.zoom.us/doc/glQ3SWuoRpaipDHKmboXtw
+- **Jira:** https://ucam.atlassian.net/browse/ET-549
 - **Confluence (ESE):** https://ucam.atlassian.net/wiki/spaces/ESE/pages/1239678978/Certificado+de+nivel+B2+Grado+en+Educaci+n+Primaria
 - [[29-09-2026]] · [[Producto (Área)]] · [[Cronograma de proyectos (hasta dic 2026)]]
 - [[2026-09-04 - Criterios de implantación de modificaciones de planes]] — *el mismo asunto de la modalidad y el RD*

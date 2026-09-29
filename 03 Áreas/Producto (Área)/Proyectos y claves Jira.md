@@ -1,7 +1,7 @@
 ---
 tipo: referencia
 tags: [referencia, producto, jira, equipo]
-actualizado: 2026-09-08
+actualizado: 2026-09-29
 estado: BORRADOR — pendiente de que Pilar corrija
 ---
 # 🗂️ Proyectos de Desarrollo y sus claves de Jira
@@ -11,6 +11,26 @@ estado: BORRADOR — pendiente de que Pilar corrija
 >
 > ⚠️ **BORRADOR.** Las columnas *Clave*, *Nombre en Jira* y *Categoría* salen de Jira y son
 > fiables. **Las columnas *Alias* y *Quién lo lleva* son inferencias mías** — corrígelas.
+
+## 📌 Regla fija: sede electrónica → Tramita (`ET`) y Jesús March
+
+**Cualquier tarea del tablero de desarrollo que sea de SEDE ELECTRÓNICA va al proyecto
+`ET` — Tramita, y se asigna a Jesús March.** Sin excepciones y sin preguntar.
+
+Lo fijó Pilar el **29/09/2026**. Incluye certificados tramitados por sede, procedimientos nuevos,
+cambios en los existentes y cualquier cosa del catálogo de servicios del alumno.
+
+Campos obligatorios de `ET` al crear (si no, la API rechaza):
+
+| Campo | Valor |
+|---|---|
+| **Equipo Asignado** *(`customfield_10034`)* | **Desarrollo** (id `10021`) |
+| **Componentes** | Obligatorio. Si el trámite no tiene el suyo, usar **REGPNP — Solicitud de Implementación de Nuevo Procedimiento** (id `10271`) |
+| **Prioridad** | Por **id**, no por nombre: `2` Urgente · `3` Media |
+| **Asignado** | Jesús March — `5c474e2781ec9e450cead0b1` |
+
+Y la documentación de eso **va a Confluence**, espacio `ESE`, no solo al vault →
+[[2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria]]
 
 ## ⚠️ Lo primero: dos proyectos que se confunden
 
@@ -46,7 +66,7 @@ palabra "docencia" a secas, es `**GD`**. "Docentia" siempre es `**DOC**`.
 | `TFGTFM`  | TFG/TFM                              |                                                       | Alejandro                        |
 | `VDP`     | Visor de procesados                  |                                                       | Alejandro                        |
 | `TOOL`    | Toolbox                              |                                                       | Pablo                            |
-| `ET`      | Tramita                              |                                                       | Jesús                            |
+| `ET`      | Tramita                              | **sede electrónica** · trámites · certificados de sede | **Jesús** — *fijo, ver regla arriba* |
 | `GESTDOC` | Gestor documental                    |                                                       | Jesús                            |
 | `RDC`     | Reconocimiento de créditos previos   | Recos                                                 | Juanma                           |
 | `RDCO`    | Reconocimiento de créditos Oficiales | Recos                                                 | Juanma                           |

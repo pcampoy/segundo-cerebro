@@ -17,4 +17,7 @@ tags: [área, producto]
 
 ## 🧩 Aplicaciones
 - **Gestión de permisos** — se accede por <https://gestionpermisos.ucam.edu/> *(apuntado el 22/09/2026)*
+- **Tramita** — la **sede electrónica**. Proyecto de Jira `ET`, lo lleva **Jesús March**.
+  📌 **Toda tarea de sede va a `ET` y a Jesús**, y su documentación al espacio `ESE` de
+  Confluence → [[Proyectos y claves Jira]]
  
