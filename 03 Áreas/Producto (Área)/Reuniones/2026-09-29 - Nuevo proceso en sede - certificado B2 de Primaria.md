@@ -19,10 +19,8 @@ tags: [reunión, sede-electrónica, títulos, certificados, laurea]
 > ⚠️ **Hablantes anonimizados** por Zoom (`Speaker 1..5`). Aquí **no se atribuye ninguna frase a
 > nadie**: se habla por roles — *Títulos* y *Desarrollo/TIC*.
 >
-> ⚠️ **De esta reunión se ha dejado fuera a propósito** un tramo largo del final que no es del
-> asunto y que **no puede subir a GitHub**: un incidente de nómina con datos de una persona
-> fallecida, juicios sobre personas concretas con nombre y apellidos, e información de salud de una
-> asistente. Está señalado en la cabecera de la transcripción.
+> ⚠️ **El acta recoge solo la parte de trabajo.** El tramo final de la reunión derivó a otros
+> asuntos que no son de este procedimiento y se ha dejado fuera.
 
 ## 🎯 Objetivo
 
@@ -110,8 +108,7 @@ se describió como insostenible: *"ya no damos abasto"*.
   como que lleva **un mes** sin respuesta. **Esto es más grave que el B2 y no es de Títulos:
   necesita que alguien de Ordenación Académica lo coja**
 - ⚠️ **Tiempos de respuesta de la consultora**: se planteó abrir el asunto formalmente en la próxima
-  reunión con ellos. Lo que sí es accionable desde aquí es **dejar por escrito el incumplimiento**,
-  no la valoración de las personas
+  reunión con ellos, **dejando por escrito los incumplimientos de plazo**
 
 ## ❓ Puntos abiertos
 
