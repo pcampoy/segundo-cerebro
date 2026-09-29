@@ -5,9 +5,9 @@ hora: 09:18–10:00
 convoca: Sección de Títulos
 proyecto:
 asistentes: [Pilar, "Sección de Títulos", "Desarrollo"]
-estado: acta
+estado: publicado
 transcripcion: "_secretos/Transcripciones/2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria.md"
-confluence:
+confluence: "ESE/1239678978"
 jira:
 tags: [reunión, sede-electrónica, títulos, certificados, laurea]
 ---
@@ -15,6 +15,9 @@ tags: [reunión, sede-electrónica, títulos, certificados, laurea]
 
 > **Estado:** `transcrita` → **`acta`** → `requisitos` → `publicado` → `planificado`
 > La transcripción cruda vive en `_secretos/` y **no sube a GitHub**.
+>
+> 📘 **Publicado en Confluence** — espacio *Sede Electrónica* (ESE), bajo
+> *Certificados*: [Certificado de nivel B2 — Grado en Educación Primaria](https://ucam.atlassian.net/wiki/spaces/ESE/pages/1239678978/Certificado+de+nivel+B2+Grado+en+Educaci+n+Primaria)
 
 > ⚠️ **Hablantes anonimizados** por Zoom (`Speaker 1..5`). Aquí **no se atribuye ninguna frase a
 > nadie**: se habla por roles — *Títulos* y *Desarrollo/TIC*.
@@ -190,5 +193,6 @@ Pilar
 
 - Transcripción cruda: `_secretos/Transcripciones/2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria.md` *(no sube a GitHub)*
 - Nota en Zoom My Notes: https://us01docs.zoom.us/doc/glQ3SWuoRpaipDHKmboXtw
+- **Confluence (ESE):** https://ucam.atlassian.net/wiki/spaces/ESE/pages/1239678978/Certificado+de+nivel+B2+Grado+en+Educaci+n+Primaria
 - [[29-09-2026]] · [[Producto (Área)]] · [[Cronograma de proyectos (hasta dic 2026)]]
 - [[2026-09-04 - Criterios de implantación de modificaciones de planes]] — *el mismo asunto de la modalidad y el RD*
