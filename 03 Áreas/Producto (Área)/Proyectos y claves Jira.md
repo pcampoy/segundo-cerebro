@@ -12,6 +12,17 @@ estado: BORRADOR — pendiente de que Pilar corrija
 > ⚠️ **BORRADOR.** Las columnas *Clave*, *Nombre en Jira* y *Categoría* salen de Jira y son
 > fiables. **Las columnas *Alias* y *Quién lo lleva* son inferencias mías** — corrígelas.
 
+## 🛑 Antes de crear NINGUNA tarea: tres datos
+
+**Proyecto · persona asignada · sprint.** Si falta uno, **no se crea**: se pregunta.
+Y si el proyecto se deduce de una regla, **se propone y se espera confirmación**.
+
+Lo fijó Pilar el **29/09/2026**, después de que se crearan cinco historias con proyecto y persona
+correctos pero **sin sprint**: una tarea sin sprint no sale en el tablero, se queda en el backlog y
+no la ve nadie.
+
+*(Excepción técnica: las **épicas no admiten sprint** en Jira. Ahí bastan los otros dos.)*
+
 ## 📌 Regla fija: sede electrónica → Tramita (`ET`) y Jesús March
 
 **Cualquier tarea del tablero de desarrollo que sea de SEDE ELECTRÓNICA va al proyecto

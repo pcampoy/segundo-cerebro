@@ -191,7 +191,8 @@ Pilar
 
 ## 🏃 Desglose en Jira — proyecto Tramita (`ET`)
 
-Creado el 29/09. **Todo asignado a Jesús March**, componente *REGPNP*, equipo *Desarrollo*.
+Creado el 29/09. **Todo asignado a Jesús March**, componente *REGPNP*, equipo *Desarrollo*,
+y las cinco historias metidas en el sprint **`Desarrollo 2026/16`** *(id 3040, aún sin arrancar)*.
 
 | Clave | Qué | Prioridad | Depende de |
 |---|---|---|---|
@@ -201,6 +202,8 @@ Creado el 29/09. **Todo asignado a Jesús March**, componente *REGPNP*, equipo *
 | `ET-552` | 3 · Plantilla del certificado (escudo, CSV, firma) | Media | — *(en paralelo)* |
 | `ET-553` | 4 · Alta del procedimiento en sede y flujo del alumno | Media | bloqueada por `ET-551` y `ET-552` |
 | `ET-554` | 5 · Validación con muestra real antes de producción | Media | bloqueada por `ET-553` |
+
+ℹ️ **El epic `ET-549` no va en el sprint**: en Jira las épicas no se asignan a sprints, atraviesan varios. Las historias sí.
 
 **El camino crítico es 1 → 2 → 4 → 5.** La 3 va en paralelo. La 1 está en Urgente porque
 **bloquea todo y depende de que Títulos mande los bloques de asignaturas**.
