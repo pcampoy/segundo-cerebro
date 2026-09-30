@@ -6,8 +6,8 @@ tags: [panel, pendientes, septiembre]
 # 🗓️ Pendientes — Septiembre 2026
 
 > Recopilado con Pilita de tus diarios, la reunión de sprint, el cronograma, seguridad e inicio de curso. Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[29-09-2026]].
-> **Última revisión:** 2026-09-29 *(a las **09:00**, lanzado a mano por Pilar. La tarea programada del 28 se colgo dos veces y no termino hasta las 16:00 — sigue pendiente de revisar)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[30-09-2026]].
+> **Última revisión:** 2026-09-30 *(tarea programada de las 09:10. **Último día del mes**: el próximo daily abre `Pendientes - Octubre 2026` y se lleva lo que siga abierto)*
 
 ## 🚨 Seguridad — nuevo el 17/09
 
@@ -110,6 +110,45 @@ tags: [panel, pendientes, septiembre]
         días de margen**: decirlo ahora
       - 💡 **Causa de fondo, y se repetirá:** la **serie de clases de los lunes 11:00–12:30 no existe
         en el calendario**, así que quien busque hueco un lunes a esa hora la ve libre
+
+## 🆕 Novedades del 29–30/09 (del correo)
+
+> 50 hilos desde el 29, unos 30 de ellos ruido automático *(sobre todo una tanda de cierres de Soporte
+> a las 09:03)*. **Sin correos sospechosos.** Lo que mueve el día es una **agenda triple de 10:45 a
+> 12:00** y que **IZO se ha negado por escrito a fabricar respuestas**.
+
+- [ ] 🔴 🗓️ **Educación está convocada DOS veces** *(las dos por Pilar, el 29, en la Sala TIC y por
+      Meet)*: **hoy 30, 10:45–11:30** ("Dudas - Prácticas Educación") y **jueves 1, 10:45–11:30**
+      ("Prácticas de Educación"). Esther Puerto ha aceptado las dos. **La de hoy choca con Qualtrics
+      (09:00–14:00) y con Tangram (11:00–12:00).** Si es un duplicado, cancelar la de hoy. Si se
+      quiere acta, pasar la del jueves a Zoom
+      → [[2026-09-10 - Prácticas Educación 26-27]]
+- [ ] 🔴 🧪 **IZO se niega a generar respuestas sintéticas** *(Yenifer, 30/09 08:03)*: *"no nos es
+      posible generar ni manipular datos mediante respuestas sintéticas o ficticias"*, y le pasa la
+      tarea a la UCAM con plantilla. ⚠️ **Si el proveedor no lo hace por política de calidad, que lo
+      haga la UCAM es un riesgo** para las acreditaciones y los rankings. Tiene que decidirlo
+      alguien con autoridad, y por escrito. *No es de Pilar, pero hoy está en la sala con los
+      implicados*
+- [ ] 🕐 **DarwinED · compromiso propio con fecha: viernes 2/10.** Miguel Ángel pide los horarios
+      26-27 de la Politécnica y Derecho *(29/09 19:43)*. Pilar contestó a las 21:04 que se lo pasa a
+      **Paco, que está de baja hasta el viernes**, *"o lo vemos con Pablo"* si hace falta antes.
+      Adrián pasó los endpoints hoy a las 08:45; **faltan los tokens** → que no viajen por correo
+- [ ] 🧼 **read.ai (notetaker externo) estuvo en la reunión del 29 "FP/Informática · Gestión
+      Prácticas y CRM"**. El informe lo reparte Dolo. **La organización tiene vetados los notetakers
+      externos**: comentarlo con ella → [[Seguridad (Proyecto)]]
+- [ ] 👤 **Paco, de baja hasta el viernes 2**: se nota en el cierre del sprint *(`GES-230`, P0 para el 10/10)*
+- [ ] 💬 **Mención nueva:** `SUCAM-22895` *(Juan Miguel Mompeán, 29/09 16:02)* · **aprobación pendiente como
+      participante** en `TICAM-14215` *(NIA duplicado, ya resuelto por Alicia)*
+- [ ] 📚 **Basecamp · la tarjeta "Sincronización de usuarios (SIS)" de Alma vence hoy, 30/09**
+- [ ] 💰 **Atlassian cambia precios el 13/10** *(recordatorio del 29)*. Va junto a la conversación de
+      renovación y a la frase de Sngular, que sigue sin mandarse
+- [x] 🟢 **Limpieza de Soporte, 30/09 09:03:** cerrados `TICAM-9597`, `TICAM-11333`, `TICAM-11351` y
+      unos diez tickets antiguos de acceso y altas. **Es cierre administrativo, no trabajo resuelto**
+- [x] 🟢 **`TICAM-14130` (datos FP para Qualtrics): Jorge Gil dio el OK** *(29/09 13:00)*
+- 🟢 **UCAMSEGRE2:** Alicia contestó a Sigma que Ordenación Académica **no puede esperar a la 2ª
+  semana de noviembre** *(29/09)*. Lo lleva ella y **no hay reunión nueva**
+- 🟢 **Canvas, cinco días seguidos limpio al primer pase**
+- ✅ **Sin correos sospechosos** del 29 al 30
 
 ## 🆕 Novedades del 28–29/09 (del correo)
 
@@ -999,7 +1038,9 @@ tags: [panel, pendientes, septiembre]
       transversal, **bloqueada por `GES-246`**, el repaso visual de Alex)*
 - [ ] `MIG-29` Reunión equipo de migraciones Sigma — **vencida desde el 19 de junio**
 - [ ] `ED-1814` Estudio Previo — Planificador de horarios y espacios
-- [ ] ⚠️ **Dos de service desk con prioridad alta y dos meses y medio parados:** `TICAM-9597`
+- [x] *(cerrados por Soporte el 30/09 a las 09:03, en una limpieza de tickets antiguos; `TICAM-7245`,
+      `TICAM-2134`, `TICAM-11333` y `TICAM-11351` ya no aparecen como abiertos en Jira)*
+      ⚠️ **Dos de service desk con prioridad alta y dos meses y medio parados:** `TICAM-9597`
       *(Muy Urgente — actualización de correos en Vértica, sin tocar desde el 22/07)* y
       `TICAM-7245` *(Urgente — datos no actualizados en Personas/Grupos UCAM, 01/07)*. O la
       prioridad no era real, o se han perdido
@@ -1018,7 +1059,28 @@ tags: [panel, pendientes, septiembre]
 - **Pablo:** horas docencia (riesgo) · Sustituciones · integración Jira · apoyo a Jesús (Mis notas, Alfresco)
 
 ---
-## 💡 Sugerencia de foco (Pilita · 29/09, 09:00)
+## 💡 Sugerencia de foco (Pilita · 30/09, 09:10)
+
+> **Qualtrics toda la mañana, clase a las 16:00 y el sprint que cierra mañana.** Cuatro cosas, por
+> orden de lo que desbloquea a otros.
+
+1. **Decide antes de las 10:45 qué hacer con la reunión de Educación de hoy.** Está convocada dos
+   veces (hoy y mañana a la misma hora) y la de hoy te pisa Qualtrics y Tangram. **Lo más limpio es
+   cancelar la de hoy y quedarte con la del jueves**, que era el único hueco que había. Y si quieres
+   acta, pásala a Zoom. Esther ya ha aceptado las dos: cuanto antes lo digas, menos gente se mueve
+   para nada.
+2. **Tangram, en manos de Jesús March.** Está convocado pero no ha contestado. Un mensaje antes de las 11:00.
+3. **Cierre del sprint mañana a primera hora**, que desde las 10:45 no tienes hueco. Con **Paco de
+   baja hasta el viernes**, hay que decidir `MIG-45`/`MIG-46` (y decírselo a Jesús) y qué pasa al
+   `2026/16` de las cinco tareas que entraron el 28.
+4. **Sngular y las planillas**, que llevan dos días esperando y bloquean a otros. Y el viernes vence
+   lo de los horarios de DarwinED para Miguel Ángel: si Paco no vuelve a tiempo, díselo a Pablo el jueves.
+
+⚠️ **Y una que no es tuya pero te pilla en medio:** IZO se ha negado por escrito a fabricar
+respuestas sintéticas. Hoy estás cinco horas con Lola, Dolo y Rosa. **Antes de que nadie de la casa
+lo haga, que conste quién lo decide.**
+
+## 💡 Sugerencia de foco (Pilita · 29/09, 09:00) — *histórico*
 
 > **Día con tres reuniones seguidas y ningún solape**, que es raro. El sprint cierra el **jueves 1**
 > y el **lunes 5 no hay luz**. Cuatro cosas, por orden de lo que desbloquea a otros.
