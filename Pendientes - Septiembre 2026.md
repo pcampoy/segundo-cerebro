@@ -882,6 +882,8 @@ tags: [panel, pendientes, septiembre]
 - 📌 **Peregrinación al Cristo de Monteagudo**: lun 14, 8:15–14:00 (inscripción hecha) → mañana bloqueada
 
 ## ✉️ Correos a enviar (tú)
+- [ ] 🛑 **URGENTE · Educación — suspender la reunión del jueves 1/10 (10:45–11:30)**.
+      En el correo: **de sede solo tenemos el listado de los que han subido los delitos sexuales, no la resolución**. Antes de reconvocar, **ver qué listados necesitamos** *(apuntado el 30/09)*
 - [ ] 🎬 **Pablo** — **enviar el vídeo** *(apuntado el 22/09; falta concretar **qué vídeo** y **por qué vía** — si no es correo, es Chat)*
 - [x] **Alicia Cano** — modalidad de impartición (RD 905/2025) *(contestado el 08/09 a las 18:04)*
 - [x] **Ana Mª Lorente** — Prado JS *(no hizo falta el correo: se resolvió el 10/09 en el hilo "ASIGNACIÓN SEP", con Alejandro Aix dando el diagnóstico y Ana confirmando a las 18:10)*
@@ -931,6 +933,8 @@ tags: [panel, pendientes, septiembre]
       *(hoy es la plantilla por defecto de abril de 2024)*
 
 ## 📌 Gestión de equipo (tú)
+- [ ] 🗣️ **Hablar con José Alberto para adelantar media hora la reunión** *(apuntado el 30/09)*.
+      ⚠️ **No consta CUÁL reunión**: José Alberto no aparece en ninguna de las de hoy ni de mañana en los tres calendarios. Falta concretar cuál y de qué día
 - [ ] Reasignación de tareas del sprint
 - [ ] Rehacer **DPO** del equipo
 - [ ] **Cronograma** de proyectos (corto plazo / hasta diciembre) → [[Cronograma de proyectos (hasta dic 2026)]]
@@ -1004,6 +1008,7 @@ tags: [panel, pendientes, septiembre]
         esas sedes a Laurea, cada acceso se sigue dando a mano. Escalar a Miguel Ángel (ver arriba)
 
 ## 🎫 Incidencias & soporte
+- [ ] 🧾 **Ver los tickets de Emilio de Tangram** *(apuntado el 30/09)*. Están en el **CAU de Tangram**, no en Jira. Ahí vive la `Tarea #41293` del documento tipo de renuncia a iText, que sigue esperando respuesta → [[Licencias iText]]
 - [ ] **Sigma** Ref. 305384 (↔ 296861)
 - [ ] Repaso de incidencias **JSM**
 - [ ] Soporte **TICAM-11468**
