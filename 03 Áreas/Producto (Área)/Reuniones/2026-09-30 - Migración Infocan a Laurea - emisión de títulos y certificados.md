@@ -5,9 +5,9 @@ hora: 11:50–12:15
 convoca: Sección de Títulos
 proyecto:
 asistentes: [Pilar, "Sección de Títulos (2 personas)"]
-estado: acta
+estado: publicado
 transcripcion: "_secretos/Transcripciones/2026-09-30 - Migracion Infocan a Laurea - emision de titulos y certificados.md"
-confluence:
+confluence: "~5c7cfc943fb39d723db25676/1245806594"
 jira:
 tags: [reunión, títulos, infocan, laurea, migración, certificados, dirección, rgpd]
 ---
@@ -376,6 +376,7 @@ Pilar
 
 - Transcripción cruda: `_secretos/Transcripciones/2026-09-30 - Migracion Infocan a Laurea - emision de titulos y certificados.md` *(no sube a GitHub)*
 - Nota en Zoom My Notes: https://us01docs.zoom.us/doc/RJ0mmZ4ASwW4RqGVsTtQvg
+- **Confluence (espacio personal de Pilar):** https://ucam.atlassian.net/wiki/spaces/~5c7cfc943fb39d723db25676/pages/1245806594
 - [[2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria]] — *ayer ya salió esto como dependencia del B2*
 - [[Quién es quién (apodos e interlocutores)]] · [[Seguridad (Proyecto)]]
 - [[30-09-2026]] · [[Producto (Área)]] · [[Cronograma de proyectos (hasta dic 2026)]]
