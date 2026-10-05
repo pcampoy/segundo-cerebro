@@ -164,7 +164,10 @@ tags: [panel, pendientes, octubre]
 - [ ] 🔓 **`TICAM-13996` · EXPLODAT** — *"lo hablo con Alicia"* (23/09)
 - [ ] 💬 Menciones sin contestar: `TICAM-14061` · `SUCAM-22895` · aprobación en `TICAM-14215`
 - [ ] 🎬 **Pablo** — enviar el vídeo *(falta saber cuál y por dónde)*
-- [ ] **Prado JS · Educación** — ¿se puede descargar la oferta del año pasado?
+- [ ] **Prado · Educación** — ¿se puede descargar **la oferta** (= el **mapa docente**) del año pasado?
+      *05/10: estaba apuntado como "Prado JS", pero **Educación va por Prado**; PradoJS es el de las
+      titulaciones sanitarias* → [[Producto (Área)]].
+      **Lo comprueba Pilar** con el acceso de pruebas que ha dado la CARM
 - [ ] **Isaac** — acceso admin para carga de JPII
 - [ ] **Alejandro** — Seguridad Protocolo + usuarios de biblioteca + la campaña del 17/09 *(esta, en persona)*
 - [ ] ⚙️ **Quodus** — la ampliación de la API (facultad/centro en las sesiones) es alcance nuevo: validarla
