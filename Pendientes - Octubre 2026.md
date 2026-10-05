@@ -186,9 +186,9 @@ tags: [panel, pendientes, octubre]
       **Jesús va a hacer un proceso para que ellos inicien, en nombre del usuario, proceso en sede
       para emitir certificado** → **`ET-555`** creada en Tramita, asignada a **Jesús March**, sprint
       *Desarrollo 2026/16*, enlazada con **`TICAM-14061`** *(que es el mismo asunto)*
-- [ ] ✉️ **Mandarle a Jesús el correo pidiéndole que redacte el proceso** — borrador escrito el 05/10
-      *(`Borrador - Correo a Jesus - proceso sede RRHH.md`, en la Carpeta de Trabajo)*. Cuando lo
-      redacte, **subirlo a Confluence (espacio ESE)**
+- [x] ✉️ **Correo a Jesús pidiéndole que redacte el proceso** — *(enviado por Pilar el 05/10)*
+- [ ] 📄 **Esperando que Jesús redacte el proceso** de `ET-555`. Cuando lo mande, **subirlo a
+      Confluence (espacio ESE, bajo *Sede Electrónica UCAM*)** y cerrar los cinco puntos que le pedí
 - [ ] 🔓 **`TICAM-14061`** sigue en *ESPERANDO A TERCEROS* y la reunión ya se ha celebrado →
       comentar lo acordado y cerrarlo
 
