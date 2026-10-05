@@ -7,8 +7,8 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[02-10-2026]].
-> **Última revisión:** 2026-10-02 *(tarea programada; salió a las 11:53)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[05-10-2026]].
+> **Última revisión:** 2026-10-05 *(tarea programada del lunes)*
 
 ## 📅 Fechas del mes
 
@@ -20,11 +20,14 @@ tags: [panel, pendientes, octubre]
 | **mar 6** | Reunión responsables · Instructure User Group (Madrid) |
 | **mié 7** | Qualtrics Business Review · DarwinED presenta a Miguel Ángel |
 | **jue 8** | *(propuesta)* Reconocimientos con Almudena y Baldomero, 12:00 |
-| **sáb 10** | `GES-230` (P0) · Educación: parte básica probándose |
+| **sáb 10** | `GES-230` (P0) · `GD-683`…`GD-689` (conferenciantes) · Educación: parte básica probándose |
+| **lun 12** | 🗓️ **Fiesta Nacional** *(no figura en [[Festivos y no lectivos 26-27]]; pendiente de confirmar para añadirlo)* |
 | **mar 13** | Atlassian cambia precios |
+| **jue 15** | *(propuesta de Sigma)* seguimiento UCAMSEGRE2, 10:00 |
+| **vie 16** | 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17) |
 | **22/10 → 17/11** | ventana del parcial de 3º |
 | **25/10 · 27/10 · 28/10** | Educación: pruebas · descarga de Prado · apertura a alumnos |
-| **primera quincena nov.** | UCAMSEGRE2 *(sin confirmar por Almudena; lo lleva Alicia)* |
+| **lun 26** | 🔴 **UCAMSEGRE2 · segregación en Explotación** *(Sigma la da por confirmada el 05/10; lo lleva Alicia)* |
 
 ## 🚨 Seguridad
 
@@ -32,7 +35,9 @@ tags: [panel, pendientes, octubre]
       Por teléfono o en persona, nunca por correo; si no fue él, incidente a Sistemas y rotar los tokens
       → [[17-09-2026]] · [[Seguridad (Proyecto)]]
 - [ ] 🧼 **Notetakers externos:** read.ai en la reunión del 29/09 (lo reparte Dolo) · **Fathom** escribe
-      el 30/09 como si hubiera cuenta con tu correo → no instalar, comprobar
+      el 30/09 como si hubiera cuenta con tu correo → no instalar, comprobar · **tl;dv** te manda el 05/10
+      *"your upcoming meetings for this week"*: **tiene acceso a tu calendario** → revisar las apps con
+      permiso sobre tu cuenta de Google
 - [ ] 🧼 **DarwinED:** que el token de `inf.ucam.edu` no viaje por correo
 - [ ] 🔎 **API key de Ex Libris que nadie reconoce** → preguntar a Alejandro y revocar
 - [ ] 🔐 **Alumni · consulta RGPD** (cambio de finalidad) → DPD
@@ -40,22 +45,31 @@ tags: [panel, pendientes, octubre]
 
 ## 🔴 Prioritario / vigilar
 
-- [ ] 🏁 **Cierre del `2026/15` y arranque del `2026/16`** → `/inicio-sprint` (y las genéricas
-      de **octubre**). Decidir `MIG-45`/`MIG-46` y **decírselo a Jesús March**.
-      ⚠️ *02/10: el `2026/15` **sigue activo en Jira** aunque venció el 01/10 a las 19:22*
+- [x] 🏁 **Cierre del `2026/15` y arranque del `2026/16`** y las genéricas de **octubre** — *(visto en
+      Jira el 05/10: el `2026/16` está activo desde el 02/10 a las 13:00, hasta el 17/10, y existen
+      `ED-2054`…`ED-2059`. `MIG-45`/`MIG-46` van en él, asignadas a Jesús March)*
+- [ ] 🗣️ **Decirle a Jesús March qué pasa con `MIG-45`/`MIG-46`** — *sacado del punto anterior*: la
+      decisión ya está en Jira, pero no consta que se le haya dicho
+- [ ] ⚖️ **Carga del `2026/16`**: Paco con **31 de 96** issues y dos frentes que vencen el sáb 10
+      (`GES-230` y `GD-683`…`GD-689`), más DarwinED; Alejandro Aix con 4. Y vuelven a entrar `EVT-*`, `CAN-*`
+      e `IN-505`, que nadie va a hacer → **en el semanal**
 - [x] 🗓️ **Cancelar en el calendario la reunión de Educación del 1/10** — *(cerrado en el diario del 01/10:
       reunión suspendida; la fecha ya ha pasado)*
 - [ ] ⚠️ **Lun 5 · RRHH 11:30–12:30 pisa Apryse 12:00–12:30**, y las dos dentro del corte de luz →
-      pedir a José Alberto adelantarla a las 11:00. *02/10: sigue sin moverse; hoy es el último día hábil*
+      pedir a José Alberto adelantarla a las 11:00. *05/10: nadie la ha movido; ya es hoy → decidir a cuál
+      se va en la media hora del solape*
 - [ ] 🗓️ **Lun 5 · Seguimiento Sprint - Dev (09:15)**: lo has rechazado, pero **sigue convocado para el
-      equipo** en plena franja sin luz → cancelarlo o avisar
-- [ ] 🔴 **UCAMSEGRE2 · la segregación se va a noviembre** — falta la confirmación de Almudena y
-      **rehacer el cronograma** *(se queda en rojo por decisión de Pilar, 25/09)*
-      → [[Cronograma de proyectos (hasta dic 2026)]]
+      equipo** en plena franja sin luz → cancelarlo o avisar. *05/10: sigue igual, nadie ha contestado*
+- [ ] 🔴 **UCAMSEGRE2 · rehacer el cronograma** *(se queda en rojo por decisión de Pilar, 25/09)*.
+      ⚠️ *05/10: **la fecha ya no es noviembre**: Sigma da por **confirmado el 26/10** para Explotación,
+      manda Excel de casos de prueba para Preproducción y propone seguimiento el **jue 15 a las 10:00**.
+      Lo lleva Alicia* → [[Cronograma de proyectos (hasta dic 2026)]]
 - [ ] 🧪 **Qualtrics/IZO · respuestas sintéticas**: IZO se negó por escrito el 30/09. **Que conste quién
       decide**, y por escrito. Buen sitio: el Business Review del 7/10
 - [ ] **~10.000 horas de docencia desaparecidas** del curso 26/27 — Pablo *(riesgo alto)*
-- [ ] ⏱️ **Tempo (tus horas)**: el periodo 12–18/09 cerró con 29,75 h sin imputar y el 19–25 iba igual → `/imputa`
+- [ ] ⏱️ **Tempo (tus horas)**: el periodo 12–18/09 cerró con 29,75 h sin imputar y el 19–25 iba igual → `/imputa`.
+      🔴 *05/10: el **26/09–02/10 cierra HOY con 1,75 h de 37,5***
+- [ ] ⏱️ **Aprobar planillas del 28/09–04/10**: Pablo (05/10) y Paco (02/10)
 - [x] ⏱️ **Planillas del equipo del 21–27** (Alejandro Aix, Jesús March, Paco) aprobadas *(cerrado en el
       diario del 01/10; sacado del punto de Tempo, que sigue abierto)*
 
@@ -74,7 +88,7 @@ tags: [panel, pendientes, octubre]
       lun 5 a las 11:30. Engancha con `TICAM-14061`
 - [ ] ✅ **`TICAM-14268`** *(Urgente)* — la usuaria da el problema por resuelto: **cerrar**. *02/10: Paco
       se lo ha asignado sin querer; ya no está a tu nombre*
-- [ ] 🔗 **Enlaces cortos de Enfermería** (Ana Mª Lorente, 4 formularios de prácticum) — que alguien conteste
+- [x] 🔗 **Enlaces cortos de Enfermería** (Ana Mª Lorente, 4 formularios de prácticum) — *(los hizo Raquel, 05/10 09:33)*
 - [ ] 👤 **MENTOR · ausencia de Pablo** (consulta médica, 30/09) por validar
 - [ ] 🆕 **Sigma 308257** (PDS) · **308280** (CDS10) · **307763** (EXPS)
 - [ ] 📝 **Hay transcripción de Meet de la reunión de dudas con Educación del 30/09** (compartida por
@@ -108,9 +122,35 @@ tags: [panel, pendientes, octubre]
 - ⚪ **Sigma**: 308257 (PDS) y 308118 (SEGRE) resueltas sin entregable · invitación al SharePoint UCAMSEGRE2 (lo lleva Alicia)
 - ✅ **Sin correos sospechosos** del 01 al 02/10
 
+## 🆕 Novedades del 02–05/10 (del correo)
+
+> 50 hilos desde el 2, unos 35 de ruido. **Sin correos sospechosos.** Se cerró el sprint; lo nuevo con reloj
+> es Tempo (hoy) y UCAMSEGRE2 (26/10).
+
+- [ ] 🗂️ **App Personas · RRHH no mantiene los responsables de departamento** y fallan los validadores de Jira
+      *(Adrián, 05/10 09:20, a Pilar y Miguel Ángel: "¿Cómo procedéis a comunicarlo?")* → sacarlo en la reunión
+      de RRHH del 05/10 y contestarle
+- [ ] 🔗 **Laurea · enlace roto en la notificación de admisión al doctorado**: la URL va doblemente escapada
+      (`&amp;amp;`) *(reenviado por Admisiones Internacionales el 04/10)*. Afecta a todos los admitidos, con 15
+      días para matricularse → a quien lleve las plantillas de Laurea
+- [ ] 🟠 **Canvas: "Error" el 04/10 sin reintento correcto** (y fallo al primer pase el 02/10) → revisar el log
+- [ ] 🔐 **SSO de Laurea: cuatro casos en tres días** (01, 02 y 03/10) con *"Attribute does not correspond"* →
+      al CAU como incidencia única *(amplía el punto del 01–02/10)*
+- [ ] ⏰ **RRHH · incidencia de jornada inferior del 02/10** → regularizar
+- [ ] 🎓 **Formación iCVN 2.0 para administradores**, mar 06/10 12:30 — no está en el calendario: ¿se va?
+- ⚪ **Sigma**: 307831 (EWP) resuelta sin entregable · 306752 (MOVS) vuelve a Recibida · 308457 (TAS, descuento
+  pronto pago) nueva · bloqueo de instalaciones levantado en MATS, ACCS, CERS y TIS *(Alicia, 02/10)*
+- ⚪ **Acrelia · comunicados de Murcia llegando a Madrid** *(Marketing, 02/10)* — Alejandro Sánchez lo investiga
+- [x] 🟢 **Correo de trabajador del UCAM CF** — contestado por Pilar el 02/10; la solicitud la hizo Guillermo Pérez
+- [x] 🟢 **Fecha del parcial de IR** — Pilar contestó el 04/10 al delegado de 3º que está definida y en la presentación
+- ✅ **Sin correos sospechosos** del 02 al 05/10
+
 ## ✉️ Correos a enviar (tú)
 
-- [ ] 🕐 **DarwinED** — horarios 26-27 de la Politécnica y Derecho para Miguel Ángel, **vie 2/10 (HOY)** — Paco ya ha vuelto
+- [x] 🕐 **DarwinED** — horarios 26-27 de la Politécnica y Derecho para Miguel Ángel — *(reenviado por Pilar a
+      Paco el 02/10 a las 12:37; su parte está hecha)*
+- [ ] 🕐 **DarwinED · que Paco lo entregue antes del mié 7**, que es cuando presentan — *sacado del punto
+      anterior*. Paco va con 31 issues en el sprint
 - [ ] 🎓 **Antonio Llanes** — 5 ideas de TFG, **01/10 (vencido)**
 - [ ] 🎓 **Alumno del grupo 7** *(23/09)*
 - [ ] 🩺 **Mª Dolores C. Sáez — Fisioterapia** (dos reglas de negocio cambian sobre un acta publicada) → [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]]
@@ -144,26 +184,31 @@ tags: [panel, pendientes, octubre]
 
 > 01/10: **22 issues abiertas** a tu nombre, 7 de service desk.
 
-- [ ] `ED-2018` Reorganización Planificación Septiembre — **30 días en curso**: cerrarla
+> 05/10: **18 issues abiertas** a tu nombre (5 de service desk). `DT-307` ya no está abierta; entra `DT-308`.
+
+- [ ] `ED-2018` Reorganización Planificación Septiembre — **34 días en curso**: cerrarla
 - [ ] `GES-192` Reunión para arquitectura de prácticas *(en curso)* · `MIG-29` *(vencida desde junio)*
-- [ ] `DT-307` Reunión con Responsables — SEPTIEMBRE · `ED-2050`…`ED-2053` Clases IR de septiembre → cerrar al imputar
+- [ ] `ED-2050`…`ED-2053` Clases IR de septiembre → cerrar al imputar · `DT-308` Responsables — OCTUBRE
 - [ ] Epics de Educación `GES-222`…`GES-225` y `GES-250` · `GES-235` (RF-41, sello de convenio)
 - [ ] `ED-1814` Estudio previo — Planificador de horarios y espacios
-- Service desk (`TICAM-14268`, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`)
+- Service desk (`TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 02/10, 11:53)
+## 💡 Sugerencia de foco (Pilita · 05/10)
 
-> **La tarde del viernes está vacía y el sprint sigue abierto.** Si no se cierra hoy, el lunes (sin luz
-> y sin seguimiento) el equipo arranca sin sprint.
+> **El sprint ya está en marcha; ahora el problema es de reparto, no de calendario.** Hoy es medio día útil
+> (sin luz hasta las 14:00), así que lo que no caduca hoy puede esperar a la tarde.
 
-1. **Cierra el `2026/15` y abre el `2026/16` hoy.** Es lo que desbloquea a todos: Jesús March sigue sin
-   saber qué pasa con `MIG-45`/`MIG-46`, y Paco ya está de vuelta con `GES-230` (P0, vence el 10). Ahora
-   tienes a todo el equipo para repartir.
-2. **Arregla el lunes antes de irte:** la frase a José Alberto (RRHH pisa Apryse) y **cancela o mueve el
-   Seguimiento Sprint de las 09:15**, que tú has rechazado pero el equipo sigue teniendo puesto, en
-   plena franja sin luz.
-3. **DarwinED para Miguel Ángel**: el compromiso vence hoy y DarwinED presenta el miércoles.
-4. **El Excel de Educación a Alejandro Aix** y las **5 ideas de TFG** (vencidas desde ayer), si queda hueco.
+1. **Tempo antes de que cierre hoy.** Llevas 1,75 h de 37,5 en la semana del 26/09, y el periodo 12–18/09 ya
+   se cerró con un hueco de casi 30 h. Es lo único que mañana no tiene arreglo → `/imputa`.
+2. **Resuelve el solape de las 11:30 y aprovecha RRHH.** Ve a Apryse entera (proveedor externo y decisión de
+   licencias) y lleva a RRHH lo de App Personas que te ha escrito Adrián: es el sitio para decir quién
+   mantiene el dato de responsables.
+3. **Recoloca el Seguimiento, en Zoom, y llévale a Paco una salida.** 31 de 96 issues y dos frentes que vencen
+   el sábado, más DarwinED para el miércoles. Alejandro Aix tiene 4 y el Excel de Educación. Y saca del
+   sprint lo que nadie va a hacer (`EVT-*`, `CAN-*`, `IN-505`).
+4. **El enlace roto de Laurea**: cada día que pasa es un doctorando admitido que no puede matricularse en su
+   plazo de 15 días. Es una frase para quien lleve las plantillas.
 
-⚠️ **Y el jueves 8, Reconocimientos va en Meet:** si quieres acta, pásala a Zoom con días de margen.
+⚠️ **El jueves 8, Reconocimientos sigue en Meet:** si quieres acta, pásala a Zoom. Y **el lunes 12 es
+festivo**: confírmamelo y lo añado a la nota de festivos.
