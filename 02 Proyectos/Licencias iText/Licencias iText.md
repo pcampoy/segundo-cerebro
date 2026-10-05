@@ -108,6 +108,13 @@ tramos de volumen:
 
 - [ ] 🧾 **Documento de renuncia**: pedido a Tangram su **documento tipo** en su ticket
       `Tarea #41293` *(29/09)*. **Esperando que lo manden.** Luego lo adaptan con nuestros datos
+- [ ] 🧾 **Ticket nuevo a Tangram** *(05/10, tras la reunión con Apryse)*: preguntarles **si se les ha
+      dado el caso de que a alguno de sus clientes se le haya podido reclamar el uso "a toro pasado"
+      de la librería de iText**. ⚠️ *Falta el número de ticket y quién lo abrió*
+- [ ] ⚖️ **Adrián escribe a Servicios Jurídicos** sobre esto mismo *(05/10)* — la reclamación
+      retroactiva. Es lo que hay que llevar resuelto a la reunión de la semana que viene
+- [ ] 🗓️ **Nueva reunión con Apryse la semana del 12/10** — *nos emplazan en la del 05/10*. ⚠️ *Sin
+      día ni hora todavía; ojo que el **lunes 12 es festivo***
 - [ ] ✍️ **Firma**: la firma **la presidenta**, decidido el 22/09. Miguel Ángel pasó la pelota a
       **Luis Espiñeira**, que prepara el documento
 - [ ] 🔍 **Cerrar el inventario**: leer el `Producer` de documentos generados por
@@ -119,9 +126,8 @@ tramos de volumen:
 - [ ] 🔍 Localizar **quién escribe `Producer(null)`** en los documentos de matrícula
 - [ ] ⚖️ **Asesoría Jurídica**: fijar la posición sobre el artículo 13 y sobre el reparto con los
       dos proveedores
-- [ ] 🗓️ **Reunión con Apryse**: pospuesta al **lunes 5/10, 12:00** *(la convoca Adrián)*.
-      ⚠️ Ese día hay **corte de luz en el campus de 8 a 14 h**, y figuras como `declined`
-      → [[Festivos y no lectivos 26-27]]
+- [x] 🗓️ **Reunión con Apryse del lunes 5/10, 12:00** *(convocada por Adrián)* — **celebrada**.
+      Salen de ella los tres puntos de arriba y una **nueva reunión la semana que viene**
 - [ ] 🧾 **Sigma Ref. 306886** — cerrada por nuestra parte el 28/09
 
 ## 🛑 Postura acordada
@@ -146,7 +152,7 @@ nuestra.
 | **22/09** | Decidido **quién firma**: la presidenta, vía Luis Espiñeira |
 | **28/09** | Luis pregunta si Tangram tiene un **documento tipo** que podamos adaptar |
 | **29/09** | **Pedido a Tangram** en su ticket `Tarea #41293` |
-| **05/10** | Reunión con Apryse/iText, 12:00 — *coincide con el corte de luz* |
+| **05/10** | **Reunión con Apryse/iText, 12:00** (celebrada). Se abre **ticket a Tangram** para saber si a algún cliente suyo le han reclamado el uso **"a toro pasado"** de iText; **Adrián escribirá a Servicios Jurídicos**; **nos emplazan a una nueva reunión la semana que viene** |
 
 ## 🔗 Enlaces
 

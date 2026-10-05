@@ -55,9 +55,13 @@ tags: [panel, pendientes, octubre]
       e `IN-505`, que nadie va a hacer → **en el semanal**
 - [x] 🗓️ **Cancelar en el calendario la reunión de Educación del 1/10** — *(cerrado en el diario del 01/10:
       reunión suspendida; la fecha ya ha pasado)*
-- [ ] ⚠️ **Lun 5 · RRHH 11:30–12:30 pisa Apryse 12:00–12:30**, y las dos dentro del corte de luz →
-      pedir a José Alberto adelantarla a las 11:00. *05/10: nadie la ha movido; ya es hoy → decidir a cuál
-      se va en la media hora del solape*
+- [x] ⚠️ **Lun 5 · RRHH 11:30–12:30 pisa Apryse 12:00–12:30** → *(05/10: resuelto como estaba
+      propuesto — **RRHH hasta las 12:00 y Apryse entera**. La de RRHH era para el proceso de sede)*
+- [ ] ⚖️ **iText · reclamación "a toro pasado"** *(de la reunión con Apryse del 05/10)* →
+      [[Licencias iText]]:
+      **ticket abierto con Tangram** para ver si a algún cliente suyo le han reclamado el uso
+      retroactivo de la librería *(falta el nº de ticket)* · **Adrián escribe a Servicios Jurídicos** ·
+      🗓️ **nueva reunión la semana del 12/10**, sin fecha todavía *(ojo: el lun 12 es festivo)*
 - [ ] 🗓️ **Lun 5 · Seguimiento Sprint - Dev (09:15)**: lo has rechazado, pero **sigue convocado para el
       equipo** en plena franja sin luz → cancelarlo o avisar. *05/10: sigue igual, nadie ha contestado*
 - [ ] 🔴 **UCAMSEGRE2 · rehacer el cronograma** *(se queda en rojo por decisión de Pilar, 25/09)*.
@@ -112,7 +116,10 @@ tags: [panel, pendientes, octubre]
 - [ ] 📊 **Adaptaciones curriculares → "mis alumnos"** (iniciativa nueva, 01/10). Almudena pide revisar el
       **periodo de carga de los listados Jira→Google Sheet** → Adrián. Y falta que María Luisa rellene el
       campo interno al FINALIZAR: hoy *"no hemos encontrado tickets que se ajusten"*
-- [ ] 🗺️ **SMS · acceso al mapa docente en pruebas** — reenviado por el SMS a Prado el 01/10. En espera
+- [x] 🗺️ **SMS · acceso al mapa docente en pruebas** — reenviado por el SMS a Prado el 01/10 →
+      *(05/10: **resuelta la visualización del mapa docente de Prado**. Se ha contactado **por fin con
+      la CARM** y **nos han dado acceso al entorno de pruebas**)*. ⚠️ *Lo doy por el mismo hilo que el
+      del SMS; si la CARM es otra gestión distinta, dímelo y lo separo*
 - [ ] 🧹 **Sistemas suspende cuentas Google/Azure sin uso en 18 meses** — revisar el listado por si hay
       cuentas de servicio de integraciones
 - [ ] 📅 **Convocatorias oficiales de exámenes de la EPS** — el plazo para corregir era el 01/10: comprobar IR
@@ -172,6 +179,11 @@ tags: [panel, pendientes, octubre]
       Seguimientos del 08, 16 y 28/09
 - [ ] **Gestión de la Docencia** — los cinco pasos antes del summary para María Mendoza (ver el panel de septiembre)
 - [ ] 🗣️ **Hablar con Dolo** del mapa docente (`GES-254`) y de read.ai
+- [ ] 🏛️ **RRHH · proceso en sede para emitir certificado** *(acordado en la reunión del 05/10)*:
+      **Jesús va a hacer un proceso para que ellos inicien, en nombre del usuario, proceso en sede
+      para emitir certificado**. Al ser de sede → tarea en **Tramita (`ET`)**, asignada a
+      **Jesús March**, y documentación a **Confluence (espacio ESE)**. ⚠️ *Sin crear todavía: falta
+      decidir el sprint* → [[2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria]]
 
 ## 🎓 Docencia
 
