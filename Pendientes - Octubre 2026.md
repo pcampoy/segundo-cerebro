@@ -17,7 +17,7 @@ tags: [panel, pendientes, octubre]
 | **jue 1** | 🏁 cierre del sprint `2026/15` · consultoría SIGMA 12:30 · **5 ideas de TFG** |
 | **vie 2** | Educación manda los Excel · **DarwinED** (compromiso con Miguel Ángel) · inscripción Instructure UG · vuelve Paco |
 | **lun 5** | 🔴 **sin luz en los Jerónimos 8–14 h** · RRHH (firma de documentos) 11:30 ⚠️ solapa con Apryse 12:00 |
-| **mar 6** | Reunión responsables · Instructure User Group (Madrid) |
+| **mar 6** | ⚠️ **Reunión responsables — Pilar NO va** *(médico)*; por eso el cierre de Infucam se le manda a Miguel Ángel por escrito · Instructure User Group (Madrid) |
 | **mié 7** | Qualtrics Business Review · DarwinED presenta a Miguel Ángel |
 | **jue 8** | *(propuesta)* Reconocimientos con Almudena y Baldomero, 12:00 |
 | **sáb 10** | `GES-230` (P0) · `GD-683`…`GD-689` (conferenciantes) · Educación: parte básica probándose |
@@ -82,10 +82,24 @@ tags: [panel, pendientes, octubre]
 > 50 hilos desde el 30, unos 30 de ruido automático. **Sin correos sospechosos.** Dos cosas se han
 > cerrado (Educación y Sngular) y aparece **la reunión de José Alberto** que faltaba por identificar.
 
-- [ ] 🗄️ **Cierre de INFUCAM · convocar la reunión** que anunció Pilar el 30/09. Respuestas recogidas:
-      Títulos (consulta + **emisión de certificados**), Secretaría (expedientes + **documentos de
-      preinscripción**), OA y Laurea (solo consulta), y **se cobran certificados por INFUCAM**. Miguel
-      Ángel propone exportar los expedientes a PDF y JSON antes de apagar
+- [ ] 🗄️ **Cierre de INFUCAM · convocar la reunión** que anunció Pilar el 30/09.
+      **Censo de usuarios cerrado el 05/10** (ver [[Quién es quién (apodos e interlocutores)]]):
+      **Títulos** (Loles: consulta + emisión de certificados + retirada de títulos) · **SIE**
+      (Pedro López, Postgrados y Títulos Propios: datos personales, **pagos** y certificados) ·
+      **Secretaría Central** (Josué: expedientes + documentos de preinscripción) · **OA** (Almudena)
+      y **Laurea** (Alicia), solo consulta · **Gestión Económica**. **Partner NO lo usa.**
+      Miguel Ángel propone exportar los expedientes a PDF y JSON antes de apagar
+- [ ] 💶 🔴 **INFUCAM tiene dinero vivo sin cuadrar** *(05/10)*: **se cobran certificados por ahí** y
+      **Gestión Económica lleva los saldos pendientes, con positivos y negativos por actualizar**.
+      No es solo un archivo de consulta → **no se puede fijar fecha de apagado sin resolver esto**
+- [ ] ✉️ **Mandar a Miguel Ángel el correo del cierre de Infucam** — borrador escrito el 05/10
+      *(`Borrador - Correo a Miguel Angel - cierre de Infucam.md`, en la Carpeta de Trabajo)*. Pide
+      tres decisiones: corrección masiva de Laurea, permiso de mecanización a Títulos, y fecha de
+      apagado + qué se hace con los saldos
+- [ ] 📏 **Medir cuántos de los ~2.800 expedientes tienen mal la fecha fin** — la decisión de corregir
+      Laurea en masa depende de este número, y hoy hay dos versiones de la gravedad que no coinciden
+- [ ] 🔍 **Buscar en BD si existe la fecha de retirada del título** *(pista: misma tabla y fila que
+      las claves alfanuméricas)*. Si no existe, al apagar Infucam **no se recupera de ningún sitio**
 - [x] 🎓 **Reconocimientos · jue 8/10 a las 12:00** — *convocada por Pilar el 01/10 (correo de las 10:47)*.
       ⚠️ Está en **Meet**: si se quiere acta, pasarla a Zoom antes del jueves
 - [ ] 🗣️ **José Alberto** — la reunión era la de **"Procedimiento firma de documentos RRHH"**, movida al
