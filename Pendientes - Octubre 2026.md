@@ -182,11 +182,15 @@ tags: [panel, pendientes, octubre]
       Seguimientos del 08, 16 y 28/09
 - [ ] **Gestión de la Docencia** — los cinco pasos antes del summary para María Mendoza (ver el panel de septiembre)
 - [ ] 🗣️ **Hablar con Dolo** del mapa docente (`GES-254`) y de read.ai
-- [ ] 🏛️ **RRHH · proceso en sede para emitir certificado** *(acordado en la reunión del 05/10)*:
+- [x] 🏛️ **RRHH · proceso en sede para emitir certificado** *(acordado en la reunión del 05/10)*:
       **Jesús va a hacer un proceso para que ellos inicien, en nombre del usuario, proceso en sede
-      para emitir certificado**. Al ser de sede → tarea en **Tramita (`ET`)**, asignada a
-      **Jesús March**, y documentación a **Confluence (espacio ESE)**. ⚠️ *Sin crear todavía: falta
-      decidir el sprint* → [[2026-09-29 - Nuevo proceso en sede - certificado B2 de Primaria]]
+      para emitir certificado** → **`ET-555`** creada en Tramita, asignada a **Jesús March**, sprint
+      *Desarrollo 2026/16*, enlazada con **`TICAM-14061`** *(que es el mismo asunto)*
+- [ ] ✉️ **Mandarle a Jesús el correo pidiéndole que redacte el proceso** — borrador escrito el 05/10
+      *(`Borrador - Correo a Jesus - proceso sede RRHH.md`, en la Carpeta de Trabajo)*. Cuando lo
+      redacte, **subirlo a Confluence (espacio ESE)**
+- [ ] 🔓 **`TICAM-14061`** sigue en *ESPERANDO A TERCEROS* y la reunión ya se ha celebrado →
+      comentar lo acordado y cerrarlo
 
 ## 🎓 Docencia
 
