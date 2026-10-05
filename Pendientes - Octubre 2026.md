@@ -92,6 +92,13 @@ tags: [panel, pendientes, octubre]
 - [ ] 💶 🔴 **INFUCAM tiene dinero vivo sin cuadrar** *(05/10)*: **se cobran certificados por ahí** y
       **Gestión Económica lleva los saldos pendientes, con positivos y negativos por actualizar**.
       No es solo un archivo de consulta → **no se puede fijar fecha de apagado sin resolver esto**
+- [ ] ⚙️ **Por qué se apaga INFUCAM** *(apuntado el 05/10)*: es una aplicación en **Visual Basic**
+      contra un **SQL Server 2008**, **sin actualizaciones ni mantenimiento**. Fuera de soporte, con
+      lo que implica en seguridad → **el apagado tiene reloj propio**, no depende de que cada
+      departamento resuelva lo suyo
+- [ ] 🧭 **Dos visiones de la salida, sin cerrar**: **Miguel Ángel quiere PDF + JSON** (Alfresco,
+      plantillas con IA) · **Desarrollo ve la migración** a un SQL Server nuevo + **mini aplicación
+      de consulta**. Análisis con pros, contras y recomendación en el documento de Confluence
 - [ ] ✉️ **Mandar a Miguel Ángel el correo del cierre de Infucam** — borrador escrito el 05/10
       *(`Borrador - Correo a Miguel Angel - cierre de Infucam.md`, en la Carpeta de Trabajo)*. Pide
       tres decisiones: corrección masiva de Laurea, permiso de mecanización a Títulos, y fecha de
