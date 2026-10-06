@@ -7,8 +7,8 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[05-10-2026]].
-> **Última revisión:** 2026-10-05 *(tarea programada del lunes)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[06-10-2026]].
+> **Última revisión:** 2026-10-06 *(tarea programada del martes)*
 
 ## 📅 Fechas del mes
 
@@ -20,6 +20,7 @@ tags: [panel, pendientes, octubre]
 | **mar 6** | ⚠️ **Reunión responsables — Pilar NO va** *(médico)*; por eso el cierre de Infucam se le manda a Miguel Ángel por escrito · Instructure User Group (Madrid) |
 | **mié 7** | Qualtrics Business Review · DarwinED presenta a Miguel Ángel |
 | **jue 8** | *(propuesta)* Reconocimientos con Almudena y Baldomero, 12:00 |
+| **vie 9** | 🆕 Seguimiento megarepo Dirección TIC, 13:00 *(Miguel Ángel, con casi todo el equipo)* |
 | **sáb 10** | `GES-230` (P0) · `GD-683`…`GD-689` (conferenciantes) · Educación: parte básica probándose |
 | **lun 12** | 🗓️ **Fiesta Nacional** *(no figura en [[Festivos y no lectivos 26-27]]; pendiente de confirmar para añadirlo)* |
 | **mar 13** | Atlassian cambia precios |
@@ -60,10 +61,12 @@ tags: [panel, pendientes, octubre]
 - [ ] ⚖️ **iText · reclamación "a toro pasado"** *(de la reunión con Apryse del 05/10)* →
       [[Licencias iText]]:
       **ticket abierto con Tangram** para ver si a algún cliente suyo le han reclamado el uso
-      retroactivo de la librería *(falta el nº de ticket)* · **Adrián escribe a Servicios Jurídicos** ·
+      retroactivo de la librería → **`Tarea #41387`** *(06/10: planificada del 05 al 16/10, asignada a
+      Emilio)* · `#41293` (documento tipo) en *Pdte. pase a pro* · Sigma `306886` resuelta · **Adrián escribe a Servicios Jurídicos** ·
       🗓️ **nueva reunión la semana del 12/10**, sin fecha todavía *(ojo: el lun 12 es festivo)*
 - [ ] 🗓️ **Lun 5 · Seguimiento Sprint - Dev (09:15)**: lo has rechazado, pero **sigue convocado para el
-      equipo** en plena franja sin luz → cancelarlo o avisar. *05/10: sigue igual, nadie ha contestado*
+      equipo** en plena franja sin luz → cancelarlo o avisar. *05/10: sigue igual, nadie ha contestado.*
+      *06/10: la fecha ya ha pasado; no sé si se celebró. Lo dejo abierto hasta que me lo digas*
 - [ ] 🔴 **UCAMSEGRE2 · rehacer el cronograma** *(se queda en rojo por decisión de Pilar, 25/09)*.
       ⚠️ *05/10: **la fecha ya no es noviembre**: Sigma da por **confirmado el 26/10** para Explotación,
       manda Excel de casos de prueba para Preproducción y propone seguimiento el **jue 15 a las 10:00**.
@@ -72,8 +75,9 @@ tags: [panel, pendientes, octubre]
       decide**, y por escrito. Buen sitio: el Business Review del 7/10
 - [ ] **~10.000 horas de docencia desaparecidas** del curso 26/27 — Pablo *(riesgo alto)*
 - [ ] ⏱️ **Tempo (tus horas)**: el periodo 12–18/09 cerró con 29,75 h sin imputar y el 19–25 iba igual → `/imputa`.
-      🔴 *05/10: el **26/09–02/10 cierra HOY con 1,75 h de 37,5***
-- [ ] ⏱️ **Aprobar planillas del 28/09–04/10**: Pablo (05/10) y Paco (02/10)
+      🔴 *05/10: el **26/09–02/10 cierra HOY con 1,75 h de 37,5***.
+      *06/10: `ED-2050`, `ED-2052` y `ED-2053` ya no están abiertas, lo que sugiere que imputaste; sin confirmar*
+- [ ] ⏱️ **Aprobar planillas del 28/09–04/10**: Pablo, Jesús March y Alejandro Aix (05/10) y Paco (02/10)
 - [x] ⏱️ **Planillas del equipo del 21–27** (Alejandro Aix, Jesús March, Paco) aprobadas *(cerrado en el
       diario del 01/10; sacado del punto de Tempo, que sigue abierto)*
 
@@ -83,6 +87,8 @@ tags: [panel, pendientes, octubre]
 > cerrado (Educación y Sngular) y aparece **la reunión de José Alberto** que faltaba por identificar.
 
 - [ ] 🗄️ **Cierre de INFUCAM · convocar la reunión** que anunció Pilar el 30/09.
+      🟢 *06/10: **Miguel Ángel da luz verde** ("Ok, convoca una reunión con los departamentos"). Desde
+      el mar 13, en Zoom. Hay `DT-310` a tu nombre para imputarlo*
       **Censo de usuarios cerrado el 05/10** (ver [[Quién es quién (apodos e interlocutores)]]):
       **Títulos** (Loles: consulta + emisión de certificados + retirada de títulos) · **SIE**
       (Pedro López, Postgrados y Títulos Propios: datos personales, **pagos** y certificados) ·
@@ -99,7 +105,8 @@ tags: [panel, pendientes, octubre]
 - [ ] 🧭 **Dos visiones de la salida, sin cerrar**: **Miguel Ángel quiere PDF + JSON** (Alfresco,
       plantillas con IA) · **Desarrollo ve la migración** a un SQL Server nuevo + **mini aplicación
       de consulta**. Análisis con pros, contras y recomendación en el documento de Confluence
-- [ ] ✉️ **Mandar a Miguel Ángel el correo del cierre de Infucam** — borrador escrito el 05/10
+- [x] ✉️ **Mandar a Miguel Ángel el correo del cierre de Infucam** — *(enviado por Pilar el 05/10 a las
+      18:10, con las notas en PDF y el enlace a Confluence; contestó el 06/10)* — borrador escrito el 05/10
       *(`Borrador - Correo a Miguel Angel - cierre de Infucam.md`, en la Carpeta de Trabajo)*. Pide
       tres decisiones: corrección masiva de Laurea, permiso de mecanización a Títulos, y fecha de
       apagado + qué se hace con los saldos
@@ -109,8 +116,8 @@ tags: [panel, pendientes, octubre]
       las claves alfanuméricas)*. Si no existe, al apagar Infucam **no se recupera de ningún sitio**
 - [x] 🎓 **Reconocimientos · jue 8/10 a las 12:00** — *convocada por Pilar el 01/10 (correo de las 10:47)*.
       ⚠️ Está en **Meet**: si se quiere acta, pasarla a Zoom antes del jueves
-- [ ] 🗣️ **José Alberto** — la reunión era la de **"Procedimiento firma de documentos RRHH"**, movida al
-      lun 5 a las 11:30. Engancha con `TICAM-14061`
+- [x] 🗣️ **José Alberto** — la reunión era la de **"Procedimiento firma de documentos RRHH"**, movida al
+      lun 5 a las 11:30. Engancha con `TICAM-14061` *(cerrado en el diario del 05/10; la reunión se celebró)*
 - [ ] ✅ **`TICAM-14268`** *(Urgente)* — la usuaria da el problema por resuelto: **cerrar**. *02/10: Paco
       se lo ha asignado sin querer; ya no está a tu nombre*
 - [x] 🔗 **Enlaces cortos de Enfermería** (Ana Mª Lorente, 4 formularios de prácticum) — *(los hizo Raquel, 05/10 09:33)*
@@ -155,9 +162,11 @@ tags: [panel, pendientes, octubre]
 > 50 hilos desde el 2, unos 35 de ruido. **Sin correos sospechosos.** Se cerró el sprint; lo nuevo con reloj
 > es Tempo (hoy) y UCAMSEGRE2 (26/10).
 
-- [ ] 🗂️ **App Personas · RRHH no mantiene los responsables de departamento** y fallan los validadores de Jira
+- [x] 🗂️ **App Personas · RRHH no mantiene los responsables de departamento** y fallan los validadores de Jira
       *(Adrián, 05/10 09:20, a Pilar y Miguel Ángel: "¿Cómo procedéis a comunicarlo?")* → sacarlo en la reunión
-      de RRHH del 05/10 y contestarle
+      de RRHH del 05/10 y contestarle *(contestado por Pilar el 05/10 a las 16:17)*
+- [ ] 🗂️ **Organigrama sin dueño** — *sacado del punto anterior*: Adrián insiste en que sin área responsable
+      no hay margen, y Miguel Ángel (06/10): *"Tenemos que comentarlo"*. Pendiente de hablarlo con él
 - [ ] 🔗 **Laurea · enlace roto en la notificación de admisión al doctorado**: la URL va doblemente escapada
       (`&amp;amp;`) *(reenviado por Admisiones Internacionales el 04/10)*. Afecta a todos los admitidos, con 15
       días para matricularse → a quien lleve las plantillas de Laurea
@@ -173,13 +182,35 @@ tags: [panel, pendientes, octubre]
 - [x] 🟢 **Fecha del parcial de IR** — Pilar contestó el 04/10 al delegado de 3º que está definida y en la presentación
 - ✅ **Sin correos sospechosos** del 02 al 05/10
 
+## 🆕 Novedades del 05–06/10 (del correo)
+
+> 50 hilos desde el 5, unos 35 de ruido. **Sin correos sospechosos.** Infucam tiene luz verde, iText tiene número
+> de ticket, y el bloqueo pasa a ser **Prado**.
+
+- [ ] 🔴 **Prado · `realizarAsignacion` falla en pruebas** (*"Error comprobando fase de asignacion"*, `ORA-01403`).
+      El mapa ya se descarga (05/10), pero sin asignación no hay pruebas. Juan Manuel ha preguntado a la CARM el
+      06/10 a las 08:00. Si no contestan, llamada → [[2026-09-10 - Prácticas Educación 26-27]]
+- [ ] 🩺 **Ana Mª Lorente · ¿está actualizado el listado de plazas libres de la oferta privada?** (05/10) → Juan
+      Manuel o Alejandro Aix
+- [ ] 💬 **Mención nueva en `SUCAM-23194`** (Juan Miguel Mompeán, 05/10; cambio de pasaporte a DNI)
+- [ ] 🗓️ **Seguimiento megarepo Dirección TIC, vie 9 13:00** — sin contestar
+- [ ] 🔐 **Reset de MFA pedido desde un `@gmail.com`** (reenviado por Secretaría a `atenuser`, 05/10): que se
+      verifique la identidad por otro canal antes de resetear. *Higiene, no ataque*
+- [ ] 🧮 **Sigma `308523`** (DGES): *¿qué pasa cuando un alumno ejerce su derecho de supresión?* — roza RGPD
+- ⚪ **Sigma**: `308529` (TCS), `308531`/`308504` (MOVS), `308494` (DOA, guías docentes masivas), `307074` (PLES)
+  devuelta por cliente · Marc Giró pregunta si instalan los módulos desbloqueados (Alicia)
+- ⚪ **Laurea · expedientes sin el curso anterior** — reenviado a `laureaacademic` por Alimentación, *"no es a la
+  primera que le pasa"*
+- [x] 🟢 **Respuesta a Andrés (EIDUCAM)** — Pilar, 05/10: los contratados salen de RRHH, no de Laurea
+- ✅ **Sin correos sospechosos** del 05 al 06/10
+
 ## ✉️ Correos a enviar (tú)
 
 - [x] 🕐 **DarwinED** — horarios 26-27 de la Politécnica y Derecho para Miguel Ángel — *(reenviado por Pilar a
       Paco el 02/10 a las 12:37; su parte está hecha)*
-- [ ] 🕐 **DarwinED · que Paco lo entregue antes del mié 7**, que es cuando presentan — *sacado del punto
-      anterior*. Paco va con 31 issues en el sprint
-- [ ] 🎓 **Antonio Llanes** — 5 ideas de TFG, **01/10 (vencido)**
+- [x] 🕐 **DarwinED · que Paco lo entregue antes del mié 7**, que es cuando presentan — *sacado del punto
+      anterior*. Paco va con 31 issues en el sprint *(Paco mandó los CSV a Miguel Ángel el 05/10 a las 15:50)*
+- [x] 🎓 **Antonio Llanes** — 5 ideas de TFG, **01/10 (vencido)** *(cerrado en el diario del 05/10)*
 - [ ] 🎓 **Alumno del grupo 7** *(23/09)*
 - [ ] 🩺 **Mª Dolores C. Sáez — Fisioterapia** (dos reglas de negocio cambian sobre un acta publicada) → [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]]
 - [ ] 🔓 **`TICAM-13996` · EXPLODAT** — *"lo hablo con Alicia"* (23/09)
@@ -226,29 +257,32 @@ tags: [panel, pendientes, octubre]
 
 > 05/10: **18 issues abiertas** a tu nombre (5 de service desk). `DT-307` ya no está abierta; entra `DT-308`.
 
-- [ ] `ED-2018` Reorganización Planificación Septiembre — **34 días en curso**: cerrarla
-- [ ] `GES-192` Reunión para arquitectura de prácticas *(en curso)* · `MIG-29` *(vencida desde junio)*
-- [ ] `ED-2050`…`ED-2053` Clases IR de septiembre → cerrar al imputar · `DT-308` Responsables — OCTUBRE
+> 06/10: **14 abiertas** (5 de service desk). Salen `ED-2018`, `GES-192`, `MIG-29`, `ED-2050`, `ED-2052` y
+> `ED-2053`; entra **`DT-310`** *Viabilidad de cierre de Infucam*.
+
+- [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
+- [x] `GES-192` Reunión para arquitectura de prácticas · `MIG-29` *(ya no están abiertas, 06/10)*
+- [ ] `ED-2051` *(Clases IR, semana del 07/09)* — la única de septiembre que queda abierta · `DT-308` Responsables — OCTUBRE
+- [ ] 🆕 `DT-310` Viabilidad de cierre de Infucam
 - [ ] Epics de Educación `GES-222`…`GES-225` y `GES-250` · `GES-235` (RF-41, sello de convenio)
 - [ ] `ED-1814` Estudio previo — Planificador de horarios y espacios
 - Service desk (`TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 05/10)
+## 💡 Sugerencia de foco (Pilita · 06/10)
 
-> **El sprint ya está en marcha; ahora el problema es de reparto, no de calendario.** Hoy es medio día útil
-> (sin luz hasta las 14:00), así que lo que no caduca hoy puede esperar a la tarde.
+> **Hoy es un día de hueco** (médico por la mañana, nada más en el calendario). No lo llenes de cosas a
+> medias: con una que desbloquee a seis departamentos ya vale la pena.
 
-1. **Tempo antes de que cierre hoy.** Llevas 1,75 h de 37,5 en la semana del 26/09, y el periodo 12–18/09 ya
-   se cerró con un hueco de casi 30 h. Es lo único que mañana no tiene arreglo → `/imputa`.
-2. **Resuelve el solape de las 11:30 y aprovecha RRHH.** Ve a Apryse entera (proveedor externo y decisión de
-   licencias) y lleva a RRHH lo de App Personas que te ha escrito Adrián: es el sitio para decir quién
-   mantiene el dato de responsables.
-3. **Recoloca el Seguimiento, en Zoom, y llévale a Paco una salida.** 31 de 96 issues y dos frentes que vencen
-   el sábado, más DarwinED para el miércoles. Alejandro Aix tiene 4 y el Excel de Educación. Y saca del
-   sprint lo que nadie va a hacer (`EVT-*`, `CAN-*`, `IN-505`).
-4. **El enlace roto de Laurea**: cada día que pasa es un doctorando admitido que no puede matricularse en su
-   plazo de 15 días. Es una frase para quien lleve las plantillas.
+1. **Convoca la reunión de Infucam, en Zoom, desde el martes 13.** Miguel Ángel la ha aprobado esta mañana y
+   el censo está cerrado. Es la que desbloquea a más gente (seis departamentos) y la que tiene reloj propio
+   (VB + SQL Server 2008 sin soporte, y dinero vivo sin cuadrar).
+2. **Aprueba las cuatro planillas** (Pablo, Jesús, Alejandro Aix y Paco). Son cinco minutos y bloquean a cuatro
+   personas.
+3. **Vigila Prado.** La asignación falla en el entorno de pruebas de la CARM y Educación prueba el 25/10. Si
+   mañana no hay respuesta a Juan Manuel, una llamada vale más que otro correo.
+4. **Si te queda tarde: `/reunion-requisitos` con la del 24/09** (mapa docente de prácticas, 12 días en `acta`).
+   Es justo el tipo de trabajo que solo sale con un hueco largo.
 
 ⚠️ **El jueves 8, Reconocimientos sigue en Meet:** si quieres acta, pásala a Zoom. Y **el lunes 12 es
 festivo**: confírmamelo y lo añado a la nota de festivos.
