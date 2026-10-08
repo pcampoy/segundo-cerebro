@@ -27,6 +27,19 @@ El 09/09/2026 hubo que corregirlo en caliente al apuntar dos reuniones del mismo
 > **Loles** (Títulos), no de **Dolo** (SOIL). Antes de dar por hecho a quién hay que escribir sobre
 > un certificado, mirar de qué certificado se trata.
 
+## ⚠️ Los dos Alejandro del equipo — convención fijada
+
+**Regla de Pilar, 08/10/2026.** Son dos personas distintas del equipo de desarrollo y **a partir de
+ahora se nombran siempre así**:
+
+| Cómo se dice | Quién es |
+|---|---|
+| **Alex** | **Alejandro Aix** |
+| **Alejandro** | **Alejandro Sánchez** |
+
+> No mezclarlos ni pedir confirmación cada vez: la convención está fijada. Si alguna vez el contexto
+> contradice esta regla, preguntar antes de asumir.
+
 ## 🧩 Prado y Prado JS — quién lleva qué
 
 **Prado** y **Prado JS** son aplicaciones, no personas. Son **los dos entornos de la CARM** para el
@@ -60,6 +73,9 @@ Y por encima de los dos:
 | **Kalo** / **Kaloyan** | Kaloyan · *apellidos sin confirmar* | **Sigma** (proveedor) | **PM de Sigma** en `UCAMSEGRE2`: convoca las reuniones de planificación y comunica las fechas |
 | **Pedro** / **Pedro López** | Pedro López Egea · `plopez@ucam.edu` | **SIE** — Servicio de Información al Estudiante (Jefe). Lleva **Postgrados y Títulos Propios** | **Cierre de Infucam**: consulta datos personales, **pagos** y emite certificados *(confirmado el 05/10/2026)* |
 | **Josué** | Josué Saavedra Cánovas · `jsaavedra@ucam.edu` | **Secretaría Central** (Jefe) | **Cierre de Infucam**: expedientes y documentos de acceso de preinscripciones |
+| **Enrique** / **Enrique Palenzuela** | Enrique Palenzuela | **Director de Marketing Nacional** | Gestiona directamente **PGO** —los **másteres de Odontología**, título propio—, que es **el Partner más importante de la UCAM** *(aclarado por Pilar el 07/10/2026)*. Lo que afecte a PGO, va con esa prioridad |
+| **Adrián** / **Adrián Cano** | Adrián Cano Pérez · `acano@ucam.edu` | — | **Salesforce** (su parte documental se migrará a Alfresco), **App Personas**, Apryse/iText, Sngular |
+| **Verónica** (en contexto de PGO) | **Verónica Cartagena** | **PGO** — los partners de **Odontología** | Interlocutora del día a día de PGO: avisa de **alumnos que no le aparecen** *(08/10/2026)*. ⚠️ **Partner de especial cuidado**: trae un volumen muy considerable de alumnos a la universidad |
 | **Almudena** | Almudena Vicente Buendía · `avicente@ucam.edu` | **Ordenación Académica** (Coordinadora de la Dirección) | **Cierre de Infucam**: consulta expedientes, seminarios y planes · también **Reconocimientos** y **adaptaciones curriculares** |
 
 > ℹ️ **SEGRE tiene dos figuras, y no se pisan:** **Alicia** lo lleva **por parte de la UCAM**, y **Kalo** es el **PM de Sigma**, que es quien convoca y mueve fechas. Que escriba Kalo no significa que la decisión sea suya.
