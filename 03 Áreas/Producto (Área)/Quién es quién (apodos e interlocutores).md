@@ -11,6 +11,22 @@ actualizado: 2026-10-05
 >
 > Se va ampliando sola: cada vez que Pilar use un nombre que no esté aquí y lo aclare, se añade.
 
+## 🏛️ Organigrama — jefaturas y responsables
+
+*Confirmado por Pilar el 08/10/2026.* Quién manda en cada servicio con el que trabajamos:
+
+| Servicio | Quién | Cargo |
+|---|---|---|
+| **Dirección TIC** | **Miguel Ángel Guillén** · `maguillen@ucam.edu` | **Director** — el jefe de Pilar |
+| **Sección de Títulos** | **Loles** — María Dolores Martínez López · `mdmartinez@ucam.edu` | **Jefa** |
+| **SIE** — Servicio de Información al Estudiante *(lleva Postgrados y Títulos Propios)* | **Pedro López Egea** · `plopez@ucam.edu` | **Jefe** |
+| **Secretaría** (Central) | **Josué Saavedra Cánovas** · `jsaavedra@ucam.edu` | **Jefe** |
+| **Ordenación Académica** | **Almudena Vicente Buendía** · `avicente@ucam.edu` | **Jefa** ⚠️ *(en su firma de correo aparece como "Coordinadora de la Dirección de Ordenación Académica")* |
+| **Laurea** | **Alicia Cano Capel** · `acano498@ucam.edu` | **Técnica** encargada de Laurea. También lleva los proyectos **SEGRE** |
+
+> Son los cinco interlocutores del **cierre de Infucam**, cada uno por su parte: títulos, títulos
+> propios, expedientes, planes y datos migrados → [[Cierre de Infucam]].
+
 ## ⚠️ TRES que se confunden con facilidad
 
 **Lola**, **Dolo** y **Loles** no son la misma persona, aunque las tres vengan de "María Dolores".
@@ -74,6 +90,7 @@ Y por encima de los dos:
 | **Pedro** / **Pedro López** | Pedro López Egea · `plopez@ucam.edu` | **SIE** — Servicio de Información al Estudiante (Jefe). Lleva **Postgrados y Títulos Propios** | **Cierre de Infucam**: consulta datos personales, **pagos** y emite certificados *(confirmado el 05/10/2026)* |
 | **Josué** | Josué Saavedra Cánovas · `jsaavedra@ucam.edu` | **Secretaría Central** (Jefe) | **Cierre de Infucam**: expedientes y documentos de acceso de preinscripciones |
 | **Enrique** / **Enrique Palenzuela** | Enrique Palenzuela | **Director de Marketing Nacional** | Gestiona directamente **PGO** —los **másteres de Odontología**, título propio—, que es **el Partner más importante de la UCAM** *(aclarado por Pilar el 07/10/2026)*. Lo que afecte a PGO, va con esa prioridad |
+| **Miguel Ángel** | Miguel Ángel Guillén · `maguillen@ucam.edu` | **Director de la Dirección TIC** — el jefe de Pilar | Reunión de responsables · cierre de Infucam · DPO del equipo. ⛔ **Todo correo dirigido a él se comenta con Pilar antes de crear el borrador** |
 | **Adrián** / **Adrián Cano** | Adrián Cano Pérez · `acano@ucam.edu` | — | **Salesforce** (su parte documental se migrará a Alfresco), **App Personas**, Apryse/iText, Sngular |
 | **Verónica** (en contexto de PGO) | **Verónica Cartagena** | **PGO** — los partners de **Odontología** | Interlocutora del día a día de PGO: avisa de **alumnos que no le aparecen** *(08/10/2026)*. ⚠️ **Partner de especial cuidado**: trae un volumen muy considerable de alumnos a la universidad |
 | **Almudena** | Almudena Vicente Buendía · `avicente@ucam.edu` | **Ordenación Académica** (Coordinadora de la Dirección) | **Cierre de Infucam**: consulta expedientes, seminarios y planes · también **Reconocimientos** y **adaptaciones curriculares** |
