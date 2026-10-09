@@ -22,7 +22,7 @@ tags: [panel, pendientes, octubre]
 | **jue 8** | 🗄️ **Exportación de datos Infucam** con Títulos, 09:00–11:00 · Reconocimientos con Almudena y Baldomero, 12:00 *(las dos en Meet)* |
 | **vie 9** | 🎓 clase 08:30 · 💶 **Cierre de Infucam con Gestión Económica**, 11:00–12:30, Sala TIC + Meet *(celebrada; ya estabas en el evento)* · Seguimiento megarepo Dirección TIC, 13:00 |
 | **sáb 10** | `GES-230` (P0) · `GD-683`…`GD-689` (conferenciantes) · Educación: parte básica probándose |
-| **lun 12** | 🗓️ **Fiesta Nacional** *(no figura en [[Festivos y no lectivos 26-27]]; pendiente de confirmar para añadirlo)* |
+| **lun 12** | 🗓️ **Fiesta Nacional** *(confirmado por Pilar el 09/10; ya en [[Festivos y no lectivos 26-27]])* |
 | **mar 13** | Atlassian cambia precios · 🦷 empieza el programa online de PGO · ⚠️ **16:00 Qualtrics BR pisa el tribunal de reconocimiento** · ⚠️ 09:00 Plan de pruebas Educación pisa Acrelia |
 | **mié 14** | Tangram 11:00 · UCAMSEGRE2 · revisión del estado, 11:30 *(Teams; solapa media hora con Tangram)* · 🎓 clase online 16:00 |
 | **jue 15** | Acto de apertura del curso, 10:00–14:00 |
@@ -456,4 +456,4 @@ tags: [panel, pendientes, octubre]
 4. **Las cuatro planillas.** Quinto día esperando, y bloquean al equipo, no a ti.
 5. **El listado de Miguel Ángel**, si te queda hueco: le dijiste que es sencillo, y lo es.
 
-⚠️ **El lunes 12 es festivo**: confírmamelo y lo añado a la nota de festivos.
+✅ **El lunes 12 es festivo** — confirmado y añadido a [[Festivos y no lectivos 26-27]].
