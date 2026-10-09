@@ -93,6 +93,10 @@ tags: [panel, pendientes, octubre]
 > 50 hilos desde el 30, unos 30 de ruido automático. **Sin correos sospechosos.** Dos cosas se han
 > cerrado (Educación y Sngular) y aparece **la reunión de José Alberto** que faltaba por identificar.
 
+- [ ] 💶 **Vie 09/10 · Reunión de Infucam con Gestión Económica y Administración** (Gracia Paloma,
+      jefa de GE Murcia · Juan Ruiz, GE Cartagena · Alberto Fernández, técnico de Administración).
+      ⚠️ **No está en el calendario**; el hueco libre es **10:30–13:00** (a las 13:00 tienes el
+      megarepo). Qué llevar → [[Cierre de Infucam]]
 - [ ] 📄 **Actualizar el documento de requisitos de Infucam en Confluence** *(pendiente del OK de
       Pilar, 08/10)*: que `RQ-INF-04` recoja que la documentación está en **los directorios del
       sistema y en el Alfresco antiguo**, y que el **Alfresco de destino todavía no existe**. Es el

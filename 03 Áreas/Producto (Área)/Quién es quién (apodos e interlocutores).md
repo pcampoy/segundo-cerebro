@@ -23,6 +23,9 @@ actualizado: 2026-10-05
 | **Secretaría** (Central) | **Josué Saavedra Cánovas** · `jsaavedra@ucam.edu` | **Jefe** |
 | **Ordenación Académica** | **Almudena Vicente Buendía** · `avicente@ucam.edu` | **Jefa** ⚠️ *(en su firma de correo aparece como "Coordinadora de la Dirección de Ordenación Académica")* |
 | **Laurea** | **Alicia Cano Capel** · `acano498@ucam.edu` | **Técnica** encargada de Laurea. También lleva los proyectos **SEGRE** |
+| **Gestión Económica — Murcia** | **Gracia Paloma** · `gpcarrillo@ucam.edu` | **Jefa** de Gestión Económica de Murcia |
+| **Gestión Económica — Cartagena** | **Juan Ruiz** · `jruiz@ucam.edu` | Lleva la **gestión económica en Cartagena** |
+| **Administración** | **Alberto Fernández** · `afernandez@ucam.edu` | **Técnico de Administración** |
 
 > Son los cinco interlocutores del **cierre de Infucam**, cada uno por su parte: títulos, títulos
 > propios, expedientes, planes y datos migrados → [[Cierre de Infucam]].

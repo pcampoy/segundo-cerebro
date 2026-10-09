@@ -24,10 +24,37 @@ El cierre no es un bloque único. Cada parte tiene su interlocutor y su casuíst
 
 | Parte | Quién | Estado |
 |---|---|---|
-| **Gestión económica** | Gestión Económica | 🔴 Saldos positivos y negativos **vivos y sin cuadrar**, y **se cobran certificados** por Infucam |
+| **Gestión económica** | Gestión Económica y Administración | 🔴 Saldos **vivos y sin cuadrar** y **se cobran certificados** por Infucam. **Reunión el vie 09/10** (ver abajo) |
 | **Títulos** | Sección de Títulos (Loles) | Reunión del 30/09 y del 08/10 documentadas |
 | **Expedientes** | Secretaría Central, Ordenación Académica, UCAM Laurea | Consulta de expedientes y documentos de preinscripción |
 | **Títulos propios** | SIE — Postgrados y Títulos Propios (Pedro López) | No se migraron los de la etapa anterior |
+
+## 🗓️ Reunión de Gestión Económica — viernes 09/10/2026
+
+La segunda de las reuniones por partes. **Tema: los pagos pendientes y las contabilidades que se
+llevan en Infucam.**
+
+| Quién | Papel |
+|---|---|
+| **Gracia Paloma** | Jefa de Gestión Económica de **Murcia** |
+| **Juan Ruiz** | Gestión económica en **Cartagena** |
+| **Alberto Fernández** | Técnico de **Administración** |
+
+⚠️ **No está en el calendario** (comprobado el 08/10). El viernes 09 solo figuran la **clase de
+08:30 a 10:30** y el **Seguimiento megarepo de Dirección TIC de 13:00 a 14:00**: el hueco libre es
+**de 10:30 a 13:00**.
+
+**Qué llevar**, a partir de lo que ya sabemos:
+
+- **Los saldos positivos y negativos pendientes de actualizar**: dónde están exactamente y con qué
+  se relacionan. Hoy *"no sé dónde están las notas ni qué relación"* tienen.
+- **Que por Infucam se cobran certificados** (confirmado por el SIE): qué pasa con ese flujo de
+  cobro al apagar.
+- **Los traspasos de saldo entre familiares** (entre hermanos).
+- La pregunta de fondo: **¿los saldos se cuadran antes de apagar, se migran, o se trasladan a otro
+  sistema?** Es lo que condiciona la fecha de apagado.
+- Y el matiz técnico que importa aquí: **un saldo no se consulta, se concilia**. Un PDF no sirve;
+  hace falta dato operable.
 
 ## 🔄 Cómo se está trabajando
 
