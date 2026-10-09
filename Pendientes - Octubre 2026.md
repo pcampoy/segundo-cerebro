@@ -340,7 +340,11 @@ tags: [panel, pendientes, octubre]
 - [ ] 🧮 **Listado de profesorado por facultad para Miguel Ángel** *(08/10)*: con el % de docencia en la facultad y el
       resto como "Otras Facultades". Ojo a las **Unidades de Plantilla** (Paqui Julián) y a CCRR e Idiomas. Contestado
       por Pilar el 08/10; **falta sacarlo**
-- [ ] 🗄️ **Acta del cierre de Infucam con Gestión Económica** (09/10, Meet) → `/reunion-acta` si Zoom My Notes la tiene
+- [x] 🗄️ **Acta del cierre de Infucam con Gestión Económica** (09/10, Meet) *(hecha el 09/10 por la tarde →
+      [[2026-10-09 - Cierre de Infucam con Gestión Económica]] y Confluence; borradores de correo dentro, sin enviar)*
+- [ ] 🔎 **Infucam · movimiento del 21/09/2026 en la tabla del cuaderno 57** — si ya no se cobra nada por Infucam,
+      ¿de dónde sale? *(sacado del acta del 09/10)*
+- [ ] 🗓️ **Infucam · convocar la sesión delante de Infucam con Gestión Económica** (¿también en Cartagena?)
 - [ ] 🔐 **Alerta de Google · nuevo inicio de sesión en Windows** (09/10 11:08) — confirmar que fuiste tú (PC del aula o
       de la sala). Si no, revisar desde myaccount.google.com, **no desde el correo**
 - [ ] ⚙️ **Quodus · viabilidad de la ampliación de la API** — Alejandro les prometió respuesta **el 09/10**. Es alcance

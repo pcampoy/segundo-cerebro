@@ -24,7 +24,7 @@ El cierre no es un bloque único. Cada parte tiene su interlocutor y su casuíst
 
 | Parte | Quién | Estado |
 |---|---|---|
-| **Gestión económica** | Gestión Económica y Administración | 🔴 Saldos **vivos y sin cuadrar** y **se cobran certificados** por Infucam. **Reunión el vie 09/10** (ver abajo) |
+| **Gestión económica** | Gestión Económica y Administración | 🔴 Saldos **vivos y sin cuadrar**. **Reunión del 09/10 documentada** → [[2026-10-09 - Cierre de Infucam con Gestión Económica]]. Lo que manda es el **histórico de *Alta de pagos***. *Ya no se cobra nada por Infucam* |
 | **Títulos** | Sección de Títulos (Loles) | Reunión del 30/09 y del 08/10 documentadas |
 | **Expedientes** | Secretaría Central, Ordenación Académica, UCAM Laurea | Consulta de expedientes y documentos de preinscripción |
 | **Títulos propios** | SIE — Postgrados y Títulos Propios (Pedro López) | No se migraron los de la etapa anterior |
@@ -105,10 +105,12 @@ Alfrescos anteriores al nuevo, y **migrar también los directorios de Infucam** 
 | **05/10/2026** | Censo de usuarios cerrado. Aparecen los **saldos de Gestión Económica** |
 | **06/10/2026** | Miguel Ángel da luz verde a convocar a los departamentos |
 | **08/10/2026** | Reunión de requisitos con Títulos. Se fija el método: **una reunión por parte → documento → reunión con Miguel Ángel → plan de cierre** |
+| **09/10/2026** | Reunión con **Gestión Económica y Administración** → [[2026-10-09 - Cierre de Infucam con Gestión Económica]]. Actividad "Infucam" en Laurea para deudas; sesión pendiente delante de Infucam |
 
 ## 🔗 Enlaces
 
 - **Confluence:** [Migración Infucam → Laurea (30/09)](https://ucam.atlassian.net/wiki/spaces/~5c7cfc943fb39d723db25676/pages/1245806594) ·
-  [Requisitos del 08/10](https://ucam.atlassian.net/wiki/spaces/~5c7cfc943fb39d723db25676/pages/1267138562)
+  [Requisitos del 08/10](https://ucam.atlassian.net/wiki/spaces/~5c7cfc943fb39d723db25676/pages/1267138562) ·
+  [Gestión Económica del 09/10](https://ucam.atlassian.net/wiki/spaces/~5c7cfc943fb39d723db25676/pages/1270448129)
 - [[Alfresco - nuevo repositorio]] — de él depende la solución documental
 - [[Producto (Área)]] · [[Quién es quién (apodos e interlocutores)]] · [[Cronograma de proyectos (hasta dic 2026)]]
