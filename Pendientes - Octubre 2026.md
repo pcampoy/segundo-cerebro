@@ -8,6 +8,7 @@ tags: [panel, pendientes, octubre]
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
 > Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[16-10-2026]].
+> **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
 > **Última revisión:** 2026-10-16 *(tarea programada del viernes; corrió pasadas las 15:40)*
 
 ## 📅 Fechas del mes
@@ -27,7 +28,7 @@ tags: [panel, pendientes, octubre]
 | **mié 14** | ⚠️ **11:00–12:30 triple choque**: Tangram 11:00 · **Qualtrics Business Review 11:30–12:30** · UCAMSEGRE2 11:30 *(Teams; Alicia)* · 🎓 clase online 16:00 |
 | **jue 15** | Acto de apertura del curso, 10:00–14:00 |
 | **vie 16** | 🎓 clase 08:30 · ~~Integración App de elección de SEDE con Salesforce 10:45~~ *(movida al lun 19)* · Generación archivo lector final 14:00 *(lector de planillas: viene al caso por el piloto de corrección)* · 🎓 **respuesta a Reconocimientos** · 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17) |
-| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) |
+| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) · 📸 **Pablo: captura de los nuevos reconocimientos previos** (para Almudena) |
 | **jue 22** | 🗂️ **Repositorios DTIC** 12:00–13:00 *(Adrián, Meet; sin contestar)* |
 | **22/10** | 📝 posible arranque del **piloto de la app de corrección de exámenes** en parciales (pendiente de que TIC confirme titulación) |
 | **22/10 → 17/11** | ventana del parcial de 3º |
@@ -536,6 +537,10 @@ tags: [panel, pendientes, octubre]
 - [ ] 🔄 **Ester Illas** — las seis invitaciones de Acrelia de los lunes a las 09:00 (chocan con el Seguimiento Sprint)
 
 ## 📌 Gestión de equipo (tú)
+
+- [ ] 📸 **Lun 19/10 · Pablo: mandar captura de pantalla de los nuevos reconocimientos previos**, para ver posibles
+      mejoras con Almudena *(apuntado el 16/10)* → **`RDC-102`** (sprint `2026/16`, `DPO-2026`, vence lun 19). Engancha con la respuesta pendiente a Reconocimientos →
+      [[2026-10-08 - Mejoras de la app de Reconocimientos]]
 
 - [ ] Rehacer **DPO** del equipo *(08/10: ya hay dos proyectos del año asignados)*:
       - **Jesús** → **[[Alfresco - nuevo repositorio]]** (crear el repositorio nuevo y migrar los
