@@ -7,8 +7,8 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[13-10-2026]].
-> **Última revisión:** 2026-10-13 *(tarea programada del martes, vuelta del puente del 12)*
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[16-10-2026]].
+> **Última revisión:** 2026-10-16 *(tarea programada del viernes; corrió pasadas las 15:40)*
 
 ## 📅 Fechas del mes
 
@@ -26,8 +26,12 @@ tags: [panel, pendientes, octubre]
 | **mar 13** | Atlassian cambia precios · 🦷 empieza el programa online de PGO · Acrelia 09:00 · responsables 10:00–11:30 · ⚠️ **pruebas de Educación 11:00–12:30 (solapa media hora con responsables)** · tribunal de reconocimiento 16:00 · ~~Qualtrics BR 16:00~~ *(movida al mié 14)* |
 | **mié 14** | ⚠️ **11:00–12:30 triple choque**: Tangram 11:00 · **Qualtrics Business Review 11:30–12:30** · UCAMSEGRE2 11:30 *(Teams; Alicia)* · 🎓 clase online 16:00 |
 | **jue 15** | Acto de apertura del curso, 10:00–14:00 |
-| **vie 16** | 🎓 clase 08:30 · **Integración App de elección de SEDE con Salesforce** 10:45 (Adrián, Meet; aceptada) · Generación archivo lector final 14:00 · 🎓 **respuesta a Reconocimientos** · 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17) |
+| **vie 16** | 🎓 clase 08:30 · ~~Integración App de elección de SEDE con Salesforce 10:45~~ *(movida al lun 19)* · Generación archivo lector final 14:00 *(lector de planillas: viene al caso por el piloto de corrección)* · 🎓 **respuesta a Reconocimientos** · 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17) |
+| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) |
+| **jue 22** | 🗂️ **Repositorios DTIC** 12:00–13:00 *(Adrián, Meet; sin contestar)* |
+| **22/10** | 📝 posible arranque del **piloto de la app de corrección de exámenes** en parciales (pendiente de que TIC confirme titulación) |
 | **22/10 → 17/11** | ventana del parcial de 3º |
+| **vie 23** | 🎓 **entrega del examen parcial online de IR** (PDF a Luz con copia a Andrés Bueno + copias en papel por sede). Parciales online: 7-8 y 21-22/11 |
 | **25/10 · 27/10 · 28/10** | Educación: pruebas · descarga de Prado · apertura a alumnos |
 | **lun 26** | 🔴 **UCAMSEGRE2 · segregación en Explotación** *(Sigma la da por confirmada el 05/10; lo lleva Alicia)* |
 
@@ -44,6 +48,11 @@ tags: [panel, pendientes, octubre]
 - [ ] 🔎 **API key de Ex Libris que nadie reconoce** → preguntar a Alejandro y revocar
 - [ ] 🔐 **Alumni · consulta RGPD** (cambio de finalidad) → DPD
 - [ ] 🚨 **Seguridad Protocolo** (H-1…H-4) → [[Revisión de seguridad - Protocolo]]
+- [ ] 🚨 **14/10 · petición a `laureaacademic` desde `@gmail.com` para cambiar el correo de recuperación de una cuenta de
+      alumno y mandar un enlace de contraseña** (patrón de toma de cuenta; *"Re:"* sin hilo previo) → que quien atiende el
+      alias verifique la identidad por otro canal antes de tocar nada → [[15-10-2026]]
+- [ ] 🔐 **Procedimiento de verificación de identidad para resets en `laureaacademic`** — tres peticiones desde Gmail
+      (05/10 MFA, dos el 14/10). Que no dependa de quién conteste
 
 ## 🔴 Prioritario / vigilar
 
@@ -230,7 +239,7 @@ tags: [panel, pendientes, octubre]
 - [x] 🩺 **Ana Mª Lorente · ¿está actualizado el listado de plazas libres de la oferta privada?** (05/10) → Juan
       Manuel o Alejandro Aix *(cerrado en el diario del 06/10; lo contestó Alejandro Aix y Ana Mª lo da por
       resuelto el 06/10)*
-- [ ] 💬 **Mención nueva en `SUCAM-23194`** (Juan Miguel Mompeán, 05/10; cambio de pasaporte a DNI)
+- [x] 💬 **Mención nueva en `SUCAM-23194`** (Juan Miguel Mompeán, 05/10; cambio de pasaporte a DNI) *(CERRADA en Jira, 14/10)*
 - [x] 🗓️ **Seguimiento megarepo Dirección TIC, vie 9 13:00** — sin contestar *(aceptada; la fecha ya pasó, 09/10)*
 - [ ] 🔐 **Reset de MFA pedido desde un `@gmail.com`** (reenviado por Secretaría a `atenuser`, 05/10): que se
       verifique la identidad por otro canal antes de resetear. *Higiene, no ataque*
@@ -262,7 +271,7 @@ tags: [panel, pendientes, octubre]
 - [x] 🗺️ **Prado · las eliminaciones de `realizarAsignacion` no liberan la plaza** (Juan Manuel a la CARM, 06/10
       11:37) — sin respuesta. Es lo que queda antes de las pruebas del 25/10 *(resuelto: la CARM lo ajustó el 07/10
       y Juan Manuel confirma el 08/10 a las 13:36 que **funciona según lo esperado**; siguen las pruebas)*
-- [ ] 💬 **`SUCAM-23260`** (Juan Miguel Mompeán, 06/10) — igual que `SUCAM-23194`: cambiado en Laurea, pide
+- [x] *(FINALIZADA por Juan Miguel el 16/10)* 💬 **`SUCAM-23260`** (Juan Miguel Mompeán, 06/10) — igual que `SUCAM-23194`: cambiado en Laurea, pide
       cambiarlo *"en el resto de bases de datos"* (a ti y a Alejandro)
 - [ ] 🟠 **Conferenciantes con contrato hasta 2099** *(Fran Torrecillas a RRHH, 06/10)* — dato de origen de
       `GD-683`…`GD-689`, que vencen el sáb 10
@@ -313,8 +322,8 @@ tags: [panel, pendientes, octubre]
       profesional** (Luz, Zoom; tú dijiste 👍). Propuesta: se queda el tribunal y se pide otra hora a Qualtrics
       *(13/10: resuelto el 09/10 — Lola pidió moverla y Nerea la pasó al **mié 14 a las 11:30**. Ojo: ahí choca con
       Tangram y UCAMSEGRE2, ver novedades del 09–13/10)*
-- [ ] ⚠️ **mar 13 · 09:00** · tu bloque "Plan de pruebas - Prácticas Educación" pisa la de Ester (Acrelia) → mover o soltar
-      *(13/10: sigue en el calendario; la sesión real es a las 11:00 → bórralo)*
+- [x] ⚠️ **mar 13 · 09:00** · tu bloque "Plan de pruebas - Prácticas Educación" pisa la de Ester (Acrelia) → mover o soltar
+      *(13/10: sigue en el calendario; la sesión real es a las 11:00 → bórralo)* *(14/10: la fecha ya ha pasado)*
 - [ ] 🔒 **Sigma `309052` · usuario de BBDD de producción bloqueado por exceso de peticiones** (08/10, desbloqueado
       a las 11:27). Sigma pregunta si **usamos la copia diaria por SFTP**. Averiguar qué proceso fue y por qué
       no tira de la copia
@@ -326,7 +335,8 @@ tags: [panel, pendientes, octubre]
       Informática", 08/10) → Juan Manuel / Alejandro Aix *(contestado por Pilar el 09/10: Grado → nota de
       expediente, Máster → fecha de preinscripción, y lo ordenamos nosotros; Elena: "CORRECTÍSIMO")*
 - [ ] 🗺️ **Prado · oferta temporal** (Dolo, 08/10) — sirve para lo del mapa del año pasado
-- [ ] 💬 **`SUCAM-23379`** (delitos sexuales, mención + aprobación) y **`SUCAM-23387`** (aprobación) — Juan Miguel
+- [x] 💬 **`SUCAM-23379`** (delitos sexuales, mención + aprobación) y **`SUCAM-23387`** (aprobación) — Juan Miguel
+      *(las dos FINALIZADAS por Juan Miguel el 16/10)*
 - [ ] 👤 **MENTOR · segunda consulta médica de Jesús March** (08/10) por validar
 - [ ] 🎓 **Luz · comprobar la planificación de las videoconferencias** (08/10)
 - ⚪ **Quodus · caída de la API `[QT-2395-S]`** — la lleva Alejandro Sánchez · Admisiones: problemas con el enlace de
@@ -358,8 +368,9 @@ tags: [panel, pendientes, octubre]
       No choca con nada *(13/10: aceptada en el calendario)*
 - [ ] 📧 **Multimedia cambia las plantillas de correo** (Beatriz Muñoz, 08/10; tú en copia) para títulos propios, FP y quizá
       grado y máster. Mª José Pérez pide sentarse antes → que cuenten con Alejandro si tocan Laurea (y arreglar el `&amp;amp;`)
-- [ ] 🎓 **Horas de docencia de los grados online**: faltan los **semipresenciales** (Isaac a Pablo, 08/10) → ¿parte de las
-      ~10.000 horas?
+- [x] 🎓 **Horas de docencia de los grados online**: faltan los **semipresenciales** (Isaac a Pablo, 08/10) → ¿parte de las
+      ~10.000 horas? *(Pablo se los mandó a Isaac el 13/10 a las 09:41. Si explican parte de las ~10.000 horas, sigue
+      en su punto)*
 - [ ] 🔐 **SSO de Laurea, sexto caso** (09/10, *"Attribute does not correspond"*) → al CAU como incidencia única
 - [ ] 🧩 **Plugin `obsidian-rollover-daily-todos`** *(detectado el 09/10)*: al crear la nota del día **arranca la primera línea
       de cada `- [ ]` del diario anterior** y la pega arriba de la nueva. Deja las dos notas rotas (ya pasó en el
@@ -377,17 +388,23 @@ tags: [panel, pendientes, octubre]
 > Qualtrics y llegó la opinión de Tangram sobre iText; a cambio, aparecen **dos solapes nuevos** (hoy a las 11:00 y
 > el miércoles a las 11:00).
 
-- [ ] ⚠️ **mar 13 · 11:00–11:30 · Reunión responsables vs. pruebas de Educación** (tuya, fijada el 11/10 con sala) →
-      que Alex y Juan Manuel abran la sesión y entras a las 11:30, o sales antes de responsables
-- [ ] ⚠️ **mié 14 · 11:00–12:30 · Tangram + Qualtrics BR + UCAMSEGRE2**. SEGRE fuera (Alicia). Propuesta: Tangram
-      hasta las 11:30 y luego Qualtrics
+- [x] ⚠️ **mar 13 · 11:00–11:30 · Reunión responsables vs. pruebas de Educación** (tuya, fijada el 11/10 con sala) →
+      que Alex y Juan Manuel abran la sesión y entras a las 11:30, o sales antes de responsables *(14/10: la fecha ha
+      pasado y la sesión con Educación se celebró; no consta cómo se resolvió el solape)*
+- [x] ⚠️ **mié 14 · 11:00–12:30 · Tangram + Qualtrics BR + UCAMSEGRE2**. SEGRE fuera (Alicia). Propuesta: Tangram
+      hasta las 11:30 y luego Qualtrics *(14/10: la fecha ha pasado. Qualtrics y SEGRE se celebraron —seguimiento y
+      grabación en el correo—; de Tangram no hay rastro)*
 - [ ] 🦷 **PGO · empieza hoy el programa online y no hay noticias de Verónica desde el 08/10** — comprobar el alumno del
-      3400-2
+      3400-2. *14/10: **sí contestó el 13/10 a las 11:08** — uno de los alumnos ya matriculado; con los de 2º "voy a
+      seguir investigando". No consta que el del 3400-2 tenga campus*
 - [ ] ⏱️ **Tempo · tu periodo del 03–09/10 cerraba el 12/10** — si no imputaste, pedir reapertura (`/imputa`)
 - [ ] ⏱️ **Aprobar la planilla de Paco del 05–11/10** (13/10) — *se suma a las del 28/09–04/10*
-- [ ] ⚖️ **Tangram `#41387` · iText "a toro pasado"** *(10/10)*: ningún cliente suyo lo ha sufrido y creen que **no
+- [x] ⚖️ **Tangram `#41387` · iText "a toro pasado"** *(10/10)*: ningún cliente suyo lo ha sufrido y creen que **no
       prosperará** (no hubo negocio con iText ni mala fe). Te lo devuelven en *Pdte. validación cliente* → validar y
       pasárselo a Adrián / Jurídicos. Llévalo a Tangram el mié 14 → [[Licencias iText]]
+      *(15/10: **pasado a Adrián** por Pilar el 14/10 a las 17:35, con Luis y Miguel Ángel en copia)*
+- [ ] ⚖️ **Tangram `#41387` · validarlo en su portal** para que salga de *Pdte. validación cliente* — *sacado del punto
+      anterior*: no consta que se haya hecho
 - [ ] 🗺️ **Campo Prioridad del mapa docente** *(Dolo, 09/10: "Primera noticia...")*: Educación lo usará para priorizar
       las plazas que les faltan. **Decidir qué hace la app con él** → sesión de pruebas del 13/10
 - [x] 🗺️ **Máster Bilingüe con dos periodos** — configurado por Juan Manuel el 13/10 (Periodo A: 05/03–30/04/2027);
@@ -404,6 +421,98 @@ tags: [panel, pendientes, octubre]
 - [x] 🟢 **Qualtrics** movida al mié 14 11:30 (Nerea, 09/10) · **`GD-706`** entregado por Pablo (09/10) · **criterios de
       orden del Practicum** fijados (09/10) · **sesión de pruebas de Educación** convocada con sala (11/10)
 - ✅ **Sin correos sospechosos** del 09 al 13/10
+
+## 🆕 Novedades del 13–14/10 (del correo)
+
+> ~75 hilos desde el martes a las 09:10, unos 45 de ruido. **Sin correos sospechosos.** El daily del 14 corrió a las 17:08,
+> con la mañana ya pasada. Lo nuevo con reloj es la **app de corrección de exámenes** (Junta de Decanos) e **Infucam**,
+> que ya tiene expedientes de piloto.
+
+- [ ] 📝 🔴 **App de corrección de exámenes tipo test · pilotaje en parciales** *(Almudena, 14/10 13:50, a ti, Miguel Ángel,
+      Jesús March y M. Ruiz)*: pide **"confirmación desde TIC lo antes posible"** de la Facultad/titulación del piloto
+      (propone **EPS** o **Enfermería**) para presentarlo en la **Junta de Decanos**. Objetivo: explotación en toda la
+      universidad para los **finales del 1er semestre** y no comprar máquina de corrección para Madrid.
+      *15/10: **Miguel Ángel contestó el 14/10 a las 18:27** (pilotaje en parciales, Jesús termina la migración, Madrid
+      puede mandar planillas a Murcia, doble corrección). **Sigue sin titulación**: el punto queda abierto por eso*
+- [ ] 🗄️ **Infucam · Títulos manda 8 expedientes de piloto** *(Loles, 14/10 10:05)* y pregunta **dónde consultarlos** tras el
+      volcado. Sustituye a los "5 expedientes" del punto del 07–08/10. 🧼 *Vienen con DNI en el cuerpo del correo*
+- [ ] 🎓 **SET de Diplomaturas y Licenciaturas** *(Loles, 14/10 09:45)*: Títulos **no asume** recopilar de Infucam los datos de
+      los planes; faltan los planes **725 y 726** de Fisioterapia y Laurea falla al generar la solicitud (Sigma `309334`).
+      **Decidir quién lo hace** antes de apagar Infucam
+- [x] 🖥️ **`TICAM-14755` · equipo con Windows 7 para Infucam** — Daniel lo traía el 14/10 a mediodía para las pruebas.
+      🧼 *Sistema sin soporte: que sea temporal y aislado* *(FINALIZADA el 16/10: disco clonado y equipo entregado a Pilar)*
+- [ ] 🧼 **Equipo con Windows 7 de Infucam** — *sacado del punto anterior*: que se use aislado y **se retire al acabar las
+      pruebas**
+- [ ] ❓ **"Sacamos los certificados de Tramita"** *(tu captura del 13/10, en `00 Inbox`)*: ¿decisión o propuesta? ¿a
+      dónde van? ¿todos o solo algunos (y el B2 / `ET-555`)? **Choca con la regla de `ET`/Jesús March** de
+      [[Proyectos y claves Jira]] → [[2026-10-13 - Sacamos los certificados de Tramita]]
+- [ ] 🔗 **iMarina · la API** *(Gaspar a Miguel Ángel, 14/10)*: *"ya te comentarán los compañeros de informática"* — nos
+      toca contestar. ¿Quién?
+- [ ] 🟢 **`TICAM-13609` · Acceso Visor**: el usuario confirma el acceso (14/10) → **cerrarla** (es tuya)
+- [ ] 👤 **MENTOR**: vacaciones de **Alex** (13/10) · **Alejandro Sánchez** anula unas (13/10) y pide otras (14/10)
+- [ ] 🗺️ **Prado · repetir las asignaciones de prueba**: la CARM restableció pruebas el 13/10 pero *"las asignaciones de
+      prueba de la semana pasada habrán desaparecido"*. Antes del 25/10
+- [ ] 🧼 **read.ai en el Business Review de Qualtrics** (14/10) — otro notetaker externo; amplía el punto de Seguridad
+- [ ] 🔐 **SSO de Laurea, séptimo caso** (13/10, con el DNI del alumno en el cuerpo) → al CAU como incidencia única
+- [ ] 📸 **Foto sin asunto que te mandaste desde tu Gmail** (13/10 09:49) — ¿era una captura? No la he abierto
+- ⚪ **Qualtrics**: presentación, enlaces de formación y comparativa *foundational* vs. *Frontline Digital* (14/10). Las
+  respuestas sintéticas siguen sin decisión por escrito · **UCAMSEGRE2**: grabación de la revisión (14/10); Alicia subsanó
+  los expedientes de la segunda segregación (13/10) · **Educación**: Excel de Practicum actualizado (14/10) y plantilla del
+  correo a coordinadores acordada con Elena (13/10) · **PradoJS**: fase 4 abierta por Alex (13/10) · **SEDE + Salesforce**
+  movida al lun 19 13:15 · **Sigma** nuevas: `309367` (ACCS), `309325` (PLES), `309326` (TFEPE), `309300` (CERS) ·
+  **Medve**: comercial, sin interés aparente
+- [x] 🟢 **Educación · sesión de pruebas** celebrada (13/10) · **cobro no reconocido de un alumno** reenviado a Gestión
+      Económica (13/10) · `SUCAM-22895`, `SUCAM-17770` y `SUCAM-19517` cerradas por Soporte (14/10) · Pablo manda a Isaac las
+      horas con semipresenciales (13/10)
+- ✅ **Sin correos sospechosos** del 13 al 14/10
+
+## 🆕 Novedades del 14–15/10 (del correo)
+
+> ~20 hilos desde el miércoles a las 17:08, la mitad ruido. **Un correo sospechoso** (ver 🚨 Seguridad). Lo nuevo con
+> reloj es **docencia**: el examen parcial online se entrega el viernes 23.
+
+- [ ] 🎓 **Examen parcial online de IR · entrega vie 23/10** *(Andrés Bueno, 14/10)*: PDF a Luz con copia a Andrés, papel
+      por sede con portada (plantillas en contenidosdigitales), **duración en las instrucciones**. Parciales 7-8 y 21-22/11
+- [x] 🩺 **Enfermería · asignación en periodo ventana** *(Ana Mª Lorente, 14/10)*: alumna de **grupo B** del Practicum III que
+      debe ir a mayo–julio y la app solo ofrece el rotatorio siguiente. *"De nuevo con este caso"* → Juan Manuel / Alex.
+      🧼 *Con DNI y nombre en el cuerpo* *(lo resolvió Alex el 16/10 a las 10:56: periodo mayo–julio habilitado y alumna
+      asignada)*
+- [ ] 🗓️ **Seguimiento Sprint - Dev del lun 19 no está en tu calendario** (en la Sala TIC: 09:15–10:45, tu respuesta
+      "rechazada"). Si es 09:45–11:15, pisa la clase de las 11:00 → dejar la serie bien
+- [ ] 🎓 **Un alumno pide comentar los documentos de Zoom de los Temas 1–3** (14/10) — dar permiso o derivar al foro
+- ⚪ **Qualtrics**: enlaces de encuestas de demo (Nerea, 14/10) · **Zoom**: grabación de la clase online del Tema 3 lista ·
+  **Sigma / Canvas / Moodle**: sin novedades · Javier Garzás, Fiesta del Cine, Pinterest: ruido
+- [x] 🟢 **iText** a Adrián (Pilar, 14/10 17:35) · **app de corrección**: Miguel Ángel contesta a Almudena (14/10 18:27) ·
+      **clase online del 14/10** celebrada · la reserva de Adrián del vie 10:45 ya no está en la Sala TIC
+- [x] 🟢 **"La serie de los lunes de clase no está en el calendario"** — **sí está** ("Clase IR", 11:00–12:30, creada el 21/09).
+      El aviso arrastrado desde septiembre era erróneo *(comprobado el 15/10)*
+- 🚨 **Un correo sospechoso** del 14 al 15/10 (toma de cuenta vía `laureaacademic`) · 🧼 otra petición de reset desde Gmail,
+  esta con pinta de legítima
+
+## 🆕 Novedades del 15–16/10 (del correo)
+
+> Unos 50 hilos desde el jueves a las 09:10, más de la mitad ruido. **Sin correos sospechosos.** El daily corrió pasadas
+> las 15:40, con el día casi hecho. Lo que entra nuevo es **Bitbucket** (organización y cambio de SSH) y la pelota de
+> **Servicios Jurídicos** en iText; se caen las menciones de Juan Miguel.
+
+- [ ] 🗂️ **Bitbucket · organizar proyectos, repositorios, grupos y accesos** *(Adrián, 16/10, a ti, Alejandro Sánchez y Miguel
+      Ángel)*: qué se borra y qué se mantiene, qué grupos, qué usuarios y quién ve qué. Reunión **"Repositorios DTIC" jue 22,
+      12:00** (Meet, sin contestar). Trae dos Excel. Buen sitio para la API key de Ex Libris y los tokens del 17/09
+- [ ] 🟠 **Bitbucket · cambio del hostname SSH a `ssh.bitbucket.org` el 12/11** *(reenviado por Adrián, 16/10)* — confirmarlo en la
+      documentación oficial de Atlassian, **no por los enlaces del correo**, antes de que el equipo toque `known_hosts` y remotos
+- [ ] ⚖️ **iText · Miguel Ángel: "si no vamos a pagar, lo suyo sería verlo con SSJJ"** (15/10) → decidir quién lo lleva a
+      Servicios Jurídicos → [[Licencias iText]]
+- [ ] ⏱️ **Aprobar la planilla de Paco del 12–18/10** (16/10) — *se suma a las del 28/09–04/10 y 05–11/10*
+- [ ] 🟠 **Canvas · "Error" en el pase del 15/10 a mediodía** (el del 16/10, *"Correcto con avisos"*) e incidencia de login de
+      Instructure del 15/10 por la noche
+- [ ] 🧼 **Tercera petición de acceso desde Gmail a `laureaacademic`** (15/10; alumna de máster que no entra al correo) — legítima en
+      apariencia; refuerza el punto del procedimiento de verificación · **Ana Mª manda otra vez DNI y nombres** (16/10)
+- ⚪ **Sigma**: `309300` (CERS) resuelta sin entregable · `309542` (TCS) nueva · notas en `306484` (MATS) y `309259` (EXPS) ·
+  **UCAMSEGRE2**: Alicia pide acceso al SharePoint (lo lleva ella) · **Jesús** pasa `ET-553` a *EN CURSO*
+- [x] 🟢 **Juan Miguel**: `SUCAM-23379`, `SUCAM-23387` y `SUCAM-23260` finalizadas (16/10) · **Enfermería grupo B** resuelto por
+      Alex (16/10) · **`TICAM-14755`** finalizada (16/10) · **Educación**: plazos del correo a coordinadores contestados por
+      Pilar (16/10 12:12)
+- ✅ **Sin correos sospechosos** del 15 al 16/10 *(uno a verificar: el aviso de SSH de Bitbucket)*
 
 ## ✉️ Correos a enviar (tú)
 
@@ -460,6 +569,7 @@ tags: [panel, pendientes, octubre]
 - [ ] 🎥 Mecanizar las **videoconferencias** del 1er semestre en la hoja del claustro online
 - [ ] 📢 **Anuncio en el Campus Virtual**: no hay clase el lunes 5 (corte de luz)
 - [ ] Crear `ED-…` *Clases IR* de las semanas de octubre (al imputar)
+- [ ] 📝 **Examen parcial online** — entrega **vie 23/10** (ver novedades del 14–15/10)
 
 ## 🗂️ Mis tareas propias en Jira (fuera de JSM)
 
@@ -478,6 +588,13 @@ tags: [panel, pendientes, octubre]
 
 > 13/10: **15 abiertas** (5 de service desk), sin cambios desde el viernes.
 
+> 14/10: **15 abiertas** (5 de service desk), sin cambios de estado. `TICAM-13609` ya se puede cerrar (el usuario confirma acceso).
+
+> 15/10: **15 abiertas** (5 de service desk), sin cambios. `TICAM-13609` sigue *EN CURSO*.
+
+> 16/10: **15 abiertas** (5 de service desk), sin cambios. `TICAM-13609` sigue *EN CURSO*. Sprint `2026/16` activo hasta el
+> sáb 17, **sin `2026/17` creado**.
+
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
 - [x] `GES-192` Reunión para arquitectura de prácticas · `MIG-29` *(ya no están abiertas, 06/10)*
 - [ ] `ED-2051` *(Clases IR, semana del 07/09)* — la única de septiembre que queda abierta · `DT-308` Responsables — OCTUBRE
@@ -487,18 +604,17 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 13/10, 09:10)
+## 💡 Sugerencia de foco (Pilita · 16/10)
 
-> Vuelta del puente con la mañana llena hasta las 12:30 y la tarde con tribunal. La semana útil son hoy, el
-> miércoles por la mañana y el viernes después de clase: el jueves se lo come el acto de apertura.
+> Viernes por la tarde y el sprint ya cerrado de facto. Lo que queda tiene que ver con **el lunes** y con **la semana del 22**.
 
-1. **Antes de las 10:00, cierra el solape de las 11:00.** Educación viene con cinco personas y la convocaste tú:
-   que no te esperen. Lo más limpio es que Alex y Juan Manuel abran la sesión.
-2. **PGO, hoy.** Empieza el programa y llevas cinco días sin noticias. Es el partner prioritario: mejor que lo
-   compruebes tú a que lo descubra el alumno.
-3. **En la sesión de Educación, decide el campo Prioridad.** Cambia la regla de asignación y las pruebas son el
-   25/10. Si sale de la sala sin decidir, vuelve por correo dentro de una semana.
-4. **Las planillas (ya cinco) y tu Tempo.** Las del equipo llevan ocho días y bloquean a otros; la tuya, si no se
-   imputó, ya pide reapertura.
-5. **Mañana, Tangram antes que Qualtrics**, y lleva la respuesta de iText: es la única de las tres en la que la
-   decisión es tuya.
+1. **La titulación del piloto, hoy o el lunes a primera hora.** Es lo único con reloj de otros (Junta de Decanos) y el
+   parcial abre el jueves 22. Una línea a Almudena con copia a Miguel Ángel y Jesús basta.
+2. **Reconocimientos: la respuesta prometida "a finales de semana" vence hoy.** Si no da tiempo, un aviso de que llega el
+   lunes cuesta dos minutos y evita que parezca olvidada. Tira del acta del 08/10.
+3. **Planillas y MENTOR (diez minutos).** Ya son tres planillas de Paco más las del 28/09; bloquean el cierre de horas del
+   equipo, no el tuyo.
+4. **Lunes antes de las 09:15: `/inicio-sprint` y arreglar la serie del Seguimiento** (sigue "rechazada" y fuera de tu
+   calendario). Sin sprint nuevo, el tablero del seguimiento está vacío.
+5. **Bloque para el examen parcial online** (entrega vie 23) **antes del jueves 22**, que acumula piloto, parcial y la
+   reunión de repositorios.
