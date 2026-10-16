@@ -330,9 +330,9 @@ tags: [panel, pendientes, octubre]
       *(16/10: 10 aprobados, RQ-REC-02 declinado, RQ-REC-11 hecho por Juanma, 12 y 13 siguen propuestos. Issues creadas:
       comunes y oficiales en **RDCO** (`RDCO-182`…`188`, sin asignar), previos en **RDC** a **Pablo** (`RDC-103`
       `-06`, `RDC-104` `-07`, `RDC-105` `-14`). Enlazadas en la columna Jira del catálogo)*
-- [ ] 🏃 **Meter las 10 `rq-rec` en el sprint `Desarrollo 2026/17`** (18/10 → 02/11) — están creadas **sin sprint**: la API
-      no da el id de un sprint futuro vacío. Arrastrar una al sprint y Pilita mete el resto, o filtrar `labels = rq-rec`
-      y moverlas todas. Y **asignar** las 7 de RDCO
+- [x] 🏃 **Meter las 10 `rq-rec` en el sprint `Desarrollo 2026/17`** (18/10 → 02/11) *(16/10: hecho, con Team DevTeam,
+      Equipo Desarrollo y prioridad P0→Urgente, P1→Media, P2→Baja)*
+- [ ] 👤 **Asignar las 7 `rq-rec` de RDCO** (`RDCO-182`…`188`) — siguen sin persona
 - [ ] 🔀 **Unificar los espacios RDC y RDCO** *(dicho por Pilar el 16/10: "en unas semanas")*. Hoy los comunes van a RDCO
       y los de previos a RDC; los componentes tampoco coinciden (RDC usa `DPO-2026`, RDCO `Mejora` + `Estudios
       Previos/Oficiales`)
