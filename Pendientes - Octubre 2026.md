@@ -321,8 +321,12 @@ tags: [panel, pendientes, octubre]
       180 → 36 es lo rápido
       *16/10: la documentación de la app **ya está en el espacio Reconocimientos** de Confluence (movida desde
       Gestión Desarrollo), organizada en **Común / Previos / Oficiales**. Las 3 mejoras de Baldo (CRT de la EPS,
-      julio) quedan en la página "Común a previos y oficiales" §5 → `RQ-REC-04`, `-06` y `-09`. Clasificación con
-      ⚠️ pendiente de validar con el equipo*
+      julio) son `RQ-REC-04`, `-06` y `-09`. Clasificación con ⚠️ pendiente de validar con el equipo.
+      Reorganizado después en **📖 Cómo leer este espacio · 1 · Cómo funciona hoy · 2 · Catálogo de requisitos**:
+      el estado de cada requisito vive en el catálogo y, al aprobarse, en Jira (etiqueta `rq-rec`). Los 15 están
+      en PROPUESTO; las peticiones de Baldo, literales, en el catálogo*
+- [ ] 🗂️ **Catálogo de Reconocimientos · decidir qué requisitos pasan a APROBADO** (con Ordenación Académica) — solo
+      entonces se crean las issues en Jira, con `[RQ-REC-xx]` en el resumen y las etiquetas `rq-rec` + `ambito-*`
 - [x] ⚠️ **mar 13 · 16:00 · Qualtrics BR (movida hoy por Qualtrics) vs. tribunal de reconocimiento de experiencia
       profesional** (Luz, Zoom; tú dijiste 👍). Propuesta: se queda el tribunal y se pide otra hora a Qualtrics
       *(13/10: resuelto el 09/10 — Lola pidió moverla y Nerea la pasó al **mié 14 a las 11:30**. Ojo: ahí choca con
