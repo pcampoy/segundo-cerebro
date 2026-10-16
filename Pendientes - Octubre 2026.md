@@ -319,6 +319,10 @@ tags: [panel, pendientes, octubre]
 - [ ] 🎓 **Reconocimientos · respuesta a finales de la semana que viene** (≈ vie 16/10): qué mejoras entran y
       cuándo, y **fecha real para la IA** (se apuntó febrero) tras hablarlo con Miguel Ángel. Criminología
       180 → 36 es lo rápido
+      *16/10: la documentación de la app **ya está en el espacio Reconocimientos** de Confluence (movida desde
+      Gestión Desarrollo), organizada en **Común / Previos / Oficiales**. Las 3 mejoras de Baldo (CRT de la EPS,
+      julio) quedan en la página "Común a previos y oficiales" §5 → `RQ-REC-04`, `-06` y `-09`. Clasificación con
+      ⚠️ pendiente de validar con el equipo*
 - [x] ⚠️ **mar 13 · 16:00 · Qualtrics BR (movida hoy por Qualtrics) vs. tribunal de reconocimiento de experiencia
       profesional** (Luz, Zoom; tú dijiste 👍). Propuesta: se queda el tribunal y se pide otra hora a Qualtrics
       *(13/10: resuelto el 09/10 — Lola pidió moverla y Nerea la pasó al **mié 14 a las 11:30**. Ojo: ahí choca con
