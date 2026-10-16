@@ -28,7 +28,7 @@ tags: [panel, pendientes, octubre]
 | **mié 14** | ⚠️ **11:00–12:30 triple choque**: Tangram 11:00 · **Qualtrics Business Review 11:30–12:30** · UCAMSEGRE2 11:30 *(Teams; Alicia)* · 🎓 clase online 16:00 |
 | **jue 15** | Acto de apertura del curso, 10:00–14:00 |
 | **vie 16** | 🎓 clase 08:30 · ~~Integración App de elección de SEDE con Salesforce 10:45~~ *(movida al lun 19)* · Generación archivo lector final 14:00 *(lector de planillas: viene al caso por el piloto de corrección)* · 🎓 **respuesta a Reconocimientos** · 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17) |
-| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) · 📸 **Pablo: captura de los nuevos reconocimientos previos** (para Almudena) |
+| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) · 📸 **Pablo: captura de los nuevos reconocimientos previos** (para Almudena) · 🔴 ✉️ **Educación: de dónde salen los tutores UCAM** (Laurea o Excel) |
 | **jue 22** | 🗂️ **Repositorios DTIC** 12:00–13:00 *(Adrián, Meet; sin contestar)* |
 | **22/10** | 📝 posible arranque del **piloto de la app de corrección de exámenes** en parciales (pendiente de que TIC confirme titulación) |
 | **22/10 → 17/11** | ventana del parcial de 3º |
@@ -524,6 +524,11 @@ tags: [panel, pendientes, octubre]
 - ✅ **Sin correos sospechosos** del 15 al 16/10 *(uno a verificar: el aviso de SSH de Bitbucket)*
 
 ## ✉️ Correos a enviar (tú)
+
+- [ ] 🔴 **Lun 19/10 · Mail a Educación: los tutores UCAM, ¿de dónde los sacamos?** ¿Van **asociados a la asignatura
+      en Laurea** o van **en Excel**? Definir con ellos de dónde extraer este dato y mandarles un mail para decidir
+      *(apuntado el 16/10, importante)* → [[2026-09-10 - Prácticas Educación 26-27]] · engancha con el DNI del tutor sin
+      decidir en [[2026-09-24 - Definición de campos del mapa docente de prácticas]]
 
 - [x] 🕐 **DarwinED** — horarios 26-27 de la Politécnica y Derecho para Miguel Ángel — *(reenviado por Pilar a
       Paco el 02/10 a las 12:37; su parte está hecha)*
