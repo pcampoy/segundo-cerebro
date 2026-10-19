@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[16-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[19-10-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-16 *(tarea programada del viernes; corrió pasadas las 15:40)*
+> **Última revisión:** 2026-10-19 *(tarea programada del lunes, 09:30)*
 
 ## 📅 Fechas del mes
 
@@ -28,7 +28,7 @@ tags: [panel, pendientes, octubre]
 | **mié 14** | ⚠️ **11:00–12:30 triple choque**: Tangram 11:00 · **Qualtrics Business Review 11:30–12:30** · UCAMSEGRE2 11:30 *(Teams; Alicia)* · 🎓 clase online 16:00 |
 | **jue 15** | Acto de apertura del curso, 10:00–14:00 |
 | **vie 16** | 🎓 clase 08:30 · ~~Integración App de elección de SEDE con Salesforce 10:45~~ *(movida al lun 19)* · Generación archivo lector final 14:00 *(lector de planillas: viene al caso por el piloto de corrección)* · 🎓 **respuesta a Reconocimientos** · 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17) |
-| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) · 📸 **Pablo: captura de los nuevos reconocimientos previos** (para Almudena) · 🔴 ✉️ **Educación: de dónde salen los tutores UCAM** (Laurea o Excel) |
+| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🆕 ⚠️ **Revisión ciberseguridad aplicaciones 10:30–11:30** *(Miguel Ángel; en la titulación para que llegues a clase)* — **pisa el Seguimiento y la clase** · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) · 📸 **Pablo: captura de los nuevos reconocimientos previos** (para Almudena) · 🔴 ✉️ **Educación: de dónde salen los tutores UCAM** (Laurea o Excel) |
 | **jue 22** | 🗂️ **Repositorios DTIC** 12:00–13:00 *(Adrián, Meet; sin contestar)* |
 | **22/10** | 📝 posible arranque del **piloto de la app de corrección de exámenes** en parciales (pendiente de que TIC confirme titulación) |
 | **22/10 → 17/11** | ventana del parcial de 3º |
@@ -532,6 +532,34 @@ tags: [panel, pendientes, octubre]
       Pilar (16/10 12:12)
 - ✅ **Sin correos sospechosos** del 15 al 16/10 *(uno a verificar: el aviso de SSH de Bitbucket)*
 
+## 🆕 Novedades del 16–19/10 (del correo)
+
+> Unos 45 hilos desde el viernes a las ~15:40, la mitad ruido. **Sin correos sospechosos.** El lunes lo marca un **choque de
+> tres a primera hora** (Seguimiento, ciberseguridad nueva y clase) y el **sprint sin arrancar**.
+
+- [ ] 🔐 **Revisión ciberseguridad aplicaciones · lun 19, 10:30–11:30** *(Miguel Ángel, convocada el dom 18; con Alejandro
+      Sánchez, Sergio León y alumnos)*. Pilar: *"me interesa ver qué ha pasado"*. Se hace en la titulación para que llegues a
+      la clase de las 11:00. **Si es un incidente, que quede escrito** → [[Seguridad (Proyecto)]]
+- [ ] 🏁 **`/inicio-sprint`**: el `2026/16` (fin 17/10) sigue activo y el `2026/17` (18/10 → 02/11) está creado sin iniciar
+- [ ] ⏱️ **Tu planilla de Tempo del 10–16/10 cierra la noche del 19/10** (aviso del 19/10 a las 00:12: 27,5 h de margen → hacia las 03:40 del martes) → `/imputa`
+- [ ] ⏱️ **Aprobar la planilla de Jesús March del 12–18/10** (19/10) — *se suma a las de Paco y a las del 28/09–04/10*
+- [ ] ⏰ **RRHH · falta de marcaje de salida del vie 16** (17/10) → corregir en el portal
+- [ ] 🎓 **Reconocimientos previos · revisar el vídeo de la versión nueva** que manda Pablo (19/10 09:19, *"¿qué tal os
+      parece?"*). Va con la respuesta a Almudena, que **venció el vie 16** → [[2026-10-08 - Mejoras de la app de Reconocimientos]]
+- [ ] 🔗 **iMarina · API de importación XML caída desde el 25/09** *(proveedor, 19/10)*: su parte está terminada y esperan a
+      *"vuestro equipo informático"* para cerrar la implantación y empezar formaciones. **Amplía el punto del 13–14/10**: ya
+      no es "quién contesta", es que **la integración está parada por nosotros**
+- [ ] 🎓 **Planes nuevos de Psicología: 876, 877 y 878** *(Juan Miguel a Jesús March, tú en copia, 16/10)*. Los de
+      Odontología, Medicina, etc. fueron por Josué → Mariajo. Es la llegada de códigos nuevos que anunciaba
+      [[2026-09-04 - Criterios de implantación de modificaciones de planes]]
+- [ ] 📋 **Vigilancias de parciales del 1er cuatrimestre** (hoja de Luz al claustro de Informática, 16/10) — apuntarse
+- ⚪ **Hep 956**: Javier Plitt confirma a Malgorzata que en Canvas está todo bien (19/10) — *parece que resuelve el punto de
+  Toolbox del 07–08/10; no lo marco hasta que lo confirmes* · **Sigma**: `309573` (MOVS) y `309606` (TAS, ingreso duplicado)
+  nuevas · **Basecamp/Alma**: *Gestión de usuarios* vencida desde el 30/09 · **tl;dv** sigue con acceso a tu calendario (19/10)
+- [x] 🟢 **`ET-555`** *Resuelta* por Jesús March (19/10 09:11) · **Pablo** manda el vídeo de previos (19/10) ·
+      **`SUCAM-23257`** finalizada (19/10) · **Repositorios DTIC** aceptada
+- ✅ **Sin correos sospechosos** del 16 al 19/10
+
 ## ✉️ Correos a enviar (tú)
 
 - [ ] 🔴 **Lun 19/10 · Mail a Educación: los tutores UCAM, ¿de dónde los sacamos?** ¿Van **asociados a la asignatura
@@ -560,8 +588,12 @@ tags: [panel, pendientes, octubre]
 
 ## 📌 Gestión de equipo (tú)
 
-- [ ] 📸 **Lun 19/10 · Pablo: mandar captura de pantalla de los nuevos reconocimientos previos**, para ver posibles
-      mejoras con Almudena *(apuntado el 16/10)* → **`RDC-102`** (sprint `2026/16`, `DPO-2026`, vence lun 19). Engancha con la respuesta pendiente a Reconocimientos →
+- [ ] 📊 **Jesús tiene que pasar los excels** *(apuntado el 19/10)*. ⚠️ *Sin más contexto: no consta
+      **qué Excel** son, **a quién** van ni **para cuándo**. Lo más cercano en el vault es "Adrián ·
+      Bitbucket (dos Excel; jue 22)", pero **es de Adrián, no de Jesús**: no se han fusionado*
+- [x] 📸 **Lun 19/10 · Pablo: mandar captura de pantalla de los nuevos reconocimientos previos**, para ver posibles
+      mejoras con Almudena *(apuntado el 16/10)* *(lo mandó Pablo en **vídeo** con todas las pantallas, 19/10 09:19, a ti,
+      Alicia V. y C. Martínez; queda revisarlo — ver novedades del 16–19/10)* → **`RDC-102`** (sprint `2026/16`, `DPO-2026`, vence lun 19). Engancha con la respuesta pendiente a Reconocimientos →
       [[2026-10-08 - Mejoras de la app de Reconocimientos]]
 
 - [ ] Rehacer **DPO** del equipo *(08/10: ya hay dos proyectos del año asignados)*:
@@ -622,6 +654,11 @@ tags: [panel, pendientes, octubre]
 > 16/10: **15 abiertas** (5 de service desk), sin cambios. `TICAM-13609` sigue *EN CURSO*. Sprint `2026/16` activo hasta el
 > sáb 17, **sin `2026/17` creado**.
 
+> 19/10: **16 abiertas** (5 de service desk). Entra **`ED-2066`** *Gestión y jerarquía de repositorios en Confluence*. El
+> `2026/16` sigue activo pasado su fin; el `2026/17` existe (18/10 → 02/11) pero no está iniciado.
+
+- [ ] 🆕 `ED-2066` Gestión y jerarquía de repositorios en Confluence *(Reconocimientos; 2 h 30 m imputadas el 16/10)*
+
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
 - [x] `GES-192` Reunión para arquitectura de prácticas · `MIG-29` *(ya no están abiertas, 06/10)*
 - [ ] `ED-2051` *(Clases IR, semana del 07/09)* — la única de septiembre que queda abierta · `DT-308` Responsables — OCTUBRE
@@ -631,17 +668,17 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 16/10)
+## 💡 Sugerencia de foco (Pilita · 19/10)
 
-> Viernes por la tarde y el sprint ya cerrado de facto. Lo que queda tiene que ver con **el lunes** y con **la semana del 22**.
+> Lunes con la mañana troceada (Seguimiento → ciberseguridad → clase) y la tarde libre salvo SEDE a las 13:15. **La tarde
+> es el hueco de la semana**: úsalo para lo que tiene reloj de otros.
 
-1. **La titulación del piloto, hoy o el lunes a primera hora.** Es lo único con reloj de otros (Junta de Decanos) y el
-   parcial abre el jueves 22. Una línea a Almudena con copia a Miguel Ángel y Jesús basta.
-2. **Reconocimientos: la respuesta prometida "a finales de semana" vence hoy.** Si no da tiempo, un aviso de que llega el
-   lunes cuesta dos minutos y evita que parezca olvidada. Tira del acta del 08/10.
-3. **Planillas y MENTOR (diez minutos).** Ya son tres planillas de Paco más las del 28/09; bloquean el cierre de horas del
-   equipo, no el tuyo.
-4. **Lunes antes de las 09:15: `/inicio-sprint` y arreglar la serie del Seguimiento** (sigue "rechazada" y fuera de tu
-   calendario). Sin sprint nuevo, el tablero del seguimiento está vacío.
-5. **Bloque para el examen parcial online** (entrega vie 23) **antes del jueves 22**, que acumula piloto, parcial y la
-   reunión de repositorios.
+1. **`/inicio-sprint` ya, antes del Seguimiento.** Cinco minutos, y sin él el equipo revisa un sprint que acabó el sábado.
+   En el Seguimiento, asignar las 7 `rq-rec` de RDCO, que entran en este sprint sin persona.
+2. **La titulación del piloto, hoy.** Lleva desde el 14/10 sin respuesta de TIC, el parcial abre el jueves y la Junta de
+   Decanos lo necesita antes. Una línea a Almudena con copia a Miguel Ángel y Jesús.
+3. **Tempo: tu planilla del 10–16/10 cierra esta noche.** Si se cierra sin imputar, toca pedir reapertura, como el 12/10.
+4. **Reconocimientos: respuesta a Almudena con el vídeo de Pablo.** Venció el viernes; el vídeo de hoy es justo lo que
+   faltaba para enseñarle la versión nueva. Cuenta con que el equipo está con Educación hasta el 28/10.
+5. **Educación · tutores UCAM** (lo marcaste tú para hoy) y, si queda aire, **iMarina**: el proveedor espera por nosotros
+   desde el 25/09.
