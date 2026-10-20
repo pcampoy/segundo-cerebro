@@ -633,8 +633,15 @@ tags: [panel, pendientes, octubre]
       modifica la reserva en la tabla y *horario reserva docente*, no se actualiza bien, porque hay una reserva de
       espacio. La reserva de espacio se accede por el menú **Reserva de recursos y espacios → Reserva → Consulta de
       reservas**: ahí es donde hay que modificar la reserva para que coincida con la programación del grupo.
+      *(20/10: reunión convocada para el **mié 21, 09:30–10:00**, con Alejandro invitado y la Sala de trabajo TIC reservada;
+      aviso programado a las 09:15)*
+- [ ] ❓ **Mié 21/10 · preguntarle a Jesús si ha generado ya el Excel de sede del certificado de delitos sexuales**
+      *(apuntado el 20/10)*. Engancha con el acuerdo del certificado de delitos sexuales (Elena Cuevas y Dolo, 01/10).
+      Es **Jesús March** (lleva lo de sede, [[Proyectos y claves Jira]]) y es **el mismo Excel** que el *"Jesús tiene que
+      pasar los excels"* del 19/10 *(confirmado por Pilar el 20/10; los dos puntos quedan unidos en este)*
 
-- [ ] 📊 **Jesús tiene que pasar los excels** *(apuntado el 19/10)*. ⚠️ *Sin más contexto: no consta
+- [x] *(unido el 20/10, confirmado por Pilar: es el **Excel de sede del certificado de delitos sexuales** de Jesús March →
+      ver el punto del mié 21/10)* 📊 **Jesús tiene que pasar los excels** *(apuntado el 19/10)*. ⚠️ *Sin más contexto: no consta
       **qué Excel** son, **a quién** van ni **para cuándo**. Lo más cercano en el vault es "Adrián ·
       Bitbucket (dos Excel; jue 22)", pero **es de Adrián, no de Jesús**: no se han fusionado*
 - [x] 📸 **Lun 19/10 · Pablo: mandar captura de pantalla de los nuevos reconocimientos previos**, para ver posibles
