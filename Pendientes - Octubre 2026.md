@@ -626,6 +626,14 @@ tags: [panel, pendientes, octubre]
 
 ## 📌 Gestión de equipo (tú)
 
+- [ ] 🔴 🗓️ **Mié 21/10, a primera hora · ver con Alejandro Sánchez la discrepancia de datos de docencia** entre lo que
+      se visualiza en la aplicación y lo que hay en la base de datos *(apuntado el 20/10; "es un tema importante")*.
+      **Sigma `301856`** (soporte de Sigma; dictada como 30-18-56): una cosa es la
+      **reserva docente** como tal (asociada a un profesor y una hora) y otra la **reserva del espacio**. Si solo se
+      modifica la reserva en la tabla y *horario reserva docente*, no se actualiza bien, porque hay una reserva de
+      espacio. La reserva de espacio se accede por el menú **Reserva de recursos y espacios → Reserva → Consulta de
+      reservas**: ahí es donde hay que modificar la reserva para que coincida con la programación del grupo.
+
 - [ ] 📊 **Jesús tiene que pasar los excels** *(apuntado el 19/10)*. ⚠️ *Sin más contexto: no consta
       **qué Excel** son, **a quién** van ni **para cuándo**. Lo más cercano en el vault es "Adrián ·
       Bitbucket (dos Excel; jue 22)", pero **es de Adrián, no de Jesús**: no se han fusionado*
