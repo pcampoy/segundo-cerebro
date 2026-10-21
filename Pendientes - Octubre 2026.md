@@ -7,34 +7,34 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[20-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[21-10-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-20 *(tarea programada del martes, ~09:20)*
+> **Última revisión:** 2026-10-21 *(tarea programada del miércoles, ~09:15)*
 
 ## 📅 Fechas del mes
 
-| Fecha | Qué |
-|---|---|
-| **jue 1** | 🏁 cierre del sprint `2026/15` · consultoría SIGMA 12:30 · **5 ideas de TFG** |
-| **vie 2** | Educación manda los Excel · **DarwinED** (compromiso con Miguel Ángel) · inscripción Instructure UG · vuelve Paco |
-| **lun 5** | 🔴 **sin luz en los Jerónimos 8–14 h** · RRHH (firma de documentos) 11:30 ⚠️ solapa con Apryse 12:00 |
-| **mar 6** | ⚠️ **Reunión responsables — Pilar NO va** *(médico)*; por eso el cierre de Infucam se le manda a Miguel Ángel por escrito · Instructure User Group (Madrid) |
-| **mié 7** | ~~Qualtrics Business Review~~ *(aplazada a mar 13 o mié 14)* · DarwinED presenta a Miguel Ángel |
-| **jue 8** | 🗄️ **Exportación de datos Infucam** con Títulos, 09:00–11:00 · Reconocimientos con Almudena y Baldomero, 12:00 *(las dos en Meet)* |
-| **vie 9** | 🎓 clase 08:30 · 💶 **Cierre de Infucam con Gestión Económica**, 11:00–12:30, Sala TIC + Meet *(celebrada; ya estabas en el evento)* · Seguimiento megarepo Dirección TIC, 13:00 |
-| **sáb 10** | `GES-230` (P0) · `GD-683`…`GD-689` (conferenciantes) · Educación: parte básica probándose |
-| **lun 12** | 🗓️ **Fiesta Nacional** *(confirmado por Pilar el 09/10; ya en [[Festivos y no lectivos 26-27]])* |
-| **mar 13** | Atlassian cambia precios · 🦷 empieza el programa online de PGO · Acrelia 09:00 · responsables 10:00–11:30 · ⚠️ **pruebas de Educación 11:00–12:30 (solapa media hora con responsables)** · tribunal de reconocimiento 16:00 · ~~Qualtrics BR 16:00~~ *(movida al mié 14)* |
-| **mié 14** | ⚠️ **11:00–12:30 triple choque**: Tangram 11:00 · **Qualtrics Business Review 11:30–12:30** · UCAMSEGRE2 11:30 *(Teams; Alicia)* · 🎓 clase online 16:00 |
-| **jue 15** | Acto de apertura del curso, 10:00–14:00 |
-| **vie 16** | 🎓 clase 08:30 · ~~Integración App de elección de SEDE con Salesforce 10:45~~ *(movida al lun 19)* · Generación archivo lector final 14:00 *(lector de planillas: viene al caso por el piloto de corrección)* · 🎓 **respuesta a Reconocimientos** · 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17) |
-| **lun 19** | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🆕 ⚠️ **Revisión ciberseguridad aplicaciones 10:30–11:30** *(Miguel Ángel; en la titulación para que llegues a clase)* — **pisa el Seguimiento y la clase** · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) · 📸 **Pablo: captura de los nuevos reconocimientos previos** (para Almudena) · 🔴 ✉️ **Educación: de dónde salen los tutores UCAM** (Laurea o Excel) |
-| **jue 22** | 🗂️ **Repositorios DTIC** 12:00–13:00 *(Adrián, Meet; sin contestar)* |
-| **22/10** | 📝 posible arranque del **piloto de la app de corrección de exámenes** en parciales (pendiente de que TIC confirme titulación) |
-| **22/10 → 17/11** | ventana del parcial de 3º |
-| **vie 23** | 🎓 **entrega del examen parcial online de IR** (PDF a Luz con copia a Andrés Bueno + copias en papel por sede). Parciales online: 7-8 y 21-22/11 |
-| **25/10 · 27/10 · 28/10** | Educación: pruebas · descarga de Prado · apertura a alumnos |
-| **lun 26** | 🔴 **UCAMSEGRE2 · segregación en Explotación** *(Sigma la da por confirmada el 05/10; lo lleva Alicia)* |
+| Fecha                     | Qué                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **jue 1**                 | 🏁 cierre del sprint `2026/15` · consultoría SIGMA 12:30 · **5 ideas de TFG**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **vie 2**                 | Educación manda los Excel · **DarwinED** (compromiso con Miguel Ángel) · inscripción Instructure UG · vuelve Paco                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **lun 5**                 | 🔴 **sin luz en los Jerónimos 8–14 h** · RRHH (firma de documentos) 11:30 ⚠️ solapa con Apryse 12:00                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **mar 6**                 | ⚠️ **Reunión responsables — Pilar NO va** *(médico)*; por eso el cierre de Infucam se le manda a Miguel Ángel por escrito · Instructure User Group (Madrid)                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **mié 7**                 | ~~Qualtrics Business Review~~ *(aplazada a mar 13 o mié 14)* · DarwinED presenta a Miguel Ángel                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **jue 8**                 | 🗄️ **Exportación de datos Infucam** con Títulos, 09:00–11:00 · Reconocimientos con Almudena y Baldomero, 12:00 *(las dos en Meet)*                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **vie 9**                 | 🎓 clase 08:30 · 💶 **Cierre de Infucam con Gestión Económica**, 11:00–12:30, Sala TIC + Meet *(celebrada; ya estabas en el evento)* · Seguimiento megarepo Dirección TIC, 13:00                                                                                                                                                                                                                                                                                                                                                                                   |
+| **sáb 10**                | `GES-230` (P0) · `GD-683`…`GD-689` (conferenciantes) · Educación: parte básica probándose                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **lun 12**                | 🗓️ **Fiesta Nacional** *(confirmado por Pilar el 09/10; ya en [[Festivos y no lectivos 26-27]])*                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **mar 13**                | Atlassian cambia precios · 🦷 empieza el programa online de PGO · Acrelia 09:00 · responsables 10:00–11:30 · ⚠️ **pruebas de Educación 11:00–12:30 (solapa media hora con responsables)** · tribunal de reconocimiento 16:00 · ~~Qualtrics BR 16:00~~ *(movida al mié 14)*                                                                                                                                                                                                                                                                                         |
+| **mié 14**                | ⚠️ **11:00–12:30 triple choque**: Tangram 11:00 · **Qualtrics Business Review 11:30–12:30** · UCAMSEGRE2 11:30 *(Teams; Alicia)* · 🎓 clase online 16:00                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **jue 15**                | Acto de apertura del curso, 10:00–14:00                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **vie 16**                | 🎓 clase 08:30 · ~~Integración App de elección de SEDE con Salesforce 10:45~~ *(movida al lun 19)* · Generación archivo lector final 14:00 *(lector de planillas: viene al caso por el piloto de corrección)* · 🎓 **respuesta a Reconocimientos** · 🏁 último día hábil del sprint `2026/16` (fin oficial: sáb 17)                                                                                                                                                                                                                                                |
+| **lun 19**                | Seguimiento Sprint *(⚠️ no está en tu calendario; en la Sala TIC figura 09:15–10:45 y "rechazada")* · 🆕 ⚠️ **Revisión ciberseguridad aplicaciones 10:30–11:30** *(Miguel Ángel; en la titulación para que llegues a clase)* — **pisa el Seguimiento y la clase** · 🎓 **Clase IR 11:00–12:30** *(la serie SÍ existe desde el 21/09; corregido el 15/10)* · **SEDE + Salesforce 13:15–13:45** (Adrián, Meet) · 📸 **Pablo: captura de los nuevos reconocimientos previos** (para Almudena) · 🔴 ✉️ **Educación: de dónde salen los tutores UCAM** (Laurea o Excel) |
+| **jue 22**                | 🆕 🔐 **Reunión Seguridad Código Apps** 11:15–11:45 *(Luis Espiñeira, Meet + Sala TIC; movida del vie 23 a petición tuya)* · 🗂️ **Repositorios DTIC** 12:00–13:00 *(Adrián, Meet; aceptada)*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **22/10**                 | 📝 posible arranque del **piloto de la app de corrección de exámenes** en parciales (pendiente de que TIC confirme titulación)                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **22/10 → 17/11**         | ventana del parcial de 3º                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **vie 23**                | 🎓 **entrega del examen parcial online de IR** (PDF a Luz con copia a Andrés Bueno + copias en papel por sede). Parciales online: 7-8 y 21-22/11                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **25/10 · 27/10 · 28/10** | Educación: pruebas · descarga de Prado · apertura a alumnos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **lun 26**                | 🔴 **UCAMSEGRE2 · segregación en Explotación** *(Sigma la da por confirmada el 05/10; lo lleva Alicia)*                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ## 🚨 Seguridad
 
@@ -49,7 +49,7 @@ tags: [panel, pendientes, octubre]
 - [ ] 🔎 **API key de Ex Libris que nadie reconoce** → preguntar a Alejandro y revocar
 - [ ] 🔐 **Alumni · consulta RGPD** (cambio de finalidad) → DPD
 - [ ] 🚨 **Seguridad Protocolo** (H-1…H-4) → [[Revisión de seguridad - Protocolo]]
-- [ ] 🚨 **14/10 · petición a `laureaacademic` desde `@gmail.com` para cambiar el correo de recuperación de una cuenta de
+- [x] 🚨 **14/10 · petición a `laureaacademic` desde `@gmail.com` para cambiar el correo de recuperación de una cuenta de
       alumno y mandar un enlace de contraseña** (patrón de toma de cuenta; *"Re:"* sin hilo previo) → que quien atiende el
       alias verifique la identidad por otro canal antes de tocar nada → [[15-10-2026]]
 - [ ] 🔐 **Procedimiento de verificación de identidad para resets en `laureaacademic`** — tres peticiones desde Gmail
@@ -57,7 +57,7 @@ tags: [panel, pendientes, octubre]
 
 ## 🔴 Prioritario / vigilar
 
-- [ ] 🚨 **URGENTE · jue 8/10 — añadir la tipología PDS nueva de Pablo** *(apuntado el 07/10)*.
+- [x] 🚨 **URGENTE · jue 8/10 — añadir la tipología PDS nueva de Pablo** *(apuntado el 07/10)*.
       Relacionado con el soporte **Ref. 269775 — *Consulta en BBDD no devuelve bien campo
       `NOMBRE_TIPOLOGIA_DOCENCIA`*** de Sigma
 - [ ] 🚨 **URGENTE · jue 8/10 — hablar con Alejandro para dar de alta el correo `@ucam` de Alianzas
@@ -75,20 +75,20 @@ tags: [panel, pendientes, octubre]
       reunión suspendida; la fecha ya ha pasado)*
 - [x] ⚠️ **Lun 5 · RRHH 11:30–12:30 pisa Apryse 12:00–12:30** → *(05/10: resuelto como estaba
       propuesto — **RRHH hasta las 12:00 y Apryse entera**. La de RRHH era para el proceso de sede)*
-- [ ] ⚖️ **iText · reclamación "a toro pasado"** *(de la reunión con Apryse del 05/10)* →
+- [x] ⚖️ **iText · reclamación "a toro pasado"** *(de la reunión con Apryse del 05/10)* →
       [[Licencias iText]]:
       **ticket abierto con Tangram** para ver si a algún cliente suyo le han reclamado el uso
       retroactivo de la librería → **`Tarea #41387`** *(06/10: planificada del 05 al 16/10, asignada a
       Emilio)* · `#41293` (documento tipo) en *Pdte. pase a pro* · Sigma `306886` resuelta · **Adrián escribe a Servicios Jurídicos** ·
       🗓️ **nueva reunión la semana del 12/10**, sin fecha todavía *(ojo: el lun 12 es festivo)*
-- [ ] 🗓️ **Lun 5 · Seguimiento Sprint - Dev (09:15)**: lo has rechazado, pero **sigue convocado para el
+- [x] 🗓️ **Lun 5 · Seguimiento Sprint - Dev (09:15)**: lo has rechazado, pero **sigue convocado para el
       equipo** en plena franja sin luz → cancelarlo o avisar. *05/10: sigue igual, nadie ha contestado.*
       *06/10: la fecha ya ha pasado; no sé si se celebró. Lo dejo abierto hasta que me lo digas*
 - [ ] 🔴 **UCAMSEGRE2 · rehacer el cronograma** *(se queda en rojo por decisión de Pilar, 25/09)*.
       ⚠️ *05/10: **la fecha ya no es noviembre**: Sigma da por **confirmado el 26/10** para Explotación,
       manda Excel de casos de prueba para Preproducción y propone seguimiento el **jue 15 a las 10:00**.
       Lo lleva Alicia* → [[Cronograma de proyectos (hasta dic 2026)]]
-- [ ] 🧪 **Qualtrics/IZO · respuestas sintéticas**: IZO se negó por escrito el 30/09. **Que conste quién
+- [x] 🧪 **Qualtrics/IZO · respuestas sintéticas**: IZO se negó por escrito el 30/09. **Que conste quién
       decide**, y por escrito. Buen sitio: el Business Review del 7/10
 - [ ] **~10.000 horas de docencia desaparecidas** del curso 26/27 — Pablo *(riesgo alto)*
 - [ ] ⏱️ **Tempo (tus horas)**: el periodo 12–18/09 cerró con 29,75 h sin imputar y el 19–25 iba igual → `/imputa`.
@@ -103,15 +103,15 @@ tags: [panel, pendientes, octubre]
 > 50 hilos desde el 30, unos 30 de ruido automático. **Sin correos sospechosos.** Dos cosas se han
 > cerrado (Educación y Sngular) y aparece **la reunión de José Alberto** que faltaba por identificar.
 
-- [ ] 💶 **Vie 09/10 · Reunión de Infucam con Gestión Económica y Administración** (Gracia Paloma,
+- [x] 💶 **Vie 09/10 · Reunión de Infucam con Gestión Económica y Administración** (Gracia Paloma,
       jefa de GE Murcia · Juan Ruiz, GE Cartagena · Alberto Fernández, técnico de Administración).
       ⚠️ **No está en el calendario**; el hueco libre es **10:30–13:00** (a las 13:00 tienes el
       megarepo). Qué llevar → [[Cierre de Infucam]]
-- [ ] 📄 **Actualizar el documento de requisitos de Infucam en Confluence** *(pendiente del OK de
+- [x] 📄 **Actualizar el documento de requisitos de Infucam en Confluence** *(pendiente del OK de
       Pilar, 08/10)*: que `RQ-INF-04` recoja que la documentación está en **los directorios del
       sistema y en el Alfresco antiguo**, y que el **Alfresco de destino todavía no existe**. Es el
       documento que va a Miguel Ángel para el plan de cierre
-- [ ] 🔼 **`git push` del repo `Pilita`** — commit `25f04bd` hecho el 07/10 (skills + memoria), **sin
+- [x] 🔼 **`git push` del repo `Pilita`** — commit `25f04bd` hecho el 07/10 (skills + memoria), **sin
       subir a GitHub**
 - [ ] 🗄️ **Plan de cierre de INFUCAM** *(proyecto de cierre 2026 / principios 2027)* →
       [[Cierre de Infucam]]. **Cuatro partes**: gestión económica · títulos · expedientes · títulos
@@ -450,7 +450,8 @@ tags: [panel, pendientes, octubre]
 > con la mañana ya pasada. Lo nuevo con reloj es la **app de corrección de exámenes** (Junta de Decanos) e **Infucam**,
 > que ya tiene expedientes de piloto.
 
-- [ ] 📝 🔴 **App de corrección de exámenes tipo test · pilotaje en parciales** *(Almudena, 14/10 13:50, a ti, Miguel Ángel,
+- [x] *(cerrado en el diario del 20/10. ⚠️ Almudena, 20/10 15:15: "Quedamos a la espera de confirmación respecto de la
+      puesta en explotación de la APP" — ver el punto nuevo del 20–21/10)* 📝 🔴 **App de corrección de exámenes tipo test · pilotaje en parciales** *(Almudena, 14/10 13:50, a ti, Miguel Ángel,
       Jesús March y M. Ruiz)*: pide **"confirmación desde TIC lo antes posible"** de la Facultad/titulación del piloto
       (propone **EPS** o **Enfermería**) para presentarlo en la **Junta de Decanos**. Objetivo: explotación en toda la
       universidad para los **finales del 1er semestre** y no comprar máquina de corrección para Madrid.
@@ -547,7 +548,7 @@ tags: [panel, pendientes, octubre]
 - [ ] 🔐 **Revisión ciberseguridad aplicaciones · lun 19, 10:30–11:30** *(Miguel Ángel, convocada el dom 18; con Alejandro
       Sánchez, Sergio León y alumnos)*. Pilar: *"me interesa ver qué ha pasado"*. Se hace en la titulación para que llegues a
       la clase de las 11:00. **Si es un incidente, que quede escrito** → [[Seguridad (Proyecto)]]
-- [ ] 🏁 **`/inicio-sprint`**: el `2026/16` (fin 17/10) sigue activo y el `2026/17` (18/10 → 02/11) está creado sin iniciar
+- [x] *(cerrado en el diario del 20/10; Jira: `2026/16` cerrado y `2026/17` iniciado el 20/10 a las 11:43)* 🏁 **`/inicio-sprint`**: el `2026/16` (fin 17/10) sigue activo y el `2026/17` (18/10 → 02/11) está creado sin iniciar
 - [ ] ⏱️ **Tu planilla de Tempo del 10–16/10 cierra la noche del 19/10** (aviso del 19/10 a las 00:12: 27,5 h de margen → hacia las 03:40 del martes) → `/imputa`
 - [ ] ⏱️ **Aprobar la planilla de Jesús March del 12–18/10** (19/10) — *se suma a las de Paco y a las del 28/09–04/10*
 - [ ] ⏰ **RRHH · falta de marcaje de salida del vie 16** (17/10) → corregir en el portal
@@ -556,7 +557,7 @@ tags: [panel, pendientes, octubre]
 - [ ] 🔗 **iMarina · API de importación XML caída desde el 25/09** *(proveedor, 19/10)*: su parte está terminada y esperan a
       *"vuestro equipo informático"* para cerrar la implantación y empezar formaciones. **Amplía el punto del 13–14/10**: ya
       no es "quién contesta", es que **la integración está parada por nosotros**
-- [ ] 🎓 **Planes nuevos de Psicología: 876, 877 y 878** *(Juan Miguel a Jesús March, tú en copia, 16/10)*. Los de
+- [x] *(Jesús March, 20/10 10:42: "Ya los tienes, te cierro el ticket")* 🎓 **Planes nuevos de Psicología: 876, 877 y 878** *(Juan Miguel a Jesús March, tú en copia, 16/10)*. Los de
       Odontología, Medicina, etc. fueron por Josué → Mariajo. Es la llegada de códigos nuevos que anunciaba
       [[2026-09-04 - Criterios de implantación de modificaciones de planes]]
 - [ ] 📋 **Vigilancias de parciales del 1er cuatrimestre** (hoja de Luz al claustro de Informática, 16/10) — apuntarse
@@ -572,15 +573,17 @@ tags: [panel, pendientes, octubre]
 > ~37 hilos desde el lunes a las 09:30, más de la mitad ruido. **Sin correos sospechosos.** Se cierran la respuesta a
 > Reconocimientos y el parcial; entran **Sigma ofreciendo sesiones de seguimiento** y el **informe de ciberseguridad**.
 
-- [ ] 🛡️ **Supresión de datos (ARCO) · decidirlo en responsables (mar 20)** — compromiso tuyo (*"Lo hablamos mañana en la
+- [x] *(cerrado en el diario del 20/10; Miguel Ángel, 20/10 16:46: "cuando haya algún caso de este tipo se contacte con la
+      DPO". Si hay muchos, se automatiza)* 🛡️ **Supresión de datos (ARCO) · decidirlo en responsables (mar 20)** — compromiso tuyo (*"Lo hablamos mañana en la
       reunión"*, 19/10 21:28). Sigma: el **DPO de UCAM** contacta con el DPO de Sigma y se decide el alcance → `308523`
-- [ ] 🤝 **Sigma · propuesta de sesiones de seguimiento** *(Albert Montserrat, 19/10 19:25, a ti y a Alicia)*: ~30 min
+- [x] *(cerrado en el diario del 20/10; Pilar a Albert, 20/10 17:17: "Por mí, sí". Lo de quién va y la lista sale a un
+      punto propio en el 20–21/10)* 🤝 **Sigma · propuesta de sesiones de seguimiento** *(Albert Montserrat, 19/10 19:25, a ti y a Alicia)*: ~30 min
       quincenales o mensuales, con una persona de Sigma dedicada a las ~20 referencias abiertas de UCAM. Llega tras tu
       *"Tickets parados"* (Blanca, 19/10: *"Voy a moverlo internamente"*) → **sí/no y quién va**; si sí, con lista priorizada
 - [ ] 🔐 **Informe de la revisión de ciberseguridad** *(Miguel Ángel, 19/10 11:35, confidencial; a ti, Alejandro Sánchez,
       Sergio León y Adrián)* — **sin abrir por mí**. Qué toca a apps nuestras, quién y cuándo → [[Seguridad (Proyecto)]] (sin
       detalle técnico: el vault sube a GitHub)
-- [ ] 🎓 **Reconocimientos previos · cinco cambios de Secretaría** *(Carmen Mª Martínez, 19/10 11:25)*: textos del aviso,
+- [x] *(cerrado en el diario del 20/10)* 🎓 **Reconocimientos previos · cinco cambios de Secretaría** *(Carmen Mª Martínez, 19/10 11:25)*: textos del aviso,
       quitar el "plazo finalizado" y el aviso de guías de Comunicación, desplegable de acceso actualizado (+ **Título Propio
       Universitario** y **Experiencia Profesional**) y apartado 4 → **"Otros estudios"** UCAM / no UCAM. Lo de acceso es
       **`RQ-REC-14`** (`RDC-105`, Pablo); los textos pueden salir antes → que Pablo lo recoja
@@ -598,9 +601,37 @@ tags: [panel, pendientes, octubre]
       por Alex (19/10) · **SET 725/726**: plantillas creadas por Títulos (19/10)
 - ✅ **Sin correos sospechosos** del 19 al 20/10
 
+## 🆕 Novedades del 20–21/10 (del correo)
+
+> ~25 hilos desde el martes a las 09:20, la mitad ruido. **Sin correos sospechosos.** Se cierran varias cosas que llevaban
+> días (sprint, supresión de datos, Sigma, Quodus, Psicología); lo que entra con reloj es **docencia** y el **jueves de seguridad**.
+
+- [ ] 📝 🔴 **App de corrección · Almudena sigue esperando** *(20/10 15:15: "Quedamos a la espera de confirmación respecto de
+      la puesta en explotación de la APP")* — *sacado del punto del 13–14/10, que tachaste ayer*: **el parcial abre el jue 22**;
+      si se decidió en responsables, que le llegue por escrito
+- [ ] 🤝 **Sigma · sesiones de seguimiento: quién va y lista priorizada** — *sacado del punto del 19–20/10*, ya con el sí dado
+- [ ] 🆕 **Sigma `309784` · WSPDS no devuelve profesores con nirh correcto** (20/10) — ¿misma familia que la discrepancia de
+      docencia (`301856`) y las ~10.000 horas?
+- [ ] 🔐 **Docker Hub · quién tiene el token activo** *(Adrián, 20/10 14:41, en el hilo de Bitbucket)*: ha suspendido los
+      demás; revisar los de ArgoCD, pipeline y por usuario → en **Repositorios DTIC** (jue 22)
+- [ ] 🎓 **Hoja "Fechas parciales 1er cuatrimestre 2026/2027"** (Luz, 20/10: *"Los huecos en rojo hay que completarlos"*) — lo de IR
+- [ ] 🎓 **Examen adaptado · Madrid, 08/11, 12:30–14:00** — acordaste con Luz dejarlo en **1,5 h** (20/10) → adaptarlo.
+      **Bogotá: parcial de IR el 21/11, 09:00–11:00** *(alumnos con horario propio; nombres fuera del vault)*
+- [ ] ⏰ **RRHH · jornada inferior del lun 19/10** (aviso del 20/10) — se suma al marcaje del vie 16
+- [ ] 🗓️ **¿Se traslada Todos los Santos (dom 1/11) al lun 2/11 en Murcia?** — es el último día del `2026/17`. Si es festivo,
+      a [[Festivos y no lectivos 26-27]]
+- ⚪ **Portal del alumno FP (hache2)**: límite de OTP en producción desde el 21/10; **Datio** lo suyo hoy (Adrián) · **Bitbucket**:
+  te dan admin en `ISW-UCAM/Apps-Legacy` (20/10) · **Practicum**: Esther espera a Postgrado · **UCAMSEGRE2**: censo de pruebas
+  compartido con Sigma (Alicia) · **Examen IR del vie 6/11**: Alejandro Sánchez acepta (21/10)
+- [x] 🟢 **Sprint `2026/17` iniciado** (20/10) · **supresión de datos**: a la DPO caso a caso (Miguel Ángel) · **Sigma**: sí a las
+      sesiones · **Quodus**: *"con el excel nos vale hasta el 2º semestre"* (20/10) · **Psicología 876–878** hechos (Jesús March) ·
+      **Seguridad Código Apps** movida al jue 22 · **Reconocimientos**: Baldo, Carmen Mª y Elena conformes con la priorización
+- ✅ **Sin correos sospechosos** del 20 al 21/10
+
 ## ✉️ Correos a enviar (tú)
 
-- [ ] 🔴 **Lun 19/10 · Mail a Educación: los tutores UCAM, ¿de dónde los sacamos?** ¿Van **asociados a la asignatura
+- [x] *(cerrado en el diario del 20/10; en el hilo de coordinadores Pilar ofrece a Esther, 20/10 16:35, hacer nosotros la
+      asignación aleatoria de tutores y alumnos)* 🔴 **Lun 19/10 · Mail a Educación: los tutores UCAM, ¿de dónde los sacamos?** ¿Van **asociados a la asignatura
       en Laurea** o van **en Excel**? Definir con ellos de dónde extraer este dato y mandarles un mail para decidir
       *(apuntado el 16/10, importante)* → [[2026-09-10 - Prácticas Educación 26-27]] · engancha con el DNI del tutor sin
       decidir en [[2026-09-24 - Definición de campos del mapa docente de prácticas]]
@@ -713,6 +744,8 @@ tags: [panel, pendientes, octubre]
 
 > 20/10: **16 abiertas** (5 de service desk), sin cambios. El `2026/16` **sigue activo** y el `2026/17` sin iniciar.
 
+> 21/10: **16 abiertas** (5 de service desk), sin cambios de estado. **`2026/17` activo** desde el 20/10 (hasta el 02/11).
+
 - [ ] 🆕 `ED-2066` Gestión y jerarquía de repositorios en Confluence *(Reconocimientos; 2 h 30 m imputadas el 16/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
@@ -724,17 +757,16 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 20/10)
+## 💡 Sugerencia de foco (Pilita · 21/10)
 
-> Martes con una sola reunión (responsables, 10:00–11:30) y **la tarde entera libre**: es el hueco de la semana. Ayer
-> salieron Reconocimientos y el parcial; lo que se arrastra tiene reloj de otros.
+> Miércoles partido: reunión a las 09:30, Tangram a las 11:00, IAgil a las 13:00 y **clase a las 16:00**. Ayer se cerró
+> mucho; lo que queda con reloj es de otros (Almudena) o tuyo con fecha cercana (parcial, Tempo).
 
-1. **En responsables, cerrar dos cosas con Miguel Ángel**: la **titulación del piloto** (el parcial abre el jueves y la
-   Junta de Decanos lo espera desde el 14/10) y **quién habla con el DPO de Sigma** por la supresión de datos, que
-   prometiste traer hoy. De paso, el sí/no a las sesiones de seguimiento de Sigma.
-2. **`/inicio-sprint`.** Dos días tarde: el tablero sigue enseñando un sprint que acabó el sábado y las 7 `rq-rec` de RDCO
-   no tienen persona.
-3. **Tempo.** Tu planilla del 10–16/10 cerraba esta madrugada; si no imputaste, la reapertura se pide hoy, no el viernes.
-4. **Educación · tutores UCAM.** Lo marcaste para ayer; bloquea el DNI del tutor del acta del 24/09 y el lanzamiento es el 28.
-5. **Pablo y los cinco cambios de Secretaría**: los textos son rápidos y pueden salir antes del sprint; lo de "tipo de
-   acceso" es `RQ-REC-14`.
+1. **Almudena, por escrito, hoy.** El parcial abre mañana: si el piloto va, lo tiene que saber ya; si no va, también. Es lo
+   único de la lista que caduca en 24 h.
+2. **La discrepancia de docencia (09:30) como frente único.** `301856`, `309784` y las ~10.000 horas de Pablo pueden ser el
+   mismo problema de reservas; si sale así, un solo dueño en el sprint.
+3. **Tempo.** Tu planilla del 10–16/10 ya cerró; la reapertura se pide hoy o se queda así.
+4. **Validar `#41387` en Tangram (11:00).** Lleva desde el 10/10 esperando un clic tuyo y desbloquea lo de Jurídicos.
+5. **Preparar el jueves de seguridad**: Código Apps + Repositorios DTIC seguidas. Lleva Docker Hub, Ex Libris y la campaña del
+   17/09 en una sola lista.
