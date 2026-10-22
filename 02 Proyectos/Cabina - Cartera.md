@@ -15,15 +15,15 @@ tags: [cabina, proyectos]
 
 ## Proyectos
 
-| | Proyecto | Prioridad | Cliente | Avance | Fin previsto | Días sin actividad | Por qué |
-|---|---|---|---|---|---|---|---|
-| ⚪🔴 | [[Alfresco - nuevo repositorio]] | Alta | — | — | — | — | ficha incompleta: falta fin previsto · además, 1 bloqueo, 1 de más de 7 días hábiles · sin claves de Jira en la ficha |
-| ⚪🔴 | [[Cierre de Infucam]] | — | Gestión Económica, Títulos, Secretaría Central y SIE | 0 % | — | 1 | ficha incompleta: falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles |
-| ⚪ | [[Integración usuarios biblioteca]] | — | Biblioteca | — | — | — | ficha incompleta: falta fin previsto, prioridad · sin claves de Jira en la ficha |
-| ⚪🔴 | [[Lectura y corrección de planillas]] | — | Ordenación Académica y docentes | — | — | — | ficha incompleta: falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles · sin claves de Jira en la ficha |
-| ⚪ | [[Prácticas externas - Medicina, Fisioterapia y FP]] | — | Medicina, Fisioterapia y Podología, y FP | — | — | — | ficha incompleta: falta fin previsto, prioridad · sin claves de Jira en la ficha |
-| ⚪🟠 | [[Reconocimientos]] | — | Ordenación Académica, Secretaría y comisiones de reconocimiento | 56 % | — | 0 | ficha incompleta: falta fin previsto, prioridad · además, 1 tarea quieta 7 días hábiles o más |
-| ⚪ | [[Remediación Protocolo]] | — | — | — | — | — | ficha incompleta: falta fin previsto, prioridad · sin claves de Jira en la ficha |
+| | Proyecto | Jira | Prioridad | Cliente | Avance | Fin previsto | Días sin actividad | Por qué |
+|---|---|---|---|---|---|---|---|---|
+| ⚪🔴 | [[Alfresco - nuevo repositorio]] | — | Alta | — | — | — | — | ficha incompleta: falta fin previsto · además, 1 bloqueo, 1 de más de 7 días hábiles · sin claves de Jira en la ficha |
+| ⚪🔴 | [[Cierre de Infucam]] | [DT-310](https://ucam.atlassian.net/browse/DT-310) | — | Gestión Económica, Títulos, Secretaría Central y SIE | 0 % | — | 1 | ficha incompleta: falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles |
+| ⚪ | [[Integración usuarios biblioteca]] | — | — | Biblioteca | — | — | — | ficha incompleta: falta fin previsto, prioridad · sin claves de Jira en la ficha |
+| ⚪🔴 | [[Lectura y corrección de planillas]] | — | — | Ordenación Académica y docentes | — | — | — | ficha incompleta: falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles · sin claves de Jira en la ficha |
+| ⚪ | [[Prácticas externas - Medicina, Fisioterapia y FP]] | — | — | Medicina, Fisioterapia y Podología, y FP | — | — | — | ficha incompleta: falta fin previsto, prioridad · sin claves de Jira en la ficha |
+| ⚪🟠 | [[Reconocimientos]] | [RDC](https://ucam.atlassian.net/issues?jql=project%20%3D%20RDC) · [RDCO](https://ucam.atlassian.net/issues?jql=project%20%3D%20RDCO) | — | Ordenación Académica, Secretaría y comisiones de reconocimiento | 56 % | — | 0 | ficha incompleta: falta fin previsto, prioridad · además, 1 tarea quieta 7 días hábiles o más |
+| ⚪ | [[Remediación Protocolo]] | — | — | — | — | — | — | ficha incompleta: falta fin previsto, prioridad · sin claves de Jira en la ficha |
 
 _En una ficha incompleta, el segundo icono es la peor señal que ya tiene._
 
