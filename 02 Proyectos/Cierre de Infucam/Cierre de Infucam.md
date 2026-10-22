@@ -8,15 +8,15 @@ fin_previsto:
 jira: [DT-310]
 confluence: "~5c7cfc943fb39d723db25676/1245806594"
 palabras_clave: [Infucam]
-semaforo: 
-avance: 
-historias_total: 
-historias_hechas: 
+semaforo: incompleta
+avance: 0
+historias_total: 1
+historias_hechas: 0
 puntos_total: 
 puntos_hechos: 
-ultima_actividad: 
+ultima_actividad: 2026-10-21
 proxima_reunion: 
-actualizado: 
+actualizado: 2026-10-22T15:57
 tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 ---
 # 🎯 Cierre de Infucam
@@ -26,19 +26,23 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 > **Estado:** en curso · **Horizonte: cierre de 2026 y principios de 2027**
 
 <!-- cabina:inicio estado -->
-> ⚪ **Semáforo sin calcular** — se rellena con el primer `/cabina`.
+> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles.
+> *Calculado por `/cabina` el 22/10/2026 15:57.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-_Pendiente del primer `/cabina`: % global, una línea por epic y las tareas del proyecto en el sprint activo._
+**0 %** por número de tareas · 0 de 1 tareas hechas.
+
+**En el sprint activo** (1):
+- `DT-310` Viabilidad de cierre de Infucam: — EN CURSO · Pilar
 <!-- cabina:fin avance -->
 
 ## 👀 Lo que pide atención
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-_Pendiente del primer `/cabina`._
+_Ninguna._
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién

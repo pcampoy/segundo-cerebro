@@ -8,7 +8,7 @@ fin_previsto:
 jira: 
 confluence: 
 palabras_clave: [prácticas, Medicina, Fisioterapia, Podología]
-semaforo: 
+semaforo: incompleta
 avance: 
 historias_total: 
 historias_hechas: 
@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 
 proxima_reunion: 
-actualizado: 
+actualizado: 2026-10-22T15:57
 tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 ---
 # 🎯 Prácticas externas · incorporación de Medicina, Fisioterapia, Podología y FP
@@ -26,19 +26,20 @@ tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 > **Estado:** requisitos a finales de 2026 · **el proyecto arranca en 2027**
 
 <!-- cabina:inicio estado -->
-> ⚪ **Semáforo sin calcular** — se rellena con el primer `/cabina`.
+> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · sin claves de Jira en la ficha.
+> *Calculado por `/cabina` el 22/10/2026 15:57.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-_Pendiente del primer `/cabina`: % global, una línea por epic y las tareas del proyecto en el sprint activo._
+_Sin datos de Jira: añade claves en `jira:` (proyecto, épica o incidencia) para medir el avance._
 <!-- cabina:fin avance -->
 
 ## 👀 Lo que pide atención
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-_Pendiente del primer `/cabina`._
+_Sin datos de Jira._
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién

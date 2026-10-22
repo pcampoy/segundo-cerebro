@@ -8,7 +8,7 @@ fin_previsto:
 jira: 
 confluence: 
 palabras_clave: [planillas, corrección de exámenes]
-semaforo: 
+semaforo: incompleta
 avance: 
 historias_total: 
 historias_hechas: 
@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 
 proxima_reunion: 
-actualizado: 
+actualizado: 2026-10-22T15:57
 tags: [proyecto, planillas, examenes, actas, alfresco, dpo]
 ---
 # 🎯 Lectura y corrección de planillas de exámenes
@@ -26,19 +26,20 @@ tags: [proyecto, planillas, examenes, actas, alfresco, dpo]
 > **Estado:** en curso · **Abierto en el vault el** 08/10/2026 *(el trabajo venía de antes)*
 
 <!-- cabina:inicio estado -->
-> ⚪ **Semáforo sin calcular** — se rellena con el primer `/cabina`.
+> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles · sin claves de Jira en la ficha.
+> *Calculado por `/cabina` el 22/10/2026 15:57.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-_Pendiente del primer `/cabina`: % global, una línea por epic y las tareas del proyecto en el sprint activo._
+_Sin datos de Jira: añade claves en `jira:` (proyecto, épica o incidencia) para medir el avance._
 <!-- cabina:fin avance -->
 
 ## 👀 Lo que pide atención
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-_Pendiente del primer `/cabina`._
+_Sin datos de Jira._
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién
