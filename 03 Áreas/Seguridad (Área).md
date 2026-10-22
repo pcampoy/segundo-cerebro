@@ -1,5 +1,6 @@
 ---
 tipo: área
+cabina: sí
 tags: [área, seguridad]
 ---
 # 🛡️ Seguridad (Área)
