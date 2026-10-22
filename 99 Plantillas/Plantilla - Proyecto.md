@@ -6,6 +6,7 @@ prioridad:
 inicio: {{date}}
 fin_previsto: 
 jira: 
+componente: 
 confluence: 
 palabras_clave: 
 semaforo: 
