@@ -1,12 +1,14 @@
 ---
 tipo: proyecto
-estado: en curso
+estado: cerrado
+fin: 2026-10-21
 tags: [proyecto, inicio-curso]
 ---
 # 🎓 Inicio de curso 2026-27 (MOC)
 
 > **Objetivo:** preparar el arranque del curso 2026-27 (rollover en Sigma + carga en Campus Virtual + adaptaciones de Secretaría).
-> **Estado:** en curso · **Fin previsto:** agosto 2026
+> **Estado:** 📦 **cerrado y archivado el 21/10/2026.** Lo que quede suelto de Sigma sigue en el área
+> *Incidencias Sigma* (ver [[Cronograma de proyectos (hasta dic 2026)]]). · **Fin previsto:** agosto 2026
 
 ## 📄 Notas del proyecto
 - [[Inicio de curso Sigma 2026-27]] — rollover en Sigma (SIS / LAUREA).

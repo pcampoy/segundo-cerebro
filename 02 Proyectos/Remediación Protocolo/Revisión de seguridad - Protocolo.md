@@ -30,5 +30,5 @@ tags: [seguridad, protocolo, reunión]
 - [ ] ¿Se **revisan los otros repos** del equipo?
 
 ## 🔗 Enlaces
-- Proyecto: [[Seguridad (Proyecto)]]
+- Proyecto: [[Remediación Protocolo]] · Área: [[Seguridad (Área)]]
 - Reunión con Alejandro: *(crear nota con la Plantilla - Reunión cuando la agendéis)*
