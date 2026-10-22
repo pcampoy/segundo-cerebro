@@ -1,10 +1,22 @@
 ---
 tipo: proyecto
 estado: en curso
+cliente: Gestión Económica, Títulos, Secretaría Central y SIE
+prioridad: 
 inicio: 2026-09-30
-fin: 
-jira: 
+fin_previsto: 
+jira: [DT-310]
 confluence: "~5c7cfc943fb39d723db25676/1245806594"
+palabras_clave: [Infucam]
+semaforo: 
+avance: 
+historias_total: 
+historias_hechas: 
+puntos_total: 
+puntos_hechos: 
+ultima_actividad: 
+proxima_reunion: 
+actualizado: 
 tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 ---
 # 🎯 Cierre de Infucam
@@ -12,6 +24,63 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 > **Objetivo:** apagar Infucam conservando lo que cada departamento necesita, y sacar un **plan de
 > cierre** acordado con Dirección TIC.
 > **Estado:** en curso · **Horizonte: cierre de 2026 y principios de 2027**
+
+<!-- cabina:inicio estado -->
+> ⚪ **Semáforo sin calcular** — se rellena con el primer `/cabina`.
+<!-- cabina:fin estado -->
+
+## 📈 Avance
+<!-- cabina:inicio avance -->
+_Pendiente del primer `/cabina`: % global, una línea por epic y las tareas del proyecto en el sprint activo._
+<!-- cabina:fin avance -->
+
+## 👀 Lo que pide atención
+
+**Tareas quietas** (7 días hábiles o más sin moverse)
+<!-- cabina:inicio quietas -->
+_Pendiente del primer `/cabina`._
+<!-- cabina:fin quietas -->
+
+**Bloqueos** — quién espera a quién
+
+| Desde | Qué está parado | Espera a |
+|---|---|---|
+| 08/10/2026 | Fecha de apagado | [[Alfresco - nuevo repositorio]] (sin fecha) |
+| 05/10/2026 | Apagado | Cuadrar los saldos vivos con Gestión Económica |
+
+**Espero de otros** — lo que yo espero, con su fecha
+
+| Desde | De quién | Qué |
+|---|---|---|
+
+## 📝 Requisitos
+<!-- cabina:inicio requisitos -->
+_Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días que llevan en él._
+<!-- cabina:fin requisitos -->
+
+## ⚖️ Decisiones
+| Fecha | Decisión | Quién | Acta |
+|---|---|---|---|
+| 08/10/2026 | Método: una reunión por parte → documento en Confluence → reunión con Miguel Ángel → plan de cierre | Pilar | [[2026-10-08 - Exportación de datos Infucam con Títulos]] |
+
+## 🔀 Cambios de alcance
+| Fecha | Entra | Sale o se retrasa | Lo pide | Decisión |
+|---|---|---|---|---|
+
+## ⚠️ Riesgos
+| Riesgo | Impacto | Plan B |
+|---|---|---|
+| Saldos económicos vivos y sin cuadrar | No se puede apagar sin conciliarlos | Resolverlos antes de dar fecha; un PDF no sirve, hace falta dato operable |
+| Comprometer una fecha de apagado sin repositorio | Expedientes sin destino | No dar fecha hasta saber cuándo está Alfresco |
+
+## 📅 Agenda y correo
+<!-- cabina:inicio agenda -->
+_Pendiente del primer `/cabina`: próxima reunión, últimas 5 actas y últimos 5 hilos de correo._
+<!-- cabina:fin agenda -->
+
+---
+
+> 🗒️ **Notas del proyecto** — de aquí abajo es todo tuyo: `/cabina` no lo toca nunca.
 
 **Por qué hay que apagarlo:** es una aplicación en **Visual Basic** contra un **SQL Server 2008**,
 **sin actualizaciones ni mantenimiento**. Fuera de soporte, con lo que implica en seguridad.

@@ -1,16 +1,84 @@
 ---
 tipo: proyecto
 estado: en curso
+cliente: 
+prioridad: Alta
 inicio: 2026-10-08
-fin: 
+fin_previsto: 
 jira: 
 confluence: 
+palabras_clave: [Alfresco, gestor documental]
+semaforo: 
+avance: 
+historias_total: 
+historias_hechas: 
+puntos_total: 
+puntos_hechos: 
+ultima_actividad: 
+proxima_reunion: 
+actualizado: 
 tags: [proyecto, alfresco, gestor-documental, migracion, dpo]
 ---
 # 🎯 Alfresco · nuevo repositorio y migración de los antiguos
 
 > **Objetivo:** crear un **nuevo repositorio de Alfresco** y **migrar a él los Alfrescos antiguos**.
 > **Estado:** en curso · **Abierto en el vault el** 08/10/2026
+
+<!-- cabina:inicio estado -->
+> ⚪ **Semáforo sin calcular** — se rellena con el primer `/cabina`.
+<!-- cabina:fin estado -->
+
+## 📈 Avance
+<!-- cabina:inicio avance -->
+_Pendiente del primer `/cabina`: % global, una línea por epic y las tareas del proyecto en el sprint activo._
+<!-- cabina:fin avance -->
+
+## 👀 Lo que pide atención
+
+**Tareas quietas** (7 días hábiles o más sin moverse)
+<!-- cabina:inicio quietas -->
+_Pendiente del primer `/cabina`._
+<!-- cabina:fin quietas -->
+
+**Bloqueos** — quién espera a quién
+
+| Desde | Qué está parado | Espera a |
+|---|---|---|
+| 08/10/2026 | Tarea 3: parte documental de Salesforce | Decidir si va al Alfresco nuevo o a uno aparte |
+
+**Espero de otros** — lo que yo espero, con su fecha
+
+| Desde | De quién | Qué |
+|---|---|---|
+
+## 📝 Requisitos
+<!-- cabina:inicio requisitos -->
+_Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días que llevan en él._
+<!-- cabina:fin requisitos -->
+
+## ⚖️ Decisiones
+| Fecha | Decisión | Quién | Acta |
+|---|---|---|---|
+| 08/10/2026 | Alfresco es un proyecto con entidad propia, no una pieza de otro | Pilar | [[08-10-2026]] |
+
+## 🔀 Cambios de alcance
+| Fecha | Entra | Sale o se retrasa | Lo pide | Decisión |
+|---|---|---|---|---|
+
+## ⚠️ Riesgos
+| Riesgo | Impacto | Plan B |
+|---|---|---|
+| Infucam y Planillas dependen de este repositorio, que no tiene fecha | Retrasa los dos proyectos | Fijar aquí la fecha objetivo primero y avisar a los dos lados |
+| Tras apagar Infucam, Alfresco es la única puerta a los expedientes históricos | Si falla, se pierde el acceso a la única copia | Dimensionar fiabilidad y respaldo antes del apagado |
+
+## 📅 Agenda y correo
+<!-- cabina:inicio agenda -->
+_Pendiente del primer `/cabina`: próxima reunión, últimas 5 actas y últimos 5 hilos de correo._
+<!-- cabina:fin agenda -->
+
+---
+
+> 🗒️ **Notas del proyecto** — de aquí abajo es todo tuyo: `/cabina` no lo toca nunca.
 
 **Alfresco es el gestor documental** de la universidad. **Tiene entidad de proyecto por sí mismo**,
 no es una pieza de otro proyecto *(criterio de Pilar, 08/10/2026)*.
