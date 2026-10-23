@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[22-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[23-10-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-22 *(tarea programada del jueves; arrancó tarde, ~11:15)*
+> **Última revisión:** 2026-10-23 *(tarea programada del viernes, ~09:20)*
 
 ## 📅 Fechas del mes
 
@@ -37,7 +37,7 @@ tags: [panel, pendientes, octubre]
 | **lun 26**                | 🔴 **UCAMSEGRE2 · segregación en Explotación** *(Sigma la da por confirmada el 05/10; lo lleva Alicia)* → **lo nuestro**: [[Segregación 26-10 - aplicaciones satélite]] *(22/10)*                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **mié 28**                | ⚠️ **Instructure Quarterly 11:00–11:30 choca con Tangram 11:00–12:00** · 🚀 lanzamiento de Educación · 🎓 clase online 16:00 |
 | **lun 2/11**              | 🎓 Clase IR 11:00–12:30 *(Reunión TFG anulada por Pilar, 22/10)* · último día del `2026/17` · ❓ ¿festivo trasladado? |
-| **mié 4/11**              | 🤝 **10:00–11:00 · 1ª sesión de seguimiento con Sigma** (Albert + Álvaro Merino) · Tangram 11:00 |
+| **mié 4/11**              | 🤝 **10:00–11:00 · 1ª sesión de seguimiento con Sigma** (Albert + Álvaro Merino; *Teams, en tu calendario y aceptada, 22/10*) · Tangram 11:00 · ⚠️ Albert está fuera **mié 28–vie 30**: lo que haya que mandarle, **antes del mar 27** |
 
 ## 🚨 Seguridad
 
@@ -657,6 +657,26 @@ tags: [panel, pendientes, octubre]
       hecho (349 con certificado, 601 sin) y marcado automático desde ahora · **Alicia** acepta las sesiones de Sigma (21/10)
 - ✅ **Sin correos sospechosos** del 21 al 22/10 *(uno a verificar: la petición a `laureaacademic`)*
 
+## 🆕 Novedades del 22–23/10 (del correo)
+
+> ~20 hilos desde ayer a las 11:15, la mitad ruido. **Sin correos sospechosos.** Lo nuevo con reloj es la **pregunta de Adrián
+> sobre Java en Kubernetes** y que la de Seguridad Código Apps **se celebra hoy encima de tu clase**.
+
+- [ ] ☕ **CVE-2026-91403 · ¿qué Java llevan los microservicios?** *(Adrián, 22/10 16:42, a ti, Alejandro S., Antonio Pino y
+      Mª José Pastor)* — imágenes base `amazoncorretto:21-alpine-jdk`, `amazoncorretto:23-alpine-jdk` y `ucam/microservice`;
+      propone unificarlas. Sin respuesta. 🟠 **Java 23 no es LTS y ya no tiene soporte**
+- [ ] 🗂️ **Unificar las imágenes base de Java** — *sacado del punto anterior*: deuda de plataforma; si se hace, tarea con
+      **proyecto, persona y sprint**
+- [ ] ⚠️ **Seguridad Código Apps (hoy 09:30)** — no la has respondido y te pilla en clase → pedir a Luis las conclusiones por escrito
+- [ ] 🔐 **SSO de Laurea, séptimo caso** (22/10) → al CAU como incidencia única *(el correo trae el móvil del alumno: no reenviar)*
+- ⚪ **Sigma**: `309784` vuelve a *Parada* con nota (23/10) · `310016` (MOVS, acuerdo con una socia de Estambul) nueva ·
+  **Alma**: la Biblioteca sigue sin recibir los correos de préstamos (Alejandro S.) · **Cientia**: Alejandro frena la versión
+  LDAP por errores aleatorios · **UCAMSEGRE2**: Alicia pregunta por las pruebas en PRE (22/10) · **Instructure**: New Quizzes,
+  resuelto · **Parciales online**: hoy acaba el plazo; el tuyo ya está entregado
+- [x] 🟢 **Sigma · sesión del 4/11** convocada por Albert (10:00, Teams) y aceptada · **Reconocimientos previos**: Pablo en copia
+      (22/10)
+- ✅ **Sin correos sospechosos** del 22 al 23/10
+
 ## ✉️ Correos a enviar (tú)
 
 - [x] *(cerrado en el diario del 20/10; en el hilo de coordinadores Pilar ofrece a Esther, 20/10 16:35, hacer nosotros la
@@ -781,6 +801,8 @@ tags: [panel, pendientes, octubre]
 > 22/10: **15 abiertas** (6 de service desk). Salen `ED-2066` y `GES-235`; entra **`TICAM-14680`** *agregar campus de Madrid a la
 > app de talleres* (PLANIFICADO, 21/10).
 
+> 23/10: **15 abiertas** (6 de service desk), sin cambios.
+
 - [x] `ED-2066` Gestión y jerarquía de repositorios en Confluence *(ya no está abierta, 22/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
@@ -792,17 +814,16 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 22/10)
+## 💡 Sugerencia de foco (Pilita · 23/10)
 
-> Jueves con la mañana ya avanzada: **UXXI a las 12:00 y Repositorios DTIC a las 13:00**, seguidas. Lo que hoy tiene reloj es
-> la agenda de mañana y el piloto de Almudena.
+> Viernes: clase hasta las 10:30 y **el resto del día libre**. Es el hueco largo de la semana; úsalo para **una** cosa.
 
-1. **Luis, hoy: la de Seguridad Código Apps no puede ir a las 09:30 del viernes.** Es mañana y te pisa la clase; cuanto antes
-   se lo digas, más fácil la recoloca. Un mensaje de dos líneas.
-2. ~~**Almudena, por escrito.**~~ *Resuelto por tu parte (22/10); la respuesta está en manos de Miguel Ángel.*
-3. **UXXI (12:00): escuchar, no comprometer.** Primer contacto con un proveedor de SIS mientras Sigma intenta reconquistarte con
-   sesiones de seguimiento. Que la iniciativa quede en Miguel Ángel.
-4. **Repositorios DTIC (13:00) con la lista de seguridad en la mano**: Docker Hub, Ex Libris, campaña del 17/09 y el cambio de SSH
-   del 12/11. Miguel Ángel no va: lo que se decida, por escrito.
-5. **El choque del 28 (Instructure contra Tangram)** es lo único que queda de agenda. TFG anulada y Sigma con hora (4/11, 10:00).
-   Para Sigma, lo que falta es la **lista priorizada** de referencias antes del 4/11.
+1. **Al salir de clase, a Luis: las conclusiones de Seguridad Código Apps por escrito.** La reunión se celebra sin ti; que nada
+   de código se decida sin que lo veas.
+2. **Contestar a Adrián lo de Java (CVE-2026-91403).** Es una pregunta de seguridad que lleva un día sin respuesta, y la parte de
+   microservicios es de Desarrollo. Con decir quién lo mira y cuándo, basta para hoy.
+3. **El hueco de la tarde → la lista priorizada de referencias para Sigma.** La sesión es el 4/11, pero Albert está fuera del 28
+   al 30: el margen real acaba el **martes 27**. Desbloquea a Alicia y le da contenido a la primera sesión.
+4. **Tempo**: el 10–16/10 sigue sin confirmar y el 17–23/10 cierra ya. `/imputa` si te sobra media hora.
+5. **El lunes es la segregación** (Alicia) y el **mié 28, Educación**. Nada que hacer hoy, pero que el lunes no te pille sin mirar
+   [[Segregación 26-10 - aplicaciones satélite]].
