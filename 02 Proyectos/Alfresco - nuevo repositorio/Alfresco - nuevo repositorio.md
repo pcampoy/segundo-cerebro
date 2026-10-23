@@ -1,23 +1,31 @@
 ---
 tipo: proyecto
 estado: en curso
-cliente: 
+cliente:
 prioridad: Alta
 inicio: 2026-10-08
-fin_previsto: 
-jira: 
-confluence: 
-palabras_clave: [Alfresco, gestor documental]
+fin_previsto:
+jira:
+  - ALF
+confluence:
+palabras_clave:
+  - Alfresco
+  - gestor documental
 semaforo: incompleta
-avance: 
-historias_total: 
-historias_hechas: 
-puntos_total: 
-puntos_hechos: 
-ultima_actividad: 
-proxima_reunion: 
+avance:
+historias_total:
+historias_hechas:
+puntos_total:
+puntos_hechos:
+ultima_actividad:
+proxima_reunion:
 actualizado: 2026-10-22T15:57
-tags: [proyecto, alfresco, gestor-documental, migracion, dpo]
+tags:
+  - proyecto
+  - alfresco
+  - gestor-documental
+  - migracion
+  - dpo
 ---
 # 🎯 Alfresco · nuevo repositorio y migración de los antiguos
 
