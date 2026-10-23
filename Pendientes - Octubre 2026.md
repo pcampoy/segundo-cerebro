@@ -616,6 +616,7 @@ tags: [panel, pendientes, octubre]
       *22/10: primera sesión fijada el **mié 4/11, 10:00–11:00**. Quedan la lista y los asistentes (Alicia, la semana que viene)*
 - [ ] 🆕 **Sigma `309784` · WSPDS no devuelve profesores con nirh correcto** (20/10) — ¿misma familia que la discrepancia de
       docencia (`301856`) y las ~10.000 horas?
+      *23/10 (Pilar): **hay que comprobar que los profesores que han dado error estén realmente en baja***
 - [ ] 🔐 **Docker Hub · quién tiene el token activo** *(Adrián, 20/10 14:41, en el hilo de Bitbucket)*: ha suspendido los
       demás; revisar los de ArgoCD, pipeline y por usuario → en **Repositorios DTIC** (jue 22)
 - [ ] 🎓 **Hoja "Fechas parciales 1er cuatrimestre 2026/2027"** (Luz, 20/10: *"Los huecos en rojo hay que completarlos"*) — lo de IR

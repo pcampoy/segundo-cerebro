@@ -2,22 +2,31 @@
 tipo: proyecto
 estado: en curso
 cliente: Ordenación Académica y docentes
-prioridad: 
+prioridad:
 inicio: 2026-10-08
-fin_previsto: 
-jira: 
-confluence: 
-palabras_clave: [planillas, corrección de exámenes]
+fin_previsto:
+jira:
+  - IN
+confluence:
+palabras_clave:
+  - planillas
+  - corrección de exámenes
 semaforo: incompleta
-avance: 
-historias_total: 
-historias_hechas: 
-puntos_total: 
-puntos_hechos: 
-ultima_actividad: 
-proxima_reunion: 
+avance:
+historias_total:
+historias_hechas:
+puntos_total:
+puntos_hechos:
+ultima_actividad:
+proxima_reunion:
 actualizado: 2026-10-22T15:57
-tags: [proyecto, planillas, examenes, actas, alfresco, dpo]
+tags:
+  - proyecto
+  - planillas
+  - examenes
+  - actas
+  - alfresco
+  - dpo
 ---
 # 🎯 Lectura y corrección de planillas de exámenes
 

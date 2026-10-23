@@ -7,10 +7,11 @@ inicio: 2026-10-08
 fin_previsto:
 jira:
   - ALF
-confluence:
+confluence: Alfresco
 palabras_clave:
   - Alfresco
   - gestor documental
+  - planillas
 semaforo: incompleta
 avance:
 historias_total:
