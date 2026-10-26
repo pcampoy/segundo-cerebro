@@ -2,7 +2,7 @@
 tipo: proyecto
 estado: en curso
 cliente: Gestión Económica, Títulos, Secretaría Central y SIE
-prioridad: 
+prioridad: Alta
 inicio: 2026-09-30
 fin_previsto: 
 jira: [DT-310]
@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-10-21
 proxima_reunion: 
-actualizado: 2026-10-22T15:57
+actualizado: 2026-10-23T16:04
 tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 ---
 # 🎯 Cierre de Infucam
@@ -26,8 +26,8 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 > **Estado:** en curso · **Horizonte: cierre de 2026 y principios de 2027**
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 22/10/2026 15:57.*
+> ⚪ **Ficha incompleta** — falta fin previsto · además, 2 bloqueos, 2 de más de 7 días hábiles.
+> *Calculado por `/cabina` el 23/10/2026 16:04.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

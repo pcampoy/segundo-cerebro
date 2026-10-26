@@ -16,7 +16,7 @@ puntos_total: 22
 puntos_hechos: 19
 ultima_actividad: 2026-10-22
 proxima_reunion: 
-actualizado: 2026-10-22T15:57
+actualizado: 2026-10-23T16:04
 tags: [proyecto, reconocimientos]
 ---
 # 🎓 Reconocimientos
@@ -27,7 +27,7 @@ tags: [proyecto, reconocimientos]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 1 tarea quieta 7 días hábiles o más.
-> *Calculado por `/cabina` el 22/10/2026 15:57.*
+> *Calculado por `/cabina` el 23/10/2026 16:04.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -54,7 +54,7 @@ _Ninguna tarea está enlazada a una épica en Jira, así que no hay avance por �
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-- `RDC-77` Reconocimientos previos + IA — EN CURSO, **155 días hábiles** quieta · Francisco
+- `RDC-77` Reconocimientos previos + IA — EN CURSO, **156 días hábiles** quieta · Francisco
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién

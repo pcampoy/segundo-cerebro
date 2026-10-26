@@ -12,14 +12,14 @@ palabras_clave:
   - planillas
   - corrección de exámenes
 semaforo: incompleta
-avance:
-historias_total:
-historias_hechas:
-puntos_total:
-puntos_hechos:
-ultima_actividad:
+avance: 
+historias_total: 
+historias_hechas: 
+puntos_total: 
+puntos_hechos: 
+ultima_actividad: 
 proxima_reunion:
-actualizado: 2026-10-22T15:57
+actualizado: 2026-10-23T16:04
 tags:
   - proyecto
   - planillas
@@ -27,6 +27,7 @@ tags:
   - actas
   - alfresco
   - dpo
+componente: "Mis Notas"
 ---
 # 🎯 Lectura y corrección de planillas de exámenes
 
@@ -35,8 +36,8 @@ tags:
 > **Estado:** en curso · **Abierto en el vault el** 08/10/2026 *(el trabajo venía de antes)*
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles · sin claves de Jira en la ficha.
-> *Calculado por `/cabina` el 22/10/2026 15:57.*
+> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles.
+> *Calculado por `/cabina` el 23/10/2026 16:04.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

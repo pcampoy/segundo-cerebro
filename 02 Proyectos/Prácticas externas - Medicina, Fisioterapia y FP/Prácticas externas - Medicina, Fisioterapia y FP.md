@@ -2,10 +2,10 @@
 tipo: proyecto
 estado: en curso
 cliente: Medicina, Fisioterapia y Podología, y FP
-prioridad: 
+prioridad: Alta
 inicio: 2026-12
 fin_previsto: 
-jira: 
+jira: [GES]
 confluence: 
 palabras_clave: [prácticas, Medicina, Fisioterapia, Podología]
 semaforo: incompleta
@@ -16,7 +16,8 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 
 proxima_reunion: 
-actualizado: 2026-10-22T15:57
+actualizado: 2026-10-23T16:04
+componente: "Fisioterapia, Medicina + Reuniones, Desarrollo, Análisis"
 tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 ---
 # 🎯 Prácticas externas · incorporación de Medicina, Fisioterapia, Podología y FP
@@ -26,8 +27,8 @@ tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 > **Estado:** requisitos a finales de 2026 · **el proyecto arranca en 2027**
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · sin claves de Jira en la ficha.
-> *Calculado por `/cabina` el 22/10/2026 15:57.*
+> ⚪ **Ficha incompleta** — falta fin previsto.
+> *Calculado por `/cabina` el 23/10/2026 16:04.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

@@ -1,22 +1,23 @@
 ---
 tipo: proyecto
 estado: en curso
-cliente: 
+cliente: TIC
 prioridad: 
 inicio: 2026-08-31
 fin_previsto: 
-jira: 
+jira: [ED]
 confluence: 
 palabras_clave: [Protocolo]
 semaforo: incompleta
-avance: 
-historias_total: 
-historias_hechas: 
-puntos_total: 
-puntos_hechos: 
-ultima_actividad: 
+avance: 0
+historias_total: 2
+historias_hechas: 0
+puntos_total: 2
+puntos_hechos: 0
+ultima_actividad: 2026-05-25
 proxima_reunion: 
-actualizado: 2026-10-22T15:57
+actualizado: 2026-10-23T16:04
+componente: "Seguridad"
 tags: [proyecto, seguridad, protocolo]
 ---
 # 🔐 Remediación Protocolo
@@ -26,20 +27,22 @@ tags: [proyecto, seguridad, protocolo]
 > **Estado:** en curso · **Fin previsto:** por fijar (la renovación del certificado era en octubre)
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · sin claves de Jira en la ficha.
-> *Calculado por `/cabina` el 22/10/2026 15:57.*
+> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 106 días hábiles sin actividad en Jira.
+> *Calculado por `/cabina` el 23/10/2026 16:04.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-_Sin datos de Jira: añade claves en `jira:` (proyecto, épica o incidencia) para medir el avance._
+**0 %** por número de tareas · _1 pendientes sin estimar: por puntos no sería fiable_ · 0 de 2 tareas hechas.
+
+_Nada de este proyecto en el sprint activo._
 <!-- cabina:fin avance -->
 
 ## 👀 Lo que pide atención
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-_Sin datos de Jira._
+_Ninguna._
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién
