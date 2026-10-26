@@ -4,11 +4,11 @@ estado: en curso
 cliente: Gestión Económica, Títulos, Secretaría Central y SIE
 prioridad: Alta
 inicio: 2026-09-30
-fin_previsto: 
+fin_previsto: 2027-04-01
 jira: [DT-310]
 confluence: "~5c7cfc943fb39d723db25676/1245806594"
 palabras_clave: [Infucam]
-semaforo: incompleta
+semaforo: rojo
 avance: 0
 historias_total: 1
 historias_hechas: 0
@@ -28,7 +28,7 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 > **Estado:** en curso · **Horizonte: cierre de 2026 y principios de 2027**
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto · además, 2 bloqueos, 2 de más de 7 días hábiles.
+> 🔴 **Rojo** — 2 bloqueos, 2 de más de 7 días hábiles.
 > *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 

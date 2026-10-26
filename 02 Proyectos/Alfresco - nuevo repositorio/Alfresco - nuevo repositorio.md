@@ -4,7 +4,7 @@ estado: en curso
 cliente: Toda la Universidad
 prioridad: Alta
 inicio: 2026-10-08
-fin_previsto:
+fin_previsto: 2027-06-01
 jira:
   - ALF
 confluence: Alfresco
@@ -12,7 +12,7 @@ palabras_clave:
   - Alfresco
   - gestor documental
   - planillas
-semaforo: incompleta
+semaforo: rojo
 avance: 
 historias_total: 
 historias_hechas: 
@@ -37,7 +37,7 @@ componente: "servicios, migraciones"
 > **Estado:** en curso · **Abierto en el vault el** 08/10/2026
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto · además, 1 bloqueo, 1 de más de 7 días hábiles.
+> 🔴 **Rojo** — 1 bloqueo, 1 de más de 7 días hábiles.
 > *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 

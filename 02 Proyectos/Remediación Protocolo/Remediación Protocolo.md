@@ -4,7 +4,7 @@ estado: en curso
 cliente: TIC
 prioridad: 
 inicio: 2026-08-31
-fin_previsto: 
+fin_previsto: 2027-12-31
 jira: [ED-1915, ED-1916]
 confluence: 
 palabras_clave: [Protocolo]
@@ -29,7 +29,7 @@ tags: [proyecto, seguridad, protocolo]
 > **Estado:** en curso · **Fin previsto:** por fijar (la renovación del certificado era en octubre)
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 107 días hábiles sin actividad (Jira, actas y correo).
+> ⚪ **Ficha incompleta** — falta prioridad · además, 107 días hábiles sin actividad (Jira, actas y correo).
 > *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 

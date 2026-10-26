@@ -4,11 +4,11 @@ estado: en curso
 cliente: Medicina, Fisioterapia y Podología, y FP
 prioridad: Alta
 inicio: 2026-12
-fin_previsto: 
+fin_previsto: 2027-12-31
 jira: [GES]
 confluence: 
 palabras_clave: [Medicina, Fisioterapia, Podología, Formación Profesional]
-semaforo: incompleta
+semaforo: verde
 avance: 
 historias_total: 
 historias_hechas: 
@@ -29,7 +29,7 @@ tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 > **Estado:** requisitos a finales de 2026 · **el proyecto arranca en 2027**
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto.
+> 🟢 **Verde** — sin señales de alerta (sin datos de Jira).
 > *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 

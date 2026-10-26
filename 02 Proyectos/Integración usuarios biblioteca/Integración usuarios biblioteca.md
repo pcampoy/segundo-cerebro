@@ -4,7 +4,7 @@ estado: en curso
 cliente: Biblioteca
 prioridad: 
 inicio: 2026-09-07
-fin_previsto: 
+fin_previsto: 2026-10-31
 jira: 
 confluence: 
 palabras_clave: [Absysnet, biblioteca]
@@ -29,7 +29,7 @@ tags: [proyecto, biblioteca]
 > **Estado:** en curso · **Fin previsto:** por fijar
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · sin claves de Jira en la ficha.
+> ⚪ **Ficha incompleta** — falta prioridad · sin claves de Jira en la ficha.
 > *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 

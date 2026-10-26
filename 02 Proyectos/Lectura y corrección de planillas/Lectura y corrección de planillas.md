@@ -4,7 +4,7 @@ estado: en curso
 cliente: Ordenación Académica y docentes
 prioridad:
 inicio: 2026-10-08
-fin_previsto:
+fin_previsto: 2026-10-31
 jira:
   - IN
 confluence:
@@ -38,7 +38,7 @@ componente: "Mis Notas"
 > **Estado:** en curso · **Abierto en el vault el** 08/10/2026 *(el trabajo venía de antes)*
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles.
+> ⚪ **Ficha incompleta** — falta prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles.
 > *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 

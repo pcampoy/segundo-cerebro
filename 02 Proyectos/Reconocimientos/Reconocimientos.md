@@ -4,7 +4,7 @@ estado: en curso
 cliente: Ordenación Académica, Secretaría y comisiones de reconocimiento
 prioridad: 
 inicio: 
-fin_previsto: 
+fin_previsto: 2027-12-31
 jira: [RDC, RDCO]
 confluence: 
 palabras_clave: [Reconocimientos, RDC]
@@ -28,7 +28,7 @@ tags: [proyecto, reconocimientos]
 > **Estado:** en curso · **Fin previsto:** por fijar
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 1 tarea quieta 7 días hábiles o más.
+> ⚪ **Ficha incompleta** — falta prioridad · además, 1 tarea quieta 7 días hábiles o más.
 > Otras señales: acta «2026-10-08 - Mejoras de la app de Reconocimientos» lleva 11 días hábiles en `acta`.
 > *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
