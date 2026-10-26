@@ -9,14 +9,14 @@ jira: [RDC, RDCO]
 confluence: 
 palabras_clave: [Reconocimientos, RDC]
 semaforo: incompleta
-avance: 55
-historias_total: 38
-historias_hechas: 21
+avance: 56
+historias_total: 39
+historias_hechas: 22
 puntos_total: 22
 puntos_hechos: 19
-ultima_actividad: 2026-10-22
+ultima_actividad: 2026-10-26
 proxima_reunion: 
-actualizado: 2026-10-26T16:29
+actualizado: 2026-10-26T17:17
 alerta: ámbar
 alerta_desde: 2026-10-26
 tags: [proyecto, reconocimientos]
@@ -30,12 +30,12 @@ tags: [proyecto, reconocimientos]
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 1 tarea quieta 7 días hábiles o más.
 > Otras señales: acta «2026-10-08 - Mejoras de la app de Reconocimientos» lleva 11 días hábiles en `acta`.
-> *Calculado por `/cabina` el 26/10/2026 16:29.*
+> *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-**55 %** por número de tareas · _12 pendientes sin estimar: por puntos no sería fiable_ · 21 de 38 tareas hechas.
+**56 %** por número de tareas · _12 pendientes sin estimar: por puntos no sería fiable_ · 22 de 39 tareas hechas.
 
 **Épicas** (3): `RDC-77` Reconocimientos previos + IA · `RDCO-94` Pantallas plantillas de reconocimientos · `RDC-35` Revisión Estudio Previo - Modificaciones Alumno
 _Ninguna tarea está enlazada a una épica en Jira, así que no hay avance por épica._

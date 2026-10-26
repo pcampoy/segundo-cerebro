@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-10-21
 proxima_reunion: 
-actualizado: 2026-10-26T16:29
+actualizado: 2026-10-26T17:17
 alerta: rojo
 alerta_desde: 2026-10-26
 tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
@@ -29,7 +29,7 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto · además, 2 bloqueos, 2 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 26/10/2026 16:29.*
+> *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

@@ -7,16 +7,16 @@ inicio: 2026-12
 fin_previsto: 
 jira: [GES]
 confluence: 
-palabras_clave: [prácticas, Medicina, Fisioterapia, Podología]
+palabras_clave: [Medicina, Fisioterapia, Podología, Formación Profesional]
 semaforo: incompleta
 avance: 
 historias_total: 
 historias_hechas: 
 puntos_total: 
 puntos_hechos: 
-ultima_actividad: 2026-10-26
+ultima_actividad: 2026-09-09
 proxima_reunion: 
-actualizado: 2026-10-26T16:29
+actualizado: 2026-10-26T17:17
 componente: "Fisioterapia, Medicina + Reuniones, Desarrollo, Análisis"
 alerta: verde
 alerta_desde: 2026-10-26
@@ -30,7 +30,7 @@ tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto.
-> *Calculado por `/cabina` el 26/10/2026 16:29.*
+> *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -57,7 +57,6 @@ _Sin datos de Jira._
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-- [[2026-09-10 - Prácticas Educación 26-27]] — `publicado` · reunión del 10/09/2026, hace 29 días hábiles
 - [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]] — `publicado` · reunión del 09/09/2026, hace 30 días hábiles
 <!-- cabina:fin requisitos -->
 
@@ -79,15 +78,10 @@ _Sin datos de Jira._
 <!-- cabina:inicio agenda -->
 **Próxima reunión:** _ninguna en los próximos 30 días con las palabras clave de la ficha._
 
-**Últimas actas** (3 de 3):
-- [[2026-09-24 - Definición de campos del mapa docente de prácticas]] — 24/09/2026 · `acta`
-- [[2026-09-10 - Prácticas Educación 26-27]] — 10/09/2026 · `publicado`
+**Últimas actas** (1 de 1):
 - [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]] — 09/09/2026 · `publicado`
 
-**Correo reciente** (asuntos de los últimos 30 días; el contenido sigue en Gmail):
-- 26/10/2026 — TFEPE: incidencia '[número] - Corrector Prácticas Internacionales' [Recibida (Pendiente en entrada)] · noreply
-- 21/10/2026 — Prácticas de Educación: prueba del proceso de asignación para revisar los criterios · jjdiaz
-- 08/10/2026 — Mantenimiendo en app de prácticas · mdsaravia
+**Correo reciente:** _ningún asunto con las palabras clave en los últimos 30 días._
 <!-- cabina:fin agenda -->
 
 ---

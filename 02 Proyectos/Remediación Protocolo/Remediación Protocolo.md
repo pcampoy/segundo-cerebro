@@ -16,7 +16,7 @@ puntos_total: 2
 puntos_hechos: 0
 ultima_actividad: 2026-05-25
 proxima_reunion: 
-actualizado: 2026-10-26T16:29
+actualizado: 2026-10-26T17:17
 componente: 
 alerta: rojo
 alerta_desde: 2026-10-26
@@ -30,7 +30,7 @@ tags: [proyecto, seguridad, protocolo]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 107 días hábiles sin actividad (Jira, actas y correo).
-> *Calculado por `/cabina` el 26/10/2026 16:29.*
+> *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

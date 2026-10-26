@@ -5,19 +5,19 @@ cliente: Biblioteca
 prioridad: 
 inicio: 2026-09-07
 fin_previsto: 
-jira: [ED]
+jira: 
 confluence: 
 palabras_clave: [Absysnet, biblioteca]
 semaforo: incompleta
-avance: 80
-historias_total: 3
-historias_hechas: 2
-puntos_total: 5
-puntos_hechos: 4
-ultima_actividad: 2026-10-26
+avance: 
+historias_total: 
+historias_hechas: 
+puntos_total: 
+puntos_hechos: 
+ultima_actividad: 
 proxima_reunion: 
-actualizado: 2026-10-26T16:29
-componente: "Fuera de DPO"
+actualizado: 2026-10-26T17:17
+componente: 
 alerta: verde
 alerta_desde: 2026-10-26
 tags: [proyecto, biblioteca]
@@ -29,23 +29,20 @@ tags: [proyecto, biblioteca]
 > **Estado:** en curso · **Fin previsto:** por fijar
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad.
-> *Calculado por `/cabina` el 26/10/2026 16:29.*
+> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · sin claves de Jira en la ficha.
+> *Calculado por `/cabina` el 26/10/2026 17:17.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-**80 %** por puntos (4 de 5) · 2 de 3 tareas hechas.
-
-**En el sprint activo** (1):
-- `ED-2069` Imagen base ucam/microservice fijada a la versión de Java en los proyectos Kuber — EN CURSO · Francisco
+_Sin datos de Jira: añade claves en `jira:` (proyecto, épica o incidencia) para medir el avance._
 <!-- cabina:fin avance -->
 
 ## 👀 Lo que pide atención
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-_Ninguna._
+_Sin datos de Jira._
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién
