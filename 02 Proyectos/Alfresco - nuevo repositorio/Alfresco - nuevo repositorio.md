@@ -20,7 +20,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 
 proxima_reunion: 
-actualizado: 2026-10-26T16:26
+actualizado: 2026-10-26T16:29
 alerta: rojo
 alerta_desde: 2026-10-26
 tags:
@@ -38,7 +38,7 @@ componente: "servicios, migraciones"
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto · además, 1 bloqueo, 1 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 26/10/2026 16:26.*
+> *Calculado por `/cabina` el 26/10/2026 16:29.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

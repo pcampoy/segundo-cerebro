@@ -16,7 +16,7 @@ puntos_total: 5
 puntos_hechos: 4
 ultima_actividad: 2026-10-26
 proxima_reunion: 
-actualizado: 2026-10-26T16:26
+actualizado: 2026-10-26T16:29
 componente: "Fuera de DPO"
 alerta: verde
 alerta_desde: 2026-10-26
@@ -30,7 +30,7 @@ tags: [proyecto, biblioteca]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto, prioridad.
-> *Calculado por `/cabina` el 26/10/2026 16:26.*
+> *Calculado por `/cabina` el 26/10/2026 16:29.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
