@@ -16,7 +16,9 @@ puntos_total: 22
 puntos_hechos: 19
 ultima_actividad: 2026-10-22
 proxima_reunion: 
-actualizado: 2026-10-23T16:04
+actualizado: 2026-10-26T16:26
+alerta: ámbar
+alerta_desde: 2026-10-26
 tags: [proyecto, reconocimientos]
 ---
 # 🎓 Reconocimientos
@@ -27,7 +29,8 @@ tags: [proyecto, reconocimientos]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 1 tarea quieta 7 días hábiles o más.
-> *Calculado por `/cabina` el 23/10/2026 16:04.*
+> Otras señales: acta «2026-10-08 - Mejoras de la app de Reconocimientos» lleva 11 días hábiles en `acta`.
+> *Calculado por `/cabina` el 26/10/2026 16:26.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -54,7 +57,7 @@ _Ninguna tarea está enlazada a una épica en Jira, así que no hay avance por �
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-- `RDC-77` Reconocimientos previos + IA — EN CURSO, **156 días hábiles** quieta · Francisco
+- `RDC-77` Reconocimientos previos + IA — EN CURSO, **157 días hábiles** quieta · Francisco
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién
@@ -69,7 +72,7 @@ _Ninguna tarea está enlazada a una épica en Jira, así que no hay avance por �
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-_Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días que llevan en él._
+- [[2026-10-08 - Mejoras de la app de Reconocimientos]] — `acta` · reunión del 08/10/2026, hace 11 días hábiles ⚠️
 <!-- cabina:fin requisitos -->
 
 ## ⚖️ Decisiones
@@ -86,7 +89,15 @@ _Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días q
 
 ## 📅 Agenda y correo
 <!-- cabina:inicio agenda -->
-_Pendiente del primer `/cabina`: próxima reunión, últimas 5 actas y últimos 5 hilos de correo._
+**Próxima reunión:** _ninguna en los próximos 30 días con las palabras clave de la ficha._
+
+**Últimas actas** (1 de 1):
+- [[2026-10-08 - Mejoras de la app de Reconocimientos]] — 08/10/2026 · `acta`
+
+**Correo reciente** (asuntos de los últimos 30 días; el contenido sigue en Gmail):
+- 22/10/2026 — Cambios en la aplicación de reconocimientos previos · cmartinez
+- 19/10/2026 — DUDA RECONOCIMIENTOS · egonzalez6
+- 01/10/2026 — Mejoras de la aplicación de reconocimientos · pcampoy
 <!-- cabina:fin agenda -->
 
 ---

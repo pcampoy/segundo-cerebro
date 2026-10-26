@@ -16,7 +16,9 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-10-21
 proxima_reunion: 
-actualizado: 2026-10-23T16:04
+actualizado: 2026-10-26T16:26
+alerta: rojo
+alerta_desde: 2026-10-26
 tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 ---
 # 🎯 Cierre de Infucam
@@ -27,7 +29,7 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto · además, 2 bloqueos, 2 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 23/10/2026 16:04.*
+> *Calculado por `/cabina` el 26/10/2026 16:26.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -59,7 +61,7 @@ _Ninguna._
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-_Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días que llevan en él._
+_Ninguna acta de captura de requisitos asociada a este proyecto._
 <!-- cabina:fin requisitos -->
 
 ## ⚖️ Decisiones
@@ -79,7 +81,18 @@ _Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días q
 
 ## 📅 Agenda y correo
 <!-- cabina:inicio agenda -->
-_Pendiente del primer `/cabina`: próxima reunión, últimas 5 actas y últimos 5 hilos de correo._
+**Próxima reunión:** _ninguna en los próximos 30 días con las palabras clave de la ficha._
+
+**Últimas actas** (2 de 2):
+- [[2026-10-09 - Cierre de Infucam con Gestión Económica]] — 09/10/2026 · `acta`
+- [[2026-10-08 - Exportación de datos Infucam con Títulos]] — 08/10/2026 · `acta`
+
+**Correo reciente** (asuntos de los últimos 30 días; el contenido sigue en Gmail):
+- 14/10/2026 — Volcado de información de INFUCAM · mdmartinez
+- 08/10/2026 — Cierre de Infucam y soluciones · afernandez
+- 07/10/2026 — INFUCAM no operativo – Emisión de certificados · mdmartinez
+- 06/10/2026 — Cierre de Infucam y migración de datos · maguillen
+- 01/10/2026 — Cierre de INFUCAM: acceso de Títulos Propios a los expedientes · maguillen
 <!-- cabina:fin agenda -->
 
 ---

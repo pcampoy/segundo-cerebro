@@ -14,10 +14,12 @@ historias_total:
 historias_hechas: 
 puntos_total: 
 puntos_hechos: 
-ultima_actividad: 
+ultima_actividad: 2026-10-26
 proxima_reunion: 
-actualizado: 2026-10-23T16:04
+actualizado: 2026-10-26T16:26
 componente: "Fisioterapia, Medicina + Reuniones, Desarrollo, Análisis"
+alerta: verde
+alerta_desde: 2026-10-26
 tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 ---
 # 🎯 Prácticas externas · incorporación de Medicina, Fisioterapia, Podología y FP
@@ -28,7 +30,7 @@ tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto.
-> *Calculado por `/cabina` el 23/10/2026 16:04.*
+> *Calculado por `/cabina` el 26/10/2026 16:26.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -55,7 +57,8 @@ _Sin datos de Jira._
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-_Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días que llevan en él._
+- [[2026-09-10 - Prácticas Educación 26-27]] — `publicado` · reunión del 10/09/2026, hace 29 días hábiles
+- [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]] — `publicado` · reunión del 09/09/2026, hace 30 días hábiles
 <!-- cabina:fin requisitos -->
 
 ## ⚖️ Decisiones
@@ -74,7 +77,17 @@ _Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días q
 
 ## 📅 Agenda y correo
 <!-- cabina:inicio agenda -->
-_Pendiente del primer `/cabina`: próxima reunión, últimas 5 actas y últimos 5 hilos de correo._
+**Próxima reunión:** _ninguna en los próximos 30 días con las palabras clave de la ficha._
+
+**Últimas actas** (3 de 3):
+- [[2026-09-24 - Definición de campos del mapa docente de prácticas]] — 24/09/2026 · `acta`
+- [[2026-09-10 - Prácticas Educación 26-27]] — 10/09/2026 · `publicado`
+- [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]] — 09/09/2026 · `publicado`
+
+**Correo reciente** (asuntos de los últimos 30 días; el contenido sigue en Gmail):
+- 26/10/2026 — TFEPE: incidencia '[número] - Corrector Prácticas Internacionales' [Recibida (Pendiente en entrada)] · noreply
+- 21/10/2026 — Prácticas de Educación: prueba del proceso de asignación para revisar los criterios · jjdiaz
+- 08/10/2026 — Mantenimiendo en app de prácticas · mdsaravia
 <!-- cabina:fin agenda -->
 
 ---

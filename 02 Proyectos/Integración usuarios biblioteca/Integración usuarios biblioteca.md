@@ -9,15 +9,17 @@ jira: [ED]
 confluence: 
 palabras_clave: [Absysnet, biblioteca]
 semaforo: incompleta
-avance: 100
-historias_total: 2
+avance: 80
+historias_total: 3
 historias_hechas: 2
-puntos_total: 4
+puntos_total: 5
 puntos_hechos: 4
-ultima_actividad: 2026-10-05
+ultima_actividad: 2026-10-26
 proxima_reunion: 
-actualizado: 2026-10-23T16:04
+actualizado: 2026-10-26T16:26
 componente: "Fuera de DPO"
+alerta: verde
+alerta_desde: 2026-10-26
 tags: [proyecto, biblioteca]
 ---
 # 📚 Integración usuarios biblioteca
@@ -28,14 +30,15 @@ tags: [proyecto, biblioteca]
 
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta fin previsto, prioridad.
-> *Calculado por `/cabina` el 23/10/2026 16:04.*
+> *Calculado por `/cabina` el 26/10/2026 16:26.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-**100 %** por puntos (4 de 4) · 2 de 2 tareas hechas.
+**80 %** por puntos (4 de 5) · 2 de 3 tareas hechas.
 
-_Nada de este proyecto en el sprint activo._
+**En el sprint activo** (1):
+- `ED-2069` Imagen base ucam/microservice fijada a la versión de Java en los proyectos Kuber — EN CURSO · Francisco
 <!-- cabina:fin avance -->
 
 ## 👀 Lo que pide atención
@@ -57,7 +60,7 @@ _Ninguna._
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-_Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días que llevan en él._
+_Ninguna acta de captura de requisitos asociada a este proyecto._
 <!-- cabina:fin requisitos -->
 
 ## ⚖️ Decisiones
@@ -74,7 +77,11 @@ _Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días q
 
 ## 📅 Agenda y correo
 <!-- cabina:inicio agenda -->
-_Pendiente del primer `/cabina`: próxima reunión, últimas 5 actas y últimos 5 hilos de correo._
+**Próxima reunión:** _ninguna en los próximos 30 días con las palabras clave de la ficha._
+
+**Últimas actas:** _ninguna asociada._
+
+**Correo reciente:** _ningún asunto con las palabras clave en los últimos 30 días._
 <!-- cabina:fin agenda -->
 
 ---

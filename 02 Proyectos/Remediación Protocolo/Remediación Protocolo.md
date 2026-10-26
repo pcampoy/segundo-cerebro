@@ -5,7 +5,7 @@ cliente: TIC
 prioridad: 
 inicio: 2026-08-31
 fin_previsto: 
-jira: [ED]
+jira: [ED-1915, ED-1916]
 confluence: 
 palabras_clave: [Protocolo]
 semaforo: incompleta
@@ -16,8 +16,10 @@ puntos_total: 2
 puntos_hechos: 0
 ultima_actividad: 2026-05-25
 proxima_reunion: 
-actualizado: 2026-10-23T16:04
-componente: "Seguridad"
+actualizado: 2026-10-26T16:26
+componente: 
+alerta: rojo
+alerta_desde: 2026-10-26
 tags: [proyecto, seguridad, protocolo]
 ---
 # 🔐 Remediación Protocolo
@@ -27,8 +29,8 @@ tags: [proyecto, seguridad, protocolo]
 > **Estado:** en curso · **Fin previsto:** por fijar (la renovación del certificado era en octubre)
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 106 días hábiles sin actividad en Jira.
-> *Calculado por `/cabina` el 23/10/2026 16:04.*
+> ⚪ **Ficha incompleta** — falta fin previsto, prioridad · además, 107 días hábiles sin actividad (Jira, actas y correo).
+> *Calculado por `/cabina` el 26/10/2026 16:26.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -57,7 +59,7 @@ _Ninguna._
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-_Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días que llevan en él._
+_Ninguna acta de captura de requisitos asociada a este proyecto._
 <!-- cabina:fin requisitos -->
 
 ## ⚖️ Decisiones
@@ -75,7 +77,11 @@ _Pendiente del primer `/cabina`: actas de captura con su `estado:` y los días q
 
 ## 📅 Agenda y correo
 <!-- cabina:inicio agenda -->
-_Pendiente del primer `/cabina`: próxima reunión, últimas 5 actas y últimos 5 hilos de correo._
+**Próxima reunión:** _ninguna en los próximos 30 días con las palabras clave de la ficha._
+
+**Últimas actas:** _ninguna asociada._
+
+**Correo reciente:** _ningún asunto con las palabras clave en los últimos 30 días._
 <!-- cabina:fin agenda -->
 
 ---
