@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-10-21
 proxima_reunion: 
-actualizado: 2026-10-26T17:17
+actualizado: 2026-10-26T18:07
 alerta: rojo
 alerta_desde: 2026-10-26
 tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
@@ -28,8 +28,8 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 > **Estado:** en curso · **Horizonte: cierre de 2026 y principios de 2027**
 
 <!-- cabina:inicio estado -->
-> 🔴 **Rojo** — 2 bloqueos, 2 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 26/10/2026 17:17.*
+> 🔴 **Rojo** — 1 bloqueo, 1 de más de 7 días hábiles.
+> *Calculado por `/cabina` el 26/10/2026 18:07.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -51,7 +51,6 @@ _Ninguna._
 
 | Desde | Qué está parado | Espera a |
 |---|---|---|
-| 08/10/2026 | Fecha de apagado | [[Alfresco - nuevo repositorio]] (sin fecha) |
 | 05/10/2026 | Apagado | Cuadrar los saldos vivos con Gestión Económica |
 
 **Espero de otros** — lo que yo espero, con su fecha
@@ -68,6 +67,8 @@ _Ninguna acta de captura de requisitos asociada a este proyecto._
 | Fecha | Decisión | Quién | Acta |
 |---|---|---|---|
 | 08/10/2026 | Método: una reunión por parte → documento en Confluence → reunión con Miguel Ángel → plan de cierre | Pilar | [[2026-10-08 - Exportación de datos Infucam con Títulos]] |
+| 26/10/2026 | Infucam acaba antes que Alfresco (01/04/2027 frente a 01/06/2027): Alfresco es más amplio y la migración de los ficheros de Infucam es solo una parte | Pilar | — |
+| 26/10/2026 | Lo que decide el apagado es sacar, además de los ficheros, los datos de Títulos, Expedientes y Gestión Económica: es lo importante del proyecto | Pilar | — |
 
 ## 🔀 Cambios de alcance
 | Fecha | Entra | Sale o se retrasa | Lo pide | Decisión |

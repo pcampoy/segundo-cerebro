@@ -20,7 +20,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 
 proxima_reunion: 
-actualizado: 2026-10-26T17:17
+actualizado: 2026-10-26T18:07
 alerta: rojo
 alerta_desde: 2026-10-26
 tags:
@@ -38,7 +38,7 @@ componente: "servicios, migraciones"
 
 <!-- cabina:inicio estado -->
 > 🔴 **Rojo** — 1 bloqueo, 1 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 26/10/2026 17:17.*
+> *Calculado por `/cabina` el 26/10/2026 18:07.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -73,6 +73,7 @@ _Ninguna acta de captura de requisitos asociada a este proyecto._
 | Fecha | Decisión | Quién | Acta |
 |---|---|---|---|
 | 08/10/2026 | Alfresco es un proyecto con entidad propia, no una pieza de otro | Pilar | [[08-10-2026]] |
+| 26/10/2026 | Infucam acaba antes que Alfresco (01/04/2027 frente a 01/06/2027): Alfresco es más amplio y la migración de los ficheros de Infucam es solo una parte | Pilar | — |
 
 ## 🔀 Cambios de alcance
 | Fecha | Entra | Sale o se retrasa | Lo pide | Decisión |

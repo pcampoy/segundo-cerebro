@@ -16,7 +16,7 @@ puntos_total: 22
 puntos_hechos: 19
 ultima_actividad: 2026-10-26
 proxima_reunion: 
-actualizado: 2026-10-26T17:17
+actualizado: 2026-10-26T18:07
 alerta: ámbar
 alerta_desde: 2026-10-26
 tags: [proyecto, reconocimientos]
@@ -30,7 +30,7 @@ tags: [proyecto, reconocimientos]
 <!-- cabina:inicio estado -->
 > ⚪ **Ficha incompleta** — falta prioridad · además, 1 tarea quieta 7 días hábiles o más.
 > Otras señales: acta «2026-10-08 - Mejoras de la app de Reconocimientos» lleva 11 días hábiles en `acta`.
-> *Calculado por `/cabina` el 26/10/2026 17:17.*
+> *Calculado por `/cabina` el 26/10/2026 18:07.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

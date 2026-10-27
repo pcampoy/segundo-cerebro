@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-09-09
 proxima_reunion: 
-actualizado: 2026-10-26T17:17
+actualizado: 2026-10-26T18:07
 componente: "Fisioterapia, Medicina + Reuniones, Desarrollo, Análisis"
 alerta: verde
 alerta_desde: 2026-10-26
@@ -30,7 +30,7 @@ tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 
 <!-- cabina:inicio estado -->
 > 🟢 **Verde** — sin señales de alerta (sin datos de Jira).
-> *Calculado por `/cabina` el 26/10/2026 17:17.*
+> *Calculado por `/cabina` el 26/10/2026 18:07.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
