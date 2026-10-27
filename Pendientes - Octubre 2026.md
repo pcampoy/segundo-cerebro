@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[26-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[27-10-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-26 *(tarea programada del lunes; arrancó tarde, ~10:30)*
+> **Última revisión:** 2026-10-27 *(tarea programada, ~09:20)*
 
 ## 📅 Fechas del mes
 
@@ -37,7 +37,8 @@ tags: [panel, pendientes, octubre]
 | **lun 26**                | 🔴 **UCAMSEGRE2 · segregación en Explotación** *(Sigma la da por confirmada el 05/10; lo lleva Alicia)* → **lo nuestro**: [[Segregación 26-10 - aplicaciones satélite]] *(22/10)*                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **mar 27**                | 🚨 **Responsables 10:00–11:30** — Luis propone dedicarla a la **vulnerabilidad de Sede/Tramita** · 16:30 vacuna · último día para mandarle algo a Albert (Sigma) |
 | **mié 28**                | ⚠️ **Instructure Quarterly 11:00–11:30 choca con Tangram 11:00–12:00** *(esta semana pesa más Tangram: es el proveedor de Sede)* · 🚀 lanzamiento de Educación · 🎓 clase online 16:00 |
-| **vie 30**                | 🎓 clase 08:30–10:30 · ⚠️ **Reunión revisión vulnerabilidades 09:00–10:30** *(Luis, desde iCloud)* choca con la clase; pediste 10:45. Sobra si se trata el mar 27 |
+| **vie 30**                | 🎓 clase 08:30–10:30 · ⚠️ **Reunión revisión vulnerabilidades 09:00–10:30** *(Luis, desde iCloud)* choca con la clase; pediste 10:45. Sobra si se trata el mar 27 *(27/10: ya no está en tu calendario)* · 🆕 **11:30–12:30 · UCAM & Laberit (Mae Requena)**, presencial |
+| **sáb 31**                | 🔴 fecha objetivo de [[Lectura y corrección de planillas]] (en rojo en la cabina, con 2 bloqueos) |
 | **lun 2/11**              | 🎓 Clase IR 11:00–12:30 *(Reunión TFG anulada por Pilar, 22/10)* · último día del `2026/17` · ❓ ¿festivo trasladado? |
 | **mié 4/11**              | 🤝 **10:00–11:00 · 1ª sesión de seguimiento con Sigma** (Albert + Álvaro Merino; *Teams, en tu calendario y aceptada, 22/10*) · Tangram 11:00 · ⚠️ Albert está fuera **mié 28–vie 30**: lo que haya que mandarle, **antes del mar 27** |
 
@@ -48,6 +49,9 @@ tags: [panel, pendientes, octubre]
       si no hay garantía"*. **Informe enviado a Tangram** por Pilar (dom 25, 19:01); Emilio: *"Lo miramos asap"* (26/10). Adrián
       añade **PHP 8.1.x sin parches desde dic-2025**, sin dueño claro. Se trata en **Responsables, mar 27 10:00** → pedir a
       Tangram diagnóstico y plazo antes, y confirmar si el corte externo está hecho → [[26-10-2026]] · [[Seguridad (Proyecto)]]
+      *27/10: **Tangram contestó el 26/10**: el fallo es **del ET (Tramita), no de la Sede**; la Sede estaba parcheada y con PHP
+      actualizado *"desde la semana pasada"*; **ET actualizado a las 13:53**. Piden **reponer su VPN a PRE y PRO**. Queda: verificar
+      el parche por nuestra cuenta, cuadrar lo del PHP con Adrián y decidir la VPN → [[27-10-2026]]*
 - [ ] 🐘 **Quién parchea qué** (PHP de Sede, imágenes Java de Kubernetes): deuda de plataforma sin dueño → fila propia en
       [[Seguridad (Proyecto)]]
 - [ ] 🧼 **Convocatorias sobre el incidente desde cuentas personales** (Luis, Gmail/iCloud, 26/10) y **el informe del exploit
@@ -707,6 +711,31 @@ tags: [panel, pendientes, octubre]
 - [x] 🟢 **Informe de la vulnerabilidad enviado a Tangram** (Pilar, dom 25 19:01) y acuse de Emilio (26/10 06:58)
 - ✅ **Sin correos sospechosos** del 23 al 26/10
 
+## 🆕 Novedades del 26–27/10 (del correo)
+
+> ~45 hilos desde ayer, unos 25 de ruido. **Un correo sospechoso** (reset desde Gmail al alias de Laurea). El incidente de Sede
+> cambia de forma: **es del ET y Tangram dice que ya está parcheado**.
+
+- [ ] 🚨 **Verificar el parche del ET por nuestra cuenta** (repetir la prueba de los alumnos contra el ET parcheado) antes de dar el
+      incidente por cerrado → [[Seguridad (Proyecto)]]
+- [ ] 🐘 **PHP de la Sede: Adrián dice 8.1 sin parches desde dic-2025, Tangram dice actualizado la semana pasada** → que Adrián lo
+      compruebe en el servidor
+- [ ] 🔑 **Tangram pide reponer su VPN a PRE y PRO** (Emilio, 26/10 10:55) → decisión de Responsables; lo ejecuta Sistemas, con
+      alcance acotado
+- [ ] 🚨 **Reset de contraseña pedido desde `@gmail.com` a `laureaacademic`** (27/10 07:04, en inglés, sin identificar la cuenta) —
+      cuarto caso del patrón → amplía el punto del procedimiento de verificación
+- [ ] 🔐 **Laurea: pico de alumnos sin acceso tras la segregación** (26/10 tarde y 27/10) y **noveno caso de SSO** → si sigue
+      mañana, al CAU como corte, no como casos sueltos *(lo lleva Alicia; el alias no es tuyo)*
+- [ ] 🆕 **Sigma `310175` (TFEPE, corrector de Prácticas Internacionales)** — recibida el 26/10
+- [ ] 🔑 **Bitbucket · `BITBUCKET_TOKEN` de `iswteam/jav-widgets` caduca en 30 días** → que lo rote su dueño
+- [ ] ⏱️ **Aprobar la planilla de Jesús March del 19–25/10** *(se suma a las de Paco y Alex)*
+- [ ] 🧾 **`Lectura y corrección de planillas` vence el sáb 31/10 en la cabina** con 2 bloqueos → mover la fecha o decir que no llega
+- ⚪ **Educación**: oferta pública cargada por Juan Manuel (27/10 09:11) y vídeo de Alex para coordinadores · **UCAMSEGRE2**: Sigma
+  reactiva accesos (26/10) · Sigma `309784` vuelve a moverse · Bienvenida Internacional el 18/11 · guardia DevTeam terminada
+- [x] 🟢 **Tangram contesta con diagnóstico y parche** (26/10 10:55 y 13:53) · **la vulnerabilidad va a Responsables** (Pilar, 26/10
+      10:48) · **Laberit, visita el vie 30 a las 11:30** · **Alma: la Biblioteca ya recibe los correos** (26/10)
+- 🚨 **Un correo sospechoso** del 26 al 27/10 → [[27-10-2026]]
+
 ## ✉️ Correos a enviar (tú)
 
 - [x] *(cerrado en el diario del 20/10; en el hilo de coordinadores Pilar ofrece a Esther, 20/10 16:35, hacer nosotros la
@@ -835,6 +864,8 @@ tags: [panel, pendientes, octubre]
 
 > 26/10: **15 abiertas** (6 de service desk), sin cambios desde el viernes. Sprint `2026/17` activo hasta el lun 02/11.
 
+> 27/10: **15 abiertas** (6 de service desk), sin cambios.
+
 - [x] `ED-2066` Gestión y jerarquía de repositorios en Confluence *(ya no está abierta, 22/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
@@ -846,17 +877,14 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 26/10)
+## 💡 Sugerencia de foco (Pilita · 27/10)
 
-> Lunes con la mañana ya empezada: sprint hasta las 10:45 y clase de 11:00 a 12:30. **La tarde es lo único libre**, y la
-> semana la marca el incidente de Sede.
+> Martes sin clase: Responsables a las 10:00 y la tarde libre salvo la vacuna. **Tangram ya ha contestado**, así que la reunión
+> de hoy no es "qué hacemos" sino "cómo lo damos por bueno".
 
-1. **Antes de Responsables (mar 10:00), a Tangram: diagnóstico, plazo y quién parchea el PHP.** Mañana se decide si se corta o
-   se tira la Sede; sin la respuesta del proveedor, la decisión se toma a ciegas. Y confirma con Sistemas si el corte externo
-   ya está hecho.
-2. **Llevar a Responsables qué deja de funcionar si se corta Sede desde fuera** (certificados, Tramita, delitos sexuales, B2,
-   `ET-555`). Es lo que Desarrollo aporta y nadie más tiene.
-3. **La lista de referencias para Sigma, hoy o mañana.** Albert se va el miércoles; es el último margen para la sesión del 4/11.
-4. **En el semanal (o al terminarlo): asignar `RDCO-182`…`188`.** El acta de Reconocimientos dice que no hay hueco hasta mediados
-   de noviembre; si van a esperar, que conste en el sprint y no como tareas huérfanas.
-5. **Tempo y planillas** (Paco y Alex del 19–25, tu periodo a cero) → `/imputa` cuando haya media hora.
+1. **En Responsables, no dar el incidente por cerrado con la palabra del proveedor.** Pedir verificación independiente del parche
+   del ET, cuadrar lo del PHP (Adrián vs. Tangram) y decidir la VPN con alcance acotado. Es lo que evita reabrir el agujero.
+2. **La lista de referencias para Sigma, hoy sin falta.** Albert se va mañana; la sesión del 4/11 depende de ella.
+3. **Mañana, Tangram antes que Instructure** (las dos a las 11:00): es la primera reunión con el proveedor tras el parche.
+4. **`Lectura y corrección de planillas` vence el sábado** y está en rojo: mover la fecha o avisar antes del cierre del sprint.
+5. **Tempo y planillas** (Paco, Alex y ahora Jesús March del 19–25; tu periodo a cero) → `/imputa` en la tarde libre.
