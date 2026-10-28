@@ -26,7 +26,7 @@ El detalle día a día está en la sección *🚨 Seguridad* de [[Pendientes - O
 - **Credenciales que circulan por correo** o que nadie reconoce: preguntar, revocar y rotar.
 
 ## 🗒️ Reuniones
-- 
+- [[2026-10-27 - Reunión responsables - vulnerabilidad de Tramita]] — incidente de Sede/Tramita (reportado el 24/10)
 
 ## 🔗 Enlaces
 - Nota anterior (antes de dividir): [[Seguridad (Proyecto)]]
