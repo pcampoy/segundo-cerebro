@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[27-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[28-10-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-27 *(tarea programada, ~09:20)*
+> **Última revisión:** 2026-10-28 *(tarea programada, ~09:20)*
 
 ## 📅 Fechas del mes
 
@@ -52,6 +52,8 @@ tags: [panel, pendientes, octubre]
       *27/10: **Tangram contestó el 26/10**: el fallo es **del ET (Tramita), no de la Sede**; la Sede estaba parcheada y con PHP
       actualizado *"desde la semana pasada"*; **ET actualizado a las 13:53**. Piden **reponer su VPN a PRE y PRO**. Queda: verificar
       el parche por nuestra cuenta, cuadrar lo del PHP con Adrián y decidir la VPN → [[27-10-2026]]*
+      *28/10: tras Responsables, Miguel Ángel (27/10 18:59): **la Sede ya está bloqueada desde fuera; falta cortar Tramita**
+      (se lo pide a Ignacio). Las decisiones de la reunión **no están escritas**: la nota sigue en `preparación` → [[28-10-2026]]*
 - [ ] 🐘 **Quién parchea qué** (PHP de Sede, imágenes Java de Kubernetes): deuda de plataforma sin dueño → fila propia en
       [[Seguridad (Proyecto)]]
 - [ ] 🧼 **Convocatorias sobre el incidente desde cuentas personales** (Luis, Gmail/iCloud, 26/10) y **el informe del exploit
@@ -736,6 +738,26 @@ tags: [panel, pendientes, octubre]
       10:48) · **Laberit, visita el vie 30 a las 11:30** · **Alma: la Biblioteca ya recibe los correos** (26/10)
 - 🚨 **Un correo sospechoso** del 26 al 27/10 → [[27-10-2026]]
 
+## 🆕 Novedades del 27–28/10 (del correo)
+
+> ~37 hilos desde ayer, unos 15 de ruido. **Sin correos sospechosos nuevos.** Responsables se celebró; deja deberes para la semana.
+
+- [ ] 🧾 **Lista de referencias para Sigma (sesión del 4/11): no consta enviada** — no hay correo tuyo a Sigma. Albert está fuera
+      hasta el vie 30 → mandarla igual o llevarla a la sesión
+- [ ] 🚨 **Cortar Tramita desde fuera** (Miguel Ángel → Ignacio, 27/10) → avisar a Tangram y **listar qué deja de funcionar**
+      (`ET-555`, delitos sexuales, B2) antes del corte
+- [ ] 📝 **Escribir las decisiones de Responsables del 27/10** en su nota (sigue en `preparación`)
+- [ ] 🗂️ **Inventario de servicios / apps** (Adrián, 27/10) — Miguel Ángel lo quiere **esta semana** → rellenar la parte de Desarrollo
+- [ ] 💻 **Portátiles · requisitos** (memoria, almacenamiento, color) para Luis Martínez (27/10 16:55)
+- [ ] 🎫 **Unibono · alumna de Enfermería de Cartagena** (Campus Cartagena, 27/10, a ti y a Juan Manuel) → decidir quién lo mira
+- [ ] 🦷 **PGO · campus virtual**: Verónica pidió hablar; van por soporte (27/10). Prioritario si vuelve
+- [ ] ⚠️ **Hoy 11:00 · Tangram vs. Instructure** → Tangram; Instructure, Isaac o Alejandro Sánchez
+- ⚪ **Educación** abre hoy a alumnos (correo individual por alumno, decisión de Dolo) · **IZO** sigue mal en dashboards
+  individuales (Rosa) · Sigma `309784` *"la devolución no procede"* · Laurea: sin casos nuevos desde ayer por la tarde
+- [x] 🟢 **Responsables celebrada** (27/10) · **Isabel (Servicios Jurídicos)** ya accede a su expediente · **DOCLAND**: Títulos ya
+      tiene acceso a la plataforma · **PGO** contestado
+- ✅ **Sin correos sospechosos** del 27 al 28/10
+
 ## ✉️ Correos a enviar (tú)
 
 - [x] *(cerrado en el diario del 20/10; en el hilo de coordinadores Pilar ofrece a Esther, 20/10 16:35, hacer nosotros la
@@ -866,6 +888,8 @@ tags: [panel, pendientes, octubre]
 
 > 27/10: **15 abiertas** (6 de service desk), sin cambios.
 
+> 28/10: **15 abiertas** (6 de service desk), sin cambios.
+
 - [x] `ED-2066` Gestión y jerarquía de repositorios en Confluence *(ya no está abierta, 22/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
@@ -877,14 +901,14 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 27/10)
+## 💡 Sugerencia de foco (Pilita · 28/10)
 
-> Martes sin clase: Responsables a las 10:00 y la tarde libre salvo la vacuna. **Tangram ya ha contestado**, así que la reunión
-> de hoy no es "qué hacemos" sino "cómo lo damos por bueno".
+> Miércoles con Tangram a las 11:00 y clase a las 16:00; **el jueves está entero libre**, que es lo raro de esta semana.
 
-1. **En Responsables, no dar el incidente por cerrado con la palabra del proveedor.** Pedir verificación independiente del parche
-   del ET, cuadrar lo del PHP (Adrián vs. Tangram) y decidir la VPN con alcance acotado. Es lo que evita reabrir el agujero.
-2. **La lista de referencias para Sigma, hoy sin falta.** Albert se va mañana; la sesión del 4/11 depende de ella.
-3. **Mañana, Tangram antes que Instructure** (las dos a las 11:00): es la primera reunión con el proveedor tras el parche.
-4. **`Lectura y corrección de planillas` vence el sábado** y está en rojo: mover la fecha o avisar antes del cierre del sprint.
-5. **Tempo y planillas** (Paco, Alex y ahora Jesús March del 19–25; tu periodo a cero) → `/imputa` en la tarde libre.
+1. **Tangram, hoy a las 11:00 (y no Instructure).** Que sepan que **se va a cortar Tramita** desde fuera y que el parche lo
+   verificamos nosotros. Antes de ese corte, alguien tiene que decir qué procesos nuestros se caen.
+2. **Sigma: confirma si la lista salió ayer.** Si no, mándala hoy: la sesión del 4/11 sin lista es una reunión perdida.
+3. **El jueves, para el inventario de servicios de Adrián**: Miguel Ángel lo quiere esta semana y es la tabla de "quién parchea qué"
+   que llevamos días pidiendo. Es el único trabajo largo que solo se hace con hueco; **no lo partas**.
+4. **`Lectura y corrección de planillas` vence el sábado** y sigue en rojo: mover la fecha o decirlo antes del lunes.
+5. **Escribe en dos líneas qué se decidió en Responsables** (VPN, verificación, corte): si no, en una semana nadie lo recordará igual.
