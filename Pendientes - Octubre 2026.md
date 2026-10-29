@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[28-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[29-10-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-28 *(tarea programada, ~09:20)*
+> **Última revisión:** 2026-10-29 *(tarea programada, ~09:20)*
 
 ## 📅 Fechas del mes
 
@@ -39,7 +39,7 @@ tags: [panel, pendientes, octubre]
 | **mié 28**                | ⚠️ **Instructure Quarterly 11:00–11:30 choca con Tangram 11:00–12:00** *(esta semana pesa más Tangram: es el proveedor de Sede)* · 🚀 lanzamiento de Educación · 🎓 clase online 16:00 |
 | **vie 30**                | 🎓 clase 08:30–10:30 · ⚠️ **Reunión revisión vulnerabilidades 09:00–10:30** *(Luis, desde iCloud)* choca con la clase; pediste 10:45. Sobra si se trata el mar 27 *(27/10: ya no está en tu calendario)* · 🆕 **11:30–12:30 · UCAM & Laberit (Mae Requena)**, presencial |
 | **sáb 31**                | 🔴 fecha objetivo de [[Lectura y corrección de planillas]] (en rojo en la cabina, con 2 bloqueos) |
-| **lun 2/11**              | 🎓 Clase IR 11:00–12:30 *(Reunión TFG anulada por Pilar, 22/10)* · último día del `2026/17` · ❓ ¿festivo trasladado? |
+| **lun 2/11**              | 🎓 Clase IR 11:00–12:30 *(Reunión TFG anulada por Pilar, 22/10)* · último día del `2026/17` · **laborable** *(confirmado por Pilar el 29/10)* |
 | **mié 4/11**              | 🤝 **10:00–11:00 · 1ª sesión de seguimiento con Sigma** (Albert + Álvaro Merino; *Teams, en tu calendario y aceptada, 22/10*) · Tangram 11:00 · ⚠️ Albert está fuera **mié 28–vie 30**: lo que haya que mandarle, **antes del mar 27** |
 
 ## 🚨 Seguridad
@@ -54,6 +54,8 @@ tags: [panel, pendientes, octubre]
       el parche por nuestra cuenta, cuadrar lo del PHP con Adrián y decidir la VPN → [[27-10-2026]]*
       *28/10: tras Responsables, Miguel Ángel (27/10 18:59): **la Sede ya está bloqueada desde fuera; falta cortar Tramita**
       (se lo pide a Ignacio). Las decisiones de la reunión **no están escritas**: la nota sigue en `preparación` → [[28-10-2026]]*
+      *29/10: el corte del 28/10 se llevó también Sede y Portafirmas (**misma IP**); restablecido a mediodía. Tangram abre
+      **`#41672`** para dejar el ET de PRO solo interno (ya se intentó en `#38761`) → [[29-10-2026]]*
 - [ ] 🐘 **Quién parchea qué** (PHP de Sede, imágenes Java de Kubernetes): deuda de plataforma sin dueño → fila propia en
       [[Seguridad (Proyecto)]]
 - [ ] 🧼 **Convocatorias sobre el incidente desde cuentas personales** (Luis, Gmail/iCloud, 26/10) y **el informe del exploit
@@ -744,19 +746,41 @@ tags: [panel, pendientes, octubre]
 
 - [ ] 🧾 **Lista de referencias para Sigma (sesión del 4/11): no consta enviada** — no hay correo tuyo a Sigma. Albert está fuera
       hasta el vie 30 → mandarla igual o llevarla a la sesión
-- [ ] 🚨 **Cortar Tramita desde fuera** (Miguel Ángel → Ignacio, 27/10) → avisar a Tangram y **listar qué deja de funcionar**
-      (`ET-555`, delitos sexuales, B2) antes del corte
+- [x] 🚨 **Cortar Tramita desde fuera — avisar a Tangram** *(hecho por Pilar el 28/10, 13:52; Tangram abre `#41672` a las 18:19)*
+- [ ] 🚨 **Tramita · listar qué deja de funcionar** (`ET-555`, delitos sexuales, B2) si el ET queda solo interno — *sacado del
+      punto anterior*: sigue sin hacerse, y ahora con ticket abierto corre prisa
 - [ ] 📝 **Escribir las decisiones de Responsables del 27/10** en su nota (sigue en `preparación`)
 - [ ] 🗂️ **Inventario de servicios / apps** (Adrián, 27/10) — Miguel Ángel lo quiere **esta semana** → rellenar la parte de Desarrollo
 - [ ] 💻 **Portátiles · requisitos** (memoria, almacenamiento, color) para Luis Martínez (27/10 16:55)
 - [ ] 🎫 **Unibono · alumna de Enfermería de Cartagena** (Campus Cartagena, 27/10, a ti y a Juan Manuel) → decidir quién lo mira
 - [ ] 🦷 **PGO · campus virtual**: Verónica pidió hablar; van por soporte (27/10). Prioritario si vuelve
-- [ ] ⚠️ **Hoy 11:00 · Tangram vs. Instructure** → Tangram; Instructure, Isaac o Alejandro Sánchez
+- [x] ⚠️ **Hoy 11:00 · Tangram vs. Instructure** → Tangram; Instructure, Isaac o Alejandro Sánchez *(29/10: Instructure
+      declinada por Pilar; Instructure la movió al vie 30 10:00)*
 - ⚪ **Educación** abre hoy a alumnos (correo individual por alumno, decisión de Dolo) · **IZO** sigue mal en dashboards
   individuales (Rosa) · Sigma `309784` *"la devolución no procede"* · Laurea: sin casos nuevos desde ayer por la tarde
 - [x] 🟢 **Responsables celebrada** (27/10) · **Isabel (Servicios Jurídicos)** ya accede a su expediente · **DOCLAND**: Títulos ya
       tiene acceso a la plataforma · **PGO** contestado
 - ✅ **Sin correos sospechosos** del 27 al 28/10
+
+## 🆕 Novedades del 28–29/10 (del correo)
+
+> ~50 hilos desde ayer, unos 25 de ruido. **Sin correos sospechosos.** El corte de Tramita destapa un problema de red: todo
+> sale por una IP y no se puede cortar por partes.
+
+- [ ] 🌐 **Sede, Tramita y Portafirmas salen por la misma IP** (Pilar a Tangram, 28/10 13:52): el corte desde fuera tumbó
+      también Sede y Portafirmas por la mañana. Tangram abre **`#41672`** para aislar el ET de PRO; ya se intentó en
+      **`#38761`** y se quedó a medias → que **Ignacio (Sistemas)** esté en el ticket y que tenga fecha → [[Seguridad (Proyecto)]]
+- [x] ❓ **¿Es festivo el lun 2/11?** *(29/10: **no, es laborable**, confirmado por Pilar. Hay clase, Seguimiento Sprint y
+      cierre del `2026/17` ese día)*
+- [ ] 🔐 **SSO de Laurea, décimo caso** (28/10) y otro de acceso hoy → incidencia única en el CAU *(amplía los puntos anteriores)*
+- [ ] 🧾 **Sigma `310310` (CERS) · "Módulo certificados no emite"** — ¿meterla en la lista del 4/11?
+- [ ] 👤 **MENTOR · notificación de Jesús March** (28/10) por validar
+- [ ] 🗓️ **Sprint `2026/18` y genéricas de noviembre** (desde el mar 3/11) → `/inicio-sprint` · abrir `Pendientes - Noviembre 2026`
+- ⚪ Juan Manuel cierra la **movilidad de Enfermería** en PRADO con Ana Mª y Dolo · Instructure Quarterly movida al vie 30 10:00
+  (declinada) · Sigma: `310328`, `310369` (SEGRE, Alicia), `310111` *"la devolución no procede"*, `310247` resuelta · `AS-592`,
+  notificación de Jira sin abrir
+- 🧼 **Higiene:** un alumno manda **sus credenciales en claro** al alias (29/10 07:32) — que se le pida cambiarlas
+- ✅ **Sin correos sospechosos** del 28 al 29/10
 
 ## ✉️ Correos a enviar (tú)
 
@@ -890,6 +914,8 @@ tags: [panel, pendientes, octubre]
 
 > 28/10: **15 abiertas** (6 de service desk), sin cambios.
 
+> 29/10: **15 abiertas** (6 de service desk), sin cambios.
+
 - [x] `ED-2066` Gestión y jerarquía de repositorios en Confluence *(ya no está abierta, 22/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
@@ -901,14 +927,13 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 28/10)
+## 💡 Sugerencia de foco (Pilita · 29/10)
 
-> Miércoles con Tangram a las 11:00 y clase a las 16:00; **el jueves está entero libre**, que es lo raro de esta semana.
+> Jueves **sin una sola reunión**: es el último hueco largo antes de que acabe el sprint y el mes.
 
-1. **Tangram, hoy a las 11:00 (y no Instructure).** Que sepan que **se va a cortar Tramita** desde fuera y que el parche lo
-   verificamos nosotros. Antes de ese corte, alguien tiene que decir qué procesos nuestros se caen.
-2. **Sigma: confirma si la lista salió ayer.** Si no, mándala hoy: la sesión del 4/11 sin lista es una reunión perdida.
-3. **El jueves, para el inventario de servicios de Adrián**: Miguel Ángel lo quiere esta semana y es la tabla de "quién parchea qué"
-   que llevamos días pidiendo. Es el único trabajo largo que solo se hace con hueco; **no lo partas**.
+1. **El inventario de servicios, ahora (09:30–11:30).** Mañana tienes clase y Laberit: si no sale hoy, no sale esta semana, y
+   es la tabla de "quién parchea qué" que el incidente de Tramita ha demostrado que falta.
+2. **El correo a Albert con la lista de Sigma.** Media hora. Sin lista, la sesión del 4/11 se va en preguntar qué hay.
+3. **Tramita: decisiones de Responsables + qué se cae si el ET queda interno.** Tangram ya ha abierto `#41672`; que lo que
+   propongan llegue con nuestras condiciones encima, no al revés.
 4. **`Lectura y corrección de planillas` vence el sábado** y sigue en rojo: mover la fecha o decirlo antes del lunes.
-5. **Escribe en dos líneas qué se decidió en Responsables** (VPN, verificación, corte): si no, en una semana nadie lo recordará igual.

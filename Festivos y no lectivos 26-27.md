@@ -32,6 +32,12 @@ actualizado: 2026-09-08
 | **05/10/2026** | lunes | **Suspensión parcial — actividad académica de 8:00 a 14:00, Campus de los Jerónimos** | Corte programado de suministro eléctrico (Iberdrola). La Dirección suspende la actividad académica planificada en esa franja; se retoma a las 14:00 *(VCOA, 25/09; reenviado por la EPS el 28/09)*. **Cae la clase presencial de 11:00–12:30.** No dice nada de la actividad laboral: sin luz, **el Seguimiento Sprint de las 09:15 en la sala y cualquier servicio que dependa del campus** quedan afectados |
 | **12/10/2026** | lunes | **Festivo nacional** | Fiesta Nacional de España. Sin actividad laboral *(confirmado por Pilar el 09/10)*. **Sin clase presencial de 11:00** y **sin Seguimiento Sprint - Dev**. El sprint `Desarrollo 2026/16` pierde un día hábil |
 
+## Noviembre 2026
+
+| Fecha | Día | Tipo | Detalle |
+|---|---|---|---|
+| 02/11/2026 | lunes | **Laborable** (no es festivo) | Todos los Santos cae en domingo y **no se traslada** *(confirmado por Pilar el 29/10)*. Hay clase de 11:00, Seguimiento Sprint y cierre del `2026/17` |
+
 ## Consecuencias registradas
 
 - **Sprint `Desarrollo 2026/14` (31/08 → 15/09):** cierra el **martes 15, que es festivo**, y el
