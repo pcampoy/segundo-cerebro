@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[29-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[30-10-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-29 *(tarea programada, ~09:20)*
+> **Última revisión:** 2026-10-30 *(tarea programada, ~11:10)*
 
 ## 📅 Fechas del mes
 
@@ -39,7 +39,7 @@ tags: [panel, pendientes, octubre]
 | **mié 28**                | ⚠️ **Instructure Quarterly 11:00–11:30 choca con Tangram 11:00–12:00** *(esta semana pesa más Tangram: es el proveedor de Sede)* · 🚀 lanzamiento de Educación · 🎓 clase online 16:00 |
 | **vie 30**                | 🎓 clase 08:30–10:30 · ⚠️ **Reunión revisión vulnerabilidades 09:00–10:30** *(Luis, desde iCloud)* choca con la clase; pediste 10:45. Sobra si se trata el mar 27 *(27/10: ya no está en tu calendario)* · 🆕 **11:30–12:30 · UCAM & Laberit (Mae Requena)**, presencial |
 | **sáb 31**                | 🔴 fecha objetivo de [[Lectura y corrección de planillas]] (en rojo en la cabina, con 2 bloqueos) |
-| **lun 2/11**              | 🎓 Clase IR 11:00–12:30 *(Reunión TFG anulada por Pilar, 22/10)* · último día del `2026/17` · **laborable** *(confirmado por Pilar el 29/10)* |
+| **lun 2/11**              | 🆕 ⚠️ **Aplicativo docente 09:00–10:00** *(María Mendoza, Meet, aceptada)* **pisa el Seguimiento Sprint 09:15** · 🎓 Clase IR 11:00–12:30 *(Reunión TFG anulada por Pilar, 22/10)* · último día del `2026/17` · **laborable** *(confirmado por Pilar el 29/10)* |
 | **mié 4/11**              | 🤝 **10:00–11:00 · 1ª sesión de seguimiento con Sigma** (Albert + Álvaro Merino; *Teams, en tu calendario y aceptada, 22/10*) · Tangram 11:00 · ⚠️ Albert está fuera **mié 28–vie 30**: lo que haya que mandarle, **antes del mar 27** |
 
 ## 🚨 Seguridad
@@ -782,6 +782,27 @@ tags: [panel, pendientes, octubre]
 - 🧼 **Higiene:** un alumno manda **sus credenciales en claro** al alias (29/10 07:32) — que se le pida cambiarlas
 - ✅ **Sin correos sospechosos** del 28 al 29/10
 
+## 🆕 Novedades del 29–30/10 (del correo)
+
+> 50 hilos desde ayer, unos 30 de ruido. **Sin correos sospechosos.** Lo nuevo con reloj es un **solape el lunes** y la
+> segunda caída de acceso a la BD de Sigma en un mes.
+
+- [ ] ⚠️ **Lun 2/11 · *Aplicativo docente* (María Mendoza, 09:00–10:00, Meet, aceptada) pisa el Seguimiento Sprint (09:15)**,
+      que es el de cierre del `2026/17` → propuesta: Seguimiento a las 10:00 y avisar al equipo hoy
+- [ ] 📋 **Aplicativo docente = Gestión de la Docencia**: preparar *"los cinco pasos antes del summary"* para el lunes 09:00
+- [ ] 🧾 **Sigma `310457` · bloqueo de institución** (30/10 10:17): sin acceso a la BD Oracle desde PC y servidores; volvió a las
+      10:19. Segunda caída en un mes tras `309052` → a la lista del 4/11
+- [ ] 🎓 **Alumna de 3º pide tutoría de la Práctica 1** (29/10 18:17) → darle hueco
+- [ ] 🖨️ **Recoger en reprografía las 55 copias del parcial presencial** (listas desde el 29/10 12:23)
+- [ ] ⏰ **RRHH · falta de marcaje de salida del 29/10** → corregir en el portal
+- [ ] 👤 **MENTOR · notificación de Pablo** (29/10) por validar
+- [ ] 📄 **Fran comparte en Confluence *"Estado de Actualización de Proyectos en Kubernetes"*** (29/10) → leerlo para el inventario
+      de servicios
+- ⚪ `TICAM-15102` (NIA duplicado) recodificado por Alicia Cano · Educación: oferta pública cargada y alumnos eligiendo plaza (30/10)
+  · Sigma: `310437` (SEGRE, Alicia), `310438` (TIS), `310370` y `310331` resueltas · Tangram `#41672` sin novedades
+- [x] 🟢 **Examen de la sede de Bogotá** enviado a Luz (29/10 12:29; 👌) · **copias del parcial** encargadas a reprografía (29/10)
+- ✅ **Sin correos sospechosos** del 29 al 30/10
+
 ## ✉️ Correos a enviar (tú)
 
 - [x] *(cerrado en el diario del 20/10; en el hilo de coordinadores Pilar ofrece a Esther, 20/10 16:35, hacer nosotros la
@@ -916,6 +937,8 @@ tags: [panel, pendientes, octubre]
 
 > 29/10: **15 abiertas** (6 de service desk), sin cambios.
 
+> 30/10: **15 abiertas** (6 de service desk), sin cambios de estado.
+
 - [x] `ED-2066` Gestión y jerarquía de repositorios en Confluence *(ya no está abierta, 22/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
@@ -927,13 +950,16 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 29/10)
+## 💡 Sugerencia de foco (Pilita · 30/10)
 
-> Jueves **sin una sola reunión**: es el último hueco largo antes de que acabe el sprint y el mes.
+> Viernes: tras Laberit (11:30) queda **la tarde libre**, y es lo último antes de un lunes cargado (Aplicativo docente,
+> Seguimiento de cierre, clase).
 
-1. **El inventario de servicios, ahora (09:30–11:30).** Mañana tienes clase y Laberit: si no sale hoy, no sale esta semana, y
-   es la tabla de "quién parchea qué" que el incidente de Tramita ha demostrado que falta.
-2. **El correo a Albert con la lista de Sigma.** Media hora. Sin lista, la sesión del 4/11 se va en preguntar qué hay.
-3. **Tramita: decisiones de Responsables + qué se cae si el ET queda interno.** Tangram ya ha abierto `#41672`; que lo que
-   propongan llegue con nuestras condiciones encima, no al revés.
-4. **`Lectura y corrección de planillas` vence el sábado** y sigue en rojo: mover la fecha o decirlo antes del lunes.
+1. **El correo a Albert con la lista de Sigma, antes de comer.** Ayer no salió. Media hora, y ahora suma `310457`. Sin lista,
+   el 4/11 se va en preguntar qué hay.
+2. **Mover el Seguimiento del lunes y avisar hoy.** Choca con *Aplicativo docente*, y es el de cierre del sprint: si se
+   arranca a las 09:45 sin ti, nadie asigna los `RDCO-182`…`188`.
+3. **`Lectura y corrección de planillas` vence mañana**: mueve la fecha hoy. Un rojo que caduca en fin de semana llega al lunes
+   como incumplido sin que nadie lo haya decidido.
+4. **El inventario de servicios esta tarde (15:00–17:00)**, con el documento de Kubernetes de Fran al lado: la semana que pidió
+   Miguel Ángel acaba hoy.
