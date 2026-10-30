@@ -2,13 +2,13 @@
 tipo: proyecto
 estado: en curso
 cliente: TIC
-prioridad: 
+prioridad: Alta
 inicio: 2026-08-31
 fin_previsto: 2027-12-31
 jira: [ED-1915, ED-1916]
 confluence: 
 palabras_clave: [Protocolo]
-semaforo: incompleta
+semaforo: rojo
 avance: 0
 historias_total: 2
 historias_hechas: 0
@@ -16,8 +16,8 @@ puntos_total: 2
 puntos_hechos: 0
 ultima_actividad: 2026-05-25
 proxima_reunion: 
-actualizado: 2026-10-26T18:07
-componente: 
+actualizado: 2026-10-30T14:49
+componente: "Seguridad"
 alerta: rojo
 alerta_desde: 2026-10-26
 tags: [proyecto, seguridad, protocolo]
@@ -29,8 +29,8 @@ tags: [proyecto, seguridad, protocolo]
 > **Estado:** en curso · **Fin previsto:** por fijar (la renovación del certificado era en octubre)
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta prioridad · además, 107 días hábiles sin actividad (Jira, actas y correo).
-> *Calculado por `/cabina` el 26/10/2026 18:07.*
+> 🔴 **Rojo** — 111 días hábiles sin actividad (Jira, actas y correo).
+> *Calculado por `/cabina` el 30/10/2026 14:49.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

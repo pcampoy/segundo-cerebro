@@ -20,7 +20,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 
 proxima_reunion: 
-actualizado: 2026-10-26T18:07
+actualizado: 2026-10-30T14:49
 alerta: rojo
 alerta_desde: 2026-10-26
 tags:
@@ -38,7 +38,7 @@ componente: "servicios, migraciones"
 
 <!-- cabina:inicio estado -->
 > 🔴 **Rojo** — 1 bloqueo, 1 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 26/10/2026 18:07.*
+> *Calculado por `/cabina` el 30/10/2026 14:49.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance

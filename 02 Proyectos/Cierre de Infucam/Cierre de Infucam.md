@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-10-21
 proxima_reunion: 
-actualizado: 2026-10-26T18:07
+actualizado: 2026-10-30T14:49
 alerta: rojo
 alerta_desde: 2026-10-26
 tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
@@ -29,7 +29,8 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 
 <!-- cabina:inicio estado -->
 > 🔴 **Rojo** — 1 bloqueo, 1 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 26/10/2026 18:07.*
+> Otras señales: 1 tarea quieta 7 días hábiles o más.
+> *Calculado por `/cabina` el 30/10/2026 14:49.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -44,7 +45,7 @@ tags: [proyecto, infucam, laurea, titulos, cierre, migracion]
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-_Ninguna._
+- `DT-310` Viabilidad de cierre de Infucam: — EN CURSO, **7 días hábiles** quieta · Pilar
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién

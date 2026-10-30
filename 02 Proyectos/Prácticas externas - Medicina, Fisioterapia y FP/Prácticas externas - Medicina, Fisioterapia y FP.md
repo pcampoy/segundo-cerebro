@@ -16,7 +16,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-09-09
 proxima_reunion: 
-actualizado: 2026-10-26T18:07
+actualizado: 2026-10-30T14:49
 componente: "Fisioterapia, Medicina + Reuniones, Desarrollo, Análisis"
 alerta: verde
 alerta_desde: 2026-10-26
@@ -30,7 +30,7 @@ tags: [proyecto, practicas, medicina, fisioterapia, podologia, fp, dpo]
 
 <!-- cabina:inicio estado -->
 > 🟢 **Verde** — sin señales de alerta (sin datos de Jira).
-> *Calculado por `/cabina` el 26/10/2026 18:07.*
+> *Calculado por `/cabina` el 30/10/2026 14:49.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
@@ -57,7 +57,7 @@ _Sin datos de Jira._
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-- [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]] — `publicado` · reunión del 09/09/2026, hace 30 días hábiles
+- [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]] — `publicado` · reunión del 09/09/2026, hace 34 días hábiles
 <!-- cabina:fin requisitos -->
 
 ## ⚖️ Decisiones

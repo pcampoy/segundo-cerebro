@@ -2,23 +2,24 @@
 tipo: proyecto
 estado: en curso
 cliente: Ordenación Académica, Secretaría y comisiones de reconocimiento
-prioridad: 
+prioridad: Media
 inicio: 
 fin_previsto: 2027-12-31
 jira: [RDC, RDCO]
 confluence: 
 palabras_clave: [Reconocimientos, RDC]
-semaforo: incompleta
-avance: 56
-historias_total: 39
-historias_hechas: 22
-puntos_total: 22
-puntos_hechos: 19
-ultima_actividad: 2026-10-26
+semaforo: rojo
+avance: 0
+historias_total: 11
+historias_hechas: 0
+puntos_total: 2
+puntos_hechos: 0
+ultima_actividad: 2026-10-22
 proxima_reunion: 
-actualizado: 2026-10-26T18:07
-alerta: ámbar
-alerta_desde: 2026-10-26
+actualizado: 2026-10-30T14:49
+alerta: rojo
+alerta_desde: 2026-10-30
+componente: "Estudios Oficiales, Estudios Previos"
 tags: [proyecto, reconocimientos]
 ---
 # 🎓 Reconocimientos
@@ -28,36 +29,39 @@ tags: [proyecto, reconocimientos]
 > **Estado:** en curso · **Fin previsto:** por fijar
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta prioridad · además, 1 tarea quieta 7 días hábiles o más.
-> Otras señales: acta «2026-10-08 - Mejoras de la app de Reconocimientos» lleva 11 días hábiles en `acta`.
-> *Calculado por `/cabina` el 26/10/2026 18:07.*
+> 🔴 **Rojo** — 7 tareas quietas 7 días hábiles o más.
+> Otras señales: acta «2026-10-08 - Mejoras de la app de Reconocimientos» lleva 15 días hábiles en `acta`.
+> *Calculado por `/cabina` el 30/10/2026 14:49.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
 <!-- cabina:inicio avance -->
-**56 %** por número de tareas · _12 pendientes sin estimar: por puntos no sería fiable_ · 22 de 39 tareas hechas.
+**0 %** por número de tareas · _7 pendientes sin estimar: por puntos no sería fiable_ · 0 de 11 tareas hechas.
 
-**Épicas** (3): `RDC-77` Reconocimientos previos + IA · `RDCO-94` Pantallas plantillas de reconocimientos · `RDC-35` Revisión Estudio Previo - Modificaciones Alumno
+**Épicas** (1): `RDCO-94` Pantallas plantillas de reconocimientos
 _Ninguna tarea está enlazada a una épica en Jira, así que no hay avance por épica._
 
-**En el sprint activo** (10):
-- `RDC-105` [RQ-REC-14] Tipo de acceso: añadir "otros estudios" (UCAM / no UCAM) y experienc — TAREAS POR HACER · Alejandro
+**En el sprint activo** (7):
 - `RDCO-188` [RQ-REC-08] Criminología: límite de créditos reconocibles 180 → 36 — TAREAS POR HACER · sin asignar
 - `RDCO-186` [RQ-REC-09] Área o departamento de cada miembro en los desplegables de comisión — TAREAS POR HACER · sin asignar
 - `RDCO-187` [RQ-REC-10] Pantalla de arranque según el rol (Secretaría → Consulta) — TAREAS POR HACER · sin asignar
 - `RDCO-184` [RQ-REC-04] Historial de resoluciones del alumno, visible para la comisión — TAREAS POR HACER · sin asignar
 - `RDCO-185` [RQ-REC-05] Aviso de solicitud duplicada (mismo tipo de acceso y curso) — TAREAS POR HACER · sin asignar
 - `RDCO-182` [RQ-REC-01] Editar el plan de estudios de una solicitud ya creada — TAREAS POR HACER · sin asignar
-- `RDC-104` [RQ-REC-07] Consolidación previo → oficial (regla RN-10) — TAREAS POR HACER · Pablo
 - `RDCO-183` [RQ-REC-03] Eliminación masiva de asignaturas — TAREAS POR HACER · sin asignar
-- `RDC-103` [RQ-REC-06] Permitir segunda y sucesivas solicitudes de estudio previo — TAREAS POR HACER · Pablo
 <!-- cabina:fin avance -->
 
 ## 👀 Lo que pide atención
 
 **Tareas quietas** (7 días hábiles o más sin moverse)
 <!-- cabina:inicio quietas -->
-- `RDC-77` Reconocimientos previos + IA — EN CURSO, **157 días hábiles** quieta · Francisco
+- `RDCO-188` [RQ-REC-08] Criminología: límite de créditos reconocibles 180 → 36 — TAREAS POR HACER, **10 días hábiles** quieta · sin asignar
+- `RDCO-186` [RQ-REC-09] Área o departamento de cada miembro en los desplegables de comisión — TAREAS POR HACER, **10 días hábiles** quieta · sin asignar
+- `RDCO-187` [RQ-REC-10] Pantalla de arranque según el rol (Secretaría → Consulta) — TAREAS POR HACER, **10 días hábiles** quieta · sin asignar
+- `RDCO-184` [RQ-REC-04] Historial de resoluciones del alumno, visible para la comisión — TAREAS POR HACER, **10 días hábiles** quieta · sin asignar
+- `RDCO-185` [RQ-REC-05] Aviso de solicitud duplicada (mismo tipo de acceso y curso) — TAREAS POR HACER, **10 días hábiles** quieta · sin asignar
+- `RDCO-182` [RQ-REC-01] Editar el plan de estudios de una solicitud ya creada — TAREAS POR HACER, **10 días hábiles** quieta · sin asignar
+- `RDCO-183` [RQ-REC-03] Eliminación masiva de asignaturas — TAREAS POR HACER, **10 días hábiles** quieta · sin asignar
 <!-- cabina:fin quietas -->
 
 **Bloqueos** — quién espera a quién
@@ -72,7 +76,7 @@ _Ninguna tarea está enlazada a una épica en Jira, así que no hay avance por �
 
 ## 📝 Requisitos
 <!-- cabina:inicio requisitos -->
-- [[2026-10-08 - Mejoras de la app de Reconocimientos]] — `acta` · reunión del 08/10/2026, hace 11 días hábiles ⚠️
+- [[2026-10-08 - Mejoras de la app de Reconocimientos]] — `acta` · reunión del 08/10/2026, hace 15 días hábiles ⚠️
 <!-- cabina:fin requisitos -->
 
 ## ⚖️ Decisiones

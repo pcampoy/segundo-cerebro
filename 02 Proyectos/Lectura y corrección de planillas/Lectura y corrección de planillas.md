@@ -2,7 +2,7 @@
 tipo: proyecto
 estado: en curso
 cliente: Ordenación Académica y docentes
-prioridad:
+prioridad: Alta
 inicio: 2026-10-08
 fin_previsto: 2026-10-31
 jira:
@@ -11,7 +11,7 @@ confluence:
 palabras_clave:
   - planillas
   - corrección de exámenes
-semaforo: incompleta
+semaforo: rojo
 avance: 
 historias_total: 
 historias_hechas: 
@@ -19,7 +19,7 @@ puntos_total:
 puntos_hechos: 
 ultima_actividad: 2026-10-20
 proxima_reunion: 
-actualizado: 2026-10-26T18:07
+actualizado: 2026-10-30T14:49
 alerta: rojo
 alerta_desde: 2026-10-26
 tags:
@@ -38,8 +38,8 @@ componente: "Mis Notas"
 > **Estado:** en curso · **Abierto en el vault el** 08/10/2026 *(el trabajo venía de antes)*
 
 <!-- cabina:inicio estado -->
-> ⚪ **Ficha incompleta** — falta prioridad · además, 2 bloqueos, 2 de más de 7 días hábiles.
-> *Calculado por `/cabina` el 26/10/2026 18:07.*
+> 🔴 **Rojo** — 2 bloqueos, 2 de más de 7 días hábiles.
+> *Calculado por `/cabina` el 30/10/2026 14:49.*
 <!-- cabina:fin estado -->
 
 ## 📈 Avance
