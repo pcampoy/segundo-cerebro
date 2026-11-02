@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[30-10-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[02-11-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-10-30 *(tarea programada, ~11:10)*
+> **Última revisión:** 2026-11-02 *(tarea programada, ~10:55)*
 
 ## 📅 Fechas del mes
 
@@ -744,7 +744,7 @@ tags: [panel, pendientes, octubre]
 
 > ~37 hilos desde ayer, unos 15 de ruido. **Sin correos sospechosos nuevos.** Responsables se celebró; deja deberes para la semana.
 
-- [ ] 🧾 **Lista de referencias para Sigma (sesión del 4/11): no consta enviada** — no hay correo tuyo a Sigma. Albert está fuera
+- [x] *(cerrado en el diario del 30/10)* 🧾 **Lista de referencias para Sigma (sesión del 4/11): no consta enviada** — no hay correo tuyo a Sigma. Albert está fuera
       hasta el vie 30 → mandarla igual o llevarla a la sesión
 - [x] 🚨 **Cortar Tramita desde fuera — avisar a Tangram** *(hecho por Pilar el 28/10, 13:52; Tangram abre `#41672` a las 18:19)*
 - [ ] 🚨 **Tramita · listar qué deja de funcionar** (`ET-555`, delitos sexuales, B2) si el ET queda solo interno — *sacado del
@@ -787,12 +787,13 @@ tags: [panel, pendientes, octubre]
 > 50 hilos desde ayer, unos 30 de ruido. **Sin correos sospechosos.** Lo nuevo con reloj es un **solape el lunes** y la
 > segunda caída de acceso a la BD de Sigma en un mes.
 
-- [ ] ⚠️ **Lun 2/11 · *Aplicativo docente* (María Mendoza, 09:00–10:00, Meet, aceptada) pisa el Seguimiento Sprint (09:15)**,
-      que es el de cierre del `2026/17` → propuesta: Seguimiento a las 10:00 y avisar al equipo hoy
+- [x] ⚠️ **Lun 2/11 · *Aplicativo docente* (María Mendoza, 09:00–10:00, Meet, aceptada) pisa el Seguimiento Sprint (09:15)**,
+      que es el de cierre del `2026/17` → propuesta: Seguimiento a las 10:00 y avisar al equipo hoy *(02/11: la fecha ha
+      llegado; en el calendario no se movió nada)*
 - [ ] 📋 **Aplicativo docente = Gestión de la Docencia**: preparar *"los cinco pasos antes del summary"* para el lunes 09:00
 - [ ] 🧾 **Sigma `310457` · bloqueo de institución** (30/10 10:17): sin acceso a la BD Oracle desde PC y servidores; volvió a las
       10:19. Segunda caída en un mes tras `309052` → a la lista del 4/11
-- [ ] 🎓 **Alumna de 3º pide tutoría de la Práctica 1** (29/10 18:17) → darle hueco
+- [x] 🎓 **Alumna de 3º pide tutoría de la Práctica 1** (29/10 18:17) → darle hueco *(contestado por Pilar el 30/10)*
 - [ ] 🖨️ **Recoger en reprografía las 55 copias del parcial presencial** (listas desde el 29/10 12:23)
 - [ ] ⏰ **RRHH · falta de marcaje de salida del 29/10** → corregir en el portal
 - [ ] 👤 **MENTOR · notificación de Pablo** (29/10) por validar
@@ -802,6 +803,31 @@ tags: [panel, pendientes, octubre]
   · Sigma: `310437` (SEGRE, Alicia), `310438` (TIS), `310370` y `310331` resueltas · Tangram `#41672` sin novedades
 - [x] 🟢 **Examen de la sede de Bogotá** enviado a Luz (29/10 12:29; 👌) · **copias del parcial** encargadas a reprografía (29/10)
 - ✅ **Sin correos sospechosos** del 29 al 30/10
+
+## 🆕 Novedades del 30/10–02/11 (del correo)
+
+> 50 hilos desde el viernes a mediodía, unos 35 de ruido de fin de semana. **Sin correos sospechosos**; una alerta **a
+> verificar** (token de API de Atlassian). Lo grande: **Educación ha terminado la asignación**. Ya es noviembre: este bloque
+> es el último del panel de octubre.
+
+- [x] 🟢 **Educación · asignación de prácticas terminada** (Juan Manuel, 30/10): 690 alumnos con plaza, 73 % en 1ª opción, 0 sin
+      plaza entre los que eligieron; Esther publica el lun 2/11. Excel de asignaciones (Alex) y de no electores (Juan Manuel)
+      enviados el 30/10
+- [ ] 🔐 **Atlassian · token de API nuevo creado el 30/10 a las 18:30** (aviso desde `@id.atlassian.com`) — confirmar que lo
+      creaste tú; si no, revocarlo entrando a mano en id.atlassian.com, no desde el correo
+- [ ] 🗂️ **Adrián convoca dos reuniones** (hoy 09:13): *Repositorio de documentación Dirección TIC* (mar 3, 13:00–14:00) y
+      *Gestión de repositorio de código Dirección TIC* (vie 6, 12:00–12:45), las dos en Meet → contestar
+- [ ] ⏰ **RRHH · falta de marcaje de salida del 30/10** (aviso del 31/10) — *se suma al del 29/10*
+- [ ] 👤 **Pablo sin ningún marcaje el 30/10** (aviso de RRHH a él, te llega a ti) — ¿ausencia? Cuadrar con su MENTOR del 29/10
+- [ ] ⏱️ **Aprobar planillas del 26/10–01/11**: Alex, Fran, Alejandro Sánchez y Jesús March (02/11)
+- [ ] 📸 **Correo "Brainstorming" a ti misma** (30/10, dos fotos, sin texto) — captura sin procesar: no he abierto los adjuntos
+- [ ] 🏁 **Cierre del `2026/17` (hoy) → `/inicio-sprint`** con las genéricas de noviembre, y **abrir `Pendientes - Noviembre 2026`**
+- [x] 🧾 *(sacado del diario del 30/10)* Lista de referencias a Sigma para el 4/11 — hecha
+- ⚪ Sigma: `310637` (APS) nueva · `306484` (MATS) resuelta sin entregable · `310438` (TIS) nota · `ED-2039` (iMarina) y `RDC-105`
+  (Alex) con actividad hoy · doctorando sin cuenta UCAM al alias de Laurea (petición legítima)
+- 🧼 **Higiene:** *"Incidencia Durante el Procesamiento"* (02/11) con DNI y correo en claro, otra vez · tl;dv sigue mandando
+  *"upcoming meetings"*
+- ✅ **Sin correos sospechosos** del 30/10 al 02/11 *(uno a verificar: el token de Atlassian)*
 
 ## ✉️ Correos a enviar (tú)
 
@@ -939,6 +965,9 @@ tags: [panel, pendientes, octubre]
 
 > 30/10: **15 abiertas** (6 de service desk), sin cambios de estado.
 
+> 02/11: **15 abiertas** (6 de service desk), sin cambios. **`DT-308` y `TICAM-9660` vencieron el sáb 31** · `TICAM-14680`
+> vence el sáb 7. El `2026/17` cierra hoy a las 18:06.
+
 - [x] `ED-2066` Gestión y jerarquía de repositorios en Confluence *(ya no está abierta, 22/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
@@ -950,16 +979,16 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 30/10)
+## 💡 Sugerencia de foco (Pilita · 02/11)
 
-> Viernes: tras Laberit (11:30) queda **la tarde libre**, y es lo último antes de un lunes cargado (Aplicativo docente,
-> Seguimiento de cierre, clase).
+> Lunes, último día del sprint. La mañana ya se ha ido (Aplicativo docente, Seguimiento, clase); **la tarde está libre** y
+> mañana hay Responsables a las 10:00.
 
-1. **El correo a Albert con la lista de Sigma, antes de comer.** Ayer no salió. Media hora, y ahora suma `310457`. Sin lista,
-   el 4/11 se va en preguntar qué hay.
-2. **Mover el Seguimiento del lunes y avisar hoy.** Choca con *Aplicativo docente*, y es el de cierre del sprint: si se
-   arranca a las 09:45 sin ti, nadie asigna los `RDCO-182`…`188`.
-3. **`Lectura y corrección de planillas` vence mañana**: mueve la fecha hoy. Un rojo que caduca en fin de semana llega al lunes
-   como incumplido sin que nadie lo haya decidido.
-4. **El inventario de servicios esta tarde (15:00–17:00)**, con el documento de Kubernetes de Fran al lado: la semana que pidió
-   Miguel Ángel acaba hoy.
+1. **El inventario de servicios esta tarde (15:00–17:00).** Se pidió para la semana pasada y mañana es Responsables: si llegas
+   sin él, se convierte en el tema de la reunión en vez de en un punto cerrado.
+2. **Asignar los `RDCO-182`…`188` antes de abrir el sprint nuevo.** Son lo que tiene Reconocimientos en rojo, y Educación acaba
+   de liberar a Juan Manuel y Alex. Si no tienen persona mañana, el rojo se arrastra otras dos semanas.
+3. **Nueva fecha para `Lectura y corrección de planillas`** (venció el sábado). Dos minutos, y quita un incumplido que nadie ha
+   decidido.
+4. **`/inicio-sprint` y abrir el panel de noviembre**, juntos: las genéricas de noviembre (y la de Responsables) no existen y
+   este panel ya no es del mes.
