@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[02-11-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[03-11-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-11-02 *(tarea programada, ~10:55)*
+> **Última revisión:** 2026-11-03 *(tarea programada, ~9:20)*
 
 ## 📅 Fechas del mes
 
@@ -813,21 +813,46 @@ tags: [panel, pendientes, octubre]
 - [x] 🟢 **Educación · asignación de prácticas terminada** (Juan Manuel, 30/10): 690 alumnos con plaza, 73 % en 1ª opción, 0 sin
       plaza entre los que eligieron; Esther publica el lun 2/11. Excel de asignaciones (Alex) y de no electores (Juan Manuel)
       enviados el 30/10
-- [ ] 🔐 **Atlassian · token de API nuevo creado el 30/10 a las 18:30** (aviso desde `@id.atlassian.com`) — confirmar que lo
-      creaste tú; si no, revocarlo entrando a mano en id.atlassian.com, no desde el correo
-- [ ] 🗂️ **Adrián convoca dos reuniones** (hoy 09:13): *Repositorio de documentación Dirección TIC* (mar 3, 13:00–14:00) y
-      *Gestión de repositorio de código Dirección TIC* (vie 6, 12:00–12:45), las dos en Meet → contestar
+- [x] 🔐 **Atlassian · token de API nuevo creado el 30/10 a las 18:30** (aviso desde `@id.atlassian.com`) — confirmar que lo
+      creaste tú; si no, revocarlo entrando a mano en id.atlassian.com, no desde el correo *(02/11: **lo creó Pilar**, para
+      automatizar los sprints con `acli`)*
+- [x] 🗂️ **Adrián convoca dos reuniones** (hoy 09:13): *Repositorio de documentación Dirección TIC* (mar 3, 13:00–14:00) y
+      *Gestión de repositorio de código Dirección TIC* (vie 6, 12:00–12:45), las dos en Meet → contestar *(las dos
+      **aceptadas** en el calendario, visto el 03/11)*
 - [ ] ⏰ **RRHH · falta de marcaje de salida del 30/10** (aviso del 31/10) — *se suma al del 29/10*
 - [ ] 👤 **Pablo sin ningún marcaje el 30/10** (aviso de RRHH a él, te llega a ti) — ¿ausencia? Cuadrar con su MENTOR del 29/10
 - [ ] ⏱️ **Aprobar planillas del 26/10–01/11**: Alex, Fran, Alejandro Sánchez y Jesús March (02/11)
 - [ ] 📸 **Correo "Brainstorming" a ti misma** (30/10, dos fotos, sin texto) — captura sin procesar: no he abierto los adjuntos
-- [ ] 🏁 **Cierre del `2026/17` (hoy) → `/inicio-sprint`** con las genéricas de noviembre, y **abrir `Pendientes - Noviembre 2026`**
+- [x] 🏁 **Cierre del `2026/17` (hoy) → `/inicio-sprint`** con las genéricas de noviembre *(02/11, ~16:35, con `acli`/API: `2026/17`
+      cerrado; **`2026/18` activo del 03/11 al 16/11** con 57 tareas; 17 quietas al backlog; creadas `ED-2090`…`ED-2095` y
+      `DT-311`; la tanda de octubre `ED-2054`…`2059` y `DT-308` queda FINALIZADA)*
+- [ ] 🗓️ **Abrir `Pendientes - Noviembre 2026`** — *sacado del punto anterior*: sigue sin abrir
 - [x] 🧾 *(sacado del diario del 30/10)* Lista de referencias a Sigma para el 4/11 — hecha
 - ⚪ Sigma: `310637` (APS) nueva · `306484` (MATS) resuelta sin entregable · `310438` (TIS) nota · `ED-2039` (iMarina) y `RDC-105`
   (Alex) con actividad hoy · doctorando sin cuenta UCAM al alias de Laurea (petición legítima)
 - 🧼 **Higiene:** *"Incidencia Durante el Procesamiento"* (02/11) con DNI y correo en claro, otra vez · tl;dv sigue mandando
   *"upcoming meetings"*
 - ✅ **Sin correos sospechosos** del 30/10 al 02/11 *(uno a verificar: el token de Atlassian)*
+
+## 🆕 Novedades del 02–03/11 (del correo)
+
+> 44 hilos, unos 30 de ruido. **Sin correos sospechosos.** Sigue escrito aquí porque el panel de noviembre no está abierto.
+
+- [ ] 🗑️ **`ED-2089` creada por error** — Juan Manuel pide que la borres (02/11); la buena es **`CAN-371`** (Canvas, *Sede*)
+- [ ] 🔴 **Sigma · `310646` — otra caída de conexión con la BBDD** (Alejandro, 02/11, *"tenemos bloqueo de la institución"*) →
+      llevarlo como punto propio a la reunión de Sigma del mié 4 y pedir causa raíz
+- [ ] 🩺 **Medicina en Prácticas externas: compromiso para el curso 27/28, funcionando en julio de 2027** (respuesta de Pilar a
+      Dolo, 02/11 14:54; piloto con rotatorios de 6.º tras Fisioterapia) → llevarlo al cronograma y a la DPO de Juan Manuel y
+      Alex · pendiente decidir **de dónde sale la oferta** → [[Prácticas externas - Medicina, Fisioterapia y FP]]
+- [ ] 📅 **Tutoría con un alumno de 3º, jue 5 a las 16:00** (puerta de atención al usuario) — fijada por correo, **sin evento en
+      el calendario**
+- [x] 🟢 **Educación · asignación aleatoria del Máster y correos individuales a alumnos** (Juan Manuel, 02/11 17:21) + Excel con
+      las asignaciones de los 4 estudios
+- [ ] 💡 **Prácticas · próxima versión**: que los alumnos con **plaza nominativa privada** no puedan elegir (Dolo, 02/11)
+- ⚪ Sigma: `309772` (GCRED) y `310637` (APS) resueltas sin entregable · `310369` (SEGRE) y `310688` (MOVS) con nota · Alma/Primo:
+  *"Ejemplares rechazados"* en Basecamp · Tempo: tu planilla remitida
+- 🧼 **Higiene:** *"Incidencia Durante el Procesamiento"* (02/11) con datos personales en claro · tl;dv sigue con acceso
+- ✅ **Sin correos sospechosos** del 02 al 03/11
 
 ## ✉️ Correos a enviar (tú)
 
@@ -968,27 +993,29 @@ tags: [panel, pendientes, octubre]
 > 02/11: **15 abiertas** (6 de service desk), sin cambios. **`DT-308` y `TICAM-9660` vencieron el sáb 31** · `TICAM-14680`
 > vence el sáb 7. El `2026/17` cierra hoy a las 18:06.
 
+> 03/11: **14 abiertas** (6 de service desk). Sale **`DT-308`** (finalizada); entra **`DT-311`** (vence 30/11). `TICAM-9660`
+> sigue vencida · `TICAM-14680` vence el sáb 7. **`2026/18` activo** del 03/11 al 16/11.
+
 - [x] `ED-2066` Gestión y jerarquía de repositorios en Confluence *(ya no está abierta, 22/10)*
 
 - [x] `ED-2018` Reorganización Planificación Septiembre *(ya no está abierta, 06/10)*
 - [x] `GES-192` Reunión para arquitectura de prácticas · `MIG-29` *(ya no están abiertas, 06/10)*
-- [ ] `ED-2051` *(Clases IR, semana del 07/09)* — la única de septiembre que queda abierta · `DT-308` Responsables — OCTUBRE
+- [ ] `ED-2051` *(Clases IR, semana del 07/09)* — la única de septiembre que queda abierta · 🆕 `DT-311` Responsables — NOVIEMBRE
+      *(`DT-308`, la de octubre, FINALIZADA el 02/11)*
 - [ ] 🆕 `DT-310` Viabilidad de cierre de Infucam
 - [ ] Epics de Educación `GES-222`…`GES-225` y `GES-250` · ~~`GES-235` (RF-41, sello de convenio)~~ *(ya no está abierta, 22/10)*
 - [ ] `ED-1814` Estudio previo — Planificador de horarios y espacios
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 02/11)
+## 💡 Sugerencia de foco (Pilita · 03/11)
 
-> Lunes, último día del sprint. La mañana ya se ha ido (Aplicativo docente, Seguimiento, clase); **la tarde está libre** y
-> mañana hay Responsables a las 10:00.
+> Martes, día 1 del `2026/18`. Responsables a las 10:00, Adrián a las 13:00 y **la tarde libre**.
 
-1. **El inventario de servicios esta tarde (15:00–17:00).** Se pidió para la semana pasada y mañana es Responsables: si llegas
-   sin él, se convierte en el tema de la reunión en vez de en un punto cerrado.
-2. **Asignar los `RDCO-182`…`188` antes de abrir el sprint nuevo.** Son lo que tiene Reconocimientos en rojo, y Educación acaba
-   de liberar a Juan Manuel y Alex. Si no tienen persona mañana, el rojo se arrastra otras dos semanas.
-3. **Nueva fecha para `Lectura y corrección de planillas`** (venció el sábado). Dos minutos, y quita un incumplido que nadie ha
-   decidido.
-4. **`/inicio-sprint` y abrir el panel de noviembre**, juntos: las genéricas de noviembre (y la de Responsables) no existen y
-   este panel ya no es del mes.
+1. **Inventario de servicios antes de las 10:00**, aunque sea la lista de aplicaciones con su dueño. Se pidió para la semana
+   pasada y hoy es donde te lo van a pedir.
+2. **Asignar los `RDCO-182`…`188` esta semana.** Es lo único que tiene Reconocimientos en rojo y Educación ya está cerrado del
+   todo: Juan Manuel y Alex tienen hueco. Cada día sin persona es un día menos de este sprint.
+3. **Medicina para julio de 2027, al cronograma.** Lo has comprometido por escrito con Dolo: si no entra ahora en el cronograma
+   y en la DPO, en primavera no habrá hueco. Esta tarde es buen momento (y ya de paso, la fecha nueva de *planillas*).
+4. **Abrir el panel de noviembre** (15 minutos juntas). Este pasa de 1.000 líneas y ya no es del mes.
