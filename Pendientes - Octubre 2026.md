@@ -7,9 +7,9 @@ tags: [panel, pendientes, octubre]
 
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[06-11-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[10-11-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-11-06 *(tarea programada, ~9:20)*
+> **Última revisión:** 2026-11-10 *(tarea programada, ~9:20)*
 
 ## 📅 Fechas del mes
 
@@ -862,9 +862,11 @@ tags: [panel, pendientes, octubre]
 - [x] 🗂️ **Nuevo Gestor Documental — reunión hoy jue 5, 11:30** (convocada por Pilar el 03/11; Títulos, Admisiones, Internacional…;
       Teresa añadida el 04/11). Está en **Meet**: si se quiere acta, pasarla a Zoom → [[Alfresco - nuevo repositorio]]
       *(celebrada el 05/11, **en Meet**: solo llegó el registro de asistencia, sin transcripción — el acta va aparte, ver novedades del 05–06/11)*
-- [ ] 🔐 **VPN con Sigma (`TICAM-15511`)** — cortes el 04/11; *keep-alive* y DH grupo 2 retirado; reunión técnica 16–17 h con Sigma y
+- [x] 🔐 **VPN con Sigma (`TICAM-15511`)** — cortes el 04/11; *keep-alive* y DH grupo 2 retirado; reunión técnica 16–17 h con Sigma y
       Comunicaciones. **Pendiente: prueba de Alejandro** y **una aprobación tuya** en el ticket. Probable causa raíz de `310646`
-- [ ] 🤖 **IA Reconocimientos · adjuntos PDF para Paco** — compromiso de Pilar (03/11): *"para final de semana principios de la
+      *(Mario lo resolvió el 06/11, 17:17, **FINALIZADA**, "tras confirmación por privado del funcionamiento correcto" — 7 días para
+      reabrir. Queda anotar en `310646` el túnel como causa raíz, ver novedades del 06–10/11)*
+- [x] 🤖 **IA Reconocimientos · adjuntos PDF para Paco** *(cerrado en el diario del 06/11)* — compromiso de Pilar (03/11): *"para final de semana principios de la
       siguiente"* → **vie 6 / lun 9**. Ojo al identificador: no usar el DNI en las carpetas → [[Reconocimientos]]
 - [x] ♿ **Miguel Ángel · ¿estado de las adaptaciones curriculares en Jira?** (04/11) — sin contestar *(contestado por Pilar el 05/11
       10:22: aún no está en la app, se lo pasa a Pablo)*
@@ -899,7 +901,7 @@ tags: [panel, pendientes, octubre]
       visor y tienen matrícula. Sin ticket
 - [ ] 🐳 **Adrián · imágenes Docker base** en `DOCFS` (05/11): **Java → Alejandro** (del equipo), Nginx y PHP → Andrés y Manuel Jesús.
       Llevar a la reunión de repositorios del vie 6, junto con el **SSH de Bitbucket**
-- [ ] ⏱️ **RRHH: falta de marcaje de salida el 04/11** (tuya) — se suma a la jornada inferior del 03/11
+- [x] ⏱️ **RRHH: falta de marcaje de salida el 04/11** (tuya) *(cerrado en el diario del 06/11, las dos)* — se suma a la jornada inferior del 03/11
 - [ ] 🆕 **`ED-2099` Revisar el organigrama en la aplicación de gestión personal** — vence **mié 11**
 - [ ] 📅 **Lun 9 · Acrelia (Ester, 09:00) solapa con el Seguimiento Sprint (09:15)**, y el Seguimiento **no aparece en el calendario
       de Pilar** (en la reserva de sala figura "rechazada"): revisarlo
@@ -914,6 +916,39 @@ tags: [panel, pendientes, octubre]
   (MATS) · `ED-2103` (Pablo)
 - 🧼 **Higiene:** el reenvío de Isaac lleva **nombre y DNI** de las alumnas en claro
 - ✅ **Sin correos sospechosos** del 05 al 06/11
+
+## 🆕 Novedades del 06–10/11 (del correo)
+
+> ~100 hilos, unos 75 de ruido. **Sin correos sospechosos.** El lunes 9 no hubo daily. Sigue escrito aquí porque el panel de
+> noviembre no está abierto → [[10-11-2026]]
+
+- [ ] 🤖 **Reconocimientos con IA · carpeta de datos** (Miguel Ángel, 09/11): **una titulación**, subcarpeta por alumno con originales +
+      CSV con la resolución, **últimos 5 años**. Álvaro (09/11) pide además **denegaciones y parciales**, **esquema de previos (MySQL) +
+      maestras de Vertica** y el **histórico de previos resueltos**. Datos **seudonimizados** → [[Reconocimientos]] · `RDC-107`
+- [ ] 🤖 **Reconocimientos con IA · reunión del jueves 12** con Miguel Ángel y Álvaro — **sin convocar**; si la convocas tú, en Zoom.
+      Llevar decidido: precedentes + LLM (Álvaro) frente a *"entrenar el modelo"* (Miguel Ángel)
+- [ ] 🔑 **`ED-2109` Reorganización del repositorio de Bitbucket** (tuya, vence 16/11) y **cortes del SSH desde el jue 12** — ¿quién
+      cambia `known_hosts` y pipelines?
+- [ ] 🔁 **Migraciones · diagnóstico de Toñi** (06/11): las socioculturales no caben todas en **OP001 (máx. 6 ECTS)**; el resto a **OP099**
+      → trasladárselo a Diego (Sigma)
+- [ ] 🧩 **`CAN-372` Seminarios que duplican sites del campus virtual** (vencida 06/11) — hipótesis: un check de la definición del
+      seminario (con Alicia, 1 h el 06/11). Falta: **confirmarlo con Fran**, probarlo, cuántos sites hay que limpiar y de quién es el
+      arreglo. Isaac: *"en Doctorado pasa igual"* *(volcado desde el `00 Inbox`, 10/11)*
+- [ ] 🔐 **`310646` (Sigma)** — anotar que la causa eran **las caídas del túnel VPN** y cerrarlo *(sacado del punto de la VPN, que ya está
+      cerrado)*
+- [ ] ⏱️ **Planillas 02–08/11**: Alejandro Sánchez, Jesús March, Fran Torrecillas · **tu periodo 31/10–06/11** cerró el 09/11:
+      comprobar · RRHH: **marcajes solapados el 06/11** (tuyo) · Juanma sin marcajes el 06/11
+- [ ] 🎓 **Servicio de asistencia**: el aula del examen del 06/11 figura como *"reserva utilizada parcialmente"* → contestar por su formulario
+- [ ] 📅 **Vie 13 · Sigma, sesión de adaptaciones 10:30** (Alicia) y la invitación de Teams *"UCAM: Seguimiento"* (Albert, 09/11):
+      **ninguna está en el calendario**
+- [ ] 💬 **Juan Miguel Mompeán** · mensaje de Google Chat sin leer (07/11) · 🎟️ **Evento Inforges** (Business Club), decidir si vas
+- ⚪ **Gestor Documental EIDUCAM**: Andrés pide un Alfresco para la Escuela con migración de SharePoint; Pilar contesta (09/11) que es
+  **uno común, por persona**, sin SharePoint ni documentación de Escuela, y propone reunión breve. Esperando respuesta →
+  [[Alfresco - nuevo repositorio]]
+- ⚪ Informativo: Sigma `310310`, `310706`, `310809` resueltas sin entregable · `311068`, `311042` · `TICAM-15507` (NIA duplicado) ·
+  `RDC-103`/`RDC-104` · `ED-2103`
+- 🧼 **Higiene:** los avisos *"Incidencia durante el procesamiento"* de `noreply@ucam.edu` (07/11) llevan **DNI y correo** en claro
+- ✅ **Sin correos sospechosos** del 06 al 10/11
 
 ## ✉️ Correos a enviar (tú)
 
@@ -1067,26 +1102,32 @@ tags: [panel, pendientes, octubre]
 
 - [x] `ED-2051` *(Clases IR, semana del 07/09)* *(ya no está abierta, 05/11)* · `DT-311` Responsables — NOVIEMBRE sigue abierta
       *(`DT-308`, la de octubre, FINALIZADA el 02/11)*
-- [ ] 🆕 `ED-2096` Clases IR · semana del 02/11 — vence **vie 6** *(06/11: sigue EN CURSO, vence hoy)*
+- [x] 🆕 `ED-2096` Clases IR · semana del 02/11 — vence **vie 6** *(cerrado en el diario del 06/11; ya no está abierta en Jira, 10/11)*
 > 06/11: **16 abiertas** (7 de service desk). Entra **`ED-2099`** *Revisar el organigrama en la aplicación de gestión personal*
 > (vence mié 11). `TICAM-9660` sigue vencida · `TICAM-14680` vence mañana sáb 7. `2026/18`, día 4 de 10.
 
 - [ ] 🆕 `ED-2099` Revisar el organigrama en la aplicación de gestión personal — vence **mié 11**
+> 10/11: **18 abiertas** (7 de service desk). Sale **`ED-2096`**; entran **`ED-2109`** *Reorganización del repositorio de desarrollo en
+> Bitbucket* (vence 16/11), **`CAN-372`** *Duplicación de sites del campus virtual con los seminarios* y **`RDC-107`** *Estrategia para la
+> aplicación de base 44 de previos* (las dos **vencidas el 06/11**). `TICAM-14680` y `TICAM-9660` vencidas. `2026/18`, día 6 de 10.
+
+- [ ] 🆕 `ED-2109` Reorganización del repositorio de Bitbucket — vence **lun 16**
+- [ ] 🆕 `CAN-372` Seminarios que duplican sites — **vencida 06/11**
+- [ ] 🆕 `RDC-107` Estrategia para la aplicación de base 44 de previos — **vencida 06/11** (engancha con Reconocimientos con IA)
 - [x] `DT-310` Viabilidad de cierre de Infucam *(ya no está abierta, 05/11)*
 - [ ] Epics de Educación `GES-222`…`GES-225` y `GES-250` · ~~`GES-235` (RF-41, sello de convenio)~~ *(ya no está abierta, 22/10)*
 - [ ] `ED-1814` Estudio previo — Planificador de horarios y espacios
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 06/11)
+## 💡 Sugerencia de foco (Pilita · 10/11)
 
-> Viernes, día 4 del `2026/18`. Examen IR por la mañana, repositorios con Adrián a las 12:00 y **la tarde libre**.
+> Martes, día 6 del `2026/18`. Responsables a las 10:00 y una revisión a las 16:00; el resto del día, libre. Mañana, dos clases.
 
-1. **Los PDF de IA Reconocimientos para Paco, hoy.** Es tu compromiso por escrito (*"final de semana"*) y no consta enviado. Decide
-   antes el identificador (no el DNI).
-2. **Responder a Elena (Prácticas de Educación).** Tiene a tres personas del equipo en copia esperando saber quién envía a los tutores de
-   centro y cómo dar de alta a los tutores UCAM: si no contestas, cada uno lo hará a su manera.
-3. **12:00 con Adrián: Bitbucket SSH y Docker, con nombre.** Los cortes empiezan el jue 12; si hoy no sale un responsable, el lunes ya va
-   tarde.
-4. **La tarde, para el acta del Gestor Documental.** Fue en Meet y solo queda tu memoria; es la entrada de un proyecto en 🔴.
-5. **Lunes: resolver el choque Acrelia / Seguimiento Sprint y abrir el panel de noviembre** con `/semanal`.
+1. **Bitbucket SSH con nombre, hoy en Responsables.** Los cortes empiezan el jueves y mañana no tienes hueco: si hoy no sale quién lo
+   hace, los despliegues del equipo se rompen el jueves.
+2. **Reconocimientos con IA: titulación elegida y reunión del jueves convocada.** Miguel Ángel y Álvaro esperan tu carpeta, y lo que
+   salga de esa reunión decide el enfoque del proyecto en 🔴. En Zoom, para tener acta.
+3. **Pasar a Diego el diagnóstico de Toñi.** Es un reenvío de cinco minutos que desbloquea las migraciones paradas desde septiembre.
+4. **Responder a Elena (Prácticas de Educación).** Lleva cinco días con cuatro preguntas y tres personas del equipo en copia.
+5. **La tarde: acta del Gestor Documental (05/11)**, ahora con la respuesta a la EIDUCAM como argumento. Cada día que pasa recuerdas menos.
