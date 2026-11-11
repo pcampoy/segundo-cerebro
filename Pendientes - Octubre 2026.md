@@ -5,11 +5,14 @@ tags: [panel, pendientes, octubre]
 ---
 # 🗓️ Pendientes — Octubre 2026
 
+> 📦 **Panel cerrado el 11/11.** Lo que seguía vivo ha pasado, en una línea por punto, a **[[Pendientes - Noviembre 2026]]**. Este
+> fichero queda como **histórico**: el contexto y las citas de cada punto siguen aquí. Ya no se añaden novedades.
+
 > Abierto con Pilita el 01/10 con **lo que seguía vivo** en [[Pendientes - Septiembre 2026]] (el
 > histórico completo, con las citas y el porqué de cada punto, sigue allí). Marca `- [x]` lo que cierres.
-> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[10-11-2026]].
+> Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[11-11-2026]].
 > **Cierres semanales:** [[Cierre semanal 2026-W42]] *(12–16/10)*.
-> **Última revisión:** 2026-11-10 *(tarea programada, ~9:20)*
+> **Última revisión:** 2026-11-11 *(tarea programada, ~12:00, con retraso)*
 
 ## 📅 Fechas del mes
 
@@ -826,7 +829,7 @@ tags: [panel, pendientes, octubre]
 - [x] 🏁 **Cierre del `2026/17` (hoy) → `/inicio-sprint`** con las genéricas de noviembre *(02/11, ~16:35, con `acli`/API: `2026/17`
       cerrado; **`2026/18` activo del 03/11 al 16/11** con 57 tareas; 17 quietas al backlog; creadas `ED-2090`…`ED-2095` y
       `DT-311`; la tanda de octubre `ED-2054`…`2059` y `DT-308` queda FINALIZADA)*
-- [ ] 🗓️ **Abrir `Pendientes - Noviembre 2026`** — *sacado del punto anterior*: sigue sin abrir
+- [x] 🗓️ **Abrir `Pendientes - Noviembre 2026`** — *sacado del punto anterior* *(abierto el 11/11 → [[Pendientes - Noviembre 2026]])*
 - [x] 🧾 *(sacado del diario del 30/10)* Lista de referencias a Sigma para el 4/11 — hecha
 - ⚪ Sigma: `310637` (APS) nueva · `306484` (MATS) resuelta sin entregable · `310438` (TIS) nota · `ED-2039` (iMarina) y `RDC-105`
   (Alex) con actividad hoy · doctorando sin cuenta UCAM al alias de Laurea (petición legítima)
@@ -941,7 +944,8 @@ tags: [panel, pendientes, octubre]
 - [ ] 🎓 **Servicio de asistencia**: el aula del examen del 06/11 figura como *"reserva utilizada parcialmente"* → contestar por su formulario
 - [ ] 📅 **Vie 13 · Sigma, sesión de adaptaciones 10:30** (Alicia) y la invitación de Teams *"UCAM: Seguimiento"* (Albert, 09/11):
       **ninguna está en el calendario**
-- [ ] 💬 **Juan Miguel Mompeán** · mensaje de Google Chat sin leer (07/11) · 🎟️ **Evento Inforges** (Business Club), decidir si vas
+- [ ] 💬 **Juan Miguel Mompeán** · mensaje de Google Chat sin leer (07/11) · ~~🎟️ **Evento Inforges** (Business Club), decidir si vas~~
+      *(Inforges contestado el 10/11; Mompeán sigue abierto en las novedades del 10–11/11)*
 - ⚪ **Gestor Documental EIDUCAM**: Andrés pide un Alfresco para la Escuela con migración de SharePoint; Pilar contesta (09/11) que es
   **uno común, por persona**, sin SharePoint ni documentación de Escuela, y propone reunión breve. Esperando respuesta →
   [[Alfresco - nuevo repositorio]]
@@ -949,6 +953,31 @@ tags: [panel, pendientes, octubre]
   `RDC-103`/`RDC-104` · `ED-2103`
 - 🧼 **Higiene:** los avisos *"Incidencia durante el procesamiento"* de `noreply@ucam.edu` (07/11) llevan **DNI y correo** en claro
 - ✅ **Sin correos sospechosos** del 06 al 10/11
+
+## 🆕 Novedades del 10–11/11 (del correo)
+
+> ~80 hilos, unos 55 de ruido. **Sin correos sospechosos** (un segundo *"Authentication SSO | Issue"* al alias de Laurea, desde
+> `@icloud.com`, sin enlaces ni peticiones: a vigilar). Responsables se movió del 10 al 11/11 → [[11-11-2026]]
+
+- [ ] 📄 **Escrito de la resolución del equipo directivo (examen de recuperación, Ing. Informática)** — le dijiste a Mari Luz (10/11)
+      *"Mañana te llevo el escrito"*; ella está de baja: **dejárselo a Cecilia**. Plazo: antes del jue 12
+- [ ] 🔬 **iMarina / RIUCAM (`MDG-25-11797`)** — fase 3 hasta el **vie 20/11**. La UCAM debe dar **el jue 12** **3–4 investigadores** para
+      las pruebas y la **licencia CC por defecto** (con versión). No dice quién de la UCAM: asignarlo (Biblioteca/Investigación) →
+      [[Integración usuarios biblioteca]]
+- [ ] 🩺 **Medicina · prácticas** — Dolo (10/11) acepta **27/28, en marcha en julio de 2027** y espera fecha para la **reunión con la
+      titulación y el coordinador** (rotatorios de 6.º). Captura de requisitos → **en Zoom** →
+      [[Prácticas externas - Medicina, Fisioterapia y FP]]
+- [ ] ⏱️ **RRHH (MENTOR)** — permiso de Fran Torrecillas por consulta médica (11/11) **pendiente de validar**
+- [ ] 💬 **Juan Miguel Mompeán** — segundo mensaje de Google Chat (11/11) *(sacado del punto de Mompeán + Inforges del 06–10/11: Inforges
+      ya está contestado)*
+- [x] 🎟️ **Evento Inforges** — contestado *"ok"* a Miguel Ángel (10/11) *(sacado del punto anterior; Mompeán sigue abierto arriba)*
+- ⚪ **Elena · Prácticas de Educación**: Juanma le contesta (11/11, 09:01) que la app ya permite asignar tutores y que manden el Excel. Falta
+  ver si cubre las cuatro preguntas → `GES-225`
+- ⚪ **Tangram** cancela el seguimiento semanal del 11/11 · **TFG 26/27** (Antonio Llanes) el **lun 23/11, 10:30–11:30**
+- ⚪ Informativo: SEGRE `310275`, `308598`, `310328` resueltas sin entregable (Alicia) · TCSO `311249` documentada para entrega · TIS
+  `294442` autorizada y luego parada · `311438` (CERS), `311431` (MOVS) recibidas · `SUCAM-23778` recodificación de NIP hecha
+- 🧼 **Higiene:** *"Recodificación NIP"* (11/11) lleva **NIA y NIP en claro**; los avisos de *"Incidencia durante el procesamiento"* siguen
+  con **DNI y correo**
 
 ## ✉️ Correos a enviar (tú)
 
@@ -1111,6 +1140,8 @@ tags: [panel, pendientes, octubre]
 > Bitbucket* (vence 16/11), **`CAN-372`** *Duplicación de sites del campus virtual con los seminarios* y **`RDC-107`** *Estrategia para la
 > aplicación de base 44 de previos* (las dos **vencidas el 06/11**). `TICAM-14680` y `TICAM-9660` vencidas. `2026/18`, día 6 de 10.
 
+> 11/11: **18 abiertas** (7 de service desk), **sin cambios**. **`ED-2099` vence hoy**. `2026/18`, día 7 de 10.
+
 - [ ] 🆕 `ED-2109` Reorganización del repositorio de Bitbucket — vence **lun 16**
 - [ ] 🆕 `CAN-372` Seminarios que duplican sites — **vencida 06/11**
 - [ ] 🆕 `RDC-107` Estrategia para la aplicación de base 44 de previos — **vencida 06/11** (engancha con Reconocimientos con IA)
@@ -1120,14 +1151,15 @@ tags: [panel, pendientes, octubre]
 - Service desk (`TICAM-14680` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`) → [[JSM - Mis tickets]] (`/tickets`) · *`TICAM-14268` ya no está a tu nombre (05/10)*
 
 ---
-## 💡 Sugerencia de foco (Pilita · 10/11)
+## 💡 Sugerencia de foco (Pilita · 11/11)
 
-> Martes, día 6 del `2026/18`. Responsables a las 10:00 y una revisión a las 16:00; el resto del día, libre. Mañana, dos clases.
+> Miércoles, día 7 del `2026/18`. Ya has dado la clase de la mañana; Responsables está en curso (se movió a hoy), Comunidad IA a las 13:00
+> y la clase online a las 16:00. Hueco real: **12:00–13:00 y 14:30–16:00**.
 
-1. **Bitbucket SSH con nombre, hoy en Responsables.** Los cortes empiezan el jueves y mañana no tienes hueco: si hoy no sale quién lo
-   hace, los despliegues del equipo se rompen el jueves.
-2. **Reconocimientos con IA: titulación elegida y reunión del jueves convocada.** Miguel Ángel y Álvaro esperan tu carpeta, y lo que
-   salga de esa reunión decide el enfoque del proyecto en 🔴. En Zoom, para tener acta.
-3. **Pasar a Diego el diagnóstico de Toñi.** Es un reenvío de cinco minutos que desbloquea las migraciones paradas desde septiembre.
-4. **Responder a Elena (Prácticas de Educación).** Lleva cinco días con cuatro preguntas y tres personas del equipo en copia.
-5. **La tarde: acta del Gestor Documental (05/11)**, ahora con la respuesta a la EIDUCAM como argumento. Cada día que pasa recuerdas menos.
+1. **Bitbucket SSH con nombre, ahora en Responsables.** Mañana empiezan los cortes; es la última ocasión con todos delante.
+2. **El escrito a Cecilia antes de irte.** Se lo prometiste a Mari Luz para hoy y el plazo del alumno acaba mañana.
+3. **iMarina/RIUCAM: que alguien de la UCAM asuma los nombres y la licencia.** Lo piden para mañana y nadie está nombrado; dilo en
+   Responsables o escríbele hoy a Sara/Pedro.
+4. **Reconocimientos con IA: convoca (en Zoom) o mueve la reunión.** Era "el jueves" y no existe; si no, Miguel Ángel y Álvaro llegan
+   sin datos ni enfoque.
+5. **14:30–16:00: `ED-2099` (vence hoy) y la validación de Fran en MENTOR.** Dos cosas cortas que hoy caducan o bloquean a otro.
