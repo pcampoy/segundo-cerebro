@@ -32,6 +32,8 @@ tags: [panel, pendientes, noviembre]
 - [ ] 📄 **Escrito de la resolución del equipo directivo** (examen de recuperación, GII) → dejarlo a **Cecilia**; plazo antes del jue 12 *(10/11)*
 - [ ] 🔑 **Bitbucket SSH (`ssh.bitbucket.org`)**: ¿quién cambia `known_hosts` y pipelines? Cortes desde el 12/11, obligatorio el 10/12 → `ED-2109` *(16/10, 05/11)*
 - [ ] 🔬 **iMarina / RIUCAM (`MDG-25-11797`)**: 3–4 investigadores + licencia CC por defecto para el **12/11**; nadie de la UCAM nombrado → [[Integración usuarios biblioteca]] *(11/11)*
+- [ ] 📅 **Convocar reunión con Luis Tejada para ver el tema de iMarina** *(apuntado el 11/11)*. Luis va en copia del correo de Scimarina
+      del 11/11. *Sin fecha todavía*; si es para el reparto de la fase 3, antes del vie 20/11. Si quieres acta, **en Zoom**
 - [ ] 🤖 **Reconocimientos con IA**: elegir titulación, quién saca los datos (seudonimizados) y **convocar** la reunión (en Zoom) → [[Reconocimientos]] · `RDC-107` *(09/11)*
 - [ ] 🩺 **Medicina · prácticas**: dar fecha a Dolo para la reunión con la titulación y el coordinador (rotatorios de 6.º), **en Zoom** → [[Prácticas externas - Medicina, Fisioterapia y FP]] *(10/11)*
 - [ ] 🔁 **Migraciones**: pasar a Diego (Sigma) el diagnóstico de Toñi (socioculturales: OP001 máx. 6 ECTS; el resto a OP099) *(06/11)*
@@ -115,6 +117,9 @@ tags: [panel, pendientes, noviembre]
 - [ ] 💡 **Prácticas · próxima versión**: que la plaza nominativa privada no se pueda elegir (Dolo) · 🗣️ hablar con Dolo del mapa docente y de read.ai
 
 ## 📌 Proyectos y gestión
+
+- [ ] 📦 **Hacer la estimación de volumen y de carga de expedientes para pasárselos a Eloy** *(apuntado el 11/11)*. ⚠️ *Falta: qué
+      expedientes son (¿Infucam?), quién es Eloy (no sale en el vault) y para cuándo*
 
 - [ ] 🗂️ **Acta del Gestor Documental (05/11)** — de memoria, con el hilo de la EIDUCAM como argumento
 - [ ] 📝 **Decisiones de Responsables del 27/10** (nota en `preparación`) · **actas pendientes**: mapa docente de prácticas (DNI del tutor), criterios de modificaciones de planes, sustituciones, seguimientos de septiembre, Infucam (08 y 09/10), Reconocimientos (08/10)
