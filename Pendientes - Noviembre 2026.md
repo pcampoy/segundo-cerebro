@@ -148,6 +148,7 @@ tags: [panel, pendientes, noviembre]
 - [ ] `CAN-372` Seminarios que duplican sites — **vencida 06/11**
 - [ ] `RDC-107` Estrategia para la aplicación de base 44 de previos — **vencida 06/11**
 - [ ] `DT-311` Reunión con Responsables — noviembre (vence 30/11)
+- [ ] 🔐 `ED-2117` Migrar las apps de Kubernetes del servicio de seguridad antiguo al nuevo — **comentarlo al equipo** (Seguimiento Sprint del lun 16) *(creada el 12/11)*
 - [ ] Epics de Educación `GES-222`…`GES-225` y `GES-250` · `ED-1814` Estudio previo — Planificador de horarios y espacios
 - Service desk (`TICAM-14680`, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`, `SUCAM-23923`) → [[JSM - Mis tickets]] (`/tickets`) · `TICAM-14680` = `TM-105` de Alex · `TICAM-13609`: el usuario confirmó acceso, se puede cerrar
 
