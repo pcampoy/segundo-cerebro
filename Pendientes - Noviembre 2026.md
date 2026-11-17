@@ -8,7 +8,7 @@ tags: [panel, pendientes, noviembre]
 > Abierto con Pilita el **11/11** con **lo que seguía vivo** en [[Pendientes - Octubre 2026]], que hizo de panel hasta hoy y queda como
 > **histórico** (allí están las citas, el contexto y el porqué de cada punto; aquí va **una línea por punto** con la fecha de origen).
 > Marca `- [x]` lo que cierres. Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[11-11-2026]].
-> **Última revisión:** 2026-11-13 → [[13-11-2026]]
+> **Última revisión:** 2026-11-16 → [[16-11-2026]]
 >
 > ⚠️ **No he cerrado nada al pasarlo.** Lo que tiene fecha ya vencida y huele a resuelto está abajo, en
 > **🗓️ Con fecha pasada — ¿lo cierro?**: dime cuáles y los tacho aquí y en octubre.
@@ -22,7 +22,9 @@ tags: [panel, pendientes, noviembre]
 | **vie 13** | sin clase · Sigma, sesión de adaptaciones 10:30 *(no está en el calendario)* · revisión examen 11:30 *(la tutoría con Rodrigo, cancelada: preguntas por correo)* · Revisión estado proceso y Flecos 13:00 (Alejandro S., aceptada) · fin del plazo para reabrir `TICAM-15511` · informe de estado de Scimarina |
 | **lun 16** | 🏁 **cierre del `2026/18`** · Revisión de Sprint 09:15–10:45 · clase 11:00 · `ED-2109` vence |
 | **mar 17** | 🎓 entrega de prácticas / parcial en la hoja de 3º *(22/10 → 17/11)* · Responsables 10:00 · 🔬 **CV iMarina 12:00** (Luis, con Scimarina) · previsiblemente arranca el `2026/19` → `/inicio-sprint` |
-| **vie 20** | 🔬 **iMarina/RIUCAM: fin de la fase 3** (pruebas piloto) |
+| **mié 18** | Tangram 11:00 · 🎓 online 16:00 · revisión de examen con un alumno 17:00 |
+| **jue 19** | 🩺 Médico 12:00–14:00 |
+| **vie 20** | 🎓 clase 08:30 · 🔬 **iMarina/RIUCAM: fin de la fase 3** (pruebas piloto) · ⚠️ **Sigma "UCAM: Seguimiento" 12:00** (Teams, sin aceptar) **pisa tu Hi-Tech** (10:30–13:00) |
 | **lun 23** | Reunión TFG 26/27 – Seguimiento de comisiones, **10:30–11:30** |
 | **lun 30** | `DT-311` Responsables — noviembre vence · cierre de imputación del mes |
 | *jue 10/12* | *🔑 el host SSH nuevo de Bitbucket pasa a ser obligatorio* |
@@ -34,13 +36,16 @@ tags: [panel, pendientes, noviembre]
 - [ ] 🔬 **iMarina / RIUCAM (`MDG-25-11797`)**: 3–4 investigadores + licencia CC por defecto para el **12/11**; nadie de la UCAM nombrado → [[Integración usuarios biblioteca]] *(11/11)*
 - [x] 📅 **Convocar reunión con Luis Tejada para ver el tema de iMarina** *(apuntado el 11/11)* — *convocada por correo el 11/11 a las
       18:07; Ginés libre, quedáis **hoy 12/11 a las 10:00** en Investigación (tu correo de las 09:20). Sin evento en el calendario*
-- [ ] 🤖 **Reconocimientos con IA**: elegir titulación, quién saca los datos (seudonimizados) y **convocar** la reunión (en Zoom) → [[Reconocimientos]] · `RDC-107` *(09/11)*
+- [ ] 🤖 **Reconocimientos con IA**: elegir titulación, quién saca los datos (seudonimizados) y **convocar** la reunión (en Zoom) → [[Reconocimientos]] · `RDC-107` *(09/11)* · **los datos hay que generarlos para Pau y para Álvaro** *(15/11)*
 - [ ] 🩺 **Medicina · prácticas**: dar fecha a Dolo para la reunión con la titulación y el coordinador (rotatorios de 6.º), **en Zoom** → [[Prácticas externas - Medicina, Fisioterapia y FP]] *(10/11)*
 - [ ] 🔁 **Migraciones**: pasar a Diego (Sigma) el diagnóstico de Toñi (socioculturales: OP001 máx. 6 ECTS; el resto a OP099) *(06/11)*
 - [ ] 🧩 **`CAN-372` seminarios que duplican sites**: confirmar la hipótesis con Fran; Isaac dice que en Doctorado pasa igual *(06/11)*
-- [ ] 🔐 **Sigma `310646`**: anotar que la causa era el túnel VPN y cerrarlo *(10/11)*
+- [ ] 🔐 **Sigma `310646`**: anotar que la causa era el túnel VPN y cerrarlo *(10/11)* — *`TICAM-15511` la cerró Soporte el 16/11 al vencer
+      el plazo; queda por confirmar si el apunte en Sigma se hizo*
 - [ ] 🎓 **Servicio de asistencia**: aula del examen del 06/11 *"reserva utilizada parcialmente"* → contestar por su formulario (ya hay recordatorio, 11/11)
-- [ ] 📅 **Vie 13**: sesión de adaptaciones de Sigma (Alicia) y la invitación de Teams de Albert — **ninguna en el calendario** *(09/11)*
+- [ ] 📅 **Vie 13**: sesión de adaptaciones de Sigma (Alicia) y la invitación de Teams de Albert — **ninguna en el calendario** *(09/11)* —
+      *16/11: la de Teams ya está en tu calendario, **vie 20 12:00 "UCAM: Seguimiento"**, sin aceptar (pisa Hi-Tech). De la de adaptaciones
+      del 13 no hay rastro*
 - [x] 💬 **Juan Miguel Mompeán**: dos mensajes de Google Chat sin leer *(07/11, 11/11)* *(cerrado en el diario del 11/11)*
 - ⚪ *Esperando:* **Andrés · Gestor Documental EIDUCAM** — le contestaste que es un Alfresco común, por persona *(09/11)* → [[Alfresco - nuevo repositorio]]
 
@@ -141,10 +146,11 @@ tags: [panel, pendientes, noviembre]
 
 ## 🗂️ Mis tareas propias en Jira (fuera de JSM)
 
-> 11/11: **18 abiertas** (7 de service desk). `2026/18`, día 7 de 10.
+> 16/11: **20 abiertas** (7 de service desk). `2026/18`, último día.
 
 - [ ] `ED-2099` Revisar el organigrama en la app de gestión personal — **vencida 11/11**
-- [ ] `ED-2109` Reorganización del repositorio de Bitbucket — vence **lun 16**
+- [ ] `ED-2109` Reorganización del repositorio de Bitbucket — **vence hoy, lun 16**
+- [ ] `ED-2118` Ver matrículas de seminarios y de escuela de idiomas de una usuaria *(creada el 13/11)*
 - [ ] `CAN-372` Seminarios que duplican sites — **vencida 06/11**
 - [ ] `RDC-107` Estrategia para la aplicación de base 44 de previos — **vencida 06/11**
 - [ ] `DT-311` Reunión con Responsables — noviembre (vence 30/11)
@@ -200,13 +206,30 @@ tags: [panel, pendientes, noviembre]
 - ⚪ **Prácticas de Educación** — 206 de 209 tutores UCAM cargados (Juanma, 12/11); los 3 restantes, con centro antes del 20/11 → `GES-225`
 - ⚪ **Recogida de exámenes** del fin de semana disponible (Mari Luz, 12/11), salvo Las Palmas y Tenerife
 
+## 🆕 Novedades del 13/11 al 16/11 (del correo)
+
+- [ ] 🔬 **iMarina · SSO y dominio** — Scimarina pide metadatos SAML, atributos, usuario de pruebas, dominio y el certificado SSL **con su clave
+      privada** (13/11). Ginés lo ha canalizado por soporte: **nº 15860** (16/11). 🧼 La clave privada no debe ir por correo → añadirlo al ticket.
+      El informe de estado de Scimarina (prometido para el 13/11) **no ha llegado** → [[Integración usuarios biblioteca]]
+- [ ] 📅 **Sigma, vie 20 12:00** (Teams) — aceptar o no; pisa tu Hi-Tech. Alicia lleva ahí la `311721`
+- [ ] ⏱️ **Tempo**: Jesús March remite la planilla del 09–15/11 · la tuya tiene **37,5 h por registrar** y el periodo cierra → `/imputa`
+- [ ] 🎓 **Práctica Wallapop** — un alumno manda cuatro dudas de incidencias (13/11), sin contestar
+- [ ] 🎓 **Revisión de examen** con un alumno, mié 18 17:00 (Meet) — ya aceptada
+- [ ] 🎫 **`ED-2118`** nueva, a tu nombre (13/11)
+- ✅ **`TICAM-15511`** cerrada por Soporte (16/11)
+- ⚪ **RRHH**: a Pablo le faltan los marcajes del 12/11, el mismo día de su permiso pendiente en MENTOR
+- ⚪ **Alma (Clarivate)**: cargado el nuevo fichero de préstamos (16/11)
+- ⚪ **Eucaristía del 30 aniversario**, lun 16 a las 11:00 — coincide con tu clase; no la suspende
+
 ---
-## 💡 Sugerencia de foco (Pilita · 13/11)
+## 💡 Sugerencia de foco (Pilita · 16/11)
 
-> Viernes, día 9 del `2026/18`. Hueco real hoy: **hasta las 11:30**; luego examen y Alejandro seguidos hasta las 14:00.
+> Lunes, último día del `2026/18`. Revisión de Sprint 09:15 y clase a las 11:00; la tarde está libre.
 
-1. **Antes de las 11:30, `TICAM-15511`.** Hoy se acaba el plazo de reapertura: anota `310646` y ciérralo, son cinco minutos.
-2. **MENTOR: Fran y Pablo.** Dos permisos de tu gente esperándote; no lo dejes para el lunes, que es cierre de sprint.
-3. **A las 13:00, iMarina con números.** Ve sabiendo si los investigadores y la licencia ya están dados: el 20/11 está a cinco días hábiles.
-4. **Prepara el lunes hoy.** Revisión de Sprint 09:15 y clase a las 11:00, con 15 min entre medias: deja hoy claro qué no llega del `2026/18` y qué pasa al `2026/19`.
-5. **`ED-2099`** lleva dos días vencida: o la haces o le cambias la fecha, pero que deje de estar en rojo.
+1. **En la revisión, el reparto del `2026/19`.** Es lo que desbloquea a siete personas: qué no llega, `ED-2117` con nombres, `ED-2109` con dueño
+   y **Alejandro Aix a Reconocimientos**, que era "a partir de mediados de noviembre" y ya lo es.
+2. **Esta tarde, `/imputa` y MENTOR.** Tu planilla tiene 37,5 h vacías y cierra ya; los permisos de Fran y Pablo llevan casi una semana. Es
+   media hora y deja de colgar sobre tu gente.
+3. **Mañana a primera hora, `/inicio-sprint`**, antes de Responsables (10:00).
+4. **Mueve Hi-Tech del viernes** y acepta Sigma: es la sesión de seguimiento que llevabais semanas pidiendo.
+5. **Para el CV de iMarina de mañana**, lleva una pregunta: ¿sigue siendo realista el 20/11 sin informe de estado y con el SSO recién pedido?
