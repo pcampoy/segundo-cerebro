@@ -150,7 +150,7 @@ tags: [panel, pendientes, noviembre]
 
 ## 🗂️ Mis tareas propias en Jira (fuera de JSM)
 
-> 18/11: **18 abiertas** (7 de service desk). El `2026/18` sigue activo, vencido desde el 16/11.
+> 18/11: **18 abiertas** (7 de service desk). Sprint activo: **`2026/19`** (17/11 → 30/11), arrancado el 18/11. Las epics de Educación siguen en el sprint, pendientes de decidir su prioridad o cerrarlas.
 
 - [ ] `ED-2099` Revisar el organigrama en la app de gestión personal — **vencida 11/11**
 - [ ] `ED-2109` Reorganización del repositorio de Bitbucket — vencida el 16/11, **en TESTING** desde ese día
@@ -227,7 +227,7 @@ tags: [panel, pendientes, noviembre]
 
 ## 🆕 Novedades del 16/11 (tarde) al 18/11 (del correo)
 
-- [ ] 🏁 **El `2026/18` sigue activo** (venció el 16/11 a las 18:00) y no hay `2026/19` → `/inicio-sprint`
+- [x] 🏁 **El `2026/18` sigue activo** (venció el 16/11 a las 18:00) y no hay `2026/19` → `/inicio-sprint` *(hecho el 18/11: `2026/18` cerrado; `2026/19` activo del 17/11 al 30/11 con las 78 claves abiertas, incluidas las genéricas `ED-2090`…`2095`. Las 12 quietas (`GES-222`…`225`, `GES-250`, `GES-229`, `GES-233`, `GES-255`, `GES-254`, `GESTDOC-11`, `ET-491`, `MIG-50`) siguen en el sprint: hay que darles prioridad o no frente al resto. Las genéricas de noviembre y `DT-311` ya existían: no se crea nada)*
 - [ ] 📚 **Almudena · MIS ALUMNOS** — pregunta por dónde va lo de mostrar al docente las **adaptaciones curriculares** (Jira) y los alumnos en
       **CAG** (Laurea); se lo dijo Miguel Ángel (16/11). Enlaza con *"Adaptaciones curriculares → mis alumnos"* (01/10)
 - [ ] 🔁 **Eloi (Sigma)** — SQL de créditos por OP para las migraciones (17/11) → que alguien del equipo la pruebe
