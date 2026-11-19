@@ -251,7 +251,7 @@ tags: [panel, pendientes, noviembre]
 
 ## 🆕 Novedades del 18/11 al 19/11 (del correo)
 
-- [ ] 📱 **Luis Espiñeira · API de SMS** — os pide a ti y a Alejandro **la documentación de la API** de envío de SMS (conexión, autenticación, datos
+- [x] 📱 **Luis Espiñeira · API de SMS** — os pide a ti y a Alejandro **la documentación de la API** de envío de SMS (conexión, autenticación, datos
       enviados); a Sergio, usuarios separados UCAM / FP en el proveedor (18/11). 🧼 Documentación sí, credenciales por correo no
 - [x] 🚋 **BONO CAMPUS (Tranvía de Murcia)** — nueva ordenanza: **sin recarga desde el 1/12**; hay que quitarlo de las peticiones de tarjetas online.
       Contestaste *"Procedemos a eliminarlo"* (19/11, con Juanma en copia) → falta asignarlo, **con proyecto, persona y sprint**
