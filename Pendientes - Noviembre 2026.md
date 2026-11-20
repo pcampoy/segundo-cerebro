@@ -8,7 +8,7 @@ tags: [panel, pendientes, noviembre]
 > Abierto con Pilita el **11/11** con **lo que seguía vivo** en [[Pendientes - Octubre 2026]], que hizo de panel hasta hoy y queda como
 > **histórico** (allí están las citas, el contexto y el porqué de cada punto; aquí va **una línea por punto** con la fecha de origen).
 > Marca `- [x]` lo que cierres. Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[11-11-2026]].
-> **Última revisión:** 2026-11-19 → [[19-11-2026]]
+> **Última revisión:** 2026-11-20 → [[20-11-2026]]
 >
 > ⚠️ **No he cerrado nada al pasarlo.** Lo que tiene fecha ya vencida y huele a resuelto está abajo, en
 > **🗓️ Con fecha pasada — ¿lo cierro?**: dime cuáles y los tacho aquí y en octubre.
@@ -25,8 +25,9 @@ tags: [panel, pendientes, noviembre]
 | **mié 18** | ⚠️ **`2026/18` sin cerrar** → `/inicio-sprint` · 📱 SMS para FP 10:00 (Luis Espiñeira) · Tangram 11:00 · 🎓 online 16:00 · revisión de examen con un alumno 17:00 |
 | **jue 19** | 🤖 **Revisión app reconocimiento créditos 10:30** (Pau, Meet + sala multimedia 1.ª planta; aceptada) · 🩺 Médico 12:00–14:00 · tarde libre |
 | **vie 20** | 🎓 clase 08:30 · 🔬 **iMarina/RIUCAM: fin de la fase 3** (pruebas piloto) · ⚠️ **Sigma "UCAM: Seguimiento" 12:00** (Teams, sin aceptar) **pisa tu Hi-Tech** (10:30–13:00) |
-| **lun 23** | Reunión TFG 26/27 – Seguimiento de comisiones, **10:30–11:30** · 🆕 **Inicio proyecto Darwined 13:00–14:00** (Miguel Ángel, Meet) |
-| **mié 25** | 🆕 **Claustro de Ingeniería Informática 12:30–14:00** · 🎓 online 16:00 |
+| **lun 23** | Reunión TFG 26/27 – Seguimiento de comisiones, **10:30–11:30** · 🆕 **Inicio proyecto Darwined 13:00–14:00** (Miguel Ángel, Meet) · 🛰️ *Academicship (Tomás) quiere verlo "a principios de semana"* |
+| *mar 24* | *🩺 Medicina: propuesto a Dolo **desde las 12:00** (sin respuesta)* |
+| **mié 25** | *🩺 o Medicina **9:30–12:00*** · 🆕 **Claustro de Ingeniería Informática 12:30–14:00** · 🎓 online 16:00 |
 | *≈ jue 26* | *🔐 caduca el `BITBUCKET_TOKEN` de `iswteam/jav-widgets` (aviso de Bitbucket del 19/11: "7 días")* |
 | **lun 30** | `DT-311` Responsables — noviembre vence · cierre de imputación del mes · 🏁 fin del `2026/19` |
 | **mar 1/12** | 🚋 **BONO CAMPUS deja de recargarse** — tiene que estar quitado de las peticiones de tarjetas online |
@@ -153,8 +154,8 @@ tags: [panel, pendientes, noviembre]
 
 ## 🗂️ Mis tareas propias en Jira (fuera de JSM)
 
-> 19/11: **19 abiertas** (8 de service desk). Sprint activo: **`2026/19`** (17/11 → 30/11), arrancado el 18/11. Las epics de Educación siguen en el sprint, pendientes de decidir su prioridad o cerrarlas.
-> Desde ayer: entra **`ALFR-1`** (nueva) y salen de tu lista **`RDC-107`** y **`TICAM-14680`** (cerradas o reasignadas, sin confirmar).
+> 20/11: **18 abiertas** (7 de service desk). Sprint activo: **`2026/19`** (17/11 → 30/11), arrancado el 18/11. Las epics de Educación siguen en el sprint, pendientes de decidir su prioridad o cerrarlas.
+> Desde ayer: sale de tu lista **`TICAM-15012`** (*Muy urgente*; reasignada a Fran, en curso). El 19/11 entró `ALFR-1` y salieron `RDC-107` y `TICAM-14680`.
 
 - [ ] 🆕 `ALFR-1` Unificar documentos para nuevo Alfresco *(nueva, 18/11)* → [[Alfresco - nuevo repositorio]]
 
@@ -166,7 +167,7 @@ tags: [panel, pendientes, noviembre]
 - [ ] `DT-311` Reunión con Responsables — noviembre (vence 30/11)
 - [ ] 🔐 `ED-2117` Migrar las apps de Kubernetes del servicio de seguridad antiguo al nuevo — **comentarlo al equipo** (Seguimiento Sprint del lun 16) *(creada el 12/11)*
 - [ ] Epics de Educación `GES-222`…`GES-225` y `GES-250` · `ED-1814` Estudio previo — Planificador de horarios y espacios
-- Service desk (`TICAM-15012` 🔴 *Muy urgente*, `TICAM-15097` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`, `SUCAM-23923`) → [[JSM - Mis tickets]] (`/tickets`) · `TICAM-14680` ya no figura (19/11) · `TICAM-13609`: el usuario confirmó acceso, se puede cerrar
+- Service desk (`TICAM-15097` 🆕, `TICAM-13609`, `TICAM-11468`, `TICAM-9660`, `TICAM-8356`, `TICAM-5545`, `SUCAM-23923`) → [[JSM - Mis tickets]] (`/tickets`) · `TICAM-14680` ya no figura (19/11) · **`TICAM-15012` ya no figura (20/11)**: reasignada a **Fran** y aún en curso; la usuaria reclamó celeridad el 19/11 · `TICAM-13609`: el usuario confirmó acceso, se puede cerrar
 
 ## 🗓️ Con fecha pasada — ¿lo cierro?
 
@@ -243,7 +244,7 @@ tags: [panel, pendientes, noviembre]
 - [x] 📅 **Invitaciones sin contestar**: Darwined (lun 23, 13:00) · Claustro GII (mié 25, 12:30) · Sigma (vie 20) *(la de Pau del 19/11 ya está
       aceptada; la de SMS FP del 18/11 ya pasó)*
 - [x] ⏱️ **Tempo**: Fran remite la planilla del 09–15/11 (16/11)
-- [ ] 🎫 **Unibono**: otro caso de tarjeta perdida desde Campus Cartagena (17/11) · 🧼 el correo trae datos personales del alumno en claro
+- [x] 🎫 **Unibono**: otro caso de tarjeta perdida desde Campus Cartagena (17/11) · 🧼 el correo trae datos personales del alumno en claro *(cerrado en el diario del 19/11)*
 - ✅ **Datos de Informática para Reconocimientos con IA** entregados a Pau y Álvaro (16/11)
 - ✅ **Alma y Primo VE en producción** (Clarivate, 17/11)
 - ⚪ `ED-2109` y `RDC-107` pasan a TESTING (16/11) · `nginx-base` publicada en el repositorio de imágenes Docker (18/11)
@@ -262,14 +263,31 @@ tags: [panel, pendientes, noviembre]
 - ⚪ **Reconocimientos**: Pau acepta el criterio de Carmen sobre *resoluciones previas / documento emitido* (18/11); la revisión es hoy 10:30
 - ⚪ 🧼 Un egresado manda su documento de identidad en claro al alias `laureaacademic` (18/11) — no es tuyo; se suma a la higiene de datos
 
+## 🆕 Novedades del 19/11 al 20/11 (del correo)
+
+- [ ] 🛰️ **Academicship (Tomás, Rankings)** — pide consejo para desplegar su app de redes de coautoría (QS) en **Vercel + AWS** y verlo **hoy o a
+      principios de semana** (19/11). Seis preguntas: AWS y centro de coste, Vercel y repo de Bitbucket, **DPD**, cliente OAuth de Google, dominio
+      `academicship.ucam.edu`, Scopus. 🧼 Datos de investigadores fuera de la UCAM y **BD abierta a conexiones externas** → DPD y Sistemas antes de nada
+- [ ] 🧾 **RRHH**: falta de marcaje de **salida del jue 19/11** (aviso del 20/11) — junto a la del mar 17
+- [ ] ☕ **Sigma · aviso Java4Shell (`CVE-2026-114938`)** (19/11): Academic (JDK 8) no afectado; **JDK 21 a revisar**. Las imágenes base nuevas son
+      Corretto 21/25 → comprobar versión dentro del punto ☕ CVE / Java
+- [ ] 🩺 **Medicina**: diste a Dolo **mar 24 desde las 12:00** o **mié 25 9:30–12:00** (19/11) — cuando conteste, **convocar en Zoom**
+- ✅ **API de SMS**: documentación enviada a Luis Espiñeira (19/11)
+- ✅ **Certificados de doctores** (Títulos): permisos de Laurea, resuelto por Alicia (20/11) · 🧼 el correo traía documentos de identidad en claro
+- ⚪ **Sigma 12:00 de hoy**: Albert reenvía la convocatoria a la compañera de la `311721`; *Open Analytics* va en paralelo a Academic (20/11)
+- ⚪ **EPS**: exención de asistencia el **mié 18** para los que fueron a la Bienvenida de internacionales (afecta al Wooclap de la online de ese día)
+- ⚪ **Zoom**: aviso de **borrado de grabaciones del curso 25/26** — descargar lo que haga falta
+- ⚪ Reenviado al equipo el evento de **Inforges** (UCAM Business Club, 20/11)
+
 ---
-## 💡 Sugerencia de foco (Pilita · 19/11)
+## 💡 Sugerencia de foco (Pilita · 20/11)
 
-> Jueves. Pau a las 10:30, médico 12:00–14:00 y **la tarde entera libre**: el hueco largo de la semana.
+> Viernes. Hi-Tech hasta las 13:00 con Sigma dentro, y la tarde sin nada. Última ocasión de la semana para cerrar lo que no puede esperar al lunes.
 
-1. **La tarde, para `/imputa` y MENTOR, y punto.** Llevas tres dailies arrastrándolo; tu planilla tiene 37,5 h sin registrar y los permisos de Fran y
-   Pablo van por la semana y media. Es lo único que no se hace en ratos sueltos.
-2. **Contesta a Luis con la doc de la API de SMS** (o pídesela a Alejandro y que conteste él). Es Seguridad preguntando: mejor no hacerle esperar.
-3. **Asigna el BONO CAMPUS** a alguien del equipo para que esté fuera antes del 1/12. Ya has dicho al Tranvía que lo hacéis.
-4. **Acepta Sigma del viernes y acorta Hi-Tech.** Tercer día pidiéndotelo; mañana ya no hay margen.
-5. **Un mensaje a Luis Tejada o a Ginés sobre iMarina** antes de mañana, que cierra la fase 3 sin que sepas cómo quedó el CV del 17.
+1. **Entra en Sigma a las 12:00 y acepta la invitación.** Cuarto día pidiéndotelo; Alicia ha movido la convocatoria esta mañana y te toca estar.
+   Lleva la **TIS `294442` desestimada**: es el único camino que había para la fecha fin de estudios.
+2. **Contesta a Tomás (Academicship) proponiendo el lunes o el martes**, y con una condición por delante: **DPD y Sistemas antes del despliegue**.
+   Viene con prisa de Vicerrectorado; si no pones el marco tú, lo pone Vercel.
+3. **Un mensaje a Luis Tejada o a Ginés sobre iMarina.** La fase 3 cierra hoy y llevas desde el martes sin saber cómo quedó el CV.
+4. **Justifica los dos marcajes (17 y 19)** en el portal de RRHH: cinco minutos, y el viernes por la tarde es el momento.
+5. **Para el semanal del lunes:** quién prueba la SQL de Eloi, quién quita el **BONO CAMPUS** antes del 1/12, y la comprobación de **JDK 21** en las imágenes base.
