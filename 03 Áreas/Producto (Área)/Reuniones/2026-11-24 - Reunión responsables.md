@@ -20,10 +20,11 @@ tags: [reunión, responsables, dirección-tic, informe]
 
 ## 📌 En una línea
 
-El sprint va bien de ejecución y **las dos incidencias de producción del 16/11 están resueltas**, pero hay **tres
+El sprint va bien de ejecución y **las dos incidencias de producción del 16/11 están resueltas**, pero hay **cuatro
 cosas que no se arreglan dentro del equipo**: dos aplicaciones sin tarea para un aviso de seguridad de INCIBE, dos
-fechas duras el **1 de diciembre** que no dependen de nosotros, y **una tercera app este otoño que nace fuera de
-Desarrollo y aterriza aquí sin pasar por ningún sitio**.
+fechas duras el **1 de diciembre** que no dependen de nosotros, **una tercera app este otoño que nace fuera de
+Desarrollo** y aterriza aquí sin pasar por ningún sitio, y **la migración de expedientes de Sigma, parada por
+decisiones que no son nuestras**.
 
 ---
 
@@ -116,7 +117,37 @@ Y, si entra, **que entre con tarea, proyecto y sprint** — no como favor.
 
 ---
 
-## 5 · 🚦 Cartera — proyectos en rojo
+## 5 · 🗄️ Migración de expedientes de Sigma
+
+> Proyecto `MIG`, entero a nombre de Jesús. Lo traigo porque **está parado, y no por nosotros**.
+
+Estado de las tareas (Jira, 23/11):
+
+| Tarea | Qué es | Desde cuándo |
+|---|---|---|
+| `MIG-50` | Carga de alumnos en `SINC_EXPEDIENTES` | **En TESTING desde el 23/09** — 61 días |
+| `MIG-46` · `MIG-45` | Cronograma de cargas · paquetes de estudios a migrar | Por hacer |
+| `MIG-30` | Migración de expedientes a Laurea | Sin tocar desde el **29/06** |
+| `MIG-2`, `-3`, `-4` | Títulos de Grado, Máster y LRU | En curso, **vencidas el 31/12/2025** |
+| `MIG-8` | Revisión de expedientes en estado A o C | En curso, **vencida el 30/09/2025** |
+
+**Dos cosas que hay que desatascar, y ninguna es de desarrollo:**
+
+1. 🔴 **La fecha fin de estudios se ha quedado sin camino.** La petición a Sigma (TIS `294442`) pasó a *Autorizada
+   para desarrollo* y **siete minutos después a Desestimada en entrada** (18/11). Era la vía para corregir la fecha
+   fin en los **~2.800 expedientes** de alumnos antiguos. Sin ella, emitir títulos y certificados de esos expedientes
+   depende de corregirlos **uno a uno a mano** — y eso engancha directamente con [[Cierre de Infucam]].
+   ➡️ **Pregunto: ¿se reclama a Sigma por qué se desestimó, y por qué canal?**
+2. 🟡 **La prueba de la SQL de Eloi** contra `SINC_EXPEDIENTES` sigue sin dueño desde el 18/11. **Esa la cierro yo
+   esta semana**, no hace falta nada de esta mesa.
+
+**Lo que quiero que quede dicho:** la migración no avanza por decisiones pendientes del lado de **Sigma y de
+Títulos**, no por capacidad del equipo. Mientras siga así, ni **Infucam** tiene fecha de apagado posible ni los
+~2.800 expedientes tienen solución automática.
+
+---
+
+## 6 · 🚦 Cartera — proyectos en rojo
 
 > Semáforo de la cabina del **30/10**, corregido con lo que dice Jira hoy. **Toca refrescarla.**
 
@@ -130,9 +161,11 @@ Y, si entra, **que entre con tarea, proyecto y sprint** — no como favor.
 
 ---
 
-## 6 · ❓ Lo que llevo a preguntar
+## 7 · ❓ Lo que llevo a preguntar
 
 - [ ] **Regla de entrada** para aplicaciones de otras unidades: ¿se acuerda? ¿quién la aplica?
+- [ ] **Migración de Sigma**: ¿se reclama la TIS `294442` desestimada? ¿Quién habla con Títulos sobre la fecha fin
+      de los ~2.800 expedientes?
 - [ ] **Dueño del parcheo de plataforma** (PHP de Sede, imágenes Java) — pendiente desde el 27/10
 - [ ] **Licencias Atlassian**: ¿reunión antes del 30?
 - [ ] **BONO CAMPUS**: ¿aparece en algún sitio más fuera de nuestras aplicaciones?
@@ -144,6 +177,7 @@ Y, si entra, **que entre con tarea, proyecto y sprint** — no como favor.
 
 - [ ] Crear las tareas de **Spring Security** de **Mis Alumnos** y **Docentia** (hoy)
 - [ ] Repartir **`RDCO-182`…`188`** — cuarta vez que lo anoto
+- [ ] Decidir **quién prueba la SQL de Eloi** contra `SINC_EXPEDIENTES` (arrastrado desde el 18/11)
 - [ ] Tarea para quitar el **BONO CAMPUS** antes del 1/12
 - [ ] **`/inicio-sprint`** el 30 y genéricas de diciembre
 - [ ] Refrescar la **cabina** (lleva 24 días)
@@ -153,4 +187,5 @@ Y, si entra, **que entre con tarea, proyecto y sprint** — no como favor.
 - [[2026-11-23 - Seguimiento Sprint - Dev]] · [[23-11-2026]] · [[Cabina - Cartera]]
 - [[2026-10-27 - Reunión responsables - vulnerabilidad de Tramita]] *(sin acta)*
 - [[Reconocimientos]] · [[Alfresco - nuevo repositorio]] · [[Cierre de Infucam]] · [[Lectura y corrección de planillas]]
+- [[2026-09-30 - Migración Infocan a Laurea - emisión de títulos y certificados]] *(de dónde salen los ~2.800 expedientes)*
 - [[Equipo (Área)]] · [[Seguridad (Área)]] · [DT-311](https://ucam.atlassian.net/browse/DT-311)
