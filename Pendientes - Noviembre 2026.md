@@ -8,7 +8,7 @@ tags: [panel, pendientes, noviembre]
 > Abierto con Pilita el **11/11** con **lo que seguía vivo** en [[Pendientes - Octubre 2026]], que hizo de panel hasta hoy y queda como
 > **histórico** (allí están las citas, el contexto y el porqué de cada punto; aquí va **una línea por punto** con la fecha de origen).
 > Marca `- [x]` lo que cierres. Relacionado: [[Panel de control]] · [[JSM - Mis tickets]] · último repaso de correo y agenda: [[11-11-2026]].
-> **Última revisión:** 2026-11-24 → [[24-11-2026]]
+> **Última revisión:** 2026-11-25 → [[25-11-2026]]
 >
 > ⚠️ **No he cerrado nada al pasarlo.** Lo que tiene fecha ya vencida y huele a resuelto está abajo, en
 > **🗓️ Con fecha pasada — ¿lo cierro?**: dime cuáles y los tacho aquí y en octubre.
@@ -27,14 +27,16 @@ tags: [panel, pendientes, noviembre]
 | **vie 20** | 🎓 clase 08:30 · 🔬 **iMarina/RIUCAM: fin de la fase 3** (pruebas piloto) · ⚠️ **Sigma "UCAM: Seguimiento" 12:00** (Teams, sin aceptar) **pisa tu Hi-Tech** (10:30–13:00) |
 | **lun 23** | Revisión de Sprint 09:15 (sin nota) · TFG 10:30 (rechazada) · clase 11:00 · **Darwined 13:00–14:00** (aceptada) · 🛰️ **Academicship 16:00–17:00** (Tomás, sala TIC) |
 | **mar 24** | **Responsables 10:00–11:30** (Zoom) · 📓 **Mis Notas 11:30–12:30** (Isaac; Sala de Dirección) — *ocupa el hueco que diste a Medicina* |
-| **mié 25** | *🩺 ¿Medicina **9:30–11:00**?* (a las 11:00 **Tangram**) · **Claustro extraordinario GII 12:30–14:00** · 🎓 online 16:00 |
-| *≈ jue 26* | *🔐 caduca el `BITBUCKET_TOKEN` de `iswteam/jav-widgets` (aviso de Bitbucket del 19/11: "7 días")* · agenda libre → *🩺 candidato para Medicina* |
-| **vie 27** | 🎓 clase 08:30–10:30 |
+| **mié 25** | **Tangram 11:00** · **Claustro de Informática 12:30–14:00** · 🎓 online 16:00 *(Medicina no se convocó para hoy)* |
+| **jue 26** | 🔐 **caduca el `BITBUCKET_TOKEN` de `iswteam/jav-widgets`** (aviso del 25/11 02:41: *"en 1 día"*) · agenda libre → *🩺 candidato para Medicina* |
+| **vie 27** | 🎓 clase 08:30–10:30 · 🦴 comisión de prácticas de **Fisioterapia** (quieren el vídeo de la selección de plazas) |
 | **lun 30** | `DT-311` Responsables — noviembre vence · cierre de imputación del mes · 🏁 fin del `2026/19` → `/inicio-sprint` |
 | **mar 1/12** | 🚋 **BONO CAMPUS deja de recargarse** · 🧩 **Sngular deja de gestionar licencias Atlassian mensuales** (pasar a anual o quedarse sin servicio) |
 | *vie 4/12* | *⚠️ Claustro TFG seguimiento 09:30–11:00 (Antonio Llanes) **pisa la clase de 08:30–10:30*** |
 | *lun 7 – mar 8/12* | *🗓️ puente de la Inmaculada — **no está en la nota de festivos**, confirmar* |
 | *jue 10/12* | *🔑 el host SSH nuevo de Bitbucket pasa a ser obligatorio* |
+| *≈ 9–11/12* | *🎓 Máster de Profesorado: ofertas, inscripción y asignación **cerradas** (SOIL)* |
+| *lun 21/12* | *🎓 sale el fichero de alta en la SS del Máster de Profesorado · del **22 al 30/12** se asigna la última especialidad* |
 
 ## 🔴 Esta semana (lo más vivo)
 
@@ -157,6 +159,7 @@ tags: [panel, pendientes, noviembre]
 
 ## 🗂️ Mis tareas propias en Jira (fuera de JSM)
 
+> 25/11: **18 abiertas** (7 de service desk), sin cambios desde el 20/11.
 > 24/11: **18 abiertas** (7 de service desk), sin cambios desde el 20/11.
 > 23/11: **18 abiertas** (7 de service desk), sin cambios desde el 20/11.
 > 20/11: **18 abiertas** (7 de service desk). Sprint activo: **`2026/19`** (17/11 → 30/11), arrancado el 18/11. Las epics de Educación siguen en el sprint, pendientes de decidir su prioridad o cerrarlas.
@@ -313,16 +316,31 @@ tags: [panel, pendientes, noviembre]
 - ⚪ 🧼 **tl;dv** sigue leyendo tu calendario (resumen semanal del 23/11) → punto de notetakers externos, en 🚨 Seguridad
 - ✅ **Albert (Sigma)**: contestado el 23/11
 
+## 🆕 Novedades del 24/11 al 25/11 (del correo)
+
+- [ ] 🔐 **`BITBUCKET_TOKEN` de `iswteam/jav-widgets`: caduca en 1 día** (aviso del 25/11, 02:41) — que lo rote su dueño **hoy** → enlaza con 🚨 Seguridad (Docker Hub / token)
+- [ ] 🦴 **Fisioterapia (María, coordinadora de prácticas)** pide un **vídeo-tutorial** de cómo eligen plaza los alumnos en la app de Enfermería, para su
+      comisión del **vie 27** (24/11). Pregunta directa a ti → [[2026-09-09 - Automatización prácticas - Fisioterapia y Podología]]
+- [ ] 🎓 **SOIL · Máster de Profesorado** (Mª Dolores Saravia, 24/11): ofertas e inscripción **cerradas la semana después del puente**, fichero de la SS
+      el **21/12**, última especialidad del **22 al 30/12**. Pregunta cómo se abre la app para esos alumnos → al `2026/20`, con persona (Juanma/Alex)
+- [ ] 🗂️ **Adrián · Revisión de Repositorios** (24/11): hoja rehecha con *Proyecto nuevo · Área · Acción* (áreas: Sistemas / Desarrollo / Web) → rellenar
+      lo de Desarrollo; enlaza con `ED-2109`
+- [ ] 📝 **Responsables 24/11** y **Mis Notas 24/11**: sin acta. La nota de Responsables sigue en `preparación` → [[2026-11-24 - Reunión responsables]]
+- ⚪ 🧩 **Licencias Atlassian**: Sngular manda la **propuesta anual** (25/11) y sugiere la **TeamWork Collection** (Jira + Confluence + Loom). Decide Adrián/Miguel Ángel; que se firme antes del 1/12
+- ⚪ 🤖 **Reconocimientos con IA**: Carmen manda tipos de solicitud, escalas extranjeras, contadores, flujo y guías docentes (Medicina, Odontología, ADE) y pide otra reunión **antes de Navidad**; Pau la organiza (24/11) → [[Reconocimientos]]
+- ⚪ 🏢 **Comunicado: cambios en el organigrama** (24/11) — mirar si toca a la Dirección TIC; enlaza con `ED-2099`
+- ⚪ 👤 **MENTOR**: notificación de **Juanma** por validar (24/11)
+- ⚪ 🧾 Sigma (alias `laureaacademic`): `312309` *Medicina — actas que no aparecen* (urgente) y `312274` *adelanto de convocatoria*. No son tuyas
+- ✅ **Auditoría Online (VEV)**: fechas de objetivos de IR online corregidas (24/11, 17:31)
+- ✅ **RRHH** acepta cuatro solicitudes tuyas de septiembre y octubre (24/11). Las de los marcajes del 17 y 19/11 siguen sin presentar
+
 ---
-## 💡 Sugerencia de foco (Pilita · 24/11)
+## 💡 Sugerencia de foco (Pilita · 25/11)
 
-> Martes: Responsables y Mis Notas seguidas por la mañana, tarde libre. Mañana va cargado y el jueves es el único día limpio de la semana.
+> Miércoles: mañana libre hasta Tangram (11:00), luego Claustro hasta las 14:00 y clase online a las 16:00. El jueves sigue siendo el único día limpio.
 
-1. **En Responsables, sal con fecha para las licencias Atlassian** (antes del lun 30) y con la **regla de entrada** para Academicship y el stock de
-   Odontología. Las dos cosas dependen de otros y el 1/12 no se mueve.
-2. **Convoca Medicina hoy, en Zoom, para el jueves 26.** El hueco de hoy lo ha ocupado Mis Notas y el de mañana es de 9:30 con un día de aviso.
-   Dolo ya movió al Decano hace cuatro días: es la que más espera.
-3. **Pon el soporte a Sigma por las cargas de los lunes.** Lo prometiste ayer y Albert lo espera; dos lunes seguidos sin carga no es casualidad.
-4. **Mira si pediste tú el restablecimiento de Sigma** de las 08:53. Treinta segundos; si no fuiste tú, sube al primer puesto.
-5. **Tarde libre: `/imputa` y aprobar Tempo** (Fran, Jesús, Alejandro Aix) antes del cierre de mes del lunes, y **los marcajes** del 17 y el 19.
-   El hueco largo del jueves, para `/cabina` (17 días hábiles sin refrescar) o el cronograma.
+1. **Antes de las 11:00, que alguien rote el `BITBUCKET_TOKEN`.** Caduca esta noche; es un mensaje de chat a Fran y evita un pipeline roto mañana.
+2. **Convoca Medicina, en Zoom, para el jueves 26 o la primera semana del `2026/20`.** Dolo movió al Decano hace cinco días y lleva desde el 19 esperando fecha.
+3. **Contesta a María (Fisioterapia) hoy.** Su comisión es el viernes; si no hay vídeo, que Juanma o Alex graben un recorrido corto en PRE el jueves.
+4. **Dos líneas de Responsables de ayer** (regla de entrada, licencias, TIS `294442`, dueño del parcheo): sin acta no hay seguimiento, y llevas Tangram a las 11:00 con preguntas que dependen de eso.
+5. **Jueves: `/imputa`, Tempo y los marcajes del 17 y el 19**, más la tarea del **BONO CAMPUS** (4 días hábiles al 1/12) y `/cabina` (18 días hábiles sin refrescar).
