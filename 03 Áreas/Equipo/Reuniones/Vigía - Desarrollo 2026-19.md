@@ -50,3 +50,31 @@ pero lo cerrado es casi todo trabajo que ha entrado esta semana (Gestión Docent
 - 🔴 `RDCO-182`…`188` **siguen igual**: sin dueño. Palanca, la misma: Revisión de Sprint del lun 23.
 - 🟠 Alex, Juanma y las acciones del lunes, **igual que a las 12:10**. No han empeorado.
 - ⚪ Fernando cerró esta mañana 5 tareas de seguridad (`ED-2139`…`2142`, `ED-2110`). `AS-594` sigue en curso y vence hoy.
+
+## 2026-11-25 · 12:09 — miércoles, día hábil 7 de 10
+
+**Situación:** 126 tareas (6 genéricas): **70 cerradas de 120, un 58 %**. Quedan hoy + 3 hábiles (26, 27 y 30). Ritmo bueno; lo que
+falla no es el volumen sino las acciones del [[2026-11-23 - Seguimiento Sprint - Dev|lunes 23]].
+
+**🔴 Actúa ya**
+- **Spring Security 4.1.3: Mis Alumnos y Docentia siguen sin tarea.** La acción del lunes era tuya y "hoy o mañana"; en Jira no hay nada
+  creado desde el 20/11 que las cubra, y en el correo no hay más hilo que el aviso de Alejandro (*Vulnerabilidad*) y el de INCIBE. Las demás
+  apps de la lista ya están hechas (`IN-580`, `GES-294`); estas dos son las únicas expuestas.
+  → Palanca: crearlas **hoy** (propuesta del lunes: Mis Alumnos → Paco, Docentia → Pablo, que tiene 4 abiertas).
+- **`RDCO-182`…`188` sin dueño, quinta nota (40 días).** Ya no llegan al cierre del 30. Lo que queda por decidir es que **no pasen al
+  `2026/20` otra vez sin dueño**. Juanma sigue con una sola tarea en el sprint (`GES-233`) y nada cerrado desde el lun 23.
+  → Palanca: asignarlas esta semana para que arranquen el `2026/20` con dueño; las 4 Urgentes primero.
+
+**🟠 Vigila**
+- **`AS-594` (subida a PROD de Mi Calendario y Mis Asignaturas)**: en curso desde el 16/11, vencida el 20, y era la acción "ya" de Paco. Desde
+  el lunes ha cerrado 7 tareas, pero esta no. Además le vencen hoy `AS-598` y `AS-599`.
+
+**⚪ Ruido**
+- ✅ Alex sacó de TESTING `RDCO-189` y `LA-56` (acción del lunes a medias: `RDC-105` sigue ahí desde el 02/11). Cerró `ED-2143`.
+- ✅ Jesús cerró `IN-579`, `IN-580` (Spring Boot 4.1.3 en Mis Notas, Mis Planillas, `jav-documentos`, `jav-alfresco`) e `IN-581`. Lo viejo
+  (`MIG-50`, `ED-2048`, `GESTDOC-11`, `ET-491`) y los `GESTDOC-13`…`16`, igual.
+- Alejandro: `IN-572` (vencida 17/11) y `EVT-26` (vencida 24/11) en curso; cerró 12 el lunes 23 (bastantes eran clase, examen y evento).
+- Igual que el lunes: `GES-229`, `GES-233`, epics `GES-222`…`225`/`GES-250`, `GES-254` sin dueño. Tuyas vencidas: `ED-2099`, `ED-2109`.
+- Entra `GD-779` (Pablo, hoy). Sin tarea en Jira todavía: stock de Odontología y BONO CAMPUS (no buscado a fondo).
+
+**No mirado:** agenda (la del lunes ya cubría hasta el 30) y cabina (sigue la del 30/10).
